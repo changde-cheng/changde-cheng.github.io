@@ -1,0 +1,20 @@
+---
+title: "Ecological genomics of Anopheles gambiae along a latitudinal cline: a population-resequencing approach"
+date: 2012-01-01
+# author: Changde Cheng
+#authors: ["C. Cheng", "B. J. White", "C. Kamdem", "K. Mockaitis", "C. Costantini", "M. W. Hahn", "N. J. Besansky"]
+publication: "*Genetics*"
+categories: 
+  - "Genetics"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/22209907"
+doi: "10.1534/genetics.111.137794"
+image: featured.png
+---
+
+### Abstract
+
+The association between fitness-related phenotypic traits and an environmental gradient offers one of the best opportunities to study the interplay between natural selection and migration. In cases in which specific genetic variants also show such clinal patterns, it may be possible to uncover the mutations responsible for local adaptation. The malaria vector, Anopheles gambiae, is associated with a latitudinal cline in aridity in Cameroon; a large inversion on chromosome 2L of this mosquito shows large differences in frequency along this cline, with high frequencies of the inverted karyotype present in northern, more arid populations and an almost complete absence of the inverted arrangement in southern populations.
+
+Here we use a genome resequencing approach to investigate patterns of population divergence along the cline. By sequencing pools of individuals from both ends of the cline as well as in the center of the cline- where the inversion is present in intermediate frequency- we demonstrate almost complete panmixia across collinear parts of the genome and high levels of differentiation in inverted parts of the genome. Sequencing of separate pools of each inversion arrangement in the center of the cline reveals large amounts of gene flux (i.e., gene conversion and double crossovers) even within inverted regions, especially away from the inversion breakpoints. The interplay between natural selection, migration, and gene flux allows us to identify several candidate genes responsible for the match between inversion frequency and environmental variables. 
+
+These results, coupled with similar conclusions from studies of clinal variation in Drosophila, point to a number of important biological functions associated with local environmental adaptation.

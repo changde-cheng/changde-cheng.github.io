@@ -1,0 +1,19 @@
+{
+  "listingMap": {
+    "featured.qmd": [
+      "featured"
+    ],
+    "index.qmd": [
+      "posts"
+    ],
+    "posts.qmd": [
+      "posts"
+    ],
+    "preprints.qmd": [
+      "preprints"
+    ],
+    "publications.qmd": [
+      "publications"
+    ]
+  }
+}

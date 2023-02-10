@@ -1,0 +1,149 @@
+{
+  "posts/post-with-code/index.qmd": {
+    "index.html": "fc274801"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "fd0f57b9"
+  },
+  "index.qmd": {
+    "index.html": "971a4b5b"
+  },
+  "about.qmd": {
+    "about.html": "5d9ee71a"
+  },
+  "publications/2009_inversions/index.md": {
+    "index.html": "90cb1155"
+  },
+  "preprints.qmd": {
+    "preprints.html": "51513db4"
+  },
+  "publications.qmd": {
+    "publications.html": "446579ac"
+  },
+  "posts.qmd": {
+    "posts.html": "684e8134"
+  },
+  "publications/2010_speciation/index.md": {
+    "index.html": "023d8bf4"
+  },
+  "publications/2010_speciation/index.qmd": {
+    "index.html": "f8d5a2d8"
+  },
+  "publications/2009_inversions/index.qmd": {
+    "index.html": "b3a1537b"
+  },
+  "publications/2011_speciation/index.qmd": {
+    "index.html": "21e79213"
+  },
+  "publications/2011_thermal_inversion/index.qmd": {
+    "index.html": "bc29b091"
+  },
+  "publications/2012_ecogenomics/index.qmd": {
+    "index.html": "5744d58b"
+  },
+  "publications/2014_cuticle/index.qmd": {
+    "index.html": "43e37662"
+  },
+  "publications/2014_divergent/index.qmd": {
+    "index.html": "5a2c50db"
+  },
+  "publications/2015_QTL/index.qmd": {
+    "index.html": "2905b343"
+  },
+  "publications/2016_salty_water/index.qmd": {
+    "index.html": "bd771b06"
+  },
+  "publications/2016_SystemsGenetics/index.qmd": {
+    "index.html": "79a7386f"
+  },
+  "publications/2016_twinPeaks/index.qmd": {
+    "index.html": "a0b318e5"
+  },
+  "publications/2016_Ychr/index.qmd": {
+    "index.html": "1c992873"
+  },
+  "publications/2017_Aedes/index.qmd": {
+    "index.html": "4c665efb"
+  },
+  "publications/2017_plasiticity/index.qmd": {
+    "index.html": "12a34a3f"
+  },
+  "publications/2018_sexRecomb/index.qmd": {
+    "index.html": "3bf6e5a9"
+  },
+  "publications/2018_Tcell/index.qmd": {
+    "index.html": "0ad81642"
+  },
+  "publications/2019_bigX/index.qmd": {
+    "index.html": "603d71e8"
+  },
+  "publications/2019_LCA/index.qmd": {
+    "index.html": "0034c8dc"
+  },
+  "publications/2019_photoperiod/index.qmd": {
+    "index.html": "6f76912d"
+  },
+  "publications/2020_scs/index.qmd": {
+    "index.html": "673f8bd6"
+  },
+  "2021_pred_sd/index.qmd": {
+    "index.html": "7b043d85"
+  },
+  "2020_scs/index.qmd": {
+    "index.html": "07cc0db3"
+  },
+  "publications/2021_agingGenes/index.qmd": {
+    "index.html": "40859cbc"
+  },
+  "publications/2021_pred_sd/index.qmd": {
+    "index.html": "f629a808"
+  },
+  "publications/2022_HES1/index.qmd": {
+    "index.html": "2279974a"
+  },
+  "featured.qmd": {
+    "featured.html": "78515aec"
+  },
+  "featured/2010_speciation/index.qmd": {
+    "index.html": "6ca571b6"
+  },
+  "featured/2012_ecogenomics/index.qmd": {
+    "index.html": "7724e610"
+  },
+  "featured/2016_SystemsGenetics/index.qmd": {
+    "index.html": "50432197"
+  },
+  "featured/2016_Ychr/index.qmd": {
+    "index.html": "c6085ebc"
+  },
+  "featured/2016_twinPeaks/index.qmd": {
+    "index.html": "b222477e"
+  },
+  "featured/2019_LCA/index.qmd": {
+    "index.html": "2c649ff5"
+  },
+  "featured/2019_bigX/index.qmd": {
+    "index.html": "88ec1817"
+  },
+  "featured/2020_scs/index.qmd": {
+    "index.html": "f6352a77"
+  },
+  "featured/2021_agingGenes/index.qmd": {
+    "index.html": "15afb4ef"
+  },
+  "featured/2021_pred_sd/index.qmd": {
+    "index.html": "952d37ad"
+  },
+  "preprints/2017_SMBE/index.qmd": {
+    "index.html": "3768bf93"
+  },
+  "preprints/2021_CA/index.qmd": {
+    "index.html": "55a1eb49"
+  },
+  "preprints/2022_HB/index.qmd": {
+    "index.html": "8f7d9f32"
+  },
+  "preprints/2022_mouse/index.qmd": {
+    "index.html": "e149d05f"
+  }
+}

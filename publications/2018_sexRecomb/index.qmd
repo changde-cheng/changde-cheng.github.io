@@ -1,0 +1,14 @@
+---
+title: "Sex differences in recombination in sticklebacks"
+date: 2018-06-01
+#authors: ["J. M. Sardell", "C. Cheng", "A. J. Dagilis", "A. Ishikawa", "J. Kitano", "C. L. Peichel", "M. Kirkpatrick"]
+publication: "*G3 (Bethesda)*"
+categories: ["G3: Genes, Genomes, Genetics"]
+url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/29632132"
+doi: "10.1534/g3.118.200166"
+image: featured.png
+---
+
+### Abstract
+
+Recombination often differs markedly between males and females. Here we present the first analysis of sex-specific recombination in Gasterosteus sticklebacks. Using whole-genome sequencing of 15 crosses between G. aculeatus and G. nipponicus, we localized 698 crossovers with a median resolution of 2.3 kb. We also used a bioinformatic approach to infer historical sex-averaged recombination patterns for both species. Recombination is greater in females than males on all chromosomes, and overall map length is 1.64 times longer in females. The locations of crossovers differ strikingly between sexes. Crossovers cluster toward chromosome ends in males, but are distributed more evenly across chromosomes in females. Suppression of recombination near the centromeres in males causes crossovers to cluster at the ends of long arms in acrocentric chromosomes, and greatly reduces crossing over on short arms. The effect of centromeres on recombination is much weaker in females. Genomic differentiation between G. aculeatus and G. nipponicus is strongly correlated with recombination rate, and patterns of differentiation along chromosomes are strongly influenced by male-specific telomere and centromere effects. We found no evidence for fine-scale correlations between recombination and local gene content in either sex. We discuss hypotheses for the origin of sexual dimorphism in recombination and its consequences for sexually antagonistic selection and sex chromosome evolution.

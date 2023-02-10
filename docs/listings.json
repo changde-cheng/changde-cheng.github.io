@@ -1,0 +1,58 @@
+[
+  {
+    "listing": "/featured.html",
+    "items": [
+      "/featured/2021_agingGenes/index.html",
+      "/featured/2021_pred_sd/index.html",
+      "/featured/2020_scs/index.html",
+      "/featured/2019_LCA/index.html",
+      "/featured/2019_bigX/index.html",
+      "/featured/2016_SystemsGenetics/index.html",
+      "/featured/2016_twinPeaks/index.html",
+      "/featured/2016_Ychr/index.html",
+      "/featured/2012_ecogenomics/index.html",
+      "/featured/2010_speciation/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/preprints.html",
+    "items": [
+      "/preprints/2022_mouse/index.html",
+      "/preprints/2022_HB/index.html",
+      "/preprints/2021_CA/index.html",
+      "/preprints/2017_SMBE/index.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2022_HES1/index.html",
+      "/publications/2019_photoperiod/index.html",
+      "/publications/2018_Tcell/index.html",
+      "/publications/2018_sexRecomb/index.html",
+      "/publications/2017_plasiticity/index.html",
+      "/publications/2017_Aedes/index.html",
+      "/publications/2016_salty_water/index.html",
+      "/publications/2015_QTL/index.html",
+      "/publications/2014_divergent/index.html",
+      "/publications/2014_cuticle/index.html",
+      "/publications/2011_thermal_inversion/index.html",
+      "/publications/2011_speciation/index.html",
+      "/publications/2009_inversions/index.html"
+    ]
+  }
+]

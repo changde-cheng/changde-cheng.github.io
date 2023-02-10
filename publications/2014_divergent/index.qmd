@@ -1,0 +1,20 @@
+---
+title: "Gene expression divergence between malaria vector sibling species Anopheles gambiae and An. coluzzii from rural and urban Yaounde Cameroon"
+date: 2014-05-01
+#authors: ["B. J. Cassone", "C. Kamdem", "C. Cheng", "J. C. Tan", "M. W. Hahn", "C. Costantini", "N. J. Besansky"]
+abstract: ""
+featured: false
+publication: "*Mol Ecol*"
+categories: ["Molecular Ecology"]
+url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/24673723"
+doi: "10.1111/mec.12733"
+image: featured.jpeg
+---
+
+### Abstract
+
+Divergent selection based on aquatic larval ecology is a likely factor in the recent isolation of two broadly sympatric and morphologically identical African mosquito species, the malaria vectors Anopheles gambiae and An. coluzzii. Population-based genome scans have revealed numerous candidate regions of recent positive selection, but have provided few clues as to the genetic mechanisms underlying behavioural and physiological divergence between the two species, phenotypes which themselves remain obscure. 
+
+To uncover possible genetic mechanisms, we compared global transcriptional profiles of natural and experimental populations using gene-based microarrays. Larvae were sampled as second and fourth instars from natural populations in and around the city of Yaounde, capital of Cameroon, where the two species segregate along a gradient of urbanization. 
+
+Functional enrichment analysis of differentially expressed genes revealed that An. coluzzii--the species that breeds in more stable, biotically complex and potentially polluted urban water bodies--overexpresses genes implicated in detoxification and immunity relative to An. gambiae, which breeds in more ephemeral and relatively depauperate pools and puddles in suburbs and rural areas. Moreover, our data suggest that such overexpression by An. coluzzii is not a transient result of induction by xenobiotics in the larval habitat, but an inherent and presumably adaptive response to repeatedly encountered environmental stressors. Finally, we find no significant overlap between the differentially expressed loci and previously identified genomic regions of recent positive selection, suggesting that transcriptome divergence is regulated by trans-acting factors rather than cis-acting elements.

@@ -1,0 +1,17 @@
+---
+title: Genetic association of physically unlinked islands of genomic divergence in incipient species of *Anopheles gambiae*
+date: 2010-02-08
+# author: ["B. J. White", "C. Cheng", "F. Simard", "C. Costantini", "N. J. Besansky"]
+categories: 
+  - Molecular Ecology
+doi: "10.1111/j.1365-294X.2010.04531.x"
+image: featured.png
+---
+
+### Abstract
+
+Previous efforts to uncover the genetic underpinnings of ongoing ecological speciation of the M and S forms of the African malaria vector Anopheles gambiae revealed two centromere-proximal islands of genetic divergence on X and chromosome 2. Under the assumption of considerable ongoing gene flow between M and S, these persistently divergent genomic islands were widely considered to be 'speciation islands'. In the course of microarray-based divergence mapping, we discovered a third centromere-associated island of divergence on chromosome 3, which was validated by targeted re-sequencing. 
+
+To test for genetic association between the divergence islands on all three chromosomes, SNP-based assays were applied in four natural populations of M and S spanning West, Central and East Africa. Genotyping of 517 female M and S mosquitoes revealed nearly complete linkage disequilibrium between the centromeres of the three independently assorting chromosomes. 
+
+These results suggest that despite the potential for inter-form gene flow through hybridization, actual (realized) gene flow between M and S may be substantially less than commonly assumed and may not explain most shared variation. Moreover, the possibility of very low gene flow calls into question whether diverged pericentromeric regions-characterized by reduced levels of variation and recombination-are in fact instrumental rather than merely incidental to the speciation process.
