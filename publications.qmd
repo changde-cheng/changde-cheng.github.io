@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "More Publications"
 listing:
   contents: publications
   sort: "date desc"

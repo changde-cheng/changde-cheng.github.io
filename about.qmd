@@ -18,8 +18,7 @@ about:
       href: https://github.com/changde-cheng
 ---
 
-As a research scientist at <u>St. Jude</u>, I develop machine learning applications focusing on cancer research (single-cell sequencing, spatial genomics, and multi-omics).  I also collaborate with colleagues interested in other biomedical and life sciences fields.
+As a research scientist at **St. Jude**, I develop <u>machine learning</u> applications in <u>cancer</u> and <u>genomics</u> researches (single-cell sequencing, spatial genomics, and multi-omics). 
 
-Before joining St. Jude, I led research projects on evolution and population genomics at the <u>University of Texas, Austin</u>.  Earlier than that, I worked on infectious diseases and genomics at <u>Notre Dame</u>, and I did statistical modeling at <u>UCLA</u>. 
+Before joining St. Jude, I led research projects on <u>evolution</u> and <u>population genetics</u> at the **University of Texas, Austin**.  I studied <u>infectious diseases</u> and genomics at **Notre Dame**, and I did statistical modeling at **UCLA**. 
 
-I walk my dog when I am not working.  

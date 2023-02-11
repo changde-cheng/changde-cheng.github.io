@@ -11,7 +11,7 @@ page-layout: full
 title-block-banner: false
 ---
 
-As a research scientist in the Department of Computational Biology at [St. Jude Children's Research Hospital](https://www.stjude.org/), I develop machine learning applications focusing on cancer research (single-cell sequencing, spatial genomics, and multi-omics).  I also collaborate with colleagues interested in other biomedical and life sciences fields.
+Hi, this is $~\mathrm{Chang}$-$\mathrm{De}$. There were some written-up study notes in this blog. Other than writing, I work on machine learning and seek a cure for cancer at the [St. Jude Children's Research Hospital](https://www.stjude.org/). 
 
 
 
