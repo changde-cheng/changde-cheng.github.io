@@ -145,5 +145,14 @@
   },
   "preprints/2022_mouse/index.qmd": {
     "index.html": "e149d05f"
+  },
+  "posts/PCA and CCA/index.qmd": {
+    "index.html": "68b7239e"
+  },
+  "posts/some cancer biology/index.qmd": {
+    "index.html": "dd00d5cb"
+  },
+  "posts/Stickback sex chr/index.qmd": {
+    "index.html": "e1ec94d8"
   }
 }

@@ -17,13 +17,15 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html"
+      "/posts/PCA and CCA/index.html",
+      "/posts/some cancer biology/index.html"
     ]
   },
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/post-with-code/index.html"
+      "/posts/PCA and CCA/index.html",
+      "/posts/some cancer biology/index.html"
     ]
   },
   {
