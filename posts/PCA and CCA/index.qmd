@@ -51,8 +51,8 @@ as the variances of $\mathbf{a^T x}$ and $\mathbf{b^T y}$ are 1.
 
 By the method of Lagrange multipliers, we set up a function:
 $$\begin{align}
-G &= \mathrm{cov}(\mathbf{a^T x},\mathbf{b^T y}) - \lambda_1 \left\{ \mathrm{var}(\mathbf{a^T x})-1 \right\} -  \lambda_2 \left\{ \mathrm{var}(\mathbf{b^T y})-1 \right\} \\
-&= \mathbf{a^T} V_{xy} \mathbf{b} - \lambda_1 \left\{ \mathbf{a^T} V_{xx} \mathbf{a} -1 \right\} -  \lambda_2 \left\{ \mathbf{b^T} V_{yy} \mathbf{b} -1\right\}
+G &= \mathrm{cov}(\mathbf{a^T x},\mathbf{b^T y}) - \frac{1}{2} \lambda_1 \left\{ \mathrm{var}(\mathbf{a^T x})-1 \right\} -  \frac{1}{2} \lambda_2 \left\{ \mathrm{var}(\mathbf{b^T y})-1 \right\} \\
+&= \mathbf{a^T} V_{xy} \mathbf{b} - \frac{1}{2} \lambda_1 \left\{ \mathbf{a^T} V_{xx} \mathbf{a} -1 \right\} -  \frac{1}{2} \lambda_2 \left\{ \mathbf{b^T} V_{yy} \mathbf{b} -1\right\}
 \end{align}
 $$
 
@@ -60,26 +60,40 @@ Let
 $$\frac{\partial G}{\partial \mathbf{a}} = 0,\qquad \frac{\partial G}{\partial \mathbf{b}} = 0,$$
 from which we reach a systems of linear equations: 
 $$\begin{cases}
-V_{xy} \mathbf{b} - 2\lambda_1 V_{xx} \mathbf{a} &= 0,\\
-V_{yx} \mathbf{a} - 2\lambda_2 V_{yy} \mathbf{b} &= 0.
+V_{xy} \mathbf{b} - \lambda_1 V_{xx} \mathbf{a} &= 0,\\
+V_{yx} \mathbf{a} - \lambda_2 V_{yy} \mathbf{b} &= 0.
 \end{cases}$${#eq-eq3}
 
 From @{eq-eq3}, we get:
 
 $$\begin{cases}
-\lambda_1  = \lambda_1 \mathbf{a^T} V_{xx} \mathbf{a} =\frac{1}{2} \mathbf{a^T} V_{xy} \mathbf{b},\\
-\lambda_2  = \lambda_2 \mathbf{b^T} V_{yy} \mathbf{b} =\frac{1}{2} \mathbf{b^T} V_{yx} \mathbf{a} = \lambda_1^{\mathrm T} = \lambda_1.
+\lambda_1  = \lambda_1 \mathbf{a^T} V_{xx} \mathbf{a} = \mathbf{a^T} V_{xy} \mathbf{b},\\
+\lambda_2  = \lambda_2 \mathbf{b^T} V_{yy} \mathbf{b} = \mathbf{b^T} V_{yx} \mathbf{a} = \lambda_1^{\mathrm T} = \lambda_1.
 \end{cases}$${#eq-eq4}
 
 Therefore, @{eq-eq3} becomes:
 $$\begin{cases}
-V_{xy} \mathbf{b} - 2\lambda V_{xx} \mathbf{a} &= 0,\\
-V_{yx} \mathbf{a} - 2\lambda V_{yy} \mathbf{b} &= 0.
+V_{xy} \mathbf{b} - \lambda V_{xx} \mathbf{a} &= 0,\\
+V_{yx} \mathbf{a} - \lambda V_{yy} \mathbf{b} &= 0.
 \end{cases}$${#eq-eq5}
 
 Solve $\mathbf{a}$ from the first equation in @{eq-eq5} and substitute into the second equation in @{eq-eq5}. When $\lambda \ne 0$, we have:
-$$V_{yy}^{-1} V_{yx} V_{xx}^{-1} V_{xy} \mathbf{b} =  4\lambda^2 \mathbf{b} $$
-Therefor, $\mathbf{b}$ is an eigenvector of $V_{yy}^{-1} V_{yx} V_{xx}^{-1} V_{xy}$ and $4\lambda^2$ its corresponding eigenvalue. Similarly, $\mathbf{a}$ is an eigenvector of $V_{xx}^{-1} V_{xy} V_{yy}^{-1} V_{yx}$ and $4\lambda^2$ its corresponding eigenvalue.
+$$V_{yy}^{-1} V_{yx} V_{xx}^{-1} V_{xy} \mathbf{b} =  \lambda^2 \mathbf{b} $$
+Therefor, $\mathbf{b}$ is an eigenvector of $V_{yy}^{-1} V_{yx} V_{xx}^{-1} V_{xy}$ and $\lambda^2$ its corresponding eigenvalue. Similarly, $\mathbf{a}$ is an eigenvector of $V_{xx}^{-1} V_{xy} V_{yy}^{-1} V_{yx}$ and $\lambda^2$ its corresponding eigenvalue. Note that $\lambda = \mathrm{cor}(\mathbf{a^T x},\mathbf{b^T y})$, is a canonical correlation.
+
+### Connection to Principal Angles
+
+The canonical correlation is equal to the cosine of principal angles, $\theta_1, \theta_2, \cdots$, between two subspaces $M(\mathbf{x})$ and $M(\mathbf{y})$, spanned by linear functions of $\mathbf{x}$ and $\mathbf{y}$. The connection to cosine of principal angles is hinted by @{eq-eq1}:
+$$\mathrm{cor}(\mathbf{a^T x},\mathbf{b^T y})=\frac{ \mathrm{cov}({\mathbf{a^T x},\mathbf{b^T y})} }{ \mathrm{var}(\mathbf{a^T x})^{\frac{1}{2}}~\mathrm{var}(\mathbf{b^T y})^{\frac{1}{2}} } = \frac{ \langle \mathbf{a^T x},\mathbf{b^T y} \rangle }{ \Vert \mathbf{a^T x}\Vert~\Vert \mathbf{b^T y}\Vert },$$
+
+Recall that the cosines of principal angles between subspace $M(\mathbf x)$ and $M(\mathbf y)$, with orthonormal bases $\mathbf{x}$ and $\mathbf{y}$ are singular values of the projection map $\mathsf{Proj}: M(\mathbf x) \to M(\mathbf y)$. In other words, represent $\mathsf{Proj}$ by matrix $P$, then we find the principal angles by singular value decomposition:
+$$P=(\langle \mathbf{x}_i, \mathbf{y}_j \rangle)_{i,j} = U \Sigma V = U
+\begin{pmatrix}\cos{\theta_1} &  0 &\cdots & 0 \\
+0 & \cos{\theta_2} &  \cdots & 0 \\
+\cdots &  \cdots & \cdots &\cdots  \\
+0 &  0 &\cdots &  \cos{\theta_k}
+\end{pmatrix}
+V$$
 
 
 

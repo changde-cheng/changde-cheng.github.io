@@ -185,27 +185,38 @@ V_{yx} &amp; V_{yy}
 \end{pmatrix} \tag{2}\]</span></span></p>
 <p>The correlation to maximize in <a href="#eq-eq1">Equation&nbsp;1</a> is <span class="math display">\[\mathrm{cor}(\mathbf{a^T x},\mathbf{b^T y})=\frac{ \mathrm{cov}({\mathbf{a^T x},\mathbf{b^T y})} }{ \mathrm{var}(\mathbf{a^T x})^{\frac{1}{2}}~\mathrm{var}(\mathbf{b^T y})^{\frac{1}{2}} } = \mathrm{cov}({\mathbf{a^T x},\mathbf{b^T y})}=\mathbf{a^T} V_{xy} \mathbf{b},\]</span> as the variances of <span class="math inline">\(\mathbf{a^T x}\)</span> and <span class="math inline">\(\mathbf{b^T y}\)</span> are 1.</p>
 <p>By the method of Lagrange multipliers, we set up a function: <span class="math display">\[\begin{align}
-G &amp;= \mathrm{cov}(\mathbf{a^T x},\mathbf{b^T y}) - \lambda_1 \left\{ \mathrm{var}(\mathbf{a^T x})-1 \right\} -  \lambda_2 \left\{ \mathrm{var}(\mathbf{b^T y})-1 \right\} \\
-&amp;= \mathbf{a^T} V_{xy} \mathbf{b} - \lambda_1 \left\{ \mathbf{a^T} V_{xx} \mathbf{a} -1 \right\} -  \lambda_2 \left\{ \mathbf{b^T} V_{yy} \mathbf{b} -1\right\}
+G &amp;= \mathrm{cov}(\mathbf{a^T x},\mathbf{b^T y}) - \frac{1}{2} \lambda_1 \left\{ \mathrm{var}(\mathbf{a^T x})-1 \right\} -  \frac{1}{2} \lambda_2 \left\{ \mathrm{var}(\mathbf{b^T y})-1 \right\} \\
+&amp;= \mathbf{a^T} V_{xy} \mathbf{b} - \frac{1}{2} \lambda_1 \left\{ \mathbf{a^T} V_{xx} \mathbf{a} -1 \right\} -  \frac{1}{2} \lambda_2 \left\{ \mathbf{b^T} V_{yy} \mathbf{b} -1\right\}
 \end{align}
 \]</span></p>
 <p>Let <span class="math display">\[\frac{\partial G}{\partial \mathbf{a}} = 0,\qquad \frac{\partial G}{\partial \mathbf{b}} = 0,\]</span> from which we reach a systems of linear equations: <span id="eq-eq3"><span class="math display">\[\begin{cases}
-V_{xy} \mathbf{b} - 2\lambda_1 V_{xx} \mathbf{a} &amp;= 0,\\
-V_{yx} \mathbf{a} - 2\lambda_2 V_{yy} \mathbf{b} &amp;= 0.
+V_{xy} \mathbf{b} - \lambda_1 V_{xx} \mathbf{a} &amp;= 0,\\
+V_{yx} \mathbf{a} - \lambda_2 V_{yy} \mathbf{b} &amp;= 0.
 \end{cases} \tag{3}\]</span></span></p>
 <p>From <a href="#eq-eq3">Equation&nbsp;3</a>, we get:</p>
 <p><span id="eq-eq4"><span class="math display">\[\begin{cases}
-\lambda_1  = \lambda_1 \mathbf{a^T} V_{xx} \mathbf{a} =\frac{1}{2} \mathbf{a^T} V_{xy} \mathbf{b},\\
-\lambda_2  = \lambda_2 \mathbf{b^T} V_{yy} \mathbf{b} =\frac{1}{2} \mathbf{b^T} V_{yx} \mathbf{a} = \lambda_1^{\mathrm T} = \lambda_1.
+\lambda_1  = \lambda_1 \mathbf{a^T} V_{xx} \mathbf{a} = \mathbf{a^T} V_{xy} \mathbf{b},\\
+\lambda_2  = \lambda_2 \mathbf{b^T} V_{yy} \mathbf{b} = \mathbf{b^T} V_{yx} \mathbf{a} = \lambda_1^{\mathrm T} = \lambda_1.
 \end{cases} \tag{4}\]</span></span></p>
 <p>Therefore, <a href="#eq-eq3">Equation&nbsp;3</a> becomes: <span id="eq-eq5"><span class="math display">\[\begin{cases}
-V_{xy} \mathbf{b} - 2\lambda V_{xx} \mathbf{a} &amp;= 0,\\
-V_{yx} \mathbf{a} - 2\lambda V_{yy} \mathbf{b} &amp;= 0.
+V_{xy} \mathbf{b} - \lambda V_{xx} \mathbf{a} &amp;= 0,\\
+V_{yx} \mathbf{a} - \lambda V_{yy} \mathbf{b} &amp;= 0.
 \end{cases} \tag{5}\]</span></span></p>
-<p>Solve <span class="math inline">\(\mathbf{a}\)</span> from the first equation in <a href="#eq-eq5">Equation&nbsp;5</a> and substitute into the second equation in <a href="#eq-eq5">Equation&nbsp;5</a>. When <span class="math inline">\(\lambda \ne 0\)</span>, we have: <span class="math display">\[V_{yy}^{-1} V_{yx} V_{xx}^{-1} V_{xy} \mathbf{b} =  4\lambda^2 \mathbf{b} \]</span> Therefor, <span class="math inline">\(\mathbf{b}\)</span> is an eigenvector of <span class="math inline">\(V_{yy}^{-1} V_{yx} V_{xx}^{-1} V_{xy}\)</span> and <span class="math inline">\(4\lambda^2\)</span> its corresponding eigenvalue. Similarly, <span class="math inline">\(\mathbf{a}\)</span> is an eigenvector of <span class="math inline">\(V_{xx}^{-1} V_{xy} V_{yy}^{-1} V_{yx}\)</span> and <span class="math inline">\(4\lambda^2\)</span> its corresponding eigenvalue.</p>
-
-
+<p>Solve <span class="math inline">\(\mathbf{a}\)</span> from the first equation in <a href="#eq-eq5">Equation&nbsp;5</a> and substitute into the second equation in <a href="#eq-eq5">Equation&nbsp;5</a>. When <span class="math inline">\(\lambda \ne 0\)</span>, we have: <span class="math display">\[V_{yy}^{-1} V_{yx} V_{xx}^{-1} V_{xy} \mathbf{b} =  \lambda^2 \mathbf{b} \]</span> Therefor, <span class="math inline">\(\mathbf{b}\)</span> is an eigenvector of <span class="math inline">\(V_{yy}^{-1} V_{yx} V_{xx}^{-1} V_{xy}\)</span> and <span class="math inline">\(\lambda^2\)</span> its corresponding eigenvalue. Similarly, <span class="math inline">\(\mathbf{a}\)</span> is an eigenvector of <span class="math inline">\(V_{xx}^{-1} V_{xy} V_{yy}^{-1} V_{yx}\)</span> and <span class="math inline">\(\lambda^2\)</span> its corresponding eigenvalue. Note that <span class="math inline">\(\lambda = \mathrm{cor}(\mathbf{a^T x},\mathbf{b^T y})\)</span>, is a canonical correlation.</p>
 </section>
+</section>
+<section id="connection-to-principal-angles" class="level3">
+<h3 class="anchored" data-anchor-id="connection-to-principal-angles">Connection to Principal Angles</h3>
+<p>The canonical correlation is equal to the cosine of principal angles, <span class="math inline">\(\theta_1, \theta_2, \cdots\)</span>, between two subspaces <span class="math inline">\(M(\mathbf{x})\)</span> and <span class="math inline">\(M(\mathbf{y})\)</span>, spanned by linear functions of <span class="math inline">\(\mathbf{x}\)</span> and <span class="math inline">\(\mathbf{y}\)</span>. The connection to cosine of principal angles is hinted by <a href="#eq-eq1">Equation&nbsp;1</a>: <span class="math display">\[\mathrm{cor}(\mathbf{a^T x},\mathbf{b^T y})=\frac{ \mathrm{cov}({\mathbf{a^T x},\mathbf{b^T y})} }{ \mathrm{var}(\mathbf{a^T x})^{\frac{1}{2}}~\mathrm{var}(\mathbf{b^T y})^{\frac{1}{2}} } = \frac{ \langle \mathbf{a^T x},\mathbf{b^T y} \rangle }{ \Vert \mathbf{a^T x}\Vert~\Vert \mathbf{b^T y}\Vert },\]</span></p>
+<p>Recall that the cosines of principal angles between subspace <span class="math inline">\(M(\mathbf x)\)</span> and <span class="math inline">\(M(\mathbf y)\)</span>, with orthonormal bases <span class="math inline">\(\mathbf{x}\)</span> and <span class="math inline">\(\mathbf{y}\)</span> are singular values of the projection map <span class="math inline">\(\mathsf{Proj}: M(\mathbf x) \to M(\mathbf y)\)</span>. In other words, represent <span class="math inline">\(\mathsf{Proj}\)</span> by matrix <span class="math inline">\(P\)</span>, then we find the principal angles by singular value decomposition: <span class="math display">\[P=(\langle \mathbf{x}_i, \mathbf{y}_j \rangle)_{i,j} = U \Sigma V = U
+\begin{pmatrix}\cos{\theta_1} &amp;  0 &amp;\cdots &amp; 0 \\
+0 &amp; \cos{\theta_2} &amp;  \cdots &amp; 0 \\
+\cdots &amp;  \cdots &amp; \cdots &amp;\cdots  \\
+0 &amp;  0 &amp;\cdots &amp;  \cos{\theta_k}
+\end{pmatrix}
+V\]</span></p>
+
+
 </section>
 
 </main> <!-- /main -->
