@@ -1,5 +1,5 @@
 ---
-title: "What is canonical correlation analysis"
+title: "What is canonical correlation"
 author: "Changde Cheng"
 date: "2022-10-18"
 ---
