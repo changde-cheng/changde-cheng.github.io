@@ -11,9 +11,11 @@ project:
 
 website:
   title: "Changde Cheng"
+  site-url: https://changde-cheng.github.io
   search: false
   navbar:
     right:
+      - about.qmd
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=rUa7JoIAAAAJ&hl=en
     # - icon: twitter
@@ -24,8 +26,8 @@ website:
       - icon: github
         href: https://github.com/changde-cheng
     left:
-      - text: "About"
-        file: about.qmd
+      # - text: "About"
+      #   file: about.qmd
       # - text: "Posts"
       #   file: posts.qmd
       - text: "Working Papers"
