@@ -6,7 +6,7 @@ project:
     - "*.Rmd"
     - "*.md"
   preview:
-    port: 4321
+    port: 1234
     browser: true
 
 website:

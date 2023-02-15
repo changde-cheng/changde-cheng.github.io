@@ -23,6 +23,25 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
 </style>
 
 
@@ -150,6 +169,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#feed-forward-network" id="toc-feed-forward-network" class="nav-link active" data-scroll-target="#feed-forward-network">Feed-forward Network</a></li>
+  <li><a href="#convolutional-network" id="toc-convolutional-network" class="nav-link" data-scroll-target="#convolutional-network">Convolutional Network</a></li>
   </ul>
 </nav>
     </div>
@@ -169,11 +189,24 @@ ul.task-list li input[type="checkbox"] {
 <p>We repeat what we did by feeding <span class="math inline">\(\mathbf{z_1}\)</span> to a second layer <span class="math inline">\(\mathbf{W^{(2)}}\)</span>: <span class="math display">\[\mathbf{a_2 = W^{(2)} z_1}.\]</span> An activation function <span class="math inline">\(g\)</span> will be applied to <span class="math inline">\(\mathbf{a_2}\)</span>. If <span class="math inline">\(g\)</span> is identity, we have a regression model. If it is logistic sigmoid function, <span class="math inline">\(g(a)=\frac{1}{1+\frac{1}{e^{a}}}\)</span>, we get a classification model. If <span class="math inline">\(g\)</span> is softmax, we get a multi-class model.</p>
 <p>Put together, we have <span class="math display">\[\mathbf{y}=(g \circ \mathbf{W^{(2)}} \circ h \circ \mathbf{W^{(1)}} ) (\mathbf{x}).\]</span></p>
 <p>I learned that if we use linear activation functions, we get a principal component analysis.</p>
+</section>
+<section id="convolutional-network" class="level2">
+<h2 class="anchored" data-anchor-id="convolutional-network">Convolutional Network</h2>
+<p>We can use sparse matrices or networks, and the layers do not have to be fully connected. One example of a sparsely connected network is a convolutional neural network <span class="citation" data-cites="lecun1989backpropagation lecun1998gradient">(<a href="#ref-lecun1989backpropagation" role="doc-biblioref">LeCun et al. 1989</a>; and <a href="#ref-lecun1998gradient" role="doc-biblioref">LeCun et al. 1998</a>)</span>.</p>
+<p>The idea of convolutional neural networks comes from image analysis. For images, the nearby pixels show a strong correlation with each other. Local features are more or less invariant to transformations as they depend only on a small neighborhood. The activations of units become a convolution of the image pixel with a <strong>kernel</strong>.</p>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-lecun1989backpropagation" class="csl-entry" role="doc-biblioentry">
+LeCun, Yann, Bernhard Boser, John S Denker, Donnie Henderson, Richard E Howard, Wayne Hubbard, and Lawrence D Jackel. 1989. <span>“Backpropagation Applied to Handwritten Zip Code Recognition.”</span> <em>Neural Computation</em> 1 (4): 541–51.
+</div>
+<div id="ref-lecun1998gradient" class="csl-entry" role="doc-biblioentry">
+LeCun, Yann, Léon Bottou, Yoshua Bengio, and Patrick Haffner. 1998. <span>“Gradient-Based Learning Applied to Document Recognition.”</span> <em>Proceedings of the IEEE</em> 86 (11): 2278–2324.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

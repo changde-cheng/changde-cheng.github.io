@@ -2,6 +2,7 @@
 title: "What is neural network"
 author: "Changde Cheng"
 date: "2020-02-09"
+bibliography: references.bib
 ---
 
 I prepared this note to help us understand what we are doing in the current project.
@@ -29,3 +30,10 @@ Put together, we have
 $$\mathbf{y}=(g \circ \mathbf{W^{(2)}} \circ h \circ \mathbf{W^{(1)}} ) (\mathbf{x}).$$
 
 I learned that if we use linear activation functions, we get a principal component analysis.
+
+## Convolutional Network
+
+We can use sparse matrices or networks, and the layers do not have to be fully connected. One example of a sparsely connected network is a convolutional neural network [@lecun1989backpropagation; and @lecun1998gradient]. 
+
+The idea of convolutional neural networks comes from image analysis. For images, the nearby pixels show a strong correlation with each other. Local features are more or less invariant to transformations as they depend only on a small neighborhood. The activations of units become a convolution of the image pixel with a **kernel**.
+

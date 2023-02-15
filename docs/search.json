@@ -278,5 +278,19 @@
     "title": "Identification and targeting of a HES1‐YAP1‐CDKN1C functional interaction in fusion‐negative rhabdomyosarcoma",
     "section": "",
     "text": "Abstract\nRhabdomyosarcoma (RMS), a cancer characterized by features of skeletal muscle, is the most common soft-tissue sarcoma of childhood. With 5-year survival rates among high-risk groups at <30%, new therapeutics are desperately needed. Previously, using a myoblast-based model of fusion-negative RMS (FN-RMS), we found that expression of the Hippo pathway effector transcriptional coactivator YAP1 (YAP1) permitted senescence bypass and subsequent transformation to malignant cells, mimicking FN-RMS. We also found that YAP1 engages in a positive feedback loop with Notch signaling to promote FN-RMS tumorigenesis. However, we could not identify an immediate downstream impact of this Hippo-Notch relationship. Here, we identify a HES1-YAP1-CDKN1C functional interaction, and show that knockdown of the Notch effector HES1 (Hes family BHLH transcription factor 1) impairs growth of multiple FN-RMS cell lines, with knockdown resulting in decreased YAP1 and increased CDKN1C expression. In-silico mining of published proteomic and transcriptomic profiles of human RMS patient-derived xenografts revealed the same pattern of HES1-YAP1-CDKN1C expression. Treatment of FN-RMS cells in vitro with the recently described HES1 small-molecule inhibitor, JI130, limited FN-RMS cell growth. Inhibition of HES1 in vivo via conditional expression of a HES1-directed shRNA or JI130 dosing impaired FN-RMS tumor xenograft growth. Lastly, targeted transcriptomic profiling of FN-RMS xenografts in the context of HES1 suppression identified associations between HES1 and RAS-MAPK signaling. In summary, these in vitro and in vivo preclinical studies support the further investigation of HES1 as a therapeutic target in FN-RMS."
+  },
+  {
+    "objectID": "posts/neural_networks/index.html#convolutional-networks",
+    "href": "posts/neural_networks/index.html#convolutional-networks",
+    "title": "What is neural network",
+    "section": "Convolutional Networks",
+    "text": "Convolutional Networks\nWe can use sparse matrices or sparse networks, and the layers don’t have to be fully connected. One example of a sparsely connected network is convolutional neural networks (LeCun et al. 1989; and LeCun et al. 1998).\nThe idea of convolutional neural networks comes from image analysis. For images, the nearby pixels show strong correlation with each other. Local features tend to be more or less invariant to transformations as they depends only on a small neighborhood. The activations of units become a convolution of the image pixel with a kernel."
+  },
+  {
+    "objectID": "posts/neural_networks/index.html#convolutional-network",
+    "href": "posts/neural_networks/index.html#convolutional-network",
+    "title": "What is neural network",
+    "section": "Convolutional Network",
+    "text": "Convolutional Network\nWe can use sparse matrices or networks, and the layers do not have to be fully connected. One example of a sparsely connected network is a convolutional neural network (LeCun et al. 1989; and LeCun et al. 1998).\nThe idea of convolutional neural networks comes from image analysis. For images, the nearby pixels show a strong correlation with each other. Local features are more or less invariant to transformations as they depend only on a small neighborhood. The activations of units become a convolution of the image pixel with a kernel."
   }
 ]
