@@ -18,6 +18,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/PCA and CCA/index.html",
+      "/posts/neural_networks/index.html",
       "/posts/some cancer biology/index.html"
     ]
   },
@@ -25,16 +26,17 @@
     "listing": "/posts.html",
     "items": [
       "/posts/PCA and CCA/index.html",
+      "/posts/neural_networks/index.html",
       "/posts/some cancer biology/index.html"
     ]
   },
   {
     "listing": "/preprints.html",
     "items": [
-      "/preprints/2022_mouse/index.html",
-      "/preprints/2022_HB/index.html",
+      "/preprints/2017_SMBE/index.html",
       "/preprints/2021_CA/index.html",
-      "/preprints/2017_SMBE/index.html"
+      "/preprints/2022_HB/index.html",
+      "/preprints/2022_mouse/index.html"
     ]
   },
   {

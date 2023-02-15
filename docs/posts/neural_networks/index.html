@@ -6,9 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Changde Cheng">
+<meta name="dcterms.date" content="2020-02-09">
 <meta name="description" content="Changde’s personal website.">
 
-<title>Changde Cheng - Posts</title>
+<title>Changde Cheng - What is neural network</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,22 +26,20 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -53,39 +53,10 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -95,7 +66,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Changde Cheng</span>
     </a>
   </div>
@@ -105,21 +76,21 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./preprints.html">
+    <a class="nav-link" href="../../preprints.html">
  <span class="menu-text">Working Papers</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./featured.html">
+    <a class="nav-link" href="../../featured.html">
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html">
+    <a class="nav-link" href="../../publications.html">
  <span class="menu-text">More Publications</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
+    <a class="nav-link" href="../../about.html">
  <span class="menu-text">Changde Cheng</span></a>
   </li>  
   <li class="nav-item">
@@ -144,118 +115,65 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Posts</h1>
+    <div class="quarto-title column-body">
+      <h1 class="title">What is neural network</h1>
                       </div>
   </div>
     
   
   <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Changde Cheng </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">February 9, 2020</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#feed-forward-network" id="toc-feed-forward-network" class="nav-link active" data-scroll-target="#feed-forward-network">Feed-forward Network</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
+<p>I prepared this note to help us understand what we are doing in the current project.</p>
+<section id="feed-forward-network" class="level2">
+<h2 class="anchored" data-anchor-id="feed-forward-network">Feed-forward Network</h2>
+<p>Recall the linear models for regression and classification, we work with a function with a combination of linear forms: <span class="math display">\[y(x,w) = \sum_j w_j \phi_j(x),\]</span> or <span class="math display">\[z(x,w)=f \left( y(z,w) \right),\]</span> where <span class="math inline">\(\phi\)</span> is a basis function, and <span class="math inline">\(f\)</span> is an activation function.</p>
+<p>Think basic neural network as a series of transformation mixed with linear operations. Consider a two-layer network.</p>
+<p>First, we make a linear transformation of inputs <span class="math inline">\(\mathbf x\)</span>: <span class="math display">\[\mathbf{a_1 = W^{(1)} x},\]</span> where <span class="math inline">\(\mathbf{W^{(1)}}\)</span> is called the first layer, indicated by the superscript <span class="math inline">\(^{(1)}\)</span>.</p>
+<p>The vector <span class="math inline">\(\mathbf a\)</span> are called <strong>activations</strong>. We transform activations using an <strong>activation function</strong> <span class="math inline">\(h(\cdot)\)</span>: <span class="math display">\[\mathbf{z_1}=h(\mathbf{a_1}),\]</span> where <span class="math inline">\(\mathbf{z_1}\)</span> holds <strong>hidden units</strong>. The acativation function is usually a <strong>differentiable</strong> sigmoidal function.</p>
+<p>We repeat what we did by feeding <span class="math inline">\(\mathbf{z_1}\)</span> to a second layer <span class="math inline">\(\mathbf{W^{(2)}}\)</span>: <span class="math display">\[\mathbf{a_2 = W^{(2)} z_1}.\]</span> An activation function <span class="math inline">\(g\)</span> will be applied to <span class="math inline">\(\mathbf{a_2}\)</span>. If <span class="math inline">\(g\)</span> is identity, we have a regression model. If it is logistic sigmoid function, <span class="math inline">\(g(a)=\frac{1}{1+\frac{1}{e^{a}}}\)</span>, we get a classification model. If <span class="math inline">\(g\)</span> is softmax, we get a multi-class model.</p>
+<p>Put together, we have <span class="math display">\[\mathbf{y}=(g \circ \mathbf{W^{(2)}} \circ h \circ \mathbf{W^{(1)}} ) (\mathbf{x}).\]</span></p>
+<p>I learned that if we use linear activation functions, we get a principal component analysis.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1666069200000" data-listing-file-modified-sort="1676261422348" data-listing-reading-time-sort="2.93">
-<div class="body">
-<a href="./posts/PCA and CCA/index.html">
-<h3 class="no-anchor listing-title">
-What is canonical correlation
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-Canonical correlation provides a…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/PCA and CCA/index.html">
-<div class="listing-date">
-Oct 18, 2022
-</div>
-<div class="listing-author">
-Changde Cheng
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1581228000000" data-listing-file-modified-sort="1676428178702" data-listing-reading-time-sort="0.995">
-<div class="body">
-<a href="./posts/neural_networks/index.html">
-<h3 class="no-anchor listing-title">
-What is neural network
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-I prepared this note to help us understand what we are doing in the current project.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/neural_networks/index.html">
-<div class="listing-date">
-Feb 9, 2020
-</div>
-<div class="listing-author">
-Changde Cheng
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1493614800000" data-listing-file-modified-sort="1676087960784" data-listing-reading-time-sort="0.095">
-<div class="body">
-<a href="./posts/some cancer biology/index.html">
-<h3 class="no-anchor listing-title">
-Some cancer biology
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-I had a nice discussion with Neil and found out some interesting bit of interesting biology.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/some cancer biology/index.html">
-<div class="listing-date">
-May 1, 2017
-</div>
-<div class="listing-author">
-Changde Cheng
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
