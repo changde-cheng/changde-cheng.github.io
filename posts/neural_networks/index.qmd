@@ -1,0 +1,31 @@
+---
+title: "What is neural network"
+author: "Changde Cheng"
+date: "2020-02-09"
+---
+
+I prepared this note to help us understand what we are doing in the current project.
+
+## Feed-forward Network
+
+Recall the linear models for regression and classification, we work with a function with a combination of linear forms: $$y(x,w) = \sum_j w_j \phi_j(x),$$ or $$z(x,w)=f \left( y(z,w) \right),$$
+where $\phi$ is a basis function, and $f$ is an activation function.
+
+Think basic neural network as a series of transformation mixed with linear operations. Consider a two-layer network.
+
+First, we make a linear transformation of inputs $\mathbf x$:
+$$\mathbf{a_1 = W^{(1)} x},$$
+where $\mathbf{W^{(1)}}$ is called the first layer, indicated by the superscript $^{(1)}$.
+
+The vector $\mathbf a$ are called **activations**. We transform activations using an **activation function** $h(\cdot)$:
+$$\mathbf{z_1}=h(\mathbf{a_1}),$$
+where $\mathbf{z_1}$ holds **hidden units**. The acativation function is usually a **differentiable** sigmoidal function.
+
+We repeat what we did by feeding $\mathbf{z_1}$ to a second layer $\mathbf{W^{(2)}}$:
+$$\mathbf{a_2 = W^{(2)} z_1}.$$
+An activation function $g$ will be applied to $\mathbf{a_2}$. If $g$ is identity, we have a regression model. If it is logistic sigmoid function, $g(a)=\frac{1}{1+\frac{1}{e^{a}}}$, we get a classification model. If $g$ is softmax, we get a multi-class model.
+
+Put together, we have
+$$\mathbf{y}=(g \circ \mathbf{W^{(2)}} \circ h \circ \mathbf{W^{(1)}} ) (\mathbf{x}).$$
+
+I learned that if we use linear activation functions, we get a principal component analysis.
