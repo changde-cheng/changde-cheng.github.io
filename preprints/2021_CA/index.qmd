@@ -1,5 +1,5 @@
 ---
-title: "Single-cell RNA-sequencing reveals hyperacute NK cell and Monocyte states correlating with poor neurological outcomes after cardiac arrestk"
+title: "Single-cell RNA-sequencing reveals hyperacute NK cell and Monocyte states correlating with poor neurological outcomes after cardiac arrest"
 date: 2020-06-24
 citation: false
 image: featured.png

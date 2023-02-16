@@ -157,5 +157,8 @@
   },
   "posts/neural_networks/index.qmd": {
     "index.html": "c8e617f1"
+  },
+  "posts/orthogonal_matrix/index.qmd": {
+    "index.html": "2d6f5c1c"
   }
 }

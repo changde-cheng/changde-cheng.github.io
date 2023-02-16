@@ -88,14 +88,14 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Hi, this is \\(~\\mathrm{Chang}\\)-\\(\\mathrm{De}\\). There were some written-up study notes in this blog. Other than writing, I work on machine learning and seek a cure for cancer at the St. Jude Children’s Research Hospital.\n\n\n\n\n\n\n\n\n\n\nWhat is canonical correlation\n\n\n\n\n\n\n\n\n\nOct 18, 2022\n\n\n\n\n\n\n\n\nWhat is neural network\n\n\n\n\n\n\n\n\n\nFeb 9, 2020\n\n\n\n\n\n\n\n\nSome cancer biology\n\n\n\n\n\n\n\n\n\nMay 1, 2017\n\n\n\n\n\n\nNo matching items"
+    "text": "Hi, this is \\(~\\mathrm{Chang}\\)-\\(\\mathrm{De}\\). There were some written-up study notes in this blog. Other than writing, I work on machine learning and seek a cure for cancer at the St. Jude Children’s Research Hospital.\n\n\n\n\n\n\n\n\n\n\nWhat is canonical correlation\n\n\n\n\n\n\n\n\n\nOct 18, 2022\n\n\nChangde Cheng\n\n\n2 min\n\n\n\n\n\n\n\n\nWhat is neural network\n\n\n\n\n\n\n\n\n\nFeb 9, 2020\n\n\nChangde Cheng\n\n\n1 min\n\n\n\n\n\n\n\n\nWhat is rotation matrix\n\n\n\n\n\n\n\n\n\nJun 9, 2017\n\n\nChangde Cheng\n\n\n1 min\n\n\n\n\n\n\n\n\nSome cancer biology\n\n\n\n\n\n\n\n\n\nMay 1, 2017\n\n\nChangde Cheng\n\n\n0 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "What is canonical correlation\n\n\n\n\n\n\n\n\n\n\n\n\nOct 18, 2022\n\n\nChangde Cheng\n\n\n\n\n\n\n\n\nWhat is neural network\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2020\n\n\nChangde Cheng\n\n\n\n\n\n\n\n\nSome cancer biology\n\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2017\n\n\nChangde Cheng\n\n\n\n\n\n\nNo matching items"
+    "text": "What is canonical correlation\n\n\n\n\n\n\n\n\n\n\n\n\nOct 18, 2022\n\n\nChangde Cheng\n\n\n\n\n\n\n\n\nWhat is neural network\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2020\n\n\nChangde Cheng\n\n\n\n\n\n\n\n\nWhat is rotation matrix\n\n\n\n\n\n\n\n\n\n\n\n\nJun 9, 2017\n\n\nChangde Cheng\n\n\n\n\n\n\n\n\nSome cancer biology\n\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2017\n\n\nChangde Cheng\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/PCA and CCA/index.html",
@@ -119,6 +119,20 @@
     "text": "Feed-forward Network\nRecall the linear models for regression and classification, we work with a function with a combination of linear forms: \\[y(x,w) = \\sum_j w_j \\phi_j(x),\\] or \\[z(x,w)=f \\left( y(z,w) \\right),\\] where \\(\\phi\\) is a basis function, and \\(f\\) is an activation function.\nThink basic neural network as a series of transformation mixed with linear operations. Consider a two-layer network.\nFirst, we make a linear transformation of inputs \\(\\mathbf x\\): \\[\\mathbf{a_1 = W^{(1)} x},\\] where \\(\\mathbf{W^{(1)}}\\) is called the first layer, indicated by the superscript \\(^{(1)}\\).\nThe vector \\(\\mathbf a\\) are called activations. We transform activations using an activation function \\(h(\\cdot)\\): \\[\\mathbf{z_1}=h(\\mathbf{a_1}),\\] where \\(\\mathbf{z_1}\\) holds hidden units. The acativation function is usually a differentiable sigmoidal function.\nWe repeat what we did by feeding \\(\\mathbf{z_1}\\) to a second layer \\(\\mathbf{W^{(2)}}\\): \\[\\mathbf{a_2 = W^{(2)} z_1}.\\] An activation function \\(g\\) will be applied to \\(\\mathbf{a_2}\\). If \\(g\\) is identity, we have a regression model. If it is logistic sigmoid function, \\(g(a)=\\frac{1}{1+\\frac{1}{e^{a}}}\\), we get a classification model. If \\(g\\) is softmax, we get a multi-class model.\nPut together, we have \\[\\mathbf{y}=(g \\circ \\mathbf{W^{(2)}} \\circ h \\circ \\mathbf{W^{(1)}} ) (\\mathbf{x}).\\]\nI learned that if we use linear activation functions, we get a principal component analysis."
   },
   {
+    "objectID": "posts/neural_networks/index.html#convolutional-network",
+    "href": "posts/neural_networks/index.html#convolutional-network",
+    "title": "What is neural network",
+    "section": "Convolutional Network",
+    "text": "Convolutional Network\nWe can use sparse matrices or networks, and the layers do not have to be fully connected. One example of a sparsely connected network is a convolutional neural network (LeCun et al. 1989; and LeCun et al. 1998).\nThe idea of convolutional neural networks comes from image analysis. For images, the nearby pixels show a strong correlation with each other. Local features are more or less invariant to transformations as they depend only on a small neighborhood. The activations of units become a convolution of the image pixel with a kernel."
+  },
+  {
+    "objectID": "posts/orthogonal_matrix/index.html",
+    "href": "posts/orthogonal_matrix/index.html",
+    "title": "What is rotation matrix",
+    "section": "",
+    "text": "I find rotation matrices fascinating. A rotation matrix can represent a rotation in Euclidean space. A rotation matrix is an orthogonal matrix with determinant 1.\nA rotation in two dimension through an angle \\(\\theta\\) can be represented as: \\[R(\\theta)=\n\\begin{pmatrix}\n\\cos \\theta & -\\sin \\theta \\\\\n\\sin \\theta & \\phantom{-}\\cos \\theta\n\\end{pmatrix}\\]\nA reverse rotation is: \\[R(-\\theta)=\n\\begin{pmatrix}\n\\phantom{-}\\cos \\theta & \\sin \\theta \\\\\n-\\sin \\theta & \\cos \\theta\n\\end{pmatrix}\\]\nNote that \\(R(-\\theta) = R(\\theta)^{\\mathrm T} = R(\\theta)^{-1}\\), which tells that \\(R(\\theta\\) is orthogonal. Another thing to note is that two dimension rotation have one-dimension representation through \\(\\theta\\).\nWe find the set of rotation matrices as: \\[SO(n) = \\{\\mathbf R \\in \\mathbb{R}^{n\\times n}: \\mathbf{R R^T = I}, ~\\det{\\mathbf R} = 1 \\}.\\]\nWith matrix product operation, the set in becomes a group: Special Orthogonal Group. Recall that a group is a set with a binary operation, satisfying several rules (associativity, identity element, inverser element). The rotation group \\(SO(n)\\) is a continuous group (Lie group).\nNow take a look at \\(SO(2)\\). Consider two rotations \\(R(\\alpha)\\) and \\(R(\\beta)\\). We calculate the product of two rotations, and we guess it is \\(R(\\alpha + \\beta)\\). But let us do a calculation: \\[R(\\alpha) R(\\beta) =\n\\begin{pmatrix}\n\\cos{\\alpha} & -\\sin{\\alpha} \\\\\n\\sin{\\alpha} & \\cos{\\alpha}\n\\end{pmatrix}\n\\begin{pmatrix}\n\\cos{\\beta} & -\\sin{\\beta} \\\\\n\\sin{\\beta} & \\cos{\\beta}\n\\end{pmatrix}=\n\\begin{pmatrix}\n\\cos{(\\alpha+\\beta)} & -\\sin{(\\alpha+\\beta)} \\\\\n\\sin{(\\alpha+\\beta)} & \\cos{(\\alpha+\\beta)}\n\\end{pmatrix}\\] This result gives us something extra: commutativity \\(R(\\alpha) R(\\beta) = R(\\alpha+\\beta) =R(\\beta) R(\\alpha)\\). In other words, \\(SO(2)\\) is abelian.\nBut \\(SO(3)\\) is not abelian. Consider two elements in \\(SO(3)\\):\n\\[R_a =\n\\begin{pmatrix}\n0 & -1 & 0\\\\\n1 & 0 &0 \\\\\n0 & 0 & 1\n\\end{pmatrix},\\]\nand\n\\[R_b =\n\\begin{pmatrix}\n1 & 0 & 0 \\\\\n0 & 0 & -1 \\\\\n0 & 1 & 0\n\\end{pmatrix}.\\]\nThe two matrices are constructed by embedding the elements in \\(SO(2)\\) in a \\(3\\times 3\\) matrix.\nNow we calculate \\(R_a R_b\\):\n\\[R_a R_b = \\begin{pmatrix}\n0 & 0 & 1 \\\\\n1 & 0 & 0 \\\\\n0 & 1 & 0\n\\end{pmatrix},\\]\nand \\(R_b R_a\\):\n\\[R_b R_a = \\begin{pmatrix}\n0 & -1 & 0 \\\\\n0 & 0 & -1 \\\\\n1 & 0 & 0\n\\end{pmatrix}.\\]\nWe found that \\(R_a R_b \\ne R_b R_a\\), and \\(SO(3)\\) is not abelian."
+  },
+  {
     "objectID": "posts/some cancer biology/index.html",
     "href": "posts/some cancer biology/index.html",
     "title": "Some cancer biology",
@@ -130,7 +144,7 @@
     "href": "preprints.html",
     "title": "Working Papers",
     "section": "",
-    "text": "Sexually antagonistic selection and sex chromosome evolution in Stickleback\n\n\n\n\n\nSubmission to the 2017 Society for Molecular Biology & Evolution meeting at Austin, TX.\n\n\n\n\n\n\nJan 25, 2017\n\n\nChangde Cheng, Andrius J. Dagilis, Jason M. Sardell, Asano Ishikawa, Jun Kitano, Matthew P. Josephson, Catherine L. Peichel, Mark Kirkpatrick\n\n\n\n\n\n\n  \n\n\n\n\nSingle-cell RNA-sequencing reveals hyperacute NK cell and Monocyte states correlating with poor neurological outcomes after cardiac arrestk\n\n\n\n\n\n\n\n\n\n\n\n\nJun 24, 2020\n\n\n\n\n\n\n  \n\n\n\n\nGenome-wide mapping of oncogenic pathways and genetic modifiers of chemotherapy using a high-risk hepatoblastoma genetic model\n\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2021\n\n\n\n\n\n\n  \n\n\n\n\nInnate T cells regulate early inflammation and neurological outcomes after cardiac arrest and resuscitation,\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 1, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Sexually antagonistic selection and sex chromosome evolution in Stickleback\n\n\n\n\n\nSubmission to the 2017 Society for Molecular Biology & Evolution meeting at Austin, TX.\n\n\n\n\n\n\nJan 25, 2017\n\n\nChangde Cheng, Andrius J. Dagilis, Jason M. Sardell, Asano Ishikawa, Jun Kitano, Matthew P. Josephson, Catherine L. Peichel, Mark Kirkpatrick\n\n\n\n\n\n\n  \n\n\n\n\nSingle-cell RNA-sequencing reveals hyperacute NK cell and Monocyte states correlating with poor neurological outcomes after cardiac arrest\n\n\n\n\n\n\n\n\n\n\n\n\nJun 24, 2020\n\n\n\n\n\n\n  \n\n\n\n\nGenome-wide mapping of oncogenic pathways and genetic modifiers of chemotherapy using a high-risk hepatoblastoma genetic model\n\n\n\n\n\n\n\n\n\n\n\n\nApr 2, 2021\n\n\n\n\n\n\n  \n\n\n\n\nInnate T cells regulate early inflammation and neurological outcomes after cardiac arrest and resuscitation,\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 1, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "preprints/2017_SMBE/index.html",
@@ -142,14 +156,14 @@
   {
     "objectID": "preprints/2021_CA/index.html",
     "href": "preprints/2021_CA/index.html",
-    "title": "Single-cell RNA-sequencing reveals hyperacute NK cell and Monocyte states correlating with poor neurological outcomes after cardiac arrestk",
+    "title": "Single-cell RNA-sequencing reveals hyperacute NK cell and Monocyte states correlating with poor neurological outcomes after cardiac arrest",
     "section": "",
     "text": "Neurological injury remains a significant clinical challenge after successful resuscitation from cardiac arrest (CA). Lymphopenia and elevated cytokine levels suggest a role for the systemic immune response after CA. We determined the immunological network after clinical CA and identified cell states correlating with poor neurological outcomes using single-cell RNA-sequencing. The results suggest the role of native compensatory mechanisms through immune checkpoint axis to maintain homeostasis during acute inflammation and bring immunomodulation as a potential treatment class after CA."
   },
   {
     "objectID": "preprints/2021_CA/index.html#reference",
     "href": "preprints/2021_CA/index.html#reference",
-    "title": "Single-cell RNA-sequencing reveals hyperacute NK cell and Monocyte states correlating with poor neurological outcomes after cardiac arrestk",
+    "title": "Single-cell RNA-sequencing reveals hyperacute NK cell and Monocyte states correlating with poor neurological outcomes after cardiac arrest",
     "section": "Reference",
     "text": "Reference\nTomoyoshi Tamura#, Changde Cheng#, Louis T. Merriam, Kohei Ikeda, Kei Hayashida, Mayra Pinilla-Vera, Jack Varon, Sam J. Saliba1, Peter C. Hou, Raghu R. Seethala, Patrick R. Lawler , William M. Oldham, Jiyoung Choi, Immunology of Cardiac Arrest Network (I-CAN), Alexandra J. Weissman, Yohannes Tesfaigzi, Katherine M. Berg, Erin A. Bohula, David A. Morrow, Rebecca M. Baron, Fumito Ichinose, Michael W. Donnino, Xiang Chen, Edy Y. Kim; Single-cell RNA-sequencing reveals hyperacute NK cell and Monocyte states correlating with poor neurological outcomes after cardiac arrest\n#: Equal contribution."
   },
@@ -278,19 +292,5 @@
     "title": "Identification and targeting of a HES1‐YAP1‐CDKN1C functional interaction in fusion‐negative rhabdomyosarcoma",
     "section": "",
     "text": "Abstract\nRhabdomyosarcoma (RMS), a cancer characterized by features of skeletal muscle, is the most common soft-tissue sarcoma of childhood. With 5-year survival rates among high-risk groups at <30%, new therapeutics are desperately needed. Previously, using a myoblast-based model of fusion-negative RMS (FN-RMS), we found that expression of the Hippo pathway effector transcriptional coactivator YAP1 (YAP1) permitted senescence bypass and subsequent transformation to malignant cells, mimicking FN-RMS. We also found that YAP1 engages in a positive feedback loop with Notch signaling to promote FN-RMS tumorigenesis. However, we could not identify an immediate downstream impact of this Hippo-Notch relationship. Here, we identify a HES1-YAP1-CDKN1C functional interaction, and show that knockdown of the Notch effector HES1 (Hes family BHLH transcription factor 1) impairs growth of multiple FN-RMS cell lines, with knockdown resulting in decreased YAP1 and increased CDKN1C expression. In-silico mining of published proteomic and transcriptomic profiles of human RMS patient-derived xenografts revealed the same pattern of HES1-YAP1-CDKN1C expression. Treatment of FN-RMS cells in vitro with the recently described HES1 small-molecule inhibitor, JI130, limited FN-RMS cell growth. Inhibition of HES1 in vivo via conditional expression of a HES1-directed shRNA or JI130 dosing impaired FN-RMS tumor xenograft growth. Lastly, targeted transcriptomic profiling of FN-RMS xenografts in the context of HES1 suppression identified associations between HES1 and RAS-MAPK signaling. In summary, these in vitro and in vivo preclinical studies support the further investigation of HES1 as a therapeutic target in FN-RMS."
-  },
-  {
-    "objectID": "posts/neural_networks/index.html#convolutional-networks",
-    "href": "posts/neural_networks/index.html#convolutional-networks",
-    "title": "What is neural network",
-    "section": "Convolutional Networks",
-    "text": "Convolutional Networks\nWe can use sparse matrices or sparse networks, and the layers don’t have to be fully connected. One example of a sparsely connected network is convolutional neural networks (LeCun et al. 1989; and LeCun et al. 1998).\nThe idea of convolutional neural networks comes from image analysis. For images, the nearby pixels show strong correlation with each other. Local features tend to be more or less invariant to transformations as they depends only on a small neighborhood. The activations of units become a convolution of the image pixel with a kernel."
-  },
-  {
-    "objectID": "posts/neural_networks/index.html#convolutional-network",
-    "href": "posts/neural_networks/index.html#convolutional-network",
-    "title": "What is neural network",
-    "section": "Convolutional Network",
-    "text": "Convolutional Network\nWe can use sparse matrices or networks, and the layers do not have to be fully connected. One example of a sparsely connected network is a convolutional neural network (LeCun et al. 1989; and LeCun et al. 1998).\nThe idea of convolutional neural networks comes from image analysis. For images, the nearby pixels show a strong correlation with each other. Local features are more or less invariant to transformations as they depend only on a small neighborhood. The activations of units become a convolution of the image pixel with a kernel."
   }
 ]
