@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.3.353">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -18,7 +18,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -83,6 +83,7 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
@@ -105,38 +106,40 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./preprints.html">
+    <a class="nav-link" href="./preprints.html" rel="" target="">
  <span class="menu-text">Working Papers</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./featured.html">
+    <a class="nav-link" href="./featured.html" rel="" target="">
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" aria-current="page">
+    <a class="nav-link active" href="./publications.html" rel="" target="" aria-current="page">
  <span class="menu-text">More Publications</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
+    <a class="nav-link" href="./about.html" rel="" target="">
  <span class="menu-text">Changde Cheng</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://scholar.google.com/citations?user=rUa7JoIAAAAJ&amp;hl=en">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=rUa7JoIAAAAJ&amp;hl=en" rel="" target="">
  <span class="menu-text"><i class="ai  ai-google-scholar" title="" style="color:"></i></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/changde-cheng-15550215a/"><i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/changde-cheng-15550215a/" rel="" target=""><i class="bi bi-linkedin" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/changde-cheng"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/changde-cheng" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
+            <div class="quarto-navbar-tools">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -163,7 +166,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(13)</span></div><div class="category" data-category="G3: Genes, Genomes, Genetics">G3: Genes, Genomes, Genetics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Genetics">Genetics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Genome Biology and Evolution">Genome Biology and Evolution <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Heredity (Edinb)">Heredity (Edinb) <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Journal of Heredity">Journal of Heredity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Molecular Ecology">Molecular Ecology <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Molecular Oncology">Molecular Oncology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="PNAS">PNAS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Parasites and vectors">Parasites and vectors <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Plant, cell and environment">Plant, cell and environment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Science immunology">Science immunology <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(15)</span></div><div class="category" data-category="G3: Genes, Genomes, Genetics">G3: Genes, Genomes, Genetics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Genetics">Genetics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Genome Biology and Evolution">Genome Biology and Evolution <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Heredity (Edinb)">Heredity (Edinb) <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Journal of Heredity">Journal of Heredity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Med">Med <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Molecular Ecology">Molecular Ecology <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Molecular Oncology">Molecular Oncology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Nature Communications">Nature Communications <span class="quarto-category-count">(1)</span></div><div class="category" data-category="PNAS">PNAS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Parasites and vectors">Parasites and vectors <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Plant, cell and environment">Plant, cell and environment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Science immunology">Science immunology <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -176,9 +179,73 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Molecular Oncology" data-listing-date-sort="1660194000000" data-listing-file-modified-sort="1676059834201" data-listing-reading-time-sort="1.175">
+<div class="quarto-post image-right" data-index="0" data-categories="Nature Communications" data-listing-date-sort="1688619600000" data-listing-file-modified-sort="1690489078265" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./publications/2022_HES1/index.html"> <img src="./publications/2022_HES1/featured.png" class="thumnail-image"> </a></p>
+<p><a href="./publications/2023_HB/index.html"> <img src="./publications/2023_HB/featured.png" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./publications/2023_HB/index.html">
+<h3 class="no-anchor listing-title">
+Genome-wide mapping of cancer dependency genes and genetic modifiers of chemotherapy in high-risk hepatoblastoma
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Nature Communications'); return false;">
+Nature Communications
+</div>
+</div>
+<a href="./publications/2023_HB/index.html">
+<div class="listing-description">
+A lack of relevant genetic models and cell lines hampers our understanding of hepatoblastoma pathogenesis and the development of new therapies for this neoplasm. Here, we…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./publications/2023_HB/index.html">
+<div class="listing-date">
+Jul 6, 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Med" data-listing-date-sort="1685422800000" data-listing-file-modified-sort="1690488980973" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./publications/2023_CA/index.html"> <img src="./publications/2023_CA/featured.png" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./publications/2023_CA/index.html">
+<h3 class="no-anchor listing-title">
+Single-cell transcriptomics reveal a hyperacute cytokine and immune checkpoint axis after cardiac arrest in patients with poor neurological outcome
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Med'); return false;">
+Med
+</div>
+</div>
+<a href="./publications/2023_CA/index.html">
+<div class="listing-description">
+Brain injury is the leading cause of death among patients hospitalized after out-of-hospital cardiac arrest. Although inflammation is associated with brain injury and…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./publications/2023_CA/index.html">
+<div class="listing-date">
+May 30, 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="Molecular Oncology" data-listing-date-sort="1660194000000" data-listing-file-modified-sort="1676059834201" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="thumbnail">
+<p><a href="./publications/2022_HES1/index.html"> <img src="./publications/2022_HES1/featured.png" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2022_HES1/index.html">
@@ -208,9 +275,9 @@ Aug 11, 2022
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Plant, cell and environment" data-listing-date-sort="1561957200000" data-listing-file-modified-sort="1676059272167" data-listing-reading-time-sort="0.985">
+<div class="quarto-post image-right" data-index="3" data-categories="Plant, cell and environment" data-listing-date-sort="1561957200000" data-listing-file-modified-sort="1676059272167" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./publications/2019_photoperiod/index.html"> <img src="./publications/2019_photoperiod/featured.png" class="thumnail-image"> </a></p>
+<p><a href="./publications/2019_photoperiod/index.html"> <img src="./publications/2019_photoperiod/featured.png" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2019_photoperiod/index.html">
@@ -240,9 +307,9 @@ Jul 1, 2019
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="Science immunology" data-listing-date-sort="1530853200000" data-listing-file-modified-sort="1676058499705" data-listing-reading-time-sort="0.945">
+<div class="quarto-post image-right" data-index="4" data-categories="Science immunology" data-listing-date-sort="1530853200000" data-listing-file-modified-sort="1676058499705" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./publications/2018_Tcell/index.html"> <img src="./publications/2018_Tcell/featured.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./publications/2018_Tcell/index.html"> <img src="./publications/2018_Tcell/featured.jpeg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2018_Tcell/index.html">
@@ -272,9 +339,9 @@ Jul 6, 2018
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="G3: Genes, Genomes, Genetics" data-listing-date-sort="1527829200000" data-listing-file-modified-sort="1676058380258" data-listing-reading-time-sort="1.045">
+<div class="quarto-post image-right" data-index="5" data-categories="G3: Genes, Genomes, Genetics" data-listing-date-sort="1527829200000" data-listing-file-modified-sort="1676058380258" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./publications/2018_sexRecomb/index.html"> <img src="./publications/2018_sexRecomb/featured.png" class="thumnail-image"> </a></p>
+<p><a href="./publications/2018_sexRecomb/index.html"> <img src="./publications/2018_sexRecomb/featured.png" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2018_sexRecomb/index.html">
@@ -304,9 +371,9 @@ Jun 1, 2018
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="Journal of Heredity" data-listing-date-sort="1506488400000" data-listing-file-modified-sort="1676058200834" data-listing-reading-time-sort="0.81">
+<div class="quarto-post image-right" data-index="6" data-categories="Journal of Heredity" data-listing-date-sort="1506488400000" data-listing-file-modified-sort="1676058200834" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./publications/2017_plasiticity/index.html"> <img src="./publications/2017_plasiticity/featured.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./publications/2017_plasiticity/index.html"> <img src="./publications/2017_plasiticity/featured.jpeg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2017_plasiticity/index.html">
@@ -336,9 +403,9 @@ Sep 27, 2017
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="Genome Biology and Evolution" data-listing-date-sort="1504242000000" data-listing-file-modified-sort="1676059253455" data-listing-reading-time-sort="1.38">
+<div class="quarto-post image-right" data-index="7" data-categories="Genome Biology and Evolution" data-listing-date-sort="1504242000000" data-listing-file-modified-sort="1676059253455" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./publications/2017_Aedes/index.html"> <img src="./publications/2017_Aedes/featured.png" class="thumnail-image"> </a></p>
+<p><a href="./publications/2017_Aedes/index.html"> <img src="./publications/2017_Aedes/featured.png" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2017_Aedes/index.html">
@@ -368,9 +435,9 @@ Sep 1, 2017
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="Molecular Ecology" data-listing-date-sort="1462078800000" data-listing-file-modified-sort="1676057959029" data-listing-reading-time-sort="1.15">
+<div class="quarto-post image-right" data-index="8" data-categories="Molecular Ecology" data-listing-date-sort="1462078800000" data-listing-file-modified-sort="1676057959029" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./publications/2016_salty_water/index.html"> <img src="./publications/2016_salty_water/featured.webp" class="thumnail-image"> </a></p>
+<p><a href="./publications/2016_salty_water/index.html"> <img src="./publications/2016_salty_water/featured.webp" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2016_salty_water/index.html">
@@ -400,9 +467,9 @@ May 1, 2016
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="Heredity (Edinb)" data-listing-date-sort="1446354000000" data-listing-file-modified-sort="1676057936441" data-listing-reading-time-sort="0.745">
+<div class="quarto-post image-right" data-index="9" data-categories="Heredity (Edinb)" data-listing-date-sort="1446354000000" data-listing-file-modified-sort="1676057936441" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./publications/2015_QTL/index.html"> <img src="./publications/2015_QTL/featured.png" class="thumnail-image"> </a></p>
+<p><a href="./publications/2015_QTL/index.html"> <img src="./publications/2015_QTL/featured.png" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2015_QTL/index.html">
@@ -432,9 +499,9 @@ Nov 1, 2015
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="Molecular Ecology" data-listing-date-sort="1398920400000" data-listing-file-modified-sort="1676057923768" data-listing-reading-time-sort="1.185">
+<div class="quarto-post image-right" data-index="10" data-categories="Molecular Ecology" data-listing-date-sort="1398920400000" data-listing-file-modified-sort="1676057923768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./publications/2014_divergent/index.html"> <img src="./publications/2014_divergent/featured.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./publications/2014_divergent/index.html"> <img src="./publications/2014_divergent/featured.jpeg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2014_divergent/index.html">
@@ -464,9 +531,9 @@ May 1, 2014
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="Parasites and vectors" data-listing-date-sort="1397106000000" data-listing-file-modified-sort="1676057887178" data-listing-reading-time-sort="1.85">
+<div class="quarto-post image-right" data-index="11" data-categories="Parasites and vectors" data-listing-date-sort="1397106000000" data-listing-file-modified-sort="1676057887178" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./publications/2014_cuticle/index.html"> <img src="./publications/2014_cuticle/featured.png" class="thumnail-image"> </a></p>
+<p><a href="./publications/2014_cuticle/index.html"> <img src="./publications/2014_cuticle/featured.png" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2014_cuticle/index.html">
@@ -496,9 +563,9 @@ Apr 10, 2014
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="Molecular Ecology" data-listing-date-sort="1306904400000" data-listing-file-modified-sort="1676057784859" data-listing-reading-time-sort="1.215">
+<div class="quarto-post image-right" data-index="12" data-categories="Molecular Ecology" data-listing-date-sort="1306904400000" data-listing-file-modified-sort="1676057784859" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./publications/2011_thermal_inversion/index.html"> <img src="./publications/2011_thermal_inversion/featured.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./publications/2011_thermal_inversion/index.html"> <img src="./publications/2011_thermal_inversion/featured.jpeg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2011_thermal_inversion/index.html">
@@ -528,9 +595,9 @@ Jun 1, 2011
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="PNAS" data-listing-date-sort="1294120800000" data-listing-file-modified-sort="1676057747287" data-listing-reading-time-sort="1.195">
+<div class="quarto-post image-right" data-index="13" data-categories="PNAS" data-listing-date-sort="1294120800000" data-listing-file-modified-sort="1676057747287" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./publications/2011_speciation/index.html"> <img src="./publications/2011_speciation/featured.jpg" class="thumnail-image"> </a></p>
+<p><a href="./publications/2011_speciation/index.html"> <img src="./publications/2011_speciation/featured.jpg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2011_speciation/index.html">
@@ -560,9 +627,9 @@ Jan 4, 2011
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="Genetics" data-listing-date-sort="1251781200000" data-listing-file-modified-sort="1676055582336" data-listing-reading-time-sort="0.93">
+<div class="quarto-post image-right" data-index="14" data-categories="Genetics" data-listing-date-sort="1251781200000" data-listing-file-modified-sort="1676055582336" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="./publications/2009_inversions/index.html"> <img src="./publications/2009_inversions/featured.jpeg" class="thumnail-image"> </a></p>
+<p><a href="./publications/2009_inversions/index.html"> <img src="./publications/2009_inversions/featured.jpeg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./publications/2009_inversions/index.html">
@@ -624,9 +691,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -691,6 +772,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {

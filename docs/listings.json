@@ -36,14 +36,14 @@
     "listing": "/preprints.html",
     "items": [
       "/preprints/2017_SMBE/index.html",
-      "/preprints/2021_CA/index.html",
-      "/preprints/2022_HB/index.html",
       "/preprints/2022_mouse/index.html"
     ]
   },
   {
     "listing": "/publications.html",
     "items": [
+      "/publications/2023_HB/index.html",
+      "/publications/2023_CA/index.html",
       "/publications/2022_HES1/index.html",
       "/publications/2019_photoperiod/index.html",
       "/publications/2018_Tcell/index.html",
