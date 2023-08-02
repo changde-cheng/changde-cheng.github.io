@@ -2,8 +2,8 @@
 title: "Sex differences in recombination in sticklebacks"
 date: 2018-06-01
 #authors: ["J. M. Sardell", "C. Cheng", "A. J. Dagilis", "A. Ishikawa", "J. Kitano", "C. L. Peichel", "M. Kirkpatrick"]
-publication: "*G3 (Bethesda)*"
-categories: ["G3: Genes, Genomes, Genetics"]
+#publication: "*G3 (Bethesda)*"
+categories: ['G3: Genes Genomes Genetics']
 url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/29632132"
 doi: "10.1534/g3.118.200166"
 image: featured.png

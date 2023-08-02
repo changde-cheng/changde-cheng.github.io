@@ -3,7 +3,7 @@ title: "Complex interactions between day length and diurnal patterns of gene exp
 date: 2019-07-01
 #authors: ["X. Weng", "J. T. Lovell", "S. L. Schwartz", "C. Cheng", "T. Haque", "L. Zhang", "S. Razzaque", "T. E. Juenger"]
 publication: "*Plant Cell Environ*"
-categories: ["Plant, cell and environment"]
+categories: ["Plant cell and environment"]
 url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/30847928"
 doi: "10.1111/pce.13546"
 image: featured.png
