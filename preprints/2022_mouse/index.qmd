@@ -1,5 +1,5 @@
 ---
-title: "Innate T cells regulate early inflammation and neurological outcomes after cardiac arrest and resuscitation,"
+title: "Innate T cells regulate early inflammation and neurological outcomes after cardiac arrest and resuscitation"
 date: 2022-02-01
 citation: false
 image: featured.png
