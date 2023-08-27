@@ -15,7 +15,7 @@ website:
   search: false
   navbar:
     right:
-      - about.qmd
+    #  - about.qmd
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=rUa7JoIAAAAJ&hl=en
     # - icon: twitter
