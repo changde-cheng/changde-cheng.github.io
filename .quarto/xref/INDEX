@@ -166,5 +166,11 @@
   },
   "publications/2023_HB/index.qmd": {
     "index.html": "50caf396"
+  },
+  "preprints/2023_bwt/index.qmd": {
+    "index.html": "619ab0c5"
+  },
+  "preprints/2022_bwt/index.qmd": {
+    "index.html": "66a0e25c"
   }
 }
