@@ -15,21 +15,20 @@ title-block-banner: false
 
 Hi, this is $~\mathrm{Changde}~(ch'ang~te)$. 
 
-I am a Lead-Computational Research Scientist at the 
-<!-- St. Jude Children's Research Hospital. -->
-[St. Jude Children's Research Hospital](https://www.stjude.org/).
+I am a computational biologist focusing on the integrative analysis of genomic data to gain a deeper understanding of the origins and progressions of diseases and determine how they respond to different treatments. My ultimate objective is to make a positive impact on human health.
+
 
 My research interest includes 
 
-* evolution
-* population genetics
 * computational biology challenges in areas including
     + infectious diseases 
     + cancer
     + immunology 
     + single-cell genomics 
     + spatial genomics 
+* evolution
+* population genetics
 
 Links to [working papers](../preprints.html),     [publications](../featured.html), and [more publications](../publications.html).
 
-Before joining St. Jude, I worked with [Mark Kirkpatrick](https://en.wikipedia.org/wiki/Mark_Kirkpatrick) at the University of Texas, Austin.  I studied genetics and genomics with [Nora Besansky](https://en.wikipedia.org/wiki/Nora_J._Besansky) at Notre Dame, and ecology and evolutionary biology with [Chuck Taylor](https://dailybruin.com/2013/11/06/ucla-professor-researches-birdsongs-in-mexico-australia) at UCLA. 
+Before joining UAB, I served as a lead computational research scientist in the computational biology department at the [St. Jude Children's Research Hospital](https://www.stjude.org/). I did my postdoc with [Mark Kirkpatrick](https://en.wikipedia.org/wiki/Mark_Kirkpatrick) at the University of Texas, Austin.  I studied genetics and genomics with [Nora Besansky](https://en.wikipedia.org/wiki/Nora_J._Besansky) at Notre Dame, and ecology and evolutionary biology with [Chuck Taylor](https://dailybruin.com/2013/11/06/ucla-professor-researches-birdsongs-in-mexico-australia) at UCLA.
