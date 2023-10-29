@@ -11,6 +11,7 @@ title: "Research"
 #   filter-ui: false
 page-layout: full
 title-block-banner: false
+embed-resources: true
 ---
 
 Dr. Changde Cheng aims to improve cancer patient outcomes by using computational and analytical approaches to better understand the contribution of intratumoral cellular heterogeneity and plasticity to therapeutic resistance.
