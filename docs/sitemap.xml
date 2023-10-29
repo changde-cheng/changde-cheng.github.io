@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://changde-cheng.github.io/about.html</loc>
-    <lastmod>2023-08-27T18:10:58.302Z</lastmod>
+    <lastmod>2023-10-28T16:32:13.288Z</lastmod>
   </url>
   <url>
     <loc>https://changde-cheng.github.io/featured.html</loc>
-    <lastmod>2023-08-29T16:38:01.146Z</lastmod>
+    <lastmod>2023-10-28T22:51:45.610Z</lastmod>
   </url>
   <url>
     <loc>https://changde-cheng.github.io/featured/2010_speciation/index.html</loc>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://changde-cheng.github.io/index.html</loc>
-    <lastmod>2023-10-14T13:44:13.336Z</lastmod>
+    <lastmod>2023-10-29T03:44:57.500Z</lastmod>
   </url>
   <url>
     <loc>https://changde-cheng.github.io/posts.html</loc>
@@ -74,11 +74,11 @@
   </url>
   <url>
     <loc>https://changde-cheng.github.io/preprints.html</loc>
-    <lastmod>2023-10-14T13:45:14.179Z</lastmod>
+    <lastmod>2023-10-29T03:44:50.767Z</lastmod>
   </url>
   <url>
     <loc>https://changde-cheng.github.io/preprints/2017_SMBE/index.html</loc>
-    <lastmod>2023-07-27T20:18:11.747Z</lastmod>
+    <lastmod>2023-10-28T23:24:07.572Z</lastmod>
   </url>
   <url>
     <loc>https://changde-cheng.github.io/preprints/2022_mouse/index.html</loc>
@@ -86,7 +86,7 @@
   </url>
   <url>
     <loc>https://changde-cheng.github.io/publications.html</loc>
-    <lastmod>2023-08-29T16:38:05.982Z</lastmod>
+    <lastmod>2023-10-28T22:53:07.566Z</lastmod>
   </url>
   <url>
     <loc>https://changde-cheng.github.io/publications/2009_inversions/index.html</loc>
@@ -142,7 +142,7 @@
   </url>
   <url>
     <loc>https://changde-cheng.github.io/publications/2023_CA/index.html</loc>
-    <lastmod>2023-08-27T15:22:18.109Z</lastmod>
+    <lastmod>2023-10-28T22:48:04.160Z</lastmod>
   </url>
   <url>
     <loc>https://changde-cheng.github.io/publications/2023_HB/index.html</loc>
@@ -155,5 +155,25 @@
   <url>
     <loc>https://changde-cheng.github.io/preprints/2022_bwt/index.html</loc>
     <lastmod>2023-10-14T13:40:28.982Z</lastmod>
+  </url>
+  <url>
+    <loc>https://changde-cheng.github.io/people.html</loc>
+    <lastmod>2023-10-29T03:44:25.471Z</lastmod>
+  </url>
+  <url>
+    <loc>https://changde-cheng.github.io/manuscripts.html</loc>
+    <lastmod>2023-10-29T03:44:28.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://changde-cheng.github.io/contact.html</loc>
+    <lastmod>2023-10-29T03:44:55.655Z</lastmod>
+  </url>
+  <url>
+    <loc>https://changde-cheng.github.io/publications/2023_scRNAreview/index.html</loc>
+    <lastmod>2023-10-28T22:49:36.775Z</lastmod>
+  </url>
+  <url>
+    <loc>https://changde-cheng.github.io/press.html</loc>
+    <lastmod>2023-10-29T03:44:22.983Z</lastmod>
   </url>
 </urlset>

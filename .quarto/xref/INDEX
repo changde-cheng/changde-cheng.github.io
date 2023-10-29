@@ -172,5 +172,20 @@
   },
   "preprints/2022_bwt/index.qmd": {
     "index.html": "66a0e25c"
+  },
+  "people.qmd": {
+    "people.html": "89c29277"
+  },
+  "manuscripts.qmd": {
+    "manuscripts.html": "b7ac5c83"
+  },
+  "contact.qmd": {
+    "contact.html": "51636b2e"
+  },
+  "publications/2023_scRNAreview/index.qmd": {
+    "index.html": "5dddc315"
+  },
+  "press.qmd": {
+    "press.html": "b8c3d26a"
   }
 }

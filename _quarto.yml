@@ -10,7 +10,7 @@ project:
     browser: true
 
 website:
-  title: "Changde Cheng"
+  title: "CHENG LAB"
   site-url: https://changde-cheng.github.io
   search: false
   navbar:
@@ -21,27 +21,39 @@ website:
     # - icon: twitter
     #   text: Twitter
     #   href: https://twitter.com
-      - icon: linkedin
-        href: https://www.linkedin.com/in/changde-cheng-15550215a/
-      - icon: github
-        href: https://github.com/changde-cheng
+      # - icon: linkedin
+      #   href: https://www.linkedin.com/in/changde-cheng-15550215a/
+      # - icon: github
+      #   href: https://github.com/changde-cheng
     left:
       # - text: "About"
       #   file: about.qmd
       # - text: "Posts"
       #   file: posts.qmd
+      - text: "People"
+        file: people.qmd
+      - text: "Publications"
+        file: manuscripts.qmd
+      # - text: "Press"
+      #   file: press.qmd
       - text: "Working Papers"
         file: preprints.qmd
-      - text: "Publications"
-        file: featured.qmd
-      - text: "More Publications"
-        file: publications.qmd
+      # - text: "Key papers"
+      #   file: featured.qmd
+      # - text: "More Publications"
+      #   file: publications.qmd
+      - text: "Contact"
+        file: contact.qmd
       # - text: "Projects"
       #   file: projects.qmd
 format:
   html:
-    theme: litera
-    css: styles.css
+    theme:
+      - cosmo
+      - custom.scss
+    # theme: cosmo #litera
+    # css: styles.css
 
-description-meta: "Changde's personal website."
+
+description-meta: "Cheng Lab's website."
 
