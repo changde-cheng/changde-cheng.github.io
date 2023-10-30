@@ -49,7 +49,10 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      #- cosmo # safe
+      - journal
+      #- zephyr # good, it is blue, though
+      #- minty # too weak
       - custom.scss
     # theme: cosmo #litera
     # css: styles.css

@@ -1,5 +1,5 @@
 ---
-title: "People"
+#title: "People"
 # listing:
 #   contents: people
 #   sort: "date desc"
@@ -8,10 +8,14 @@ title: "People"
 #   sort-ui: false
 #   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
 
 **Principal Investigator**
 
-Dr. Changde Cheng completed his undergraduate degree in Genetics and Cell Biology from [Peking University](https://en.wikipedia.org/wiki/Peking_University), followed by an M.A. in Ecology and Evolutionary Biology from [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles). He then pursued his Ph.D. from the Department of Biological Sciences at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame). Afterward, he joined the Center for Computational Biology and Bioinformatics at the [University of Texas at Austin](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin) as a postdoctoral fellow. He later worked as a lead/senior computational research scientist in the Department of Computational Biology at [St. Jude Children's Research Hospital](https://en.wikipedia.org/wiki/St._Jude_Children%27s_Research_Hospital) before joining the faculty of the Division of Hematology/Oncology at [Heersink School of Medicine, University of Alabama at Birmingham](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine) in 2023.
+Dr. Changde Cheng completed his education and training at [Peking University](https://en.wikipedia.org/wiki/Peking_University), [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles) (under the guidance of Dr. Charles Taylor), and the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame) (with Dr. [Nora Besansky](https://en.wikipedia.org/wiki/Nora_J._Besansky)). During his postdoctoral fellowship at the [University of Texas at Austin](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin) with Dr. [Mark Kirkpatrick](https://en.wikipedia.org/wiki/Mark_Kirkpatrick), he developed a keen interest in computational genomics and theoretical biology. After that, he worked as a senior/lead computational research scientist at [St. Jude Children's Research Hospital](https://en.wikipedia.org/wiki/St._Jude_Children%27s_Research_Hospital)  before joining the faculty of the Division of Hematology/Oncology at [Heersink School of Medicine, University of Alabama at Birmingham](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine).
+
+
+
+<!-- Dr. Changde Cheng completed his undergraduate degree in Genetics and Cell Biology from [Peking University](https://en.wikipedia.org/wiki/Peking_University), followed by an M.A. in Ecology and Evolutionary Biology from [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles). He then pursued his Ph.D. from the Department of Biological Sciences at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame). Afterward, he joined the Center for Computational Biology and Bioinformatics at the [University of Texas at Austin](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin) as a postdoctoral fellow. He later worked as a lead/senior computational research scientist in the Department of Computational Biology at [St. Jude Children's Research Hospital](https://en.wikipedia.org/wiki/St._Jude_Children%27s_Research_Hospital) before joining the faculty of the Division of Hematology/Oncology at [Heersink School of Medicine, University of Alabama at Birmingham](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine) in 2023. -->
 

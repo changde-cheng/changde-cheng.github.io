@@ -1,0 +1,17 @@
+---
+# title: "Lab values"
+# listing:
+#   contents: people
+#   sort: "date desc"
+#   type: default
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+
+1. Do what is right, treating others with kindness.
+2. Embrace the scientific research process with enthusiasm and curiosity.
+3. Pursue a deep understanding of your field.
+4. Develop resilience to overcome challenges, cope with criticism, and believe in your ideas.

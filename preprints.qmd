@@ -1,5 +1,5 @@
 ---
-title: "Working Papers"
+#title: "Working Papers"
 listing:
   contents: preprints
   sort: "date asc"
@@ -8,5 +8,5 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
