@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Computational Biology and Cancer Genomics"
 # listing:
 #   contents: posts
 #   sort: "date desc"

@@ -86,7 +86,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Research",
+    "title": "Computational Biology and Cancer Genomics",
     "section": "",
     "text": "Dr. Changde Cheng aims to improve cancer patient outcomes by using computational and analytical approaches to better understand the contribution of intratumoral cellular heterogeneity and plasticity to therapeutic resistance.\nOur laboratory is dedicated to developing innovative computational methods and machine-learning tools to gain a comprehensive understanding of the biology of patient tumors. To investigate cancer initiation, progression, and therapeutic resistance, we leverage high-throughput techniques such as single-cell RNA-seq, spatial, multiomics, and perturbation sequencing. Our research focuses on identifying tumor cell subpopulations responsible for relapse and understanding how microenvironments influence their response to chemotherapy. We have developed high-performance machine-learning tools for single-cell analysis, which enable accurate subpopulation estimation and clustering. This allows us to define disease-causing cell states, predict their behavior under different conditions, and understand cell interactions.\nOur ultimate goal is to translate these insights into clinical practice to identify patients at risk of disease recurrence better. This will improve the precision of treatment and the outcome of cancer for the benefit of patients."
   },
