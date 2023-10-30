@@ -11,17 +11,15 @@ title: "Research"
 #   filter-ui: false
 page-layout: full
 title-block-banner: false
+about:
+  id: about
+  template: jolla
+  image: logo.png
 embed-resources: true
 ---
 
-<!-- <style> -->
-<!--   body { -->
-<!--   background-image: url("./images/banner13.png"); -->
-<!--   background-size: cover; -->
-<!--   background-repeat: no-repeat; -->
-<!-- } -->
-
-<!-- </style> -->
+::: {#about}
+:::
 
 Dr. Changde Cheng aims to improve cancer patient outcomes by using computational and analytical approaches to better understand the contribution of intratumoral cellular heterogeneity and plasticity to therapeutic resistance.
 
