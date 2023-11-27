@@ -36,8 +36,7 @@
     "listing": "/preprints.html",
     "items": [
       "/preprints/2017_SMBE/index.html",
-      "/preprints/2022_mouse/index.html",
-      "/preprints/2022_bwt/index.html"
+      "/preprints/2022_mouse/index.html"
     ]
   },
   {
@@ -47,6 +46,7 @@
       "/publications/2023_HB/index.html",
       "/publications/2023_CA/index.html",
       "/publications/2022_HES1/index.html",
+      "/publications/2023_bwt/index.html",
       "/publications/2019_photoperiod/index.html",
       "/publications/2018_Tcell/index.html",
       "/publications/2018_sexRecomb/index.html",
