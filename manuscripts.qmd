@@ -300,22 +300,22 @@ Sci Immunol. 2018 Jul 6;3(25).
 
 ::::
 
-:::: {.columns}
+<!-- :::: {.columns} -->
 
-::: {.column width="8%"}
-![](../publications/2018_sexRecomb/featured.png)
-:::
+<!-- ::: {.column width="8%"} -->
+<!-- ![](../publications/2018_sexRecomb/featured.png) -->
+<!-- ::: -->
 
-::: {.column width="2%"}
-:::
+<!-- ::: {.column width="2%"} -->
+<!-- ::: -->
 
-::: {.column width="90%"}
-Sardell JM, **Cheng C**, Dagilis AJ, Ishikawa A, Kitano J, Peichel CL, Kirkpatrick M.\
-[Sex Differences in Recombination in Sticklebacks.](https://www.ncbi.nlm.nih.gov/pubmed/29632132/)\
-G3 (Bethesda). 2018 May 31;8(6):1971-1983. 
-:::
+<!-- ::: {.column width="90%"} -->
+<!-- Sardell JM, **Cheng C**, Dagilis AJ, Ishikawa A, Kitano J, Peichel CL, Kirkpatrick M.\ -->
+<!-- [Sex Differences in Recombination in Sticklebacks.](https://www.ncbi.nlm.nih.gov/pubmed/29632132/)\ -->
+<!-- G3 (Bethesda). 2018 May 31;8(6):1971-1983.  -->
+<!-- ::: -->
 
-::::
+<!-- :::: -->
 
 :::: {.columns}
 ::: {.column width="8%"}
