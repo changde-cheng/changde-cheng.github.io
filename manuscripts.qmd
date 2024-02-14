@@ -12,6 +12,34 @@ title-block-banner: false
 ---
 
 
+:::: {.columns}
+::: {.column width="8%"}
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="90%"}
+>2024
+:::
+::::
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+<!-- ![](publications/2024_protocol/featured.png) -->
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+Kohei Yamada$^{\dagger}$, Jaivardhan A Menon, Yaunghyun Kim, Changde Cheng, Wenan Chen, Jenny A Shih, Ana B Villasenor-Altamirano, Xiang Chen, Tomoyoshi Tamura, Louis T Merriam, Edy Y Kim$^{\dagger}$, Alexandra J Weissman$^{\dagger}$. \
+[Protocol for immunophenotyping out-of-hospital cardiac arrest patients.](https://www.sciencedirect.com/science/article/pii/S266616672400039X) \
+STAR Protocols 5 (1), 102874.
+:::
+
+::::
+
 
 :::: {.columns}
 ::: {.column width="8%"}
@@ -33,7 +61,7 @@ title-block-banner: false
 :::
 
 ::: {.column width="90%"}
-Murphy AJ,$^{\ast \dagger}$ **Cheng C**,$^{\ast}$ Williams J, Shaw TI, Pinto EM, Dieseldorff-Jones K, Brzezinski J, Renfro LA, Tornwall B, Huff V, Hong AL, Mullen EA, Crompton B, Dome JS, Fernandez CV, Geller JI, Ehrlich PF, Mulder H, Oak N, Maciezsek J, Jablonowski C, Fleming AM, Pichavaram P, Morton CL, Easton J, Nichols KE, Clay MR, Santiago T, Zhang J, Yang J, Zambetti GP, Wang Z, Davidoff AM, Chen X $^{\dagger}$. \
+Murphy AJ$^{\ast \dagger}$, **Cheng C**$^{\ast}$, Williams J, Shaw TI, Pinto EM, Dieseldorff-Jones K, Brzezinski J, Renfro LA, Tornwall B, Huff V, Hong AL, Mullen EA, Crompton B, Dome JS, Fernandez CV, Geller JI, Ehrlich PF, Mulder H, Oak N, Maciezsek J, Jablonowski C, Fleming AM, Pichavaram P, Morton CL, Easton J, Nichols KE, Clay MR, Santiago T, Zhang J, Yang J, Zambetti GP, Wang Z, Davidoff AM, Chen X $^{\dagger}$. \
 [Genetic and epigenetic features of bilateral Wilms tumor predisposition in patients from the Children’s Oncology Group AREN18B5-Q.](https://www.nature.com/articles/s41467-023-43730-0) \
 Nat Commun. 14, 8006 (2023).
 :::
@@ -51,7 +79,7 @@ Nat Commun. 14, 8006 (2023).
 :::
 
 ::: {.column width="90%"}
-**Cheng C**,$^{\ast}$ Chen W,$^{\ast}$ Jin H,$^{\ast}$ Chen X. \
+**Cheng C**$^{\ast}$, Chen W$^{\ast}$, Jin H$^{\ast}$, Chen X. \
 [A Review of Single-Cell RNA-Seq Annotation, Integration, and Cell-Cell Communication.](https://pubmed.ncbi.nlm.nih.gov/37566049/) \
 Cells. 2023 Jul 30;12(15). Review. 
 :::
@@ -68,7 +96,7 @@ Cells. 2023 Jul 30;12(15). Review.
 :::
 
 ::: {.column width="90%"}
-Tamura T,$^{\ast}$ **Cheng C**,$^{\ast}$ Chen W, Merriam LT, Athar H, Kim YH, Manandhar R, Amir Sheikh MD, Pinilla-Vera M, Varon J, Hou PC, Lawler PR, Oldham WM, Seethala RR, Tesfaigzi Y, Weissman AJ, Baron RM, Ichinose F, Berg KM, Bohula EA, Morrow DA, Chen X, Kim EY.\
+Tamura T$^{\ast}$, **Cheng C**$^{\ast}$, Chen W, Merriam LT, Athar H, Kim YH, Manandhar R, Amir Sheikh MD, Pinilla-Vera M, Varon J, Hou PC, Lawler PR, Oldham WM, Seethala RR, Tesfaigzi Y, Weissman AJ, Baron RM, Ichinose F, Berg KM, Bohula EA, Morrow DA, Chen X, Kim EY.\
 [Single-cell transcriptomics reveal a hyperacute cytokine and immune checkpoint axis after cardiac arrest in patients with poor neurological outcome.](https://www.ncbi.nlm.nih.gov/pubmed/37257452/) \
 Med. 2023 Jul 14;4(7):432-456.e6. 
 :::
@@ -85,7 +113,7 @@ Med. 2023 Jul 14;4(7):432-456.e6.
 :::
 
 ::: {.column width="90%"}
-Fang J,$^{\ast}$ Singh S,$^{\ast}$ **Cheng C**,$^{\ast}$ Natarajan S,$^{\ast}$ Sheppard H,$^{\ast}$ Abu-Zaid A, Durbin AD, Lee HW, Wu Q, Steele J, Connelly JP, Jin H, Chen W, Fan Y, Pruett-Miller SM, Rehg JE, Koo SC, Santiago T, Emmons J, Cairo S, Wang R, Glazer ES, Murphy AJ, Chen T, Davidoff AM, Armengol C, Easton J, Chen X, Yang J.\
+Fang J$^{\ast}$, Singh S$^{\ast}$, **Cheng C**$^{\ast}$, Natarajan S$^{\ast}$, Sheppard H$^{\ast}$, Abu-Zaid A, Durbin AD, Lee HW, Wu Q, Steele J, Connelly JP, Jin H, Chen W, Fan Y, Pruett-Miller SM, Rehg JE, Koo SC, Santiago T, Emmons J, Cairo S, Wang R, Glazer ES, Murphy AJ, Chen T, Davidoff AM, Armengol C, Easton J, Chen X, Yang J.\
 [Genome-wide mapping of cancer dependency genes and genetic modifiers of chemotherapy in high-risk hepatoblastoma.](https://www.ncbi.nlm.nih.gov/pubmed/37414763/)\
 Nat Commun. 2023 Jul 6;14(1):4003. 
 :::
@@ -417,7 +445,7 @@ Mol Ecol. 2016 May;25(10):2210-25.
 :::
 
 ::: {.column width="90%"}
-Hall AB,$^{\ast}$  Papathanos PA,$^{\ast}$  Sharma A,$^{\ast}$  **Cheng C**,$^{\ast}$  Akbari OS, Assour L, Bergman NH, Cagnetti A, Crisanti A, Dottorini T, Fiorentini E, Galizi R, Hnath J, Jiang X, Koren S, Nolan T, Radune D, Sharakhova MV, Steele A, Timoshevskiy VA, Windbichler N, Zhang S, Hahn MW, Phillippy AM, Emrich SJ, Sharakhov IV, Tu ZJ, Besansky NJ.\
+Hall AB$^{\ast}$,  Papathanos PA$^{\ast}$,  Sharma A$^{\ast}$,  **Cheng C**$^{\ast}$,  Akbari OS, Assour L, Bergman NH, Cagnetti A, Crisanti A, Dottorini T, Fiorentini E, Galizi R, Hnath J, Jiang X, Koren S, Nolan T, Radune D, Sharakhova MV, Steele A, Timoshevskiy VA, Windbichler N, Zhang S, Hahn MW, Phillippy AM, Emrich SJ, Sharakhov IV, Tu ZJ, Besansky NJ.\
 [Radical remodeling of the Y chromosome in a recent radiation of malaria mosquitoes.](https://www.ncbi.nlm.nih.gov/pubmed/27035980/)\
 Proc Natl Acad Sci U S A. 2016 Apr 12;113(15):E2114-23. 
 :::
