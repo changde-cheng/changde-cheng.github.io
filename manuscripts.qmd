@@ -33,7 +33,7 @@ title-block-banner: false
 :::
 
 ::: {.column width="90%"}
-Kohei Yamada$^{\dagger}$, Jaivardhan A Menon, Yaunghyun Kim, Changde Cheng, Wenan Chen, Jenny A Shih, Ana B Villasenor-Altamirano, Xiang Chen, Tomoyoshi Tamura, Louis T Merriam, Edy Y Kim$^{\dagger}$, Alexandra J Weissman$^{\dagger}$. \
+Yamada K$^{\dagger}$, Menon JA, Kim Y, **Cheng C**, Chen W, Shih JA, Villasenor-Altamirano AB, Chen X, Immunology of Cardiac Arrest Network (I-CAN), Tamura T, Merriam LT, Kim EY$^{\dagger}$, Weissman AJ$^{\dagger}$. \
 [Protocol for immunophenotyping out-of-hospital cardiac arrest patients.](https://www.sciencedirect.com/science/article/pii/S266616672400039X) \
 STAR Protocols 5 (1), 102874.
 :::
