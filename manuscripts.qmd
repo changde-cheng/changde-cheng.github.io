@@ -33,6 +33,7 @@ title-block-banner: false
 :::
 
 ::: {.column width="90%"}
+[28] 
 Yamada K$^{\dagger}$, Menon JA, Kim Y, **Cheng C**, Chen W, Shih JA, Villasenor-Altamirano AB, Chen X, Immunology of Cardiac Arrest Network (I-CAN), Tamura T, Merriam LT, Kim EY$^{\dagger}$, Weissman AJ$^{\dagger}$. \
 [Protocol for immunophenotyping out-of-hospital cardiac arrest patients.](https://www.sciencedirect.com/science/article/pii/S266616672400039X) \
 STAR Protocols 5 (1), 102874.
@@ -61,7 +62,7 @@ STAR Protocols 5 (1), 102874.
 :::
 
 ::: {.column width="90%"}
-Murphy AJ$^{\ast \dagger}$, **Cheng C**$^{\ast}$, Williams J, Shaw TI, Pinto EM, Dieseldorff-Jones K, Brzezinski J, Renfro LA, Tornwall B, Huff V, Hong AL, Mullen EA, Crompton B, Dome JS, Fernandez CV, Geller JI, Ehrlich PF, Mulder H, Oak N, Maciezsek J, Jablonowski C, Fleming AM, Pichavaram P, Morton CL, Easton J, Nichols KE, Clay MR, Santiago T, Zhang J, Yang J, Zambetti GP, Wang Z, Davidoff AM, Chen X $^{\dagger}$. \
+[27] Murphy AJ$^{\ast \dagger}$, **Cheng C**$^{\ast}$, Williams J, Shaw TI, Pinto EM, Dieseldorff-Jones K, Brzezinski J, Renfro LA, Tornwall B, Huff V, Hong AL, Mullen EA, Crompton B, Dome JS, Fernandez CV, Geller JI, Ehrlich PF, Mulder H, Oak N, Maciezsek J, Jablonowski C, Fleming AM, Pichavaram P, Morton CL, Easton J, Nichols KE, Clay MR, Santiago T, Zhang J, Yang J, Zambetti GP, Wang Z, Davidoff AM, Chen X $^{\dagger}$. \
 [Genetic and epigenetic features of bilateral Wilms tumor predisposition in patients from the Children’s Oncology Group AREN18B5-Q.](https://www.nature.com/articles/s41467-023-43730-0) \
 Nat Commun. 14, 8006 (2023).
 :::
@@ -79,6 +80,7 @@ Nat Commun. 14, 8006 (2023).
 :::
 
 ::: {.column width="90%"}
+[26] 
 **Cheng C**$^{\ast}$, Chen W$^{\ast}$, Jin H$^{\ast}$, Chen X. \
 [A Review of Single-Cell RNA-Seq Annotation, Integration, and Cell-Cell Communication.](https://pubmed.ncbi.nlm.nih.gov/37566049/) \
 Cells. 2023 Jul 30;12(15). Review. 
@@ -96,6 +98,7 @@ Cells. 2023 Jul 30;12(15). Review.
 :::
 
 ::: {.column width="90%"}
+[25] 
 Tamura T$^{\ast}$, **Cheng C**$^{\ast}$, Chen W, Merriam LT, Athar H, Kim YH, Manandhar R, Amir Sheikh MD, Pinilla-Vera M, Varon J, Hou PC, Lawler PR, Oldham WM, Seethala RR, Tesfaigzi Y, Weissman AJ, Baron RM, Ichinose F, Berg KM, Bohula EA, Morrow DA, Chen X, Kim EY.\
 [Single-cell transcriptomics reveal a hyperacute cytokine and immune checkpoint axis after cardiac arrest in patients with poor neurological outcome.](https://www.ncbi.nlm.nih.gov/pubmed/37257452/) \
 Med. 2023 Jul 14;4(7):432-456.e6. 
@@ -113,6 +116,7 @@ Med. 2023 Jul 14;4(7):432-456.e6.
 :::
 
 ::: {.column width="90%"}
+[24] 
 Fang J$^{\ast}$, Singh S$^{\ast}$, **Cheng C**$^{\ast}$, Natarajan S$^{\ast}$, Sheppard H$^{\ast}$, Abu-Zaid A, Durbin AD, Lee HW, Wu Q, Steele J, Connelly JP, Jin H, Chen W, Fan Y, Pruett-Miller SM, Rehg JE, Koo SC, Santiago T, Emmons J, Cairo S, Wang R, Glazer ES, Murphy AJ, Chen T, Davidoff AM, Armengol C, Easton J, Chen X, Yang J.\
 [Genome-wide mapping of cancer dependency genes and genetic modifiers of chemotherapy in high-risk hepatoblastoma.](https://www.ncbi.nlm.nih.gov/pubmed/37414763/)\
 Nat Commun. 2023 Jul 6;14(1):4003. 
@@ -141,6 +145,7 @@ Nat Commun. 2023 Jul 6;14(1):4003.
 :::
 
 ::: {.column width="90%"}
+[23] 
 Kovach AR, Oristian KM, Kirsch DG, Bentley RC, **Cheng C**, Chen X, Chen PH, Chi JA, Linardic CM.\
 [Identification and targeting of a HES1-YAP1-CDKN1C functional interaction in fusion-negative rhabdomyosarcoma.](https://www.ncbi.nlm.nih.gov/pubmed/36037042/)\
 Mol Oncol. 2022 Oct;16(20):3587-3605. 
@@ -169,6 +174,7 @@ Mol Oncol. 2022 Oct;16(20):3587-3605.
 :::
 
 ::: {.column width="90%"}
+[22] 
 **Cheng C**, Kirkpatrick M.\
 [Molecular evolution and the decline of purifying selection with age.](https://www.ncbi.nlm.nih.gov/pubmed/33976227/)\
 Nat Commun. 2021 May 11;12(1):2657. 
@@ -186,6 +192,7 @@ Nat Commun. 2021 May 11;12(1):2657.
 :::
 
 ::: {.column width="90%"}
+[21] 
 Houle D, **Cheng C**.\
 [Predicting the Evolution of Sexual Dimorphism in Gene Expression.](https://www.ncbi.nlm.nih.gov/pubmed/33512493/)\
 Mol Biol Evol. 2021 May 4;38(5):1847-1859. 
@@ -214,6 +221,7 @@ Mol Biol Evol. 2021 May 4;38(5):1847-1859.
 :::
 
 ::: {.column width="90%"}
+[20] 
 **Cheng C**, Houle D.\
 [Predicting Multivariate Responses of Sexual Dimorphism to Direct and Indirect Selection.](https://www.ncbi.nlm.nih.gov/pubmed/32970462/)\
 Am Nat. 2020 Oct;196(4):391-405. 
@@ -242,6 +250,7 @@ Am Nat. 2020 Oct;196(4):391-405.
 :::
 
 ::: {.column width="90%"}
+[19] 
 **Cheng C**, Easton J, Rosencrance C, Li Y, Ju B, Williams J, Mulder HL, Pang Y, Chen W, Chen X.\
 [Latent cellular analysis robustly reveals subtle diversity in large-scale single-cell RNA-seq data.](https://www.ncbi.nlm.nih.gov/pubmed/31566233/)\
 Nucleic Acids Res. 2019 Dec 16;47(22):e143.
@@ -259,6 +268,7 @@ Nucleic Acids Res. 2019 Dec 16;47(22):e143.
 :::
 
 ::: {.column width="90%"}
+[18] 
 Weng X, Lovell JT, Schwartz SL, **Cheng C**, Haque T, Zhang L, Razzaque S, Juenger TE.\
 [Complex interactions between day length and diurnal patterns of gene expression drive photoperiodic responses in a perennial C(4) grass.](https://www.ncbi.nlm.nih.gov/pubmed/30847928/)\
 Plant Cell Environ. 2019 Jul;42(7):2165-2182. 
@@ -276,6 +286,7 @@ Plant Cell Environ. 2019 Jul;42(7):2165-2182.
 :::
 
 ::: {.column width="90%"}
+[17] 
 **Cheng C**, Kirkpatrick M.\
 [Inversions are bigger on the X chromosome.](https://www.ncbi.nlm.nih.gov/pubmed/30059177/)\
 Mol Ecol. 2019 Mar;28(6):1238-1245.
@@ -304,6 +315,7 @@ Mol Ecol. 2019 Mar;28(6):1238-1245.
 :::
 
 ::: {.column width="90%"}
+[16] 
 **Cheng C**, Tan JC, Hahn MW, Besansky NJ.\
 [Systems genetic analysis of inversion polymorphisms in the malaria mosquito Anopheles gambiae.](https://www.ncbi.nlm.nih.gov/pubmed/29987007/)\
 Proc Natl Acad Sci U S A. 2018 Jul 24;115(30):E7005-E7014.
@@ -321,6 +333,7 @@ Proc Natl Acad Sci U S A. 2018 Jul 24;115(30):E7005-E7014.
 :::
 
 ::: {.column width="90%"}
+[15] 
 Yang K, Blanco DB, Chen X, Dash P, Neale G, Rosencrance C, Easton J, Chen W, **Cheng C**, Dhungana Y, Kc A, Awad W, Guo XJ, Thomas PG, Chi H.\
 [Metabolic signaling directs the reciprocal lineage decisions of αβ and γδ T cells.](https://www.ncbi.nlm.nih.gov/pubmed/29980617/)\
 Sci Immunol. 2018 Jul 6;3(25).
@@ -328,22 +341,23 @@ Sci Immunol. 2018 Jul 6;3(25).
 
 ::::
 
-<!-- :::: {.columns} -->
+:::: {.columns}
 
-<!-- ::: {.column width="8%"} -->
-<!-- ![](../publications/2018_sexRecomb/featured.png) -->
-<!-- ::: -->
+::: {.column width="8%"}
+![](../publications/2018_sexRecomb/featured.png)
+:::
 
-<!-- ::: {.column width="2%"} -->
-<!-- ::: -->
+::: {.column width="2%"}
+:::
 
-<!-- ::: {.column width="90%"} -->
-<!-- Sardell JM, **Cheng C**, Dagilis AJ, Ishikawa A, Kitano J, Peichel CL, Kirkpatrick M.\ -->
-<!-- [Sex Differences in Recombination in Sticklebacks.](https://www.ncbi.nlm.nih.gov/pubmed/29632132/)\ -->
-<!-- G3 (Bethesda). 2018 May 31;8(6):1971-1983.  -->
-<!-- ::: -->
+::: {.column width="90%"}
+[14] 
+Sardell JM, **Cheng C**, Dagilis AJ, Ishikawa A, Kitano J, Peichel CL, Kirkpatrick M.\
+[Sex Differences in Recombination in Sticklebacks.](https://www.ncbi.nlm.nih.gov/pubmed/29632132/)\
+G3 (Bethesda). 2018 May 31;8(6):1971-1983.
+:::
 
-<!-- :::: -->
+::::
 
 :::: {.columns}
 ::: {.column width="8%"}
@@ -366,6 +380,7 @@ Sci Immunol. 2018 Jul 6;3(25).
 :::
 
 ::: {.column width="90%"}
+[13] 
 **Cheng C**, Kirkpatrick M.\
 [Environmental Plasticity in the Intersexual Correlation and Sex Bias of Gene Expression.](https://www.ncbi.nlm.nih.gov/pubmed/29036352/)\
 J Hered. 2017 Oct 30;108(7):754-758.
@@ -383,6 +398,7 @@ J Hered. 2017 Oct 30;108(7):754-758.
 :::
 
 ::: {.column width="90%"}
+[12] 
 Fontaine A, Filipovic I, Fansiri T, Hoffmann AA, **Cheng C**, Kirkpatrick M, Rašic G, Lambrechts L.\
 [Extensive Genetic Differentiation between Homomorphic Sex Chromosomes in the Mosquito Vector, Aedes aegypti.](https://www.ncbi.nlm.nih.gov/pubmed/28945882/)\
 Genome Biol Evol. 2017 Sep 1;9(9):2322-2335.
@@ -411,6 +427,7 @@ Genome Biol Evol. 2017 Sep 1;9(9):2322-2335.
 :::
 
 ::: {.column width="90%"}
+[11] 
 **Cheng C**, Kirkpatrick M.\
 [Sex-Specific Selection and Sex-Biased Gene Expression in Humans and Flies.](https://www.ncbi.nlm.nih.gov/pubmed/27658217/)\
 PLoS Genet. 2016 Sep;12(9):e1006170.
@@ -428,6 +445,7 @@ PLoS Genet. 2016 Sep;12(9):e1006170.
 :::
 
 ::: {.column width="90%"}
+[10] 
 Uyhelji HA, **Cheng C**, Besansky NJ.\
 [Transcriptomic differences between euryhaline and stenohaline malaria vector sibling species in response to salinity stress.](https://www.ncbi.nlm.nih.gov/pubmed/26945667/)\
 Mol Ecol. 2016 May;25(10):2210-25.
@@ -445,6 +463,7 @@ Mol Ecol. 2016 May;25(10):2210-25.
 :::
 
 ::: {.column width="90%"}
+[9] 
 Hall AB$^{\ast}$,  Papathanos PA$^{\ast}$,  Sharma A$^{\ast}$,  **Cheng C**$^{\ast}$,  Akbari OS, Assour L, Bergman NH, Cagnetti A, Crisanti A, Dottorini T, Fiorentini E, Galizi R, Hnath J, Jiang X, Koren S, Nolan T, Radune D, Sharakhova MV, Steele A, Timoshevskiy VA, Windbichler N, Zhang S, Hahn MW, Phillippy AM, Emrich SJ, Sharakhov IV, Tu ZJ, Besansky NJ.\
 [Radical remodeling of the Y chromosome in a recent radiation of malaria mosquitoes.](https://www.ncbi.nlm.nih.gov/pubmed/27035980/)\
 Proc Natl Acad Sci U S A. 2016 Apr 12;113(15):E2114-23. 
@@ -473,6 +492,7 @@ Proc Natl Acad Sci U S A. 2016 Apr 12;113(15):E2114-23.
 :::
 
 ::: {.column width="90%"}
+[8] 
 Smith HA, White BJ, Kundert P, **Cheng C**, Romero-Severson J, Andolfatto P, Besansky NJ.\
 [Genome-wide QTL mapping of saltwater tolerance in sibling species of Anopheles (malaria vector) mosquitoes.](https://www.ncbi.nlm.nih.gov/pubmed/25920668/)\
 Heredity (Edinb). 2015 Nov;115(5):471-9. 
@@ -501,6 +521,7 @@ Heredity (Edinb). 2015 Nov;115(5):471-9.
 :::
 
 ::: {.column width="90%"}
+[7] 
 Cassone BJ, Kamdem C, **Cheng C**, Tan JC, Hahn MW, Costantini C, Besansky NJ.\
 [Gene expression divergence between malaria vector sibling species Anopheles gambiae and An. coluzzii from rural and urban Yaoundé Cameroon.](https://www.ncbi.nlm.nih.gov/pubmed/24673723/)\
 Mol Ecol. 2014 May;23(9):2242-59. 
@@ -518,6 +539,7 @@ Mol Ecol. 2014 May;23(9):2242-59.
 :::
 
 ::: {.column width="90%"}
+[6] 
 Reidenbach KR, **Cheng C**, Liu F, Liu C, Besansky NJ, Syed Z.\
 [Cuticular differences associated with aridity acclimation in African malaria vectors carrying alternative arrangements of inversion 2La.](https://www.ncbi.nlm.nih.gov/pubmed/24721548/)\
 Parasit Vectors. 2014 Apr 10;7:176. 
@@ -545,6 +567,7 @@ Parasit Vectors. 2014 Apr 10;7:176.
 :::
 
 ::: {.column width="90%"}
+[5] 
 **Cheng C**, White BJ, Kamdem C, Mockaitis K, Costantini C, Hahn MW, Besansky NJ.\
 [Ecological genomics of Anopheles gambiae along a latitudinal cline: a population-resequencing approach.](https://www.ncbi.nlm.nih.gov/pubmed/22209907/)\
 Genetics. 2012 Apr;190(4):1417-32.
@@ -573,6 +596,7 @@ Genetics. 2012 Apr;190(4):1417-32.
 :::
 
 ::: {.column width="90%"}
+[4] 
 Cassone BJ, Molloy MJ, **Cheng C**, Tan JC, Hahn MW, Besansky NJ.\
 [Divergent transcriptional response to thermal stress by Anopheles gambiae larvae carrying alternative arrangements of inversion 2La.](https://www.ncbi.nlm.nih.gov/pubmed/21535279/)\
 Mol Ecol. 2011 Jun;20(12):2567-80.
@@ -590,6 +614,7 @@ Mol Ecol. 2011 Jun;20(12):2567-80.
 :::
 
 ::: {.column width="90%"}
+[3] 
 White BJ, Lawniczak MK, **Cheng C**, Coulibaly MB, Wilson MD, Sagnon N, Costantini C, Simard F, Christophides GK, Besansky NJ.\
 [Adaptive divergence between incipient species of Anopheles gambiae increases resistance to Plasmodium.](https://www.ncbi.nlm.nih.gov/pubmed/21173248/)\
 Proc Natl Acad Sci U S A. 2011 Jan 4;108(1):244-9.
@@ -618,6 +643,7 @@ Proc Natl Acad Sci U S A. 2011 Jan 4;108(1):244-9.
 :::
 
 ::: {.column width="90%"}
+[2] 
 White BJ, **Cheng C**, Simard F, Costantini C, Besansky NJ.\
 [Genetic association of physically unlinked islands of genomic divergence in incipient species of Anopheles gambiae.](https://www.ncbi.nlm.nih.gov/pubmed/20149091/)\
 Mol Ecol. 2010 Mar;19(5):925-39. 
@@ -645,6 +671,7 @@ Mol Ecol. 2010 Mar;19(5):925-39.
 :::
 
 ::: {.column width="90%"}
+[1] 
 White BJ, **Cheng C**, Sangaré D, Lobo NF, Collins FH, Besansky NJ.\
 [The population genomics of trans-specific inversion polymorphisms in Anopheles gambiae.](https://www.ncbi.nlm.nih.gov/pubmed/19581444/)\
 Genetics. 2009 Sep;183(1):275-88. 
