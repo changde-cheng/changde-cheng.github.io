@@ -33,7 +33,7 @@ title-block-banner: false
 :::
 
 ::: {.column width="90%"}
-[28] 
+[28]
 Yamada K$^{\dagger}$, Menon JA, Kim Y, **Cheng C**, Chen W, Shih JA, Villasenor-Altamirano AB, Chen X, Immunology of Cardiac Arrest Network (I-CAN), Tamura T, Merriam LT, Kim EY$^{\dagger}$, Weissman AJ$^{\dagger}$. \
 [Protocol for immunophenotyping out-of-hospital cardiac arrest patients.](https://www.sciencedirect.com/science/article/pii/S266616672400039X) \
 STAR Protocols 5 (1), 102874.
@@ -671,7 +671,7 @@ Mol Ecol. 2010 Mar;19(5):925-39.
 :::
 
 ::: {.column width="90%"}
-[1] 
+[1]
 White BJ, **Cheng C**, Sangaré D, Lobo NF, Collins FH, Besansky NJ.\
 [The population genomics of trans-specific inversion polymorphisms in Anopheles gambiae.](https://www.ncbi.nlm.nih.gov/pubmed/19581444/)\
 Genetics. 2009 Sep;183(1):275-88. 
