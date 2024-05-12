@@ -4,7 +4,8 @@
       "featured"
     ],
     "index.qmd": [
-      "posts"
+      "posts",
+      "preprints"
     ],
     "posts.qmd": [
       "posts"

@@ -6,11 +6,11 @@ project:
     - "*.Rmd"
     - "*.md"
   preview:
-    port: 1234
+#    port: 1234
     browser: true
 
 website:
-  title: "CHENG LAB"
+  title: "CHANGDE CHENG LAB"
   site-url: https://changde-cheng.github.io
   search: false
   navbar:
@@ -36,8 +36,8 @@ website:
         file: manuscripts.qmd
       # - text: "Press"
       #   file: press.qmd
-      - text: "Working Papers"
-        file: preprints.qmd
+      #- text: "Working Papers"
+      #  file: preprints.qmd
       # - text: "Key papers"
       #   file: featured.qmd
       # - text: "More Publications"

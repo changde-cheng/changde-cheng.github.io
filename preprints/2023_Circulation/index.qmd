@@ -10,6 +10,6 @@ Anthracyclines induce cardiotoxicity via DNA double-strand breaks (DSBs) and rea
 
 ## Reference
 
-Xuexia Wang<sup>*</sup>, Purnima Singh<sup>*</sup>, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, **Changde Cheng**, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.
+Xuexia Wang<sup>\*</sup>, Purnima Singh<sup>\*</sup>, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, **Changde Cheng**, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.
 
 

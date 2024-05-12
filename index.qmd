@@ -1,5 +1,12 @@
 ---
-title: "Computational Biology and Cancer Genomics"
+title: "Changde Cheng Lab"
+listing:
+  contents: preprints
+  sort: "date asc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
 # listing:
 #   contents: posts
 #   sort: "date desc"
@@ -23,13 +30,15 @@ embed-resources: true
 
 <!-- Dr. Changde Cheng uses computational and analytical methods to investigate cancer ecology and evolution's impact on therapeutic resistance and side effects. The primary objective is to enhance cancer patient outcomes. -->
 
-Dr. Changde Cheng uses computational and analytical methods to investigate cancer ecology and evolution's impact on therapeutic resistance. The primary objective is to enhance cancer patient outcomes.
+## Computational Biology and Cancer Genomics
 
-Our laboratory strives to develop high-performance machine-learning tools to gain a comprehensive understanding of cancer biology in patients. We employ high-throughput techniques like single-cell RNA-seq, spatial, multiomics, and perturbation sequencing to study cancer's origin, progression, and therapeutic resistance. Our research focuses on identifying the cancer cell subpopulations responsible for relapse and understanding how microenvironments influence their response to treatment by decoding communication networks among cells. 
+We investigate the impact of (epi-)mutations and cell-cell communication in cancer genomics using computational and analytical methods.  We develop innovative analytical methods and machine-learning tools to advance our understanding of cancer biology in patients.  We take high-throughput approaches, including single-cell RNA-seq, spatial, multiomics, and perturbation sequencing, to study cancer's origin, progression, and therapeutic resistance.  Our research focuses on identifying the cancer cell subpopulations responsible for relapse and understanding how microenvironments influence their response to treatment by decoding communication networks among cells. 
 
-Our ultimate goal is to translate these findings into clinical settings, making cancer treatment more precise, minimizing disease recurrence risk, and improving patient outcomes.
+Our ultimate goal is to translate our research findings into clinical settings to improve cancer treatment precision, minimize disease recurrence risk, and enhance patient outcomes.
 
+## List of working papers
 
+---
 <!-- **Methods development and validation** - Our laboratory aims to create innovative computational methods and machine learning tools that can utilize high-throughput, high-dimensional genomics and heterogeneous biological data to gain a comprehensive and in-depth understanding of the biology of patient tumors. This understanding will help us develop effective treatment and therapy options, which can be translated into clinical practice. -->
 
 <!-- **Representative publications** -->
