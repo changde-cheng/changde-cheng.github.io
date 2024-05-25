@@ -13,10 +13,13 @@ title-block-banner: false
 
 Changde Cheng, PhD
 
+::: {style="color:green;"}
 Stem Cell Biology Program, Division of Hematology/Oncology, Department of Medicine\
 Department of Biomedical Informatics and Data Science\
 Center for Clinical and Translational Science\
 O'Neal Comprehensive Cancer Center\
-Heersink School of Medicine | University of Alabama at Birmingham
+Heersink School of Medicine, University of Alabama at Birmingham\
 
-Email: ccheng3 {at} uab {dot} edu
+Wallace Tumor Institute 520A. \
+1824 6th Ave S Birmingham, Alabama 35233. 
+:::

@@ -12,7 +12,7 @@ embed-resources: true
 
 <!-- ## Changde Cheng -->
 
-::: {style="font-size: 80%;"}
+::: {style="font-size: 80%; color:green;"}
 Stem Cell Biology Program,  Department of Medicine\
 Department of Biomedical Informatics and Data Science\
 Center for Clinical and Translational Science\
