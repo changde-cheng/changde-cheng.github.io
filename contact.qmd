@@ -7,12 +7,16 @@
 #   categories: false
 #   sort-ui: false
 #   filter-ui: false
-page-layout: full
+# page-layout: full
 title-block-banner: false
 ---
 
-Changde Cheng, PhD\
-Department of Medicine, Division of Hematology/Oncology\
-University of Alabama at Birmingham
+Changde Cheng, PhD
+
+Stem Cell Biology Program, Division of Hematology/Oncology, Department of Medicine\
+Department of Biomedical Informatics and Data Science\
+Center for Clinical and Translational Science\
+O'Neal Comprehensive Cancer Center\
+Heersink School of Medicine | University of Alabama at Birmingham
 
 Email: ccheng3 {at} uab {dot} edu
