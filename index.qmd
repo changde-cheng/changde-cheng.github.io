@@ -46,11 +46,14 @@ My current research focuses on identifying the cancer cell subpopulations respon
 <!-- 2023 -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2023 $\circ$
+2023 
 :::
 ::::
 
@@ -79,11 +82,14 @@ In revision.
 <!-- 2022 -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\bullet$ 
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2022 $\bullet$ 
+2022 
 :::
 ::::
 
@@ -109,11 +115,14 @@ In revision.
 <!-- 2017 -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\bullet$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2017 $\bullet$
+2017 
 :::
 ::::
 
@@ -144,11 +153,14 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2024 $\circ$
+2024 
 :::
 ::::
 
@@ -175,11 +187,14 @@ Yamada K$^{\dagger}$, Menon JA, Kim Y, **Cheng C**, Chen W, Shih JA, Villasenor-
 
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\bullet$$\bullet$$\bullet$$\bullet$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2023 $\bullet$$\bullet$$\bullet$$\bullet$
+2023 
 :::
 ::::
 
@@ -266,11 +281,14 @@ Fang J$^{\ast}$, Singh S$^{\ast}$, **Cheng C <sup>\*</sup>**, Natarajan S$^{\ast
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2022 $\circ$
+2022 
 :::
 ::::
 
@@ -297,11 +315,14 @@ Kovach AR, Oristian KM, Kirsch DG, Bentley RC, **Cheng C**, Chen X, Chen PH, Chi
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$$\bullet$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2021 $\circ$$\bullet$
+2021 
 :::
 ::::
 
@@ -346,11 +367,14 @@ Houle D, **Cheng C**.\
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\bullet$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2020 $\bullet$
+2020 
 :::
 ::::
 
@@ -378,11 +402,14 @@ Houle D, **Cheng C**.\
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$$\bullet$$\bullet$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2019 $\circ$$\bullet$$\bullet$
+2019 
 :::
 ::::
 
@@ -452,11 +479,14 @@ Weng X, Lovell JT, Schwartz SL, **Cheng C**, Haque T, Zhang L, Razzaque S, Jueng
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$$\circ$$\bullet$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2018 $\circ$$\circ$$\bullet$
+2018 
 :::
 ::::
 
@@ -526,11 +556,14 @@ Sardell JM, **Cheng C**, Dagilis AJ, Ishikawa A, Kitano J, Peichel CL, Kirkpatri
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$ $\bullet$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2017 $\circ$ $\bullet$
+2017 
 :::
 ::::
 
@@ -579,11 +612,14 @@ Fontaine A, Filipovic I, Fansiri T, Hoffmann AA, **Cheng C**, Kirkpatrick M, Ra≈
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$$\bullet$$\bullet$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2016 $\circ$$\bullet$$\bullet$
+2016 
 :::
 ::::
 
@@ -653,11 +689,14 @@ Hall AB$^{\ast}$,  Papathanos PA$^{\ast}$,  Sharma A$^{\ast}$,  **Cheng C <sup>\
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2015 $\circ$
+2015 
 :::
 ::::
 
@@ -685,11 +724,14 @@ Smith HA, White BJ, Kundert P, **Cheng C**, Romero-Severson J, Andolfatto P, Bes
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$$\circ$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2014 $\circ$$\circ$
+2014 
 :::
 ::::
 
@@ -737,11 +779,14 @@ Reidenbach KR, **Cheng C**, Liu F, Liu C, Besansky NJ, Syed Z.\
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\bullet$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2012 $\bullet$
+2012 
 :::
 ::::
 
@@ -768,11 +813,14 @@ Reidenbach KR, **Cheng C**, Liu F, Liu C, Besansky NJ, Syed Z.\
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$$\circ$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2011 $\circ$$\circ$
+2011 
 :::
 ::::
 
@@ -819,11 +867,14 @@ White BJ, Lawniczak MK, **Cheng C**, Coulibaly MB, Wilson MD, Sagnon N, Costanti
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2010 $\circ$
+2010 
 :::
 ::::
 
@@ -850,11 +901,14 @@ White BJ, **Cheng C**, Simard F, Costantini C, Besansky NJ.\
 <!-- article -->
 :::: {.columns}
 ::: {.column width="8%"}
+::: {style="text-align:right;"}
+$\circ$
+:::
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="90%"}
-2009 $\circ$
+2009 
 :::
 ::::
 
