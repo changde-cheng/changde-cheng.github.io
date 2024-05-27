@@ -1,0 +1,16 @@
+---
+title: "Molecular evolution and the decline of purifying selection with age"
+date: 2021-05-11
+#authors: ["C. Cheng", "M. Kirkpatrick"]
+categories: ["Nature Communications"]
+url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/33976227"
+slides: 2021_Evolution
+doi: "10.1038/s41467-021-22981-9"
+image: featured.png
+---
+
+### Abstract
+
+Life history theory predicts that the intensity of selection declines with age, and this trend should impact how genes expressed at different ages evolve. Here we find consistent relationships between a gene's age of expression and patterns of molecular evolution in two mammals (the human Homo sapiens and the mouse *Mus musculus*) and two insects (the malaria mosquito *Anopheles gambiae* and the fruit fly *Drosophila melanogaster*). When expressed later in life, genes fix nonsynonymous mutations more frequently, are more polymorphic for nonsynonymous mutations, and have shorter evolutionary lifespans, relative to those expressed early. The latter pattern is explained by a simple evolutionary model. Further, early-expressed genes tend to be enriched in similar gene ontology terms across species, while late-expressed genes show no such consistency. In humans, late-expressed genes are more likely to be linked to cancer and to segregate for dominant disease-causing mutations. Last, the effective strength of selection (N<sub>e</sub> s) decreases and the fraction of beneficial mutations increases with a gene's age of expression. 
+
+These results are consistent with the diminishing efficacy of purifying selection with age, as proposed by Medawar's classic hypothesis for the evolution of senescence, and provide links between life history theory and molecular evolution.

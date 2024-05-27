@@ -201,7 +201,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2023_bwt/featured.png)
+![](/publications/2023_bwt/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -221,7 +221,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2023_scRNAreview/featured.png)
+![](/publications/2023_scRNAreview/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -241,7 +241,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2023_CA/featured.png)
+![](/publications/2023_CA/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -261,7 +261,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2023_HB/featured.png)
+![](/publications/2023_HB/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -295,7 +295,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2022_HES1/featured.png)
+![](/publications/2022_HES1/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -329,7 +329,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../featured/2021_agingGenes/featured.png)
+![](/featured/2021_agingGenes/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -348,7 +348,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../featured/2021_pred_sd/featured.jpeg)
+![](/featured/2021_pred_sd/featured.jpeg)
 :::
 
 ::: {.column width="2%"}
@@ -381,7 +381,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../featured/2020_scs/featured.png)
+![](/featured/2020_scs/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -416,7 +416,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../featured/2019_LCA/featured.jpg)
+![](/featured/2019_LCA/featured.jpg)
 :::
 
 ::: {.column width="2%"}
@@ -437,7 +437,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2019_photoperiod/featured.png)
+![](/publications/2019_photoperiod/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -458,7 +458,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../featured/2019_bigX/featured.jpeg)
+![](/featured/2019_bigX/featured.jpeg)
 :::
 
 ::: {.column width="2%"}
@@ -493,7 +493,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../featured/2016_SystemsGenetics/featured.png)
+![](/featured/2016_SystemsGenetics/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -514,7 +514,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2018_Tcell/featured.jpeg)
+![](/publications/2018_Tcell/featured.jpeg)
 :::
 
 ::: {.column width="2%"}
@@ -535,7 +535,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2018_sexRecomb/featured.png)
+![](/publications/2018_sexRecomb/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -570,7 +570,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2017_plasiticity/featured.jpeg)
+![](/publications/2017_plasiticity/featured.jpeg)
 :::
 
 ::: {.column width="2%"}
@@ -591,7 +591,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2017_Aedes/featured.png)
+![](/publications/2017_Aedes/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -626,7 +626,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../featured/2016_twinPeaks/featured.png)
+![](/featured/2016_twinPeaks/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -647,7 +647,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2016_salty_water/featured.webp)
+![](/publications/2016_salty_water/featured.webp)
 :::
 
 ::: {.column width="2%"}
@@ -668,7 +668,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../featured/2016_Ychr/featured.png)
+![](/featured/2016_Ychr/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -703,7 +703,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2015_QTL/featured.png)
+![](/publications/2015_QTL/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -738,7 +738,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2014_divergent/featured.jpeg)
+![](/publications/2014_divergent/featured.jpeg)
 :::
 
 ::: {.column width="2%"}
@@ -759,7 +759,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2014_cuticle/featured.png)
+![](/publications/2014_cuticle/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -793,7 +793,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../featured/2012_ecogenomics/featured.png)
+![](/featured/2012_ecogenomics/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -827,7 +827,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2011_thermal_inversion/featured.jpeg)
+![](/publications/2011_thermal_inversion/featured.jpeg)
 :::
 
 ::: {.column width="2%"}
@@ -847,7 +847,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2011_speciation/featured.jpg)
+![](/publications/2011_speciation/featured.jpg)
 :::
 
 ::: {.column width="2%"}
@@ -881,7 +881,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../featured/2010_speciation/featured.png)
+![](/featured/2010_speciation/featured.png)
 :::
 
 ::: {.column width="2%"}
@@ -916,7 +916,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 
 ::: {.column width="8%"}
-![](../publications/2009_inversions/featured.jpeg)
+![](/publications/2009_inversions/featured.jpeg)
 :::
 
 ::: {.column width="2%"}

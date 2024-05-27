@@ -1,0 +1,16 @@
+---
+title: "Environmental plasticity in the intersexual correlation and sex bias of gene expression"
+date: 2017-09-27
+#authors: ["C. Cheng", "M. Kirkpatrick"]
+publication: "*J Hered*"
+categories: ["Journal of Heredity"]
+url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/29036352"
+doi: "10.1093/jhered/esx083"
+image: featured.jpeg
+---
+
+### Abstract
+
+Intersexual genetic correlations are expected to constrain the evolution of sexual dimorphic traits, including the degree of sex-biased gene expression. Consistent with that expectation, studies in fruit flies and birds have reported that genes whose expression has a strong intersexual genetic correlation ($r_{\mathrm{MF}}$) show a lower level of sex-biased expression. However, it is known that both $r_{\mathrm{MF}}$ and sex-biased expression can be affected by the environment. It is therefore unclear whether there is a consistent relationship between these 2 quantities across multiple environments. 
+
+In this paper, we study this relationship in the African malaria mosquito Anopheles gambiae. We show that both $r_{\mathrm{MF}}$ and sex-biased expression change between environments. The change in sex-biased expression across environments is significantly correlated with dN/dS: greater changes in sex-biased expression are associated with higher values of dN/dS. Furthermore, the relationship between $r_{\mathrm{MF}}$ and sex-biased expression is sensitive to the environment. We conclude that this relationship is sufficiently plastic that environmental effects should be considered in future studies.

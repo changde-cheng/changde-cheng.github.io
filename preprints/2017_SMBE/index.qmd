@@ -1,0 +1,24 @@
+---
+title: "Sexually antagonistic selection and sex chromosome evolution in Stickleback"
+description: | 
+  Submission to the 2017 Society for Molecular Biology & Evolution meeting at Austin, TX.
+date: 2017-01-25
+author: ["Changde Cheng",  "Andrius J. Dagilis", "Jason M. Sardell", "Asano Ishikawa", "Jun Kitano", "Matthew P. Josephson", "Catherine L. Peichel", "Mark Kirkpatrick"]
+citation: true
+image: featured.png
+---
+
+(Submission to the 2017 Society for Molecular Biology & Evolution meeting at Austin, TX.)
+
+### Research Summary
+
+Why do females and males differ (Darwin 1871)? What are the evolutionary forces behind the differences between the sexes? Sexually antagonistic selection (“SA selection”), which increases the fitness of an allele in one sex and decreases it in the other (Fisher 1958, Arnqvist and Rowe 2005), is a top candidate. SA selection is also thought to be important in the evolution of sex chromosomes by favoring reduced recombination between sex determining loci and loci under SA selection (van Doorn and Kirkpatrick 2007).
+
+Despite its theoretical importance, we know little about the strength and genomic targets of SA selection in natural populations. SA selection can be widespread in the genome. Eight percent of genes have been estimated to be under SA selection in *Drosophila* by measuring fitness of females and males in the lab (Innocenti and Morrow 2010). However, there is little understanding on the strength and targets of SA selection in natural populations (Cheng and Kirkpatrick 2016).
+
+Sex chromosomes offer unique opportunities to advance our understanding of SA selection. Theory predicts genes under SA selection should be enriched on sex chromosomes (Rice 1992). Furthermore, SA selection is predicted to cause the evolution of reduced recombination between X and Y (or Z and W) by chromosomal rearrangements (Charlesworth and Charlesworth 1980).
+
+The young and still recombining sex chromosomes in Japan Sea stickleback (*Gasterosteus nipponicus*) provide a rare opportunity to study SA selection. We sequenced and phased whole sex chromosomes by analyzing genetic inheritance in family quartets. We aimed to looking for footprints of SA selection by detecting regions of significantly elevated divergence between X and Y chromosomes. We estimated the strength and targets of SA selection by fitting a population genetics model to the data. We investigated the phenotypic effects of loci under SA selection by integrating results from previous QTL studies. Our study is among the first revealing the nature of the forces acting in earliest stages of sex chromosome evolution using genomic data. Our work will provide insight to evolutionary forces that establish genes with conflicting effects in females and males, which are detrimental to health including our own species.
+
+
+

@@ -1,0 +1,18 @@
+---
+title: "Metabolic signaling directs the reciprocal lineage decisions of alphabeta and gammadelta T cells"
+date: 2018-07-06
+#authors: ["K. Yang", "D. B. Blanco", "X. Chen", "P. Dash", "G. Neale", "C. Rosencrance", "J. Easton", "W. Chen", "C. Cheng", "Y. Dhungana", "A. Kc", "W. Awad", "X. J. Guo", "P. G. Thomas", "H. Chi"]
+publication: "*Sci Immunol*"
+categories: ["Science immunology"]
+url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/29980617"
+doi: "10.1126/sciimmunol.aas9818"
+image: featured.jpeg
+---
+
+### Abstract
+
+The interaction between extrinsic factors and intrinsic signal strength governs thymocyte development, but the mechanisms linking them remain elusive. 
+
+We report that mechanistic target of rapamycin complex 1 (mTORC1) couples microenvironmental cues with metabolic programs to orchestrate the reciprocal development of two fundamentally distinct T cell lineages, the alphabeta and gammadelta T cells. Developing thymocytes dynamically engage metabolic programs including glycolysis and oxidative phosphorylation, as well as mTORC1 signaling. Loss of RAPTOR-mediated mTORC1 activity impairs the development of alphabeta T cells but promotes gammadelta T cell generation, associated with disrupted metabolic remodeling of oxidative and glycolytic metabolism. 
+
+Mechanistically, we identify mTORC1-dependent control of reactive oxygen species production as a key metabolic signal in mediating alphabeta and gammadelta T cell development, and perturbation of redox homeostasis impinges upon thymocyte fate decisions and mTORC1-associated phenotypes. Furthermore, single-cell RNA sequencing and genetic dissection reveal that mTORC1 links developmental signals from T cell receptors and NOTCH to coordinate metabolic activity and signal strength. Our results establish mTORC1-driven metabolic signaling as a decisive factor for reciprocal alphabeta and gammadelta T cell development and provide insight into metabolic control of cell signaling and fate decisions.

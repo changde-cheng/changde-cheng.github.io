@@ -1,0 +1,12 @@
+---
+title: "Single-cell transcriptomics reveal a hyperacute cytokine and immune checkpoint axis after cardiac arrest in patients with poor neurological outcome"
+date: 2023-05-30
+categories: ["Med"]
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S2666634023001435?via%3Dihub"
+doi: "10.1016/j.medj.2023.05.003"
+image: featured.png
+---
+
+### Context and significance
+
+Brain injury is the leading cause of death among patients hospitalized after out-of-hospital cardiac arrest. Although inflammation is associated with brain injury and mortality after cardiac arrest, the immune landscape after cardiac arrest is poorly understood. By examining peripheral blood at single-cell resolution, this study shows that examining the innate immune system just 6 h after cardiac arrest differentiates patients who eventually have good or poor neurological outcomes days later. Cardiac arrest triggers an early negative feedback loop in which pro- and anti-inflammatory cytokines induce immune checkpoints that limit inflammation. These findings support investigation of therapeutic approaches that augment protective immune mechanisms very early after cardiac arrest.
