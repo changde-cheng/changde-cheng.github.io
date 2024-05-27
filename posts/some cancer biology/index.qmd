@@ -1,9 +1,0 @@
----
-title: "Some cancer biology"
-author: "Changde Cheng"
-date: "2017-05-01"
----
-
-I had a nice discussion with Neil and found out some interesting bit of interesting biology.
-
-> Update soon ...
