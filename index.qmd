@@ -69,7 +69,7 @@ My current research focuses on identifying the cancer cell subpopulations respon
 
 ::: {.column width="90%"}
 [2023-10-30]
-Xuexia Wang<sup>\*</sup>, Purnima Singh<sup>\*</sup>, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, **Changde Cheng**, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.\
+[Xuexia Wang$^{\ast}$, Purnima Singh$^{\ast}$, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, [Changde Cheng]{style="color:black;"}, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
 **DNA damage response and repair genes and Anthracycline-induced cardiomyopathy in childhood cancer survivors: a report from the Children’s Oncology Group and the Childhood Cancer Survivor Study**. \
 In revision.
 :::
@@ -105,7 +105,7 @@ In revision.
 
 ::: {.column width="90%"}
 [2022-02-01]
-Tomoyoshi Tamura<sup>\*</sup>, **Changde Cheng <sup>\*</sup>**, Ana Villaseñor-Altamirano<sup>\*</sup>, Kei Hayashida, Kohei Ikeda<sup>\*</sup>, Kohei Yamada<sup>\*</sup>, Jaivardhan A Menon, Louis T. Merriam, Jack Varon, Jiyoung Choi, Aidan M. Cullen, Jingyu Guo, Benjamin A. Olenchock, Mayra A. Pinilla-Vera, Reshmi Manandhar, Muhammad Dawood Amir Sheikh, Peter C. Hou, Patrick R. Lawler, William M. Oldham, Raghu R. Seethala, Immunology of Cardiac Arrest Network (I-CAN), Rebecca M. Baron, Erin A. Bohula, David A. Morrow, Alexandra Weissman, Michael B. Brenner, Xiang Chen ‡ , Fumito Ichinose ‡ , Edy Y. Kim ‡ .\
+[Tomoyoshi Tamura$^{\ast}$, [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Ana Villaseñor-Altamirano$^{\ast}$, Kei Hayashida, Kohei Ikeda$^{\ast}$, Kohei Yamada$^{\ast}$, Jaivardhan A Menon, Louis T. Merriam, Jack Varon, Jiyoung Choi, Aidan M. Cullen, Jingyu Guo, Benjamin A. Olenchock, Mayra A. Pinilla-Vera, Reshmi Manandhar, Muhammad Dawood Amir Sheikh, Peter C. Hou, Patrick R. Lawler, William M. Oldham, Raghu R. Seethala, Immunology of Cardiac Arrest Network (I-CAN), Rebecca M. Baron, Erin A. Bohula, David A. Morrow, Alexandra Weissman, Michael B. Brenner, Xiang Chen ‡ , Fumito Ichinose ‡ , Edy Y. Kim ‡ .]{style="font-weight: 300; color:gray;"}\
 **Innate T cells regulate early inflammation and neurological outcomes after cardiac arrest and resuscitation**. \
 In revision.
 :::
@@ -138,7 +138,7 @@ In revision.
 
 ::: {.column width="90%"}
 [2017-01-25]
-**Changde Cheng**,  Andrius J. Dagilis, Jason M. Sardell, Asano Ishikawa, Jun Kitano,  Matthew P. Josephson, Catherine L. Peichel, Mark Kirkpatrick.\
+[Changde Cheng]{style="font-weight: 300; color:black;"}[,  Andrius J. Dagilis, Jason M. Sardell, Asano Ishikawa, Jun Kitano,  Matthew P. Josephson, Catherine L. Peichel, Mark Kirkpatrick.]{style="font-weight: 300; color:gray;"}\
 **Sexually antagonistic selection and sex chromosome evolution in Stickleback**. \
 Submission to the 2017 Society for Molecular Biology & Evolution meeting at Austin, Texas, US.
 :::
@@ -176,7 +176,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 
 ::: {.column width="90%"}
 [28.]{style="font-size: 80%; color:gray;"} 
-Yamada K$^{\dagger}$, Menon JA, Kim Y, **Cheng C**, Chen W, Shih JA, Villasenor-Altamirano AB, Chen X, Immunology of Cardiac Arrest Network (I-CAN), Tamura T, Merriam LT, Kim EY$^{\dagger}$, Weissman AJ$^{\dagger}$. \
+[Yamada K$^{\dagger}$, Menon JA, Kim Y, [Changde Cheng]{style="font-weight: 300; color:black;"}, Chen W, Shih JA, Villasenor-Altamirano AB, Chen X, Immunology of Cardiac Arrest Network (I-CAN), Tamura T, Merriam LT, Kim EY$^{\dagger}$, Weissman AJ$^{\dagger}$.]{style="font-weight: 300; color:gray;"} \
 **Protocol for immunophenotyping out-of-hospital cardiac arrest patients** \
 [STAR Protocols](https://www.sciencedirect.com/science/article/pii/S266616672400039X) 5 (1), 102874.
 :::
@@ -209,7 +209,7 @@ Yamada K$^{\dagger}$, Menon JA, Kim Y, **Cheng C**, Chen W, Shih JA, Villasenor-
 
 ::: {.column width="90%"}
 [27.]{style="font-size: 80%; color:gray;"} 
-Murphy AJ$^{\ast \dagger}$, **Cheng C <sup>\*</sup>**, Williams J, Shaw TI, Pinto EM, Dieseldorff-Jones K, Brzezinski J, Renfro LA, Tornwall B, Huff V, Hong AL, Mullen EA, Crompton B, Dome JS, Fernandez CV, Geller JI, Ehrlich PF, Mulder H, Oak N, Maciezsek J, Jablonowski C, Fleming AM, Pichavaram P, Morton CL, Easton J, Nichols KE, Clay MR, Santiago T, Zhang J, Yang J, Zambetti GP, Wang Z, Davidoff AM, Chen X $^{\dagger}$. \
+[Murphy AJ$^{\ast \dagger}$, [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Williams J, Shaw TI, Pinto EM, Dieseldorff-Jones K, Brzezinski J, Renfro LA, Tornwall B, Huff V, Hong AL, Mullen EA, Crompton B, Dome JS, Fernandez CV, Geller JI, Ehrlich PF, Mulder H, Oak N, Maciezsek J, Jablonowski C, Fleming AM, Pichavaram P, Morton CL, Easton J, Nichols KE, Clay MR, Santiago T, Zhang J, Yang J, Zambetti GP, Wang Z, Davidoff AM, Chen X $^{\dagger}$.]{style="font-weight: 300; color:gray;"} \
 **Genetic and epigenetic features of bilateral Wilms tumor predisposition in patients from the Children’s Oncology Group AREN18B5-Q**\
 [Nat Commun.](https://www.nature.com/articles/s41467-023-43730-0) 
  14, 8006 (2023).
@@ -229,7 +229,7 @@ Murphy AJ$^{\ast \dagger}$, **Cheng C <sup>\*</sup>**, Williams J, Shaw TI, Pint
 
 ::: {.column width="90%"}
 [26.]{style="font-size: 80%; color:gray;"} 
-**Cheng C <sup>\*</sup>**, Chen W$^{\ast}$, Jin H$^{\ast}$, Chen X. \
+[[Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Chen W$^{\ast}$, Jin H$^{\ast}$, Chen X.]{style="font-weight: 300; color:gray;"} \
 **A review of single-cell rna-seq annotation, integration, and cell-cell communication**\
 [Cells. ](https://pubmed.ncbi.nlm.nih.gov/37566049/) 
 2023 Jul 30;12(15). Review.
@@ -249,7 +249,7 @@ Murphy AJ$^{\ast \dagger}$, **Cheng C <sup>\*</sup>**, Williams J, Shaw TI, Pint
 
 ::: {.column width="90%"}
 [25.]{style="font-size: 80%; color:gray;"} 
-Tamura T$^{\ast}$, **Cheng C <sup>\*</sup>**, Chen W, Merriam LT, Athar H, Kim YH, Manandhar R, Amir Sheikh MD, Pinilla-Vera M, Varon J, Hou PC, Lawler PR, Oldham WM, Seethala RR, Tesfaigzi Y, Weissman AJ, Baron RM, Ichinose F, Berg KM, Bohula EA, Morrow DA, Chen X, Kim EY.\
+[Tamura T$^{\ast}$, [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Chen W, Merriam LT, Athar H, Kim YH, Manandhar R, Amir Sheikh MD, Pinilla-Vera M, Varon J, Hou PC, Lawler PR, Oldham WM, Seethala RR, Tesfaigzi Y, Weissman AJ, Baron RM, Ichinose F, Berg KM, Bohula EA, Morrow DA, Chen X, Kim EY.]{style="font-weight: 300; color:gray;"}\
 **Single-cell transcriptomics reveal a hyperacute cytokine and immune checkpoint axis after cardiac arrest in patients with poor neurological outcome**\
 [Med.](https://www.ncbi.nlm.nih.gov/pubmed/37257452/)
  2023 Jul 14;4(7):432-456.e6. 
@@ -269,7 +269,7 @@ Tamura T$^{\ast}$, **Cheng C <sup>\*</sup>**, Chen W, Merriam LT, Athar H, Kim Y
 
 ::: {.column width="90%"}
 [24.]{style="font-size: 80%; color:gray;"} 
-Fang J$^{\ast}$, Singh S$^{\ast}$, **Cheng C <sup>\*</sup>**, Natarajan S$^{\ast}$, Sheppard H$^{\ast}$, Abu-Zaid A, Durbin AD, Lee HW, Wu Q, Steele J, Connelly JP, Jin H, Chen W, Fan Y, Pruett-Miller SM, Rehg JE, Koo SC, Santiago T, Emmons J, Cairo S, Wang R, Glazer ES, Murphy AJ, Chen T, Davidoff AM, Armengol C, Easton J, Chen X, Yang J.\
+[Fang J$^{\ast}$, Singh S$^{\ast}$, [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Natarajan S$^{\ast}$, Sheppard H$^{\ast}$, Abu-Zaid A, Durbin AD, Lee HW, Wu Q, Steele J, Connelly JP, Jin H, Chen W, Fan Y, Pruett-Miller SM, Rehg JE, Koo SC, Santiago T, Emmons J, Cairo S, Wang R, Glazer ES, Murphy AJ, Chen T, Davidoff AM, Armengol C, Easton J, Chen X, Yang J.]{style="font-weight: 300; color:gray;"}\
 **Genome-wide mapping of cancer dependency genes and genetic modifiers of chemotherapy in high-risk hepatoblastoma**\
 [Nat Commun.](https://www.ncbi.nlm.nih.gov/pubmed/37414763/)
 2023 Jul 6;14(1):4003. 
@@ -303,7 +303,7 @@ Fang J$^{\ast}$, Singh S$^{\ast}$, **Cheng C <sup>\*</sup>**, Natarajan S$^{\ast
 
 ::: {.column width="90%"}
 [23.]{style="font-size: 80%; color:gray;"} 
-Kovach AR, Oristian KM, Kirsch DG, Bentley RC, **Cheng C**, Chen X, Chen PH, Chi JA, Linardic CM.\
+[Kovach AR, Oristian KM, Kirsch DG, Bentley RC, [Changde Cheng]{style="font-weight: 300; color:black;"}, Chen X, Chen PH, Chi JA, Linardic CM.]{style="font-weight: 300; color:gray;"}\
 **Identification and targeting of a HES1-YAP1-CDKN1C functional interaction in fusion-negative rhabdomyosarcoma**\
 [Mol Oncol.](https://www.ncbi.nlm.nih.gov/pubmed/36037042/) 
 2022 Oct;16(20):3587-3605. 
@@ -337,7 +337,7 @@ Kovach AR, Oristian KM, Kirsch DG, Bentley RC, **Cheng C**, Chen X, Chen PH, Chi
 
 ::: {.column width="90%"}
 [22.]{style="font-size: 80%; color:gray;"} 
-**Cheng C**, Kirkpatrick M.\
+[Changde Cheng]{style="font-weight: 300; color:black;"}[, Kirkpatrick M.]{style="font-weight: 300; color:gray;"}\
 **Molecular evolution and the decline of purifying selection with age**\
 [Nat Commun.](https://www.ncbi.nlm.nih.gov/pubmed/33976227/)
  2021 May 11;12(1):2657. 
@@ -356,7 +356,7 @@ Kovach AR, Oristian KM, Kirsch DG, Bentley RC, **Cheng C**, Chen X, Chen PH, Chi
 
 ::: {.column width="90%"}
 [21.]{style="font-size: 80%; color:gray;"} 
-Houle D, **Cheng C**.\
+[Houle D,]{style="font-weight: 300; color:gray;"} [Changde Cheng]{style="font-weight: 300; color:black;"}.\
 **Predicting the evolution of sexual dimorphism in gene expression**\
 [Mol Biol Evol.](https://www.ncbi.nlm.nih.gov/pubmed/33512493/)
  2021 May 4;38(5):1847-1859. 
@@ -389,7 +389,7 @@ Houle D, **Cheng C**.\
 
 ::: {.column width="90%"}
 [20.]{style="font-size: 80%; color:gray;"} 
-**Cheng C**, Houle D.\
+[Changde Cheng]{style="font-weight: 300; color:black;"}[, Houle D.]{style="font-weight: 300; color:gray;"}\
 **Predicting multivariate responses of sexual dimorphism to direct and indirect selection**\
 [Am Nat.](https://www.ncbi.nlm.nih.gov/pubmed/32970462/)
  2020 Oct;196(4):391-405. 
@@ -424,7 +424,7 @@ Houle D, **Cheng C**.\
 
 ::: {.column width="90%"}
 [19.]{style="font-size: 80%; color:gray;"} 
-**Cheng C**, Easton J, Rosencrance C, Li Y, Ju B, Williams J, Mulder HL, Pang Y, Chen W, Chen X.\
+[Changde Cheng]{style="font-weight: 300; color:black;"}[, Easton J, Rosencrance C, Li Y, Ju B, Williams J, Mulder HL, Pang Y, Chen W, Chen X.]{style="font-weight: 300; color:gray;"}\
 **Latent cellular analysis robustly reveals subtle diversity in large-scale single-cell RNA-seq data**\
 [Nucleic Acids Res.](https://www.ncbi.nlm.nih.gov/pubmed/31566233/)
  2019 Dec 16;47(22):e143.
@@ -445,7 +445,7 @@ Houle D, **Cheng C**.\
 
 ::: {.column width="90%"}
 [18.]{style="font-size: 80%; color:gray;"} 
-Weng X, Lovell JT, Schwartz SL, **Cheng C**, Haque T, Zhang L, Razzaque S, Juenger TE.\
+[Weng X, Lovell JT, Schwartz SL, [Changde Cheng]{style="font-weight: 300; color:black;"}, Haque T, Zhang L, Razzaque S, Juenger TE.]{style="font-weight: 300; color:gray;"}\
 **Complex interactions between day length and diurnal patterns of gene expression drive photoperiodic responses in a perennial C(4) grass**\
 [Plant Cell Environ.](https://www.ncbi.nlm.nih.gov/pubmed/30847928/)
  2019 Jul;42(7):2165-2182. 
@@ -466,7 +466,7 @@ Weng X, Lovell JT, Schwartz SL, **Cheng C**, Haque T, Zhang L, Razzaque S, Jueng
 
 ::: {.column width="90%"}
 [17.]{style="font-size: 80%; color:gray;"} 
-**Cheng C**, Kirkpatrick M.\
+[Changde Cheng]{style="font-weight: 300; color:black;"}[, Kirkpatrick M.]{style="font-weight: 300; color:gray;"}\
 **Inversions are bigger on the X chromosome**\
 [Mol Ecol.](https://www.ncbi.nlm.nih.gov/pubmed/30059177/)
  2019 Mar;28(6):1238-1245.
@@ -501,7 +501,7 @@ Weng X, Lovell JT, Schwartz SL, **Cheng C**, Haque T, Zhang L, Razzaque S, Jueng
 
 ::: {.column width="90%"}
 [16.]{style="font-size: 80%; color:gray;"} 
-**Cheng C**, Tan JC, Hahn MW, Besansky NJ.\
+[Changde Cheng]{style="font-weight: 300; color:black;"}[, Tan JC, Hahn MW, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
 **Systems genetic analysis of inversion polymorphisms in the malaria mosquito Anopheles gambiae**\
 [Proc Natl Acad Sci U S A.](https://www.ncbi.nlm.nih.gov/pubmed/29987007/)
  2018 Jul 24;115(30):E7005-E7014.
@@ -522,7 +522,7 @@ Weng X, Lovell JT, Schwartz SL, **Cheng C**, Haque T, Zhang L, Razzaque S, Jueng
 
 ::: {.column width="90%"}
 [15.]{style="font-size: 80%; color:gray;"} 
-Yang K, Blanco DB, Chen X, Dash P, Neale G, Rosencrance C, Easton J, Chen W, **Cheng C**, Dhungana Y, Kc A, Awad W, Guo XJ, Thomas PG, Chi H.\
+[Yang K, Blanco DB, Chen X, Dash P, Neale G, Rosencrance C, Easton J, Chen W, [Changde Cheng]{style="font-weight: 300; color:black;"}, Dhungana Y, Kc A, Awad W, Guo XJ, Thomas PG, Chi H.]{style="font-weight: 300; color:gray;"}\
 **Metabolic signaling directs the reciprocal lineage decisions of αβ and γδ T cells**\
 [Sci Immunol.](https://www.ncbi.nlm.nih.gov/pubmed/29980617/)
  2018 Jul 6;3(25).
@@ -543,7 +543,7 @@ Yang K, Blanco DB, Chen X, Dash P, Neale G, Rosencrance C, Easton J, Chen W, **C
 
 ::: {.column width="90%"}
 [14.]{style="font-size: 80%; color:gray;"} 
-Sardell JM, **Cheng C**, Dagilis AJ, Ishikawa A, Kitano J, Peichel CL, Kirkpatrick M.\
+[Sardell JM, [Changde Cheng]{style="font-weight: 300; color:black;"}, Dagilis AJ, Ishikawa A, Kitano J, Peichel CL, Kirkpatrick M.]{style="font-weight: 300; color:gray;"}\
 **Sex differences in recombination in sticklebacks**\
 [G3 (Bethesda)](https://www.ncbi.nlm.nih.gov/pubmed/29632132/)
 . 2018 May 31;8(6):1971-1983.
@@ -578,7 +578,7 @@ Sardell JM, **Cheng C**, Dagilis AJ, Ishikawa A, Kitano J, Peichel CL, Kirkpatri
 
 ::: {.column width="90%"}
 [13.]{style="font-size: 80%; color:gray;"} 
-**Cheng C**, Kirkpatrick M.\
+[Changde Cheng]{style="font-weight: 300; color:black;"}[, Kirkpatrick M.]{style="font-weight: 300; color:gray;"}\
 **Environmental plasticity in the intersexual correlation and sex bias of gene xxpression**\
 [J Hered.](https://www.ncbi.nlm.nih.gov/pubmed/29036352/)
  2017 Oct 30;108(7):754-758.
@@ -599,7 +599,7 @@ Sardell JM, **Cheng C**, Dagilis AJ, Ishikawa A, Kitano J, Peichel CL, Kirkpatri
 
 ::: {.column width="90%"}
 [12.]{style="font-size: 80%; color:gray;"} 
-Fontaine A, Filipovic I, Fansiri T, Hoffmann AA, **Cheng C**, Kirkpatrick M, Rašic G, Lambrechts L.\
+[Fontaine A, Filipovic I, Fansiri T, Hoffmann AA, [Changde Cheng]{style="font-weight: 300; color:black;"}, Kirkpatrick M, Rašic G, Lambrechts L.]{style="font-weight: 300; color:gray;"}\
 **Extensive genetic differentiation between homomorphic sex chromosomes in the sosquito vector, Aedes aegypti**\
 [Genome Biol Evol.](https://www.ncbi.nlm.nih.gov/pubmed/28945882/)
  2017 Sep 1;9(9):2322-2335.
@@ -634,7 +634,7 @@ Fontaine A, Filipovic I, Fansiri T, Hoffmann AA, **Cheng C**, Kirkpatrick M, Ra�
 
 ::: {.column width="90%"}
 [11.]{style="font-size: 80%; color:gray;"} 
-**Cheng C**, Kirkpatrick M.\
+[Changde Cheng]{style="font-weight: 300; color:black;"}[, Kirkpatrick M.]{style="font-weight: 300; color:gray;"}\
 **Sex-Specific selection and sex-biased gene expression in humans and flies**\
 [PLoS Genet.](https://www.ncbi.nlm.nih.gov/pubmed/27658217/)
  2016 Sep;12(9):e1006170.
@@ -655,7 +655,7 @@ Fontaine A, Filipovic I, Fansiri T, Hoffmann AA, **Cheng C**, Kirkpatrick M, Ra�
 
 ::: {.column width="90%"}
 [10.]{style="font-size: 80%; color:gray;"} 
-Uyhelji HA, **Cheng C**, Besansky NJ.\
+[Uyhelji HA, [Changde Cheng]{style="font-weight: 300; color:black;"}, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
 **Transcriptomic differences between euryhaline and stenohaline malaria vector sibling species in response to salinity stress**\
 [Mol Ecol.](https://www.ncbi.nlm.nih.gov/pubmed/26945667/)
  2016 May;25(10):2210-25.
@@ -676,7 +676,7 @@ Uyhelji HA, **Cheng C**, Besansky NJ.\
 
 ::: {.column width="90%"}
 [9.]{style="font-size: 80%; color:gray;"} 
-Hall AB$^{\ast}$,  Papathanos PA$^{\ast}$,  Sharma A$^{\ast}$,  **Cheng C <sup>\*</sup>**,  Akbari OS, Assour L, Bergman NH, Cagnetti A, Crisanti A, Dottorini T, Fiorentini E, Galizi R, Hnath J, Jiang X, Koren S, Nolan T, Radune D, Sharakhova MV, Steele A, Timoshevskiy VA, Windbichler N, Zhang S, Hahn MW, Phillippy AM, Emrich SJ, Sharakhov IV, Tu ZJ, Besansky NJ.\
+[Hall AB$^{\ast}$,  Papathanos PA$^{\ast}$,  Sharma A$^{\ast}$,  [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$,  Akbari OS, Assour L, Bergman NH, Cagnetti A, Crisanti A, Dottorini T, Fiorentini E, Galizi R, Hnath J, Jiang X, Koren S, Nolan T, Radune D, Sharakhova MV, Steele A, Timoshevskiy VA, Windbichler N, Zhang S, Hahn MW, Phillippy AM, Emrich SJ, Sharakhov IV, Tu ZJ, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
 **Radical remodeling of the Y chromosome in a recent radiation of malaria mosquitoes**\
 [Proc Natl Acad Sci U S A.](https://www.ncbi.nlm.nih.gov/pubmed/27035980/)
  2016 Apr 12;113(15):E2114-23. 
@@ -711,7 +711,7 @@ Hall AB$^{\ast}$,  Papathanos PA$^{\ast}$,  Sharma A$^{\ast}$,  **Cheng C <sup>\
 
 ::: {.column width="90%"}
 [8.]{style="font-size: 80%; color:gray;"} 
-Smith HA, White BJ, Kundert P, **Cheng C**, Romero-Severson J, Andolfatto P, Besansky NJ.\
+[Smith HA, White BJ, Kundert P, [Changde Cheng]{style="font-weight: 300; color:black;"}, Romero-Severson J, Andolfatto P, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
 **Genome-wide QTL mapping of saltwater tolerance in sibling species of Anopheles (malaria vector) mosquitoes**\
 [Heredity (Edinb).](https://www.ncbi.nlm.nih.gov/pubmed/25920668/)
  2015 Nov;115(5):471-9. 
@@ -746,7 +746,7 @@ Smith HA, White BJ, Kundert P, **Cheng C**, Romero-Severson J, Andolfatto P, Bes
 
 ::: {.column width="90%"}
 [7.]{style="font-size: 80%; color:gray;"} 
-Cassone BJ, Kamdem C, **Cheng C**, Tan JC, Hahn MW, Costantini C, Besansky NJ.\
+[Cassone BJ, Kamdem C, [Changde Cheng]{style="font-weight: 300; color:black;"}, Tan JC, Hahn MW, Costantini C, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
 **Gene expression divergence between malaria vector sibling species Anopheles gambiae and An. coluzzii from rural and urban Yaoundé Cameroon**\
 [Mol Ecol.](https://www.ncbi.nlm.nih.gov/pubmed/24673723/)
  2014 May;23(9):2242-59.
@@ -767,7 +767,7 @@ Cassone BJ, Kamdem C, **Cheng C**, Tan JC, Hahn MW, Costantini C, Besansky NJ.\
 
 ::: {.column width="90%"}
 [6.]{style="font-size: 80%; color:gray;"} 
-Reidenbach KR, **Cheng C**, Liu F, Liu C, Besansky NJ, Syed Z.\
+[Reidenbach KR, [Changde Cheng]{style="font-weight: 300; color:black;"}, Liu F, Liu C, Besansky NJ, Syed Z.]{style="font-weight: 300; color:gray;"}\
 **Cuticular differences associated with aridity acclimation in African malaria vectors carrying alternative arrangements of inversion 2La**\
 [Parasit Vectors.](https://www.ncbi.nlm.nih.gov/pubmed/24721548/)
  2014 Apr 10;7:176. 
@@ -801,7 +801,7 @@ Reidenbach KR, **Cheng C**, Liu F, Liu C, Besansky NJ, Syed Z.\
 
 ::: {.column width="90%"}
 [5.]{style="font-size: 80%; color:gray;"} 
-**Cheng C**, White BJ, Kamdem C, Mockaitis K, Costantini C, Hahn MW, Besansky NJ.\
+[[Changde Cheng]{style="font-weight: 300; color:black;"}, White BJ, Kamdem C, Mockaitis K, Costantini C, Hahn MW, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
 **Ecological genomics of Anopheles gambiae along a latitudinal cline: a population-resequencing approach**\
 [Genetics.](https://www.ncbi.nlm.nih.gov/pubmed/22209907/)
  2012 Apr;190(4):1417-32.
@@ -835,7 +835,7 @@ Reidenbach KR, **Cheng C**, Liu F, Liu C, Besansky NJ, Syed Z.\
 
 ::: {.column width="90%"}
 [4.]{style="font-size: 80%; color:gray;"} 
-Cassone BJ, Molloy MJ, **Cheng C**, Tan JC, Hahn MW, Besansky NJ.\
+[Cassone BJ, Molloy MJ, [Changde Cheng]{style="font-weight: 300; color:black;"}, Tan JC, Hahn MW, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
 **Divergent transcriptional response to thermal stress by Anopheles gambiae larvae carrying alternative arrangements of inversion 2La**\
 [Mol Ecol.](https://www.ncbi.nlm.nih.gov/pubmed/21535279/)
  2011 Jun;20(12):2567-80.
@@ -855,7 +855,7 @@ Cassone BJ, Molloy MJ, **Cheng C**, Tan JC, Hahn MW, Besansky NJ.\
 
 ::: {.column width="90%"}
 [3.]{style="font-size: 80%; color:gray;"} 
-White BJ, Lawniczak MK, **Cheng C**, Coulibaly MB, Wilson MD, Sagnon N, Costantini C, Simard F, Christophides GK, Besansky NJ.\
+[White BJ, Lawniczak MK, [Changde Cheng]{style="font-weight: 300; color:black;"}, Coulibaly MB, Wilson MD, Sagnon N, Costantini C, Simard F, Christophides GK, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
 **Adaptive divergence between incipient species of Anopheles gambiae increases resistance to Plasmodium**\
 [Proc Natl Acad Sci U S A.](https://www.ncbi.nlm.nih.gov/pubmed/21173248/)
  2011 Jan 4;108(1):244-9.
@@ -889,7 +889,7 @@ White BJ, Lawniczak MK, **Cheng C**, Coulibaly MB, Wilson MD, Sagnon N, Costanti
 
 ::: {.column width="90%"}
 [2.]{style="font-size: 80%; color:gray;"} 
-White BJ, **Cheng C**, Simard F, Costantini C, Besansky NJ.\
+[White BJ, [Changde Cheng]{style="font-weight: 300; color:black;"}, Simard F, Costantini C, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
 **Genetic association of physically unlinked islands of genomic divergence in incipient species of Anopheles gambiae**\
 [Mol Ecol.](https://www.ncbi.nlm.nih.gov/pubmed/20149091/)
  2010 Mar;19(5):925-39. 
@@ -924,7 +924,7 @@ White BJ, **Cheng C**, Simard F, Costantini C, Besansky NJ.\
 
 ::: {.column width="90%"}
 [1.]{style="font-size: 80%; color:gray;"} 
-White BJ, **Cheng C**, Sangaré D, Lobo NF, Collins FH, Besansky NJ.\
+[White BJ, [Changde Cheng]{style="font-weight: 300; color:black;"}, Sangaré D, Lobo NF, Collins FH, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
 **The population genomics of trans-specific inversion polymorphisms in Anopheles gambiae**\
 [Genetics.](https://www.ncbi.nlm.nih.gov/pubmed/19581444/)
  2009 Sep;183(1):275-88. 
