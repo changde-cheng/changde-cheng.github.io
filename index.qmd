@@ -154,7 +154,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 ::: {.column width="8%"}
 ::: {style="text-align:right;"}
-🍄
+🍄🍄
 :::
 :::
 ::: {.column width="2%"}
@@ -164,6 +164,24 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::
 ::::
 
+
+:::: {.columns}
+
+::: {.column width="8%"}
+![](publications/2024_menin/featured.png)
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[29.]{style="font-size: 80%; color:gray;"} 
+[Xinyue Zhou, Lixia Zhang, Sajesan Aryal, Virginia Veasey, Amanda Tajik, Cecilia Restelli, Steven Moreira, Pengcheng Zhang, Yanfeng Zhang, Kristin Hope, Yang Zhou, [Changde Cheng]{style="font-weight: 300; color:black;"}, Ravi Bhatia, and Rui Lu.]{style="font-weight: 300; color:gray;"} \
+**Epigenetic regulation of non-canonical menin targets modulates menin inhibitor response in acute myeloid leukemia** \
+Blood
+:::
+
+::::
 
 :::: {.columns}
 
