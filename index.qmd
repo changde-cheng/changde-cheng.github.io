@@ -154,7 +154,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::: {.columns}
 ::: {.column width="8%"}
 ::: {style="text-align:right;"}
-🍄🍄
+🍄🍄🍄
 :::
 :::
 ::: {.column width="2%"}
@@ -175,13 +175,33 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::
 
 ::: {.column width="90%"}
-[29.]{style="font-size: 80%; color:gray;"} 
+[30.]{style="font-size: 80%; color:gray;"} 
 [Xinyue Zhou, Lixia Zhang, Sajesan Aryal, Virginia Veasey, Amanda Tajik, Cecilia Restelli, Steven Moreira, Pengcheng Zhang, Yanfeng Zhang, Kristin Hope, Yang Zhou, [Changde Cheng]{style="font-weight: 300; color:black;"}, Ravi Bhatia, and Rui Lu.]{style="font-weight: 300; color:gray;"} \
 **Epigenetic regulation of non-canonical menin targets modulates menin inhibitor response in acute myeloid leukemia** \
 Blood
 :::
 
 ::::
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+<!-- ![](publications/2024_menin/featured.png) -->
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[29.]{style="font-size: 80%; color:gray;"} 
+[Melissa A Richard$^{\ast}$, Chengcheng Yan$^{\ast}$, Yanjun Chen, Christopher J Gibson, Rashi Kalra, Alysia Bosworth, David K Crossman, Purnima Singh, Lindsey Hageman, Jianbo He, Saro H Armenian, Julie Vose, Daniel J Weisdorf, Benjamin L Ebert, Yutaka Yasui,  [Changde Cheng]{style="font-weight: 300; color:black;"}, Stephen J Forman , Smita Bhatia$^{\dagger}$, Ravi Bhatia$^{\dagger}$]{style="font-weight: 300; color:gray;"} \
+**Sex-based differences in risk for therapy-related myeloid neoplasms** \
+Journal of Clinical Oncology
+:::
+
+::::
+
 
 :::: {.columns}
 
