@@ -187,7 +187,7 @@ Blood
 :::: {.columns}
 
 ::: {.column width="8%"}
-<!-- ![](publications/2024_menin/featured.png) -->
+![](publications/2024_sextmn/featured.png)
 :::
 
 ::: {.column width="2%"}
