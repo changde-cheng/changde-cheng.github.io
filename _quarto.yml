@@ -17,7 +17,7 @@ website:
     right:
     #  - about.qmd
       - text: "{{< ai google-scholar >}}"
-        href: https://scholar.google.com/citations?user=rUa7JoIAAAAJ&hl=en
+        href: https://scholar.google.com/citations?hl=en&user=rUa7JoIAAAAJ&view_op=list_works&sortby=pubdate
     # - icon: twitter
     #   text: Twitter
     #   href: https://twitter.com
