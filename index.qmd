@@ -14,6 +14,7 @@ embed-resources: true
 
 ::: {style="font-size: 80%; color:green;"}
 Stem Cell Biology Program,  Department of Medicine\
+Institute for Cancer Outcomes and Survivorship\
 Department of Biomedical Informatics and Data Science\
 Center for Clinical and Translational Science\
 O'Neal Comprehensive Cancer Center\
