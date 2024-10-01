@@ -81,38 +81,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 
 ::::
 
-<!-- 2022 -->
-:::: {.columns}
-::: {.column width="8%"}
-::: {style="text-align:right;"}
-✐
-:::
-:::
-::: {.column width="2%"}
-:::
-::: {.column width="90%"}
-2022 
-:::
-::::
 
-
-:::: {.columns}
-
-::: {.column width="8%"}
-![](preprints/2022_mouse/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-[2022-02-01]
-[Tomoyoshi Tamura$^{\ast}$, [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Ana Villaseñor-Altamirano$^{\ast}$, Kei Hayashida, Kohei Ikeda$^{\ast}$, Kohei Yamada$^{\ast}$, Jaivardhan A Menon, Louis T. Merriam, Jack Varon, Jiyoung Choi, Aidan M. Cullen, Jingyu Guo, Benjamin A. Olenchock, Mayra A. Pinilla-Vera, Reshmi Manandhar, Muhammad Dawood Amir Sheikh, Peter C. Hou, Patrick R. Lawler, William M. Oldham, Raghu R. Seethala, Immunology of Cardiac Arrest Network (I-CAN), Rebecca M. Baron, Erin A. Bohula, David A. Morrow, Alexandra Weissman, Michael B. Brenner, Xiang Chen ‡ , Fumito Ichinose ‡ , Edy Y. Kim ‡ .]{style="font-weight: 300; color:gray;"}\
-**Innate T cells regulate early inflammation and neurological outcomes after cardiac arrest and resuscitation**. \
-In revision.
-:::
-
-::::
 
 
 <!-- 2023 🍄 -->
@@ -156,7 +125,7 @@ In revision.
 :::: {.columns}
 ::: {.column width="8%"}
 ::: {style="text-align:right;"}
-🍄🍄🍄
+🍄🍄🍄🍄
 :::
 :::
 ::: {.column width="2%"}
@@ -166,6 +135,24 @@ In revision.
 :::
 ::::
 
+
+:::: {.columns}
+
+::: {.column width="8%"}
+![](preprints/2022_mouse/featured.png)
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[31.]{style="font-size: 80%; color:gray;"} 
+[Tomoyoshi Tamura$^{\ast}$, [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Ana Villaseñor-Altamirano$^{\ast}$, Kei Hayashida, Kohei Ikeda$^{\ast}$, Kohei Yamada$^{\ast}$, Jaivardhan A Menon, Louis T. Merriam, Jack Varon, Jiyoung Choi, Aidan M. Cullen, Jingyu Guo, Benjamin A. Olenchock, Mayra A. Pinilla-Vera, Reshmi Manandhar, Muhammad Dawood Amir Sheikh, Peter C. Hou, Patrick R. Lawler, William M. Oldham, Raghu R. Seethala, Immunology of Cardiac Arrest Network (I-CAN), Rebecca M. Baron, Erin A. Bohula, David A. Morrow, Alexandra Weissman, Michael B. Brenner, Xiang Chen ‡ , Fumito Ichinose ‡ , Edy Y. Kim ‡ .]{style="font-weight: 300; color:gray;"}\
+**Innate T cells regulate early inflammation and neurological outcomes after cardiac arrest and resuscitation** \
+Science Translational Medicine
+:::
+
+::::
 
 :::: {.columns}
 
