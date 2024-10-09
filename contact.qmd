@@ -15,6 +15,7 @@ Changde Cheng, PhD
 
 ::: {style="color:green;"}
 Stem Cell Biology Program, Division of Hematology/Oncology, Department of Medicine\
+Institute for Cancer Outcomes and Survivorship\
 Department of Biomedical Informatics and Data Science\
 Center for Clinical and Translational Science\
 O'Neal Comprehensive Cancer Center\
