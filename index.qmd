@@ -150,7 +150,7 @@ In revision.
 [Tomoyoshi Tamura$^{\ast}$, [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Ana Villaseñor-Altamirano$^{\ast}$, Kei Hayashida, Kohei Ikeda$^{\ast}$, Kohei Yamada$^{\ast}$, Jaivardhan A Menon, Louis T. Merriam, Jack Varon, Jiyoung Choi, Aidan M. Cullen, Jingyu Guo, Benjamin A. Olenchock, Mayra A. Pinilla-Vera, Reshmi Manandhar, Muhammad Dawood Amir Sheikh, Peter C. Hou, Patrick R. Lawler, William M. Oldham, Raghu R. Seethala, Immunology of Cardiac Arrest Network (I-CAN), Rebecca M. Baron, Erin A. Bohula, David A. Morrow, Alexandra Weissman, Michael B. Brenner, Xiang Chen ‡ , Fumito Ichinose ‡ , Edy Y. Kim ‡ .]{style="font-weight: 300; color:gray;"}\
 **Innate T cells regulate early inflammation and neurological outcomes after cardiac arrest and resuscitation** \
 Science Translational Medicine \
-| [Best abstract, The American Heart Association's (AHA) Scientific Sessions 2024.]{style="font-size: 90%;"} 
+[`- Best abstract, The American Heart Association's (AHA) Scientific Sessions 2024.`]{style="font-size: 80%;"} 
 :::
 
 
@@ -170,7 +170,7 @@ Science Translational Medicine \
 [Xinyue Zhou, Lixia Zhang, Sajesan Aryal, Virginia Veasey, Amanda Tajik, Cecilia Restelli, Steven Moreira, Pengcheng Zhang, Yanfeng Zhang, Kristin Hope, Yang Zhou, [Changde Cheng]{style="font-weight: 300; color:black;"}, Ravi Bhatia, and Rui Lu.]{style="font-weight: 300; color:gray;"} \
 **Epigenetic regulation of non-canonical menin targets modulates menin inhibitor response in acute myeloid leukemia** \
 [Blood](https://doi.org/10.1182/blood.2023023644) 144 (19): 2018–2032. \
-|   [Commentary in *Blood* - [Broken brakes: PRC loss foils menin inhibition](https://doi.org/10.1182/blood.2024026297) ]{style="font-size: 90%;"}
+[[`- Commentary in Blood | Broken brakes: PRC loss foils menin inhibition`](https://doi.org/10.1182/blood.2024026297) ]{style="font-size: 80%;"}
 :::
 
 ::::
@@ -190,7 +190,7 @@ Science Translational Medicine \
 [Melissa A Richard$^{\ast}$, Chengcheng Yan$^{\ast}$, Yanjun Chen, Christopher J Gibson, Rashi Kalra, Alysia Bosworth, David K Crossman, Purnima Singh, Lindsey Hageman, Jianbo He, Saro H Armenian, Julie Vose, Daniel J Weisdorf, Benjamin L Ebert, Yutaka Yasui,  [Changde Cheng]{style="font-weight: 300; color:black;"}, Stephen J Forman , Smita Bhatia$^{\dagger}$, Ravi Bhatia$^{\dagger}$]{style="font-weight: 300; color:gray;"} \
 **Sex-based differences in risk for therapy-related myeloid neoplasms** \
 [Journal of Clinical Oncology](https://doi.org/10.1200/JCO-24-01487) Volume 42, Number 31. \
-|   [Editorials in *JCO* - [Battle of the sexes in the clonal world](https://doi.org/10.1200/JCO-24-0175)]{style="font-size: 90%;"}
+[[`- Editorials in JCO | Battle of the sexes in the clonal world`](https://doi.org/10.1200/JCO-24-01758)]{style="font-size: 80%;"}
 :::
 
 ::::
