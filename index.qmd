@@ -13,13 +13,13 @@ embed-resources: true
 <!-- ## Changde Cheng -->
 
 ::: {style="font-size: 80%; color:green;"}
-Stem Cell Biology Program,  Department of Medicine\
+Stem Cell Biology Program\
+Division of Hematology and Oncology\
 Institute for Cancer Outcomes and Survivorship\
 Department of Biomedical Informatics and Data Science\
-Center for Clinical and Translational Science\
-O'Neal Comprehensive Cancer Center\
-Heersink School of Medicine\
-University of Alabama at Birmingham
+O’Neal Comprehensive Cancer Center\
+Department of Medicine, Heersink School of Medicine\
+University of Alabama at Birmingham, USA
 :::
 
 ---
