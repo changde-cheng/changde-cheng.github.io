@@ -30,9 +30,8 @@ title-block-banner: false
 :::
 
 ::: {.column width="90%"}
-[№ 1.]{style="font-size: 100%; font-weight:500; color:black;"} 
+[№ 1.]{style="font-size: 100%; font-weight:500; color:black;"} **Sexually antagonistic selection and sex chromosome evolution in Stickleback**. \
 [Changde Cheng]{style="font-weight: 300; color:black;"}[,  Andrius J. Dagilis, Jason M. Sardell, Asano Ishikawa, Jun Kitano,  Matthew P. Josephson, Catherine L. Peichel, Mark Kirkpatrick.]{style="font-weight: 300; color:gray;"}\
-**Sexually antagonistic selection and sex chromosome evolution in Stickleback**. \
 Submission to the 2017 Society for Molecular Biology & Evolution meeting at Austin, Texas, US.
 :::
 
@@ -52,9 +51,8 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 :::
 
 ::: {.column width="90%"}
-[№ 2.]{style="font-size: 100%; font-weight:500; color:black;"} 
+[№ 2.]{style="font-size: 100%; font-weight:500; color:black;"} **DNA damage response and repair genes and Anthracycline-induced cardiomyopathy in childhood cancer survivors: a report from the Children’s Oncology Group and the Childhood Cancer Survivor Study**. \
 [Xuexia Wang$^{\ast}$, Purnima Singh$^{\ast}$, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, [Changde Cheng]{style="color:black;"}, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
-**DNA damage response and repair genes and Anthracycline-induced cardiomyopathy in childhood cancer survivors: a report from the Children’s Oncology Group and the Childhood Cancer Survivor Study**. \
 In revision.
 :::
 
@@ -75,9 +73,8 @@ In revision.
 :::
 
 ::: {.column width="90%"}
-[№ 3.]{style="font-size: 100%; font-weight:500; color:black;"} 
+[№ 3.]{style="font-size: 100%; font-weight:500; color:black;"} **Transcriptome alteration in pancreatic neuroendocrine tumors among those living with adverse SDOH**. \
 [Andrea Gillis$^{\ast}$, K. Kerrick Akinola$^{\ast}$, Brendon Herring, Isra Elhussin, Elquis Castillo, Stuart Phipps, Vinodh Srinivasasainagendra, Weisheng Chen, Rachael Guenter, Tiwari Hemant, [Doug Welsch]{style="color:darkgreen;"}, Dai Chen, Upender Manne, Herbert Chen, Clayton Yates, J Bart Rose, [Changde Cheng]{style="color:black;"}, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
-**Transcriptome alteration in pancreatic neuroendocrine tumors among those living with adverse SDOH**. \
 Submitted.
 :::
 
@@ -96,9 +93,8 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-[№ 4.]{style="font-size: 100%; font-weight:500; color:black;"} 
+[№ 4.]{style="font-size: 100%; font-weight:500; color:black;"} **Analysis of alternative mRNA splicing in anthracycline-induced cardiomyopathy – a COG-ALTE03N1 report**. \
 [Purnima Singh $^{\ast}$, David K. Crossman $^{\ast}$, [Changde Cheng]{style="color:black;"}, Patrick J. Trainor, Noha Sharafeldin, Xuexia Wang, Liting Zhou, Lindsey Hageman, Saro H. Armenian, Frank M. Balis, Douglas S. Hawkins, Frank G. Keller, Melissa M. Hudson, Joseph P. Neglia, A. Kim Ritchey, Jill P. Ginsberg, Wendy Landier, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
-**Analysis of alternative mRNA splicing in anthracycline-induced cardiomyopathy – a COG-ALTE03N1 report**. \
 Submitted.
 :::
 
@@ -118,10 +114,9 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-[№ 5.]{style="font-size: 100%; font-weight:500; color:black;"} 
+[№ 5.]{style="font-size: 100%; font-weight:500; color:black;"} **Paricalcitol and Hydroxychloroquine modulate extracellular matrix and enhance chemotherapy eﬃcacy in pancreatic cancer**. \
 [Dhana Sekhar Reddy Bandi, Sujith Sarvesh, Jeremy Foote, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Mehmet Akce, Ganji
 Purnachandra Nagaraju, Bassel F. El-Raye.]{style="font-weight: 300;color:gray;"}\
-**Paricalcitol and Hydroxychloroquine modulate extracellular matrix and enhance chemotherapy eﬃcacy in pancreatic cancer**. \
 Submitted.
 :::
 
@@ -142,9 +137,8 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-[№ 6.]{style="font-size: 100%; font-weight:500; color:black;"} 
+[№ 6.]{style="font-size: 100%; font-weight:500; color:black;"} **Antibody deficiency accelerates tumorigenesis in genetically engineered mouse models of pancreatic cancer**. \
 [Foote JB $^{\dagger}$, Sarvesh S, Al Diﬀalha S, Crossman DK, [Changde Cheng]{style="color:black;"}, Kim M, Rose BJ, Klug CA.]{style="font-weight: 300;color:gray;"}\
-**Antibody deficiency accelerates tumorigenesis in genetically engineered mouse models of pancreatic cancer**. \
 Submitted.
 :::
 
