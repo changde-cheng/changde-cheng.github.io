@@ -30,14 +30,14 @@ website:
       #   file: about.qmd
       # - text: "Posts"
       #   file: posts.qmd
-      - text: "People"
-        file: people.qmd
-      # - text: "Publications"
-      #   file: manuscripts.qmd
+      - text: "Publications"
+        file: papers.qmd
       # - text: "Press"
       #   file: press.qmd
-      #- text: "Working Papers"
-      #  file: preprints.qmd
+      - text: "Working Papers"
+        file: working.qmd
+      - text: "People"
+        file: people.qmd
       # - text: "Key papers"
       #   file: featured.qmd
       # - text: "More Publications"

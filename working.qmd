@@ -1,0 +1,164 @@
+---
+#title: "People"
+# listing:
+#   contents: people
+#   sort: "date desc"
+#   type: default
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+page-layout: article
+title-block-banner: false
+---
+
+
+
+## Working papers
+
+
+#### 2017-01-25 {#sec-w1}
+
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+![](preprints/2017_SMBE/featured.png)
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 1.]{style="font-size: 100%; font-weight:500; color:black;"} 
+[Changde Cheng]{style="font-weight: 300; color:black;"}[,  Andrius J. Dagilis, Jason M. Sardell, Asano Ishikawa, Jun Kitano,  Matthew P. Josephson, Catherine L. Peichel, Mark Kirkpatrick.]{style="font-weight: 300; color:gray;"}\
+**Sexually antagonistic selection and sex chromosome evolution in Stickleback**. \
+Submission to the 2017 Society for Molecular Biology & Evolution meeting at Austin, Texas, US.
+:::
+
+::::
+
+#### 2023-10-30{#sec-w2}
+
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+![](preprints/2023_Circulation/featured.png)
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 2.]{style="font-size: 100%; font-weight:500; color:black;"} 
+[Xuexia Wang$^{\ast}$, Purnima Singh$^{\ast}$, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, [Changde Cheng]{style="color:black;"}, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
+**DNA damage response and repair genes and Anthracycline-induced cardiomyopathy in childhood cancer survivors: a report from the Children’s Oncology Group and the Childhood Cancer Survivor Study**. \
+In revision.
+:::
+
+::::
+
+#### 2024-11-07 {#sec-w3}
+
+
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+<!-- ![](preprints/2024_gmm/featured.png) -->
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 3.]{style="font-size: 100%; font-weight:500; color:black;"} 
+[Andrea Gillis$^{\ast}$, K. Kerrick Akinola$^{\ast}$, Brendon Herring, Isra Elhussin, Elquis Castillo, Stuart Phipps, Vinodh Srinivasasainagendra, Weisheng Chen, Rachael Guenter, Tiwari Hemant, [Doug Welsch]{style="color:darkgreen;"}, Dai Chen, Upender Manne, Herbert Chen, Clayton Yates, J Bart Rose, [Changde Cheng]{style="color:black;"}, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
+**Transcriptome alteration in pancreatic neuroendocrine tumors among those living with adverse SDOH**. \
+Submitted.
+:::
+
+::::
+
+#### 2024-11-25 {#sec-w4}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+<!-- ![](preprints/2024_gmm/featured.png) -->
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 4.]{style="font-size: 100%; font-weight:500; color:black;"} 
+[Purnima Singh $^{\ast}$, David K. Crossman $^{\ast}$, [Changde Cheng]{style="color:black;"}, Patrick J. Trainor, Noha Sharafeldin, Xuexia Wang, Liting Zhou, Lindsey Hageman, Saro H. Armenian, Frank M. Balis, Douglas S. Hawkins, Frank G. Keller, Melissa M. Hudson, Joseph P. Neglia, A. Kim Ritchey, Jill P. Ginsberg, Wendy Landier, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
+**Analysis of alternative mRNA splicing in anthracycline-induced cardiomyopathy – a COG-ALTE03N1 report**. \
+Submitted.
+:::
+
+::::
+
+
+#### 2024-12-04 {#sec-w5}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+<!-- ![](preprints/2024_gmm/featured.png) -->
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 5.]{style="font-size: 100%; font-weight:500; color:black;"} 
+[Dhana Sekhar Reddy Bandi, Sujith Sarvesh, Jeremy Foote, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Mehmet Akce, Ganji
+Purnachandra Nagaraju, Bassel F. El-Raye.]{style="font-weight: 300;color:gray;"}\
+**Paricalcitol and Hydroxychloroquine modulate extracellular matrix and enhance chemotherapy eﬃcacy in pancreatic cancer**. \
+Submitted.
+:::
+
+::::
+
+
+
+#### 2024-12-08 {#sec-w6}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+![](preprints/2024_gmm/featured.png)
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 6.]{style="font-size: 100%; font-weight:500; color:black;"} 
+[Foote JB $^{\dagger}$, Sarvesh S, Al Diﬀalha S, Crossman DK, [Changde Cheng]{style="color:black;"}, Kim M, Rose BJ, Klug CA.]{style="font-weight: 300;color:gray;"}\
+**Antibody deficiency accelerates tumorigenesis in genetically engineered mouse models of pancreatic cancer**. \
+Submitted.
+:::
+
+::::
+
+
+
+---
+
+${\ast}$: 
+First author(s)
+
+${\dagger}$: 
+Corresponding author(s)
+
+[Lab member]{style="color:darkgreen;"}
+
