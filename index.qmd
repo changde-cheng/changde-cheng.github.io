@@ -1,5 +1,5 @@
 ---
-title: "Changde Cheng"
+title: ""
 page-layout: article
 title-block-banner: false
 # about:
@@ -9,20 +9,40 @@ title-block-banner: false
 embed-resources: true
 ---
 
+## Chang$\cdot$De $\small \mathbb{Cheng}$
 
-<!-- ## Changde Cheng -->
+<!-- ## Chang·De Cheng -->
+::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
+## Contact
 
-::: {style="font-size: 80%; color:green;"}
+:::: {style="font-size: 100%; color:green;"}
 Stem Cell Biology Program\
 Division of Hematology and Oncology\
 Institute for Cancer Outcomes and Survivorship\
 Department of Biomedical Informatics and Data Science\
 O’Neal Comprehensive Cancer Center\
 Department of Medicine, Heersink School of Medicine\
-University of Alabama at Birmingham, USA
+University of Alabama at Birmingham, USA\
+
+Wallace Tumor Institute 520A. \
+1824 6th Ave S Birmingham, Alabama 35233. \
+
+Email: ccheng [at] uabmc [dot] edu
+::::
+
 :::
 
----
+<!-- ::: {style="font-size: 80%; color:green;"} -->
+<!-- Stem Cell Biology Program\ -->
+<!-- Division of Hematology and Oncology\ -->
+<!-- Institute for Cancer Outcomes and Survivorship\ -->
+<!-- Department of Biomedical Informatics and Data Science\ -->
+<!-- O’Neal Comprehensive Cancer Center\ -->
+<!-- Department of Medicine, Heersink School of Medicine\ -->
+<!-- University of Alabama at Birmingham, USA -->
+<!-- ::: -->
+
+
 
 ## Research Overview
 
