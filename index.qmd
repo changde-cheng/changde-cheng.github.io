@@ -9,7 +9,7 @@ title-block-banner: false
 embed-resources: true
 ---
 
-## Chang$\cdot$De $\small \mathbb{Cheng}$
+## Chang·De $\small \mathbb{Cheng}$
 
 <!-- ## Chang·De Cheng -->
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
@@ -160,7 +160,7 @@ Notable paper:  [31°](https://www.science.org/doi/10.1126/scitranslmed.adq5796)
 ### Cancer Biology and Therapeutic Response  (2023-2024)
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-#### Submissions № 2-6
+#### Submissions № 2-7
 
 
 
@@ -266,9 +266,28 @@ Submitted.
 ::::
 
 
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+##### [№ 7.]{style="font-size: 100%; font-weight:500; color:black;"} **Unraveling the clinical impact of differential DNA methylation in PDAC: A Systematic Review**. \
+[Raj Roy,  Christopher Wu, Lauren Wheeler,  K. Kerrick Akinola,  Herbert Chen, J. Bart Rose,  [Changde Cheng]{style="color:black;"}, Smita Bhatia,  Andrea Gillis]{style="font-weight: 300;color:gray;"}\
+Submitted.
+:::
+
+::::
 
 
 :::
+
+
+<!-- --- -->
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
 #### Papers 23°, 24°, 27°, 29°, 30°

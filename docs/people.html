@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Changde Cheng Lab">
+<meta name="description" content="Explore cutting-edge computational cancer genomics research at Cheng Lab. We focus on multi-omics integration and analysis, tumor microenvironment studies, computational immunology, clonal evolution, and advancing personalized oncology through therapy optimization, drug development, and biomarker discovery.">
 
 <title>CHENG Lab</title>
 <style>
@@ -54,6 +54,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -113,8 +142,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="changde-cheng" class="level2">
-<h2 class="anchored" data-anchor-id="changde-cheng">Changde Cheng</h2>
+<section id="changde-small-mathbbcheng" class="level2">
+<h2 class="anchored" data-anchor-id="changde-small-mathbbcheng">Chang·De <span class="math inline">\(\small \mathbb{Cheng}\)</span></h2>
 <p>He started his academic journey at <a href="https://en.wikipedia.org/wiki/Peking_University">Peking University</a>, one of China’s most prestigious universities. He continued to pursue his education and training at <a href="https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles">UCLA</a>, with Dr.&nbsp;Charles Taylor, a pioneering researcher exploring fundamental questions about language evolution and artificial life; and at the <a href="https://en.wikipedia.org/wiki/University_of_Notre_Dame">University of Notre Dame</a>, with Dr.&nbsp;<a href="https://en.wikipedia.org/wiki/Nora_J._Besansky">Nora Besansky</a>, on ecological genomics of adaptation and speciation.</p>
 <p>During his postdoctoral fellowship at the <a href="https://en.wikipedia.org/wiki/University_of_Texas_at_Austin">University of Texas at Austin</a>, he worked with Dr.&nbsp;<a href="https://en.wikipedia.org/wiki/Mark_Kirkpatrick">Mark Kirkpatrick</a>, in population genetics and theoretical biology, and Dr.&nbsp;<a href="https://www.bio.fsu.edu/faculty.php?faculty-id=houle">David Houle</a>, in quantitative genetics and the evolution of complex traits. After that, he worked as a senior/lead computational research scientist at <a href="https://en.wikipedia.org/wiki/St._Jude_Children%27s_Research_Hospital">St.&nbsp;Jude Children’s Research Hospital</a>, a world-renowned institution at the forefront of pediatric cancer research and treatment, where he contributed to their mission of finding cures and saving children’s lives.</p>
 <p>Currently, he serves as a faculty member and head of bioinformatics in the Stem Cell Program and the Institute for Cancer Outcomes and Survivorship at the Heersink School of Medicine, <a href="https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine">University of Alabama at Birmingham</a>. His work integrates expertise in genetics, bioinformatics, and computational biology to advance understanding and treatment of cancer and other complex diseases.</p>

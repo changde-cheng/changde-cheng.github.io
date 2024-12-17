@@ -145,6 +145,25 @@ Submitted.
 ::::
 
 
+#### 2024-12-17 {#sec-w7}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 7.]{style="font-size: 100%; font-weight:500; color:black;"} **Unraveling the clinical impact of differential DNA methylation in PDAC: A Systematic Review**. \
+[Raj Roy,  Christopher Wu, Lauren Wheeler,  K. Kerrick Akinola,  Herbert Chen, J. Bart Rose,  [Changde Cheng]{style="color:black;"}, Smita Bhatia,  Andrea Gillis]{style="font-weight: 300;color:gray;"}\
+Submitted.
+:::
+
+::::
 
 ---
 
