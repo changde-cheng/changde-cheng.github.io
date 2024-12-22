@@ -9,7 +9,7 @@ title-block-banner: false
 embed-resources: true
 ---
 
-## Chang·De $\small \mathbb{Cheng}$
+## Chang·de $\small \mathbb{Cheng}$
 
 <!-- ## Chang·De Cheng -->
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
@@ -637,7 +637,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 
 
 
-### Ecological Genomics and Infectious Disease Transmission (2009-2016)
+### Ecological/Evolutionary Genomics and Infectious Disease (2009-2016)
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
 #### Papers 1°-10°, 12°
@@ -876,7 +876,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 
 
 * Research Themes:
-  * *Anopheles gambiae* genetics
+  * African malaria mosquito *Anopheles gambiae* genetics
   * Malaria vector studies
   * Y chromosome evolution
   * Chromosomal rearrangements

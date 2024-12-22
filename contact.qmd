@@ -12,7 +12,7 @@ title-block-banner: false
 ---
 
 
-Chang·De $\small \mathbb{Cheng}$, PhD
+Chang·de $\small \mathbb{Cheng}$, PhD
 
 ::: {style="color:green;"}
 Stem Cell Biology Program\
