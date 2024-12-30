@@ -356,6 +356,7 @@ Submitted.
 2023 Dec 18; 14, 8006.
 :::
 
+
 ::::
 
 
@@ -459,8 +460,16 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 ##### [19°.]{style="font-size: 100%; font-weight:500; color:black;"} **Latent cellular analysis robustly reveals subtle diversity in large-scale single-cell RNA-seq data**
 [Changde Cheng]{style="font-weight: 300; color:black;"}[, Easton J, Rosencrance C, Li Y, Ju B, Williams J, Mulder HL, Pang Y, Chen W, Chen X.]{style="font-weight: 300; color:gray;"}\
 [Nucleic Acids Res.](https://www.ncbi.nlm.nih.gov/pubmed/31566233/)
- 2019 Dec 16;47(22):e143.
+ 2019 Dec 16;47(22):e143.\
+ 
+:::{style="font-size: 80%;"}
+- [Benchmarking clustering algorithms on estimating the number of cell types from single-cell RNA-sequencing data](https://doi.org/10.1186/s13059-022-02622-0)  -- Researchers at the University of Sydney ranked our scLCA among the leading methods for accurate cell type number estimation in single-cell RNA sequencing analysis: "one of the top-performing methods on the number of cell type estimation ..."
 :::
+
+
+
+:::
+
 
 ::::
 
