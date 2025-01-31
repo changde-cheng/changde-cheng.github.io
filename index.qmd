@@ -160,30 +160,7 @@ Notable paper:  [31°](https://www.science.org/doi/10.1126/scitranslmed.adq5796)
 ### Cancer Biology, Therapeutic Response, Survival, and Outcome  (2023-2024)
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-#### Submissions № 2-8
-
-
-
-:::: {.columns}
-
-::: {.column width="8%"}
-![](preprints/2023_Circulation/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [№ 2.]{style="font-size: 100%; font-weight:500; color:black;"} **DNA damage response and repair genes and Anthracycline-induced cardiomyopathy in childhood cancer survivors: a report from the Children’s Oncology Group and the Childhood Cancer Survivor Study**. \
-[Xuexia Wang$^{\ast}$, Purnima Singh$^{\ast}$, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, [Changde Cheng]{style="color:black;"}, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
-In revision.
-:::
-
-::::
-
-
-
-
+#### Submissions № 2-7
 
 
 :::: {.columns}
@@ -196,7 +173,7 @@ In revision.
 :::
 
 ::: {.column width="90%"}
-##### [№ 3.]{style="font-size: 100%; font-weight:500; color:black;"} **Transcriptome alteration in pancreatic neuroendocrine tumors among those living with adverse SDOH**. \
+##### [№ 2.]{style="font-size: 100%; font-weight:500; color:black;"} **Transcriptome alteration in pancreatic neuroendocrine tumors among those living with adverse SDOH**. \
 [Andrea Gillis$^{\ast}$, K. Kerrick Akinola$^{\ast}$, Brendon Herring, Isra Elhussin, Elquis Castillo, Stuart Phipps, Vinodh Srinivasasainagendra, Weisheng Chen, Rachael Guenter, Tiwari Hemant, [Doug Welsch]{style="color:darkgreen;"}, Dai Chen, Upender Manne, Herbert Chen, Clayton Yates, J Bart Rose, [Changde Cheng]{style="color:black;"}, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
@@ -216,7 +193,7 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-##### [№ 4.]{style="font-size: 100%; font-weight:500; color:black;"} **Analysis of alternative mRNA splicing in anthracycline-induced cardiomyopathy – a COG-ALTE03N1 report**. \
+##### [№ 3.]{style="font-size: 100%; font-weight:500; color:black;"} **Analysis of alternative mRNA splicing in anthracycline-induced cardiomyopathy – a COG-ALTE03N1 report**. \
 [Purnima Singh $^{\ast}$, David K. Crossman $^{\ast}$, [Changde Cheng]{style="color:black;"}, Patrick J. Trainor, Noha Sharafeldin, Xuexia Wang, Liting Zhou, Lindsey Hageman, Saro H. Armenian, Frank M. Balis, Douglas S. Hawkins, Frank G. Keller, Melissa M. Hudson, Joseph P. Neglia, A. Kim Ritchey, Jill P. Ginsberg, Wendy Landier, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
@@ -236,7 +213,7 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-##### [№ 5.]{style="font-size: 100%; font-weight:500; color:black;"} **Paricalcitol and Hydroxychloroquine modulate extracellular matrix and enhance chemotherapy eﬃcacy in pancreatic cancer**. \
+##### [№ 4.]{style="font-size: 100%; font-weight:500; color:black;"} **Paricalcitol and Hydroxychloroquine modulate extracellular matrix and enhance chemotherapy eﬃcacy in pancreatic cancer**. \
 [Dhana Sekhar Reddy Bandi, Sujith Sarvesh, Jeremy Foote, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Mehmet Akce, Ganji
 Purnachandra Nagaraju, Bassel F. El-Raye.]{style="font-weight: 300;color:gray;"}\
 Submitted.
@@ -258,7 +235,7 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-##### [№ 6.]{style="font-size: 100%; font-weight:500; color:black;"} **Antibody deficiency accelerates tumorigenesis in genetically engineered mouse models of pancreatic cancer**. 
+##### [№ 5.]{style="font-size: 100%; font-weight:500; color:black;"} **Antibody deficiency accelerates tumorigenesis in genetically engineered mouse models of pancreatic cancer**. 
 [Foote JB $^{\dagger}$, Sarvesh S, Al Diﬀalha S, Crossman DK, [Changde Cheng]{style="color:black;"}, Kim M, Rose BJ, Klug CA.]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
@@ -276,7 +253,7 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-##### [№ 7.]{style="font-size: 100%; font-weight:500; color:black;"} **Unraveling the clinical impact of differential DNA methylation in PDAC: A Systematic Review**. \
+##### [№ 6.]{style="font-size: 100%; font-weight:500; color:black;"} **Unraveling the clinical impact of differential DNA methylation in PDAC: A Systematic Review**. \
 [Raj Roy,  Christopher Wu, Lauren Wheeler,  K. Kerrick Akinola,  Herbert Chen, J. Bart Rose,  [Changde Cheng]{style="color:black;"}, Smita Bhatia,  Andrea Gillis]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
@@ -294,7 +271,7 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-##### [№ 8.]{style="font-size: 100%; font-weight:500; color:black;"} **Germline Pathogenic/ Likely Pathogenic Mutations and Subsequent Neoplasms among Childhood Cancer Survivors – A report from the Children’s Oncology Group ALTE03N1 Study**. \
+##### [№ 7.]{style="font-size: 100%; font-weight:500; color:black;"} **Germline Pathogenic/ Likely Pathogenic Mutations and Subsequent Neoplasms among Childhood Cancer Survivors – A report from the Children’s Oncology Group ALTE03N1 Study**. \
 [RLiting Zhou , Purnima Singh , David K. Crossman , Joshua Richman , Mr Patrick J Trainor , [Changde Cheng]{style="color:black;"} , Xuexia Wang , Noha Sharafeldin , Lindsey Hageman , Maryam Sheikh , Melissa Richard , Danielle N. Friedman , Joseph Neglia , Zhaoming Wang , Melissa M Hudson , Saro H Armenian , Douglas Hawkins , Ravi Bhatia , Wendy Landier, Smita Bhatia]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
@@ -307,8 +284,24 @@ Submitted.
 <!-- --- -->
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-#### Papers 23°, 24°, 27°, 29°, 30°
+#### Papers 23°, 24°, 27°, 29°, 30°, 32°
 
+:::: {.columns}
+
+::: {.column width="8%"}
+![](preprints/2023_Circulation/featured.png)
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+##### [32°.]{style="font-size: 100%; font-weight:500; color:black;"}  **DNA damage response and repair genes and Anthracycline-induced cardiomyopathy in childhood cancer survivors: a report from the Children’s Oncology Group and the Childhood Cancer Survivor Study**. 
+[Xuexia Wang$^{\ast}$, Purnima Singh$^{\ast}$, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, [Changde Cheng]{style="color:black;"}, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
+Circulation: Genomic and Precision Medicine, accepted.
+:::
+
+::::
 
 :::: {.columns}
 

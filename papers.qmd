@@ -14,6 +14,32 @@ title-block-banner: false
 
 ## Papers
 
+
+#### 2025 🍄
+
+---
+
+:::: {.columns}
+
+::: {.column width="8%"}
+![](preprints/2023_Circulation/featured.png)
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+##### [32°.]{style="font-size: 100%; font-weight:500; color:black;"}  **DNA damage response and repair genes and Anthracycline-induced cardiomyopathy in childhood cancer survivors: a report from the Children’s Oncology Group and the Childhood Cancer Survivor Study**. 
+[Xuexia Wang$^{\ast}$, Purnima Singh$^{\ast}$, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, [Changde Cheng]{style="color:black;"}, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
+Circulation: Genomic and Precision Medicine, accepted.
+:::
+
+::::
+
+
+
+---
+
 #### 2024 🍄🍄🍄🍄
 
 ---
