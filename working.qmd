@@ -160,7 +160,30 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 7.]{style="font-size: 100%; font-weight:500; color:black;"} **Germline Pathogenic/ Likely Pathogenic Mutations and Subsequent Neoplasms among Childhood Cancer Survivors – A report from the Children’s Oncology Group ALTE03N1 Study**. \
-[RLiting Zhou , Purnima Singh , David K. Crossman , Joshua Richman , Mr Patrick J Trainor , [Changde Cheng]{style="color:black;"} , Xuexia Wang , Noha Sharafeldin , Lindsey Hageman , Maryam Sheikh , Melissa Richard , Danielle N. Friedman , Joseph Neglia , Zhaoming Wang , Melissa M Hudson , Saro H Armenian , Douglas Hawkins , Ravi Bhatia , Wendy Landier, Smita Bhatia]{style="font-weight: 300;color:gray;"}\
+[Liting Zhou , Purnima Singh , David K. Crossman , Joshua Richman , Mr Patrick J Trainor , [Changde Cheng]{style="color:black;"} , Xuexia Wang , Noha Sharafeldin , Lindsey Hageman , Maryam Sheikh , Melissa Richard , Danielle N. Friedman , Joseph Neglia , Zhaoming Wang , Melissa M Hudson , Saro H Armenian , Douglas Hawkins , Ravi Bhatia , Wendy Landier, Smita Bhatia]{style="font-weight: 300;color:gray;"}\
+Submitted.
+:::
+
+::::
+
+---
+
+
+#### 2025-01-20 {#sec-w9}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 8.]{style="font-size: 100%; font-weight:500; color:black;"} **Acute myeloid leukemia microenvironment impairs neutrophil maturation and function through NFκB signaling**. \
+[Paran Goel, Sajesan Aryal, Alana M. Franceski, Valeriya Kuznetsova, Amanda Costa, Francesca Luca, Ashley N. Connelly, Daniel W. Phillips, Caroline C. Ennis, Sourajeet Karfa, Brittany L. Crown, Estelle Carminita, Virginia Camacho, Gracie M. Jack, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Asumi Yokota, Rui Lu , Ravi Bhatia , Pran K. Datta, Kellie R. Machlus, P. Brent Ferrell , Hideyo Hirai and Robert S. Welner]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
