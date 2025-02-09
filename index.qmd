@@ -68,10 +68,9 @@ We use high-dimensional genomic approaches to elucidate the molecular mechanisms
 
 
 
-## Research Evolution
+## Research Themes
 
-My research focus evolves over time, starting with extensive work in ecological genomics and infectious disease vectors (2009-2016), transitioning through evolutionary biology and bioinformatics (2016-2022), and most recently focusing on clinical applications in cardiac arrest and cancer biology (2023-2024).
-
+My research focus evolves over time, starting with extensive work in ecological genomics and infectious disease vectors (2009-2016), transitioning through evolutionary biology and bioinformatics (2016-2022), and most recently focusing on clinical applications in cardiac arrest, sepsis, and cancer biology (2023-2024).
 
 
 ### Immunological Mechanisms in Cardiac Arrest  (2023-2024)
