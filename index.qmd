@@ -70,10 +70,10 @@ We use high-dimensional genomic approaches to elucidate the molecular mechanisms
 
 ## Research Themes
 
-My research focus evolves over time, starting with extensive work in ecological genomics and infectious disease vectors (2009-2016), transitioning through evolutionary biology and bioinformatics (2016-2022), and most recently focusing on clinical applications in cardiac arrest, sepsis, and cancer biology (2023-2024).
+My research focus evolves over time, starting with extensive work in ecological genomics and infectious disease vectors (2009-2014), centering on evolutionary genetics, theoretical biology, and computational genomics (from 2014), and most recently focusing on clinical applications in cardiac arrest, sepsis, and cancer biology (from 2023).
 
 
-### Immunological Mechanisms in Cardiac Arrest  (2023-2024)
+### Immunological Mechanisms in Cardiac Arrest  (from 2023)
 
 
 
@@ -156,7 +156,7 @@ Notable paper:  [31°](https://www.science.org/doi/10.1126/scitranslmed.adq5796)
 
 
 
-### Cancer Biology, Therapeutic Response, Survival, and Outcome  (2023-2024)
+### Cancer Biology, Therapeutic Response, Survival, and Outcome  (from 2023)
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
 #### Submissions № 2-8
@@ -451,7 +451,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 
 
-### Computational Biology  and Single-Cell Analysis (2019-2023)
+### Computational Biology  and Single-Cell Analysis (from 2019)
 
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
@@ -518,7 +518,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 
 
-### Evolutionary Biology and Genetics (2016-2022)
+### Evolutionary Biology, Genetics, and Theory (from 2016)
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
 #### Submission № 1
