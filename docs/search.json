@@ -354,7 +354,7 @@
     "href": "contact.html",
     "title": "CHENG Lab",
     "section": "",
-    "text": "Chang·de \\(\\small \\mathbb{Cheng}\\), PhD\n\nStem Cell Biology Program\nDivision of Hematology and Oncology\nInstitute for Cancer Outcomes and Survivorship\nDepartment of Biomedical Informatics and Data Science\nO’Neal Comprehensive Cancer Center\nDepartment of Medicine, Heersink School of Medicine\nUniversity of Alabama at Birmingham, USA\n\nWallace Tumor Institute 520A.\n1824 6th Ave S Birmingham, Alabama 35233.\n\nEmail: ccheng [at] uabmc [dot] edu"
+    "text": "We welcome motivated undergraduate and graduate students from diverse backgrounds (including biology, medicine, statistics, and engineering) to join our research team. Our lab focuses on multi-omics integration, cancer immunogenomics, and machine learning applications in precision oncology, providing students with hands-on experience in cutting-edge computational cancer research.\nIf you are interested in contributing to impactful research and developing your skills in bioinformatics, computational biology, and cancer genomics, please contact Dr. Changde Cheng at [ ccheng@uabmc.edu ] for more information."
   },
   {
     "objectID": "publications/2023_scRNAreview/index.html",
@@ -466,7 +466,7 @@
     "href": "index.html#changde-cheng",
     "title": "CHENG Lab",
     "section": "",
-    "text": "Stem Cell Biology Program\nDivision of Hematology and Oncology\nInstitute for Cancer Outcomes and Survivorship\nDepartment of Biomedical Informatics and Data Science\nO’Neal Comprehensive Cancer Center\nDepartment of Medicine, Heersink School of Medicine\nUniversity of Alabama at Birmingham, USA"
+    "text": "Contact\n\n\n\n\n\n\nStem Cell Biology Program\nDivision of Hematology and Oncology\nInstitute for Cancer Outcomes and Survivorship\nDepartment of Biomedical Informatics and Data Science\nO’Neal Comprehensive Cancer Center\nDepartment of Medicine, Heersink School of Medicine\nUniversity of Alabama at Birmingham, USA\n\nWallace Tumor Institute 520A.\n1824 6th Ave S Birmingham, Alabama 35233.\n\nEmail: ccheng [at] uabmc [dot] edu"
   },
   {
     "objectID": "people.html#doug-welsch---bioinformatician",
@@ -691,5 +691,40 @@
     "title": "CHENG Lab",
     "section": "",
     "text": "Contact\n\n\n\n\n\n\nStem Cell Biology Program\nDivision of Hematology and Oncology\nInstitute for Cancer Outcomes and Survivorship\nDepartment of Biomedical Informatics and Data Science\nO’Neal Comprehensive Cancer Center\nDepartment of Medicine, Heersink School of Medicine\nUniversity of Alabama at Birmingham, USA\n\nWallace Tumor Institute 520A.\n1824 6th Ave S Birmingham, Alabama 35233.\n\nEmail: ccheng [at] uabmc [dot] edu"
+  },
+  {
+    "objectID": "contact.html#students-researchers",
+    "href": "contact.html#students-researchers",
+    "title": "CHENG Lab",
+    "section": "",
+    "text": "We have openings for motivated undergraduate and graduate students from various background (biology, medicine, statistics, engineering) to work at int interface of genomics, cancer biology, and computatoinal biology. Please contact ccheng@uabmc.edu for more information."
+  },
+  {
+    "objectID": "contact.html#postdocs-and-bioinformatician",
+    "href": "contact.html#postdocs-and-bioinformatician",
+    "title": "CHENG Lab",
+    "section": "Postdocs and Bioinformatician",
+    "text": "Postdocs and Bioinformatician\nFor inquiries of postdoctoral fellow positions, please send a CV to ccheng@uabmc.edu. Please include a list of publications and details of three references."
+  },
+  {
+    "objectID": "contact.html#opportunities-for-student-researchers",
+    "href": "contact.html#opportunities-for-student-researchers",
+    "title": "CHENG Lab",
+    "section": "",
+    "text": "We welcome motivated undergraduate and graduate students from diverse backgrounds (including biology, medicine, statistics, and engineering) to join our research team. Our lab focuses on multi-omics integration, cancer immunogenomics, and machine learning applications in precision oncology, providing students with hands-on experience in cutting-edge computational cancer research.\nIf you are interested in contributing to impactful research and developing your skills in bioinformatics, computational biology, and cancer genomics, please contact Dr. Changde Cheng at [ ccheng@uabmc.edu ] for more information."
+  },
+  {
+    "objectID": "contact.html#postdoctoral-fellows-bioinformaticians",
+    "href": "contact.html#postdoctoral-fellows-bioinformaticians",
+    "title": "CHENG Lab",
+    "section": "Postdoctoral Fellows & Bioinformaticians",
+    "text": "Postdoctoral Fellows & Bioinformaticians\nFor inquiries of postdoctoral fellow positions, please send a CV to ccheng@uabmc.edu. Please include a list of publications and details of three references."
+  },
+  {
+    "objectID": "contact.html#postdocs-bioinformaticians",
+    "href": "contact.html#postdocs-bioinformaticians",
+    "title": "CHENG Lab",
+    "section": "Postdocs & Bioinformaticians",
+    "text": "Postdocs & Bioinformaticians\nFor inquiries of postdoc or bioinformatician positions, please send a CV to [ ccheng@uabmc.edu ]. Please include a list of publications and details of three references."
   }
 ]

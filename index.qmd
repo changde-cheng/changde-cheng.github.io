@@ -9,7 +9,7 @@ title-block-banner: false
 embed-resources: true
 ---
 
-## Chang·de $\small \mathbb{Cheng}$
+## Changde Cheng
 
 <!-- ## Chang·De Cheng -->
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}

@@ -42,7 +42,7 @@ website:
       #   file: featured.qmd
       # - text: "More Publications"
       #   file: publications.qmd
-      - text: "Contact"
+      - text: "Join Us"
         file: contact.qmd
       # - text: "Projects"
       #   file: projects.qmd

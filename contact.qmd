@@ -1,5 +1,5 @@
 ---
-# title: "Contact"
+# title: "Join Us"
 # listing:
 #   contents: people
 #   sort: "date desc"
@@ -12,19 +12,16 @@ title-block-banner: false
 ---
 
 
-Chang·de $\small \mathbb{Cheng}$, PhD
 
-::: {style="color:green;"}
-Stem Cell Biology Program\
-Division of Hematology and Oncology\
-Institute for Cancer Outcomes and Survivorship\
-Department of Biomedical Informatics and Data Science\
-O’Neal Comprehensive Cancer Center\
-Department of Medicine, Heersink School of Medicine\
-University of Alabama at Birmingham, USA\
+## Opportunities for Student Researchers 
 
-Wallace Tumor Institute 520A. \
-1824 6th Ave S Birmingham, Alabama 35233. \
+We welcome motivated undergraduate and graduate students from diverse backgrounds (including biology, medicine, statistics, and engineering) to join our research team. Our lab focuses on multi-omics integration, cancer immunogenomics, and machine learning applications in precision oncology, providing students with hands-on experience in cutting-edge computational cancer research.
 
-Email: ccheng [at] uabmc [dot] edu
-:::
+If you are interested in contributing to impactful research and developing your skills in bioinformatics, computational biology, and cancer genomics, please contact Dr. Changde Cheng at [ ccheng@uabmc.edu ] for more information.
+
+## Postdocs & Bioinformaticians
+
+For inquiries of postdoc or bioinformatician positions, please send a CV to [ ccheng@uabmc.edu ]. Please include a list of publications and details of three references.
+
+
+

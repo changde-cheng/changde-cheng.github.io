@@ -11,7 +11,7 @@ page-layout: article
 title-block-banner: false
 ---
 
-## Chang·de $\small \mathbb{Cheng}$
+## Changde Cheng
 
 He started his academic journey at [Peking University](https://en.wikipedia.org/wiki/Peking_University), one of China’s most prestigious universities.  He continued to pursue his education and training at  [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles), with Dr. Charles Taylor, a pioneering researcher exploring fundamental questions about language evolution and artificial life; and at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame), with Dr. [Nora Besansky](https://en.wikipedia.org/wiki/Nora_J._Besansky), on ecological genomics of adaptation and speciation.
 
