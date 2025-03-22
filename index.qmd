@@ -241,24 +241,6 @@ Submitted.
 
 ::::
 
-<!-- --- -->
-
-:::: {.columns}
-
-::: {.column width="8%"}
-
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [№ 6.]{style="font-size: 100%; font-weight:500; color:black;"} **Unraveling the clinical impact of differential DNA methylation in PDAC: A Systematic Review**. \
-[Raj Roy,  Christopher Wu, Lauren Wheeler,  K. Kerrick Akinola,  Herbert Chen, J. Bart Rose,  [Changde Cheng]{style="color:black;"}, Smita Bhatia,  Andrea Gillis]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
-
-::::
 
 <!-- --- -->
 
@@ -343,8 +325,29 @@ Submitted.
 <!-- --- -->
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-#### Papers 23°, 24°, 27°, 29°, 30°, 32°
+#### Papers 23°, 24°, 27°, 29°, 30°, 32°, 33°
 
+
+<!-- article -->
+
+:::: {.columns}
+
+::: {.column width="8%"}
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+##### [33°.]{style="font-size: 100%; font-weight:500; color:black;"}  **Unraveling the clinical impact of differential DNA methylation in PDAC: A Systematic Review**. 
+[Raj Roy,  Christopher Wu, Lauren Wheeler,  K. Kerrick Akinola,  Herbert Chen, J. Bart Rose,  [Changde Cheng]{style="color:black;"}, Smita Bhatia,  Andrea Gillis]{style="font-weight: 300;color:gray;"}\
+European Journal of Cancer, accepted.
+:::
+
+::::
+
+
+<!-- article -->
 :::: {.columns}
 
 ::: {.column width="8%"}
@@ -362,6 +365,7 @@ Circulation: Genomic and Precision Medicine, accepted.
 
 ::::
 
+<!-- article -->
 :::: {.columns}
 
 ::: {.column width="8%"}
