@@ -25,7 +25,7 @@ title-block-banner: false
 
 ::: {.column width="90%"}
 ##### [33°.]{style="font-size: 100%; font-weight:500; color:black;"}  **Unraveling the clinical impact of differential DNA methylation in PDAC: A Systematic Review**. 
-[Raj Roy,  Christopher Wu, Lauren Wheeler,  K. Kerrick Akinola,  Herbert Chen, J. Bart Rose,  [Changde Cheng]{style="color:black;"}, Smita Bhatia,  Andrea Gillis]{style="font-weight: 300;color:gray;"}\ 
+[Raj Roy,  Christopher Wu, Lauren Wheeler,  K. Kerrick Akinola,  Herbert Chen, J. Bart Rose,  [Changde Cheng]{style="color:black;"}, Smita Bhatia,  Andrea Gillis]{style="font-weight: 300;color:gray;"}\
 European Journal of Cancer, accepted.
 :::
 
