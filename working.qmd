@@ -46,7 +46,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 
 ::: {.column width="90%"}
 [№ 2.]{style="font-size: 100%; font-weight:500; color:black;"} **Transcriptome alteration in pancreatic neuroendocrine tumors among those living with adverse SDOH**. \
-[Andrea Gillis$^{\ast}$, K. Kerrick Akinola$^{\ast}$, Brendon Herring, Isra Elhussin, Elquis Castillo, Stuart Phipps, Vinodh Srinivasasainagendra, Weisheng Chen, Rachael Guenter, Tiwari Hemant, [Doug Welsch]{style="color:darkgreen;"}, Dai Chen, Upender Manne, Herbert Chen, Clayton Yates, J Bart Rose, [Changde Cheng]{style="color:black;"}, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
+[Andrea Gillis$^{\ast}$, K. Kerrick Akinola$^{\ast}$, Brendon Herring, Isra Elhussin, Elquis Castillo, Stuart Phipps, Vinodh Srinivasasainagendra, Weisheng Chen, Rachael Guenter, Tiwari Hemant, Dai Chen, Upender Manne, Herbert Chen, Clayton Yates, J Bart Rose, [Changde Cheng]{style="color:black;"}, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
@@ -87,7 +87,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 4.]{style="font-size: 100%; font-weight:500; color:black;"} **Paricalcitol and Hydroxychloroquine modulate extracellular matrix and enhance chemotherapy eﬃcacy in pancreatic cancer**. \
-[Dhana Sekhar Reddy Bandi, Sujith Sarvesh, Jeremy Foote, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Mehmet Akce, Ganji
+[Dhana Sekhar Reddy Bandi, Sujith Sarvesh, Jeremy Foote, [Changde Cheng]{style="color:black;"}, Mehmet Akce, Ganji
 Purnachandra Nagaraju, Bassel F. El-Raye.]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
@@ -153,7 +153,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 8.]{style="font-size: 100%; font-weight:500; color:black;"} **Acute myeloid leukemia microenvironment impairs neutrophil maturation and function through NFκB signaling**. \
-[Paran Goel, Sajesan Aryal, Alana M. Franceski, Valeriya Kuznetsova, Amanda Costa, Francesca Luca, Ashley N. Connelly, Daniel W. Phillips, Caroline C. Ennis, Sourajeet Karfa, Brittany L. Crown, Estelle Carminita, Virginia Camacho, Gracie M. Jack, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Asumi Yokota, Rui Lu , Ravi Bhatia , Pran K. Datta, Kellie R. Machlus, P. Brent Ferrell , Hideyo Hirai and Robert S. Welner]{style="font-weight: 300;color:gray;"}\
+[Paran Goel, Sajesan Aryal, Alana M. Franceski, Valeriya Kuznetsova, Amanda Costa, Francesca Luca, Ashley N. Connelly, Daniel W. Phillips, Caroline C. Ennis, Sourajeet Karfa, Brittany L. Crown, Estelle Carminita, Virginia Camacho, Gracie M. Jack, [Changde Cheng]{style="color:black;"}, Asumi Yokota, Rui Lu , Ravi Bhatia , Pran K. Datta, Kellie R. Machlus, P. Brent Ferrell , Hideyo Hirai and Robert S. Welner]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
