@@ -39,14 +39,14 @@ Email: ccheng [at] uabmc [dot] edu
 
 
 
-# Current Research Focus {#research}
+# Current Research and Highlights {#research}
 
 Our lab integrates genomics, computational biology, and cancer research to explore the molecular mechanisms of cancer progression and therapeutic resistance. We employ advanced single-cell and spatial genomic approaches to dissect tumor complexity through single-cell transcriptomics, spatial genomics, and multi-modal analyses integrating genomic, epigenomic, and proteomic data. Our current research investigates **epigenetic regulation of gene expression and clonal dynamics in hematopoietic stem cells**, with a particular focus on understanding how epigenetic modifications drive cellular differentiation and potential malignant transformation.
 
 
 ## **Measure of Rescue: Wherein Resistance to Remedy is Accounted**
 
-In our recent *Blood* publication, we introduced the "rescue index" - a metric that measures how gene expression returns to normal levels in resistant leukemia cells. 
+In our recent *Blood* publication (with friends, led by Dr. Rui Lu, Lu Lab at UAB), we introduced the "rescue index" - a metric that measures how gene expression returns to normal levels in resistant leukemia cells. 
 
 ::: {.text-center}
 **Type I and Type II menin targets**
@@ -92,7 +92,7 @@ Also read this commentary on our work \
 
 One main focus is on the complex dynamics of clonal evolution in hematopoietic stem cells, exploring how genetic and epigenetic mechanisms shape cellular lineage development and contribute to disease progression.
 
-Our recent collaboration in the *Journal of Clinical Oncology* documents how evolutionary forces operate differently based on biological sex. In blood cell production after cancer treatment, mutations emerge in 37.2% of patients. These mutations appear at nearly identical rates in males (35.8%) and females (39.6%), affecting the same genes including *DNMT3A*, *PPM1D*, *TET2*, and *TP53*.
+Our recent collaboration (with friends, led by Drs. Smita Bhatia nd Ravi Bhatia) in the *Journal of Clinical Oncology* documents how evolutionary forces operate differently based on biological sex. In blood cell production after cancer treatment, mutations emerge in 37.2% of patients. These mutations appear at nearly identical rates in males (35.8%) and females (39.6%), affecting the same genes including *DNMT3A*, *PPM1D*, *TET2*, and *TP53*.
 
 The temporal trajectories of clones diverge dramatically. In males, mutated clones expand and evolve, leading to therapy-related blood cancers in 12.4% of cases. In females, similar mutations rarely achieve dominance, with only 3.6% progressing to malignancy. 
 
@@ -102,7 +102,7 @@ The temporal trajectories of clones diverge dramatically. In males, mutated clon
 
 ![](publications/2024_sextmn/featured.png)
 
-This suggests differential selection:  mutants or clones face distinct evolutionary pressures in male versus female physiological environments, creating different fitness landscapes despite identical genetic starting points. Biological context shapes evolutionary outcomes in cancer development.
+This suggests differential selection:  mutants or clones face distinct evolutionary pressures in male versus female physiological environments, creating different fitness landscapes despite identical genetic starting points. Biological context shapes evolutionary outcomes in cancer development. 
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
 ### Read the paper:
