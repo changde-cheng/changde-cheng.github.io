@@ -1,5 +1,6 @@
 ---
 title: ""
+subtitle: "Decoding Cancer Biology Through Genomics and Computation"
 page-layout: article
 title-block-banner: false
 # about:
@@ -9,9 +10,13 @@ title-block-banner: false
 embed-resources: true
 ---
 
-## Changde Cheng
+# Changde Cheng
 
-<!-- ## Chang·De Cheng -->
+I am a computational biologist and geneticist investigating the molecular mechanisms driving cancer progression and therapeutic resistance. My lab integrates genomic technologies with computational methods to understand the pattern and process of cancer biology at single-cell resolution.
+
+With a background spanning computational genomics, evolutionary biology, and cancer research, I bring unique interdisciplinary perspectives to tackle complex biomedical challenges. We are committed to translating genomic insights into clinical applications that improve patient outcomes.
+
+
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
 ## Contact
 
@@ -32,971 +37,87 @@ Email: ccheng [at] uabmc [dot] edu
 
 :::
 
-<!-- ::: {style="font-size: 93%; color:green;"} -->
-<!-- Stem Cell Biology Program\ -->
-<!-- Division of Hematology and Oncology\ -->
-<!-- Institute for Cancer Outcomes and Survivorship\ -->
-<!-- Department of Biomedical Informatics and Data Science\ -->
-<!-- O’Neal Comprehensive Cancer Center\ -->
-<!-- Department of Medicine, Heersink School of Medicine\ -->
-<!-- University of Alabama at Birmingham, USA -->
-<!-- ::: -->
 
 
+# Current Research Focus {#research}
 
-## Research Overview
-
-We use high-dimensional genomic approaches to elucidate the molecular mechanisms underlying cancer progression and therapeutic resistance. Through integrated analysis of single-cell transcriptomics, spatial genomics, and multi-modal omics data, we systematically characterize cellular subpopulations and microenvironmental factors that contribute to disease origin, recurrence and resistance.
-
-* High-Throughput Genomic Analysis
-  * Single-cell RNA sequencing for cellular heterogeneity profiling
-  * Spatial transcriptomics for microenvironmental context
-  * Multi-modal omics integration for comprehensive molecular characterization
-  * Perturbation-based functional genomics
-
-* Computational Biology Applications
-  * Development of robust statistical frameworks
-  * Algorithm optimization for cellular state inference
-<!--   * Network-based approaches for intercellular communication -->
-<!--   * Integration of heterogeneous data modalities -->
-
-* Theoretical Foundations
-  * Population genetics
-  <!-- of clonal evolution -->
-  * Quantitative genetics and phenotypic variation
-  * Systematic analysis of evolutionary forces
+Our lab integrates genomics, computational biology, and cancer research to explore the molecular mechanisms of cancer progression and therapeutic resistance. We employ advanced single-cell and spatial genomic approaches to dissect tumor complexity through single-cell transcriptomics, spatial genomics, and multi-modal analyses integrating genomic, epigenomic, and proteomic data. Our current research investigates **epigenetic regulation of gene expression and clonal dynamics in hematopoietic stem cells**, with a particular focus on understanding how epigenetic modifications drive cellular differentiation and potential malignant transformation.
 
 
+## **Measure of Rescue: Wherein Resistance to Remedy is Accounted**
 
-## Research Themes
+In our recent *Blood* publication, we introduced the "rescue index" - a metric that measures how gene expression returns to normal levels in resistant leukemia cells. 
 
-My research focus evolves over time, starting with extensive work in ecological genomics and infectious disease vectors (2009-2014), centering on evolutionary genetics, theoretical biology, and computational genomics (from 2014), and most recently focusing on clinical applications in cardiac arrest, sepsis, and cancer biology (from 2023).
+::: {.text-center}
+**Type I and Type II menin targets**
+:::
 
+![](publications/2024_menin/featured_1.png){fig-alt="Barplot of Rescue Index" fig-width=85% fig-align="center"}
 
-### Immunological Mechanisms in Cardiac Arrest  (since 2023)
+This index quantifies resistance on a scale from 0 (no rescue) to 1 (complete rescue), revealing that genes co-bound by both menin and H2AK119ub (Type II targets) show significantly higher rescue values than those bound only by menin (Type I). The rescue index demonstrated that loss of PRC1.1 enables noncanonical menin targets like MYC to escape suppression despite treatment. 
 
+::: {.text-center}
+**Rescue Index**
+:::
+
+![](publications/2024_menin/featured_2.png){fig-alt="Plot showing Type I and Type II menin targets" fig-width=85% fig-align="center"}
+
+This quantitative approach identified a critical balance between activating and repressive epigenetic marks that determines treatment response and highlighted venetoclax as an effective strategy against PRC1.1-deficient leukemia cells.
+
+::: {.text-center}
+**Rescue index comparison between Type I and Type II menin targets through RNAseq analysis**
+:::
+
+![](publications/2024_menin/featured.png){fig-alt="Plot showing higher rescue index values in Type II menin targets" fig-width=85% fig-align="center"}
 
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-#### Papers 25°, 28°, 31°
 
-:::: {.columns}
+### Read the paper:
 
-
-::: {.column width="8%"}
-![](preprints/2022_mouse/featured.png)
-:::
-
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [31°.]{style="font-size: 100%; font-weight:500; color:black;"} **Innate T cells regulate early inflammation and neurological outcomes after cardiac arrest and resuscitation**
-[Tomoyoshi Tamura$^{\ast}$, [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Ana Villaseñor-Altamirano$^{\ast}$, Kei Hayashida, Kohei Ikeda$^{\ast}$, Kohei Yamada$^{\ast}$, Jaivardhan A Menon, Louis T. Merriam, Jack Varon, Jiyoung Choi, Aidan M. Cullen, Jingyu Guo, Benjamin A. Olenchock, Mayra A. Pinilla-Vera, Reshmi Manandhar, Muhammad Dawood Amir Sheikh, Peter C. Hou, Patrick R. Lawler, William M. Oldham, Raghu R. Seethala, Immunology of Cardiac Arrest Network (I-CAN), Rebecca M. Baron, Erin A. Bohula, David A. Morrow, Alexandra Weissman, Michael B. Brenner, Xiang Chen $^{\dagger}$, Fumito Ichinose $^{\dagger}$, Edy Y. Kim $^{\dagger}$ .]{style="font-weight: 300; color:gray;"}\
-[Science Translational Medicine](https://www.science.org/doi/10.1126/scitranslmed.adq5796)
-2024 Dec 4; (16) 776.\
-
-:::{style="font-size: 93%;"}
-- Best Abstract -- The American Heart Association's (AHA) Scientific Sessions 2024
-:::
-:::
-
-::::
-
-
-:::: {.columns}
-
-::: {.column width="8%"}
-<!-- ![](publications/2024_protocol/featured.png) -->
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [28°.]{style="font-size: 100%; font-weight:500; color:black;"} **Protocol for immunophenotyping out-of-hospital cardiac arrest patients** 
-[Yamada K$^{\dagger}$, Menon JA, Kim Y, [Changde Cheng]{style="font-weight: 300; color:black;"}, Chen W, Shih JA, Villasenor-Altamirano AB, Chen X, Immunology of Cardiac Arrest Network (I-CAN), Tamura T, Merriam LT, Kim EY$^{\dagger}$, Weissman AJ$^{\dagger}$.]{style="font-weight: 300; color:gray;"} \
-[STAR Protocols](https://www.sciencedirect.com/science/article/pii/S266616672400039X)
-2024 Mar 15; 5 (1), 102874.
-:::
-
-::::
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2023_CA/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [25°.]{style="font-size: 100%; font-weight:500; color:black;"} **Single-cell transcriptomics reveal a hyperacute cytokine and immune checkpoint axis after cardiac arrest in patients with poor neurological outcome**
-[Tamura T$^{\ast}$, [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Chen W, Merriam LT, Athar H, Kim YH, Manandhar R, Amir Sheikh MD, Pinilla-Vera M, Varon J, Hou PC, Lawler PR, Oldham WM, Seethala RR, Tesfaigzi Y, Weissman AJ, Baron RM, Ichinose F, Berg KM, Bohula EA, Morrow DA, Chen X, Kim EY.]{style="font-weight: 300; color:gray;"}\
-[Med.](https://www.ncbi.nlm.nih.gov/pubmed/37257452/)
- 2023 Jul 14;4(7):432-456.e6. 
-:::
-
-::::
-
-
-:::
-
-
-* immune response and inflammation after cardiac arrest
-  * single-cell transcriptomics, 
-  * immune checkpoint regulation, 
-  * inflammation markers 
-
-Notable paper:  [31°](https://www.science.org/doi/10.1126/scitranslmed.adq5796), the latest Science Translational Medicine publication (2024) on T cells.
-
-
-
-
-### Cancer Genomics, Stem Cell Biology, Therapeutic Response, Survival, and Outcome  (since 2023)
-
-::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-#### Submissions № 2-10
-
-
-:::: {.columns}
-
-::: {.column width="8%"}
-<!-- ![](preprints/2024_gmm/featured.png) -->
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [№ 2.]{style="font-size: 100%; font-weight:500; color:black;"} **Transcriptome alteration in pancreatic neuroendocrine tumors among those living with adverse SDOH**. \
-[Andrea Gillis$^{\ast}$, K. Kerrick Akinola$^{\ast}$, Brendon Herring, Isra Elhussin, Elquis Castillo, Stuart Phipps, Vinodh Srinivasasainagendra, Weisheng Chen, Rachael Guenter, Tiwari Hemant, [Doug Welsch]{style="color:darkgreen;"}, Dai Chen, Upender Manne, Herbert Chen, Clayton Yates, J Bart Rose, [Changde Cheng]{style="color:black;"}, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
-
-::::
-
-
-
-
-:::: {.columns}
-
-::: {.column width="8%"}
-<!-- ![](preprints/2024_gmm/featured.png) -->
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [№ 3.]{style="font-size: 100%; font-weight:500; color:black;"} **Analysis of alternative mRNA splicing in anthracycline-induced cardiomyopathy – a COG-ALTE03N1 report**. \
-[Purnima Singh $^{\ast}$, David K. Crossman $^{\ast}$, [Changde Cheng]{style="color:black;"}, Patrick J. Trainor, Noha Sharafeldin, Xuexia Wang, Liting Zhou, Lindsey Hageman, Saro H. Armenian, Frank M. Balis, Douglas S. Hawkins, Frank G. Keller, Melissa M. Hudson, Joseph P. Neglia, A. Kim Ritchey, Jill P. Ginsberg, Wendy Landier, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
-
-::::
-
-
-
-
-:::: {.columns}
-
-::: {.column width="8%"}
-<!-- ![](preprints/2024_gmm/featured.png) -->
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [№ 4.]{style="font-size: 100%; font-weight:500; color:black;"} **Paricalcitol and Hydroxychloroquine modulate extracellular matrix and enhance chemotherapy eﬃcacy in pancreatic cancer**. \
-[Dhana Sekhar Reddy Bandi, Sujith Sarvesh, Jeremy Foote, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Mehmet Akce, Ganji
-Purnachandra Nagaraju, Bassel F. El-Raye.]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
-
-::::
-
-
-
-
-
-:::: {.columns}
-
-::: {.column width="8%"}
-![](preprints/2024_gmm/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [№ 5.]{style="font-size: 100%; font-weight:500; color:black;"} **Antibody deficiency accelerates tumorigenesis in genetically engineered mouse models of pancreatic cancer**. 
-[Foote JB $^{\dagger}$, Sarvesh S, Al Diﬀalha S, Crossman DK, [Changde Cheng]{style="color:black;"}, Kim M, Rose BJ, Klug CA.]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
-
-::::
-
-
-<!-- --- -->
-
-:::: {.columns}
-
-::: {.column width="8%"}
-
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [№ 7.]{style="font-size: 100%; font-weight:500; color:black;"} **Germline Pathogenic/ Likely Pathogenic Mutations and Subsequent Neoplasms among Childhood Cancer Survivors – A report from the Children’s Oncology Group ALTE03N1 Study**. \
-[RLiting Zhou , Purnima Singh , David K. Crossman , Joshua Richman , Mr Patrick J Trainor , [Changde Cheng]{style="color:black;"} , Xuexia Wang , Noha Sharafeldin , Lindsey Hageman , Maryam Sheikh , Melissa Richard , Danielle N. Friedman , Joseph Neglia , Zhaoming Wang , Melissa M Hudson , Saro H Armenian , Douglas Hawkins , Ravi Bhatia , Wendy Landier, Smita Bhatia]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
-
-::::
-
-<!-- --- -->
-
-:::: {.columns}
-
-::: {.column width="8%"}
-
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [№ 8.]{style="font-size: 100%; font-weight:500; color:black;"} **Acute myeloid leukemia microenvironment impairs neutrophil maturation and function through NFκB signaling**. \
-[Paran Goel, Sajesan Aryal, Alana M. Franceski, Valeriya Kuznetsova, Amanda Costa, Francesca Luca, Ashley N. Connelly, Daniel W. Phillips, Caroline C. Ennis, Sourajeet Karfa, Brittany L. Crown, Estelle Carminita, Virginia Camacho, Gracie M. Jack, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Asumi Yokota, Rui Lu , Ravi Bhatia , Pran K. Datta, Kellie R. Machlus, P. Brent Ferrell , Hideyo Hirai and Robert S. Welner]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
-
-::::
-
-<!-- --- -->
-
-:::: {.columns}
-
-::: {.column width="8%"}
-
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-[№ 9.]{style="font-size: 100%; font-weight:500; color:black;"} **Clonal hematopoiesis and subsequent venous thromboembolism among survivors of autologous transplantation for lymphoma**. \
-[Radhika Gangaraju; Yanjun Chen; Lindsey Hageman; Alysia Bosworth; Elizabeth Ross; Liton Francisco; Purnima Singh; Melissa Richard; Chengcheng Yan; Rashi Kalra; [Changde Cheng]{style="color:black;"}; Saro Armenian; Stephen Forman; Ravi Bhatia; Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
-
-::::
-<!-- --- -->
-:::: {.columns}
-
-::: {.column width="8%"}
-
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-[№ 10.]{style="font-size: 100%; font-weight:500; color:black;"} **Marrow Minded: Characterizing Differences between Calvarium and Femur Bone Marrow Microenvironment in Diabetes**. \
-[Ashley Rennhack, Micheli Sielski, Bright Asare-Bediako, , Emory Johnson, Fadeela Sheini, Sergio Li Calzi, [Changde Cheng]{style="color:black;"}, Maria B. Grant.]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
-
-::::
-
-<!-- --- -->
-
-
-:::
-
-
-<!-- --- -->
-
-::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-#### Papers 23°, 24°, 27°, 29°, 30°, 32°, 33°
-
-
-<!-- article -->
-
-:::: {.columns}
-
-::: {.column width="8%"}
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [33°.]{style="font-size: 100%; font-weight:500; color:black;"}  **Unraveling the clinical impact of differential DNA methylation in PDAC: A Systematic Review**. 
-[Raj Roy,  Christopher Wu, Lauren Wheeler,  K. Kerrick Akinola,  Herbert Chen, J. Bart Rose,  [Changde Cheng]{style="color:black;"}, Smita Bhatia,  Andrea Gillis]{style="font-weight: 300;color:gray;"}\
-European Journal of Cancer, accepted.
-:::
-
-::::
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](preprints/2023_Circulation/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [32°.]{style="font-size: 100%; font-weight:500; color:black;"}  **DNA damage response and repair genes and Anthracycline-induced cardiomyopathy in childhood cancer survivors: a report from the Children’s Oncology Group and the Childhood Cancer Survivor Study**. 
-[Xuexia Wang$^{\ast}$, Purnima Singh$^{\ast}$, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, [Changde Cheng]{style="color:black;"}, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
-Circulation: Genomic and Precision Medicine, accepted.
-:::
-
-::::
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](publications/2024_menin/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"} 
-##### [30°.]{style="font-size: 100%; font-weight:500; color:black;"} **Epigenetic regulation of non-canonical menin targets modulates menin inhibitor response in acute myeloid leukemia** 
+**Epigenetic regulation of non-canonical menin targets modulates menin inhibitor response in acute myeloid leukemia** \
 [Xinyue Zhou, Lixia Zhang, Sajesan Aryal, Virginia Veasey, Amanda Tajik, Cecilia Restelli, Steven Moreira, Pengcheng Zhang, Yanfeng Zhang, Kristin Hope, Yang Zhou, [Changde Cheng]{style="font-weight: 300; color:black;"}, Ravi Bhatia, and Rui Lu.]{style="font-weight: 300; color:gray;"} \
 [Blood](https://doi.org/10.1182/blood.2023023644) 
 2024 Nov 7; 144 (19): 2018–2032. \
 
+Also read this commentary on our work \
+
 :::{style="font-size: 93%;"}
 - [Broken brakes: PRC loss foils menin inhibition ](https://doi.org/10.1182/blood.2024026297)  -- Commentary in Blood
 :::
+
 :::
 
-::::
+## What Tempests in the Blood: When Sex Guide the Fates of Clones
 
+One main focus is on the complex dynamics of clonal evolution in hematopoietic stem cells, exploring how genetic and epigenetic mechanisms shape cellular lineage development and contribute to disease progression.
 
-:::: {.columns}
+Our recent collaboration in the *Journal of Clinical Oncology* documents how evolutionary forces operate differently based on biological sex. In blood cell production after cancer treatment, mutations emerge in 37.2% of patients. These mutations appear at nearly identical rates in males (35.8%) and females (39.6%), affecting the same genes including *DNMT3A*, *PPM1D*, *TET2*, and *TP53*.
 
-::: {.column width="8%"}
+The temporal trajectories of clones diverge dramatically. In males, mutated clones expand and evolve, leading to therapy-related blood cancers in 12.4% of cases. In females, similar mutations rarely achieve dominance, with only 3.6% progressing to malignancy. 
+
+::: {.text-center}
+**Mutations persist, expand, or disappear during disease progression,  associated with specific chromosomal abnormalities across biological groups.**
+:::
+
 ![](publications/2024_sextmn/featured.png)
-:::
 
-::: {.column width="2%"}
-:::
+This suggests differential selection:  mutants or clones face distinct evolutionary pressures in male versus female physiological environments, creating different fitness landscapes despite identical genetic starting points. Biological context shapes evolutionary outcomes in cancer development.
 
-::: {.column width="90%"}
-##### [29°.]{style="font-size: 100%; font-weight:500; color:black;"} **Sex-based differences in risk for therapy-related myeloid neoplasms** 
+::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
+### Read the paper:
+
+**Sex-based differences in risk for therapy-related myeloid neoplasms** \
 [Melissa A Richard$^{\ast}$, Chengcheng Yan$^{\ast}$, Yanjun Chen, Christopher J Gibson, Rashi Kalra, Alysia Bosworth, David K Crossman, Purnima Singh, Lindsey Hageman, Jianbo He, Saro H Armenian, Julie Vose, Daniel J Weisdorf, Benjamin L Ebert, Yutaka Yasui,  [Changde Cheng]{style="font-weight: 300; color:black;"}, Stephen J Forman , Smita Bhatia$^{\dagger}$, Ravi Bhatia$^{\dagger}$]{style="font-weight: 300; color:gray;"} \
 [Journal of Clinical Oncology](https://doi.org/10.1200/JCO-24-01487)
 2024 Nov 1; Vol. 42, No 31. \
 
+Also read this editorials on our work \
+
 :::{style="font-size: 93%;"}
 - [Battle of the sexes in the clonal world](https://doi.org/10.1200/JCO-24-01758)  -- Editorials in JCO
 :::
-:::
-
-::::
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2023_bwt/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [27°.]{style="font-size: 100%; font-weight:500; color:black;"} **Genetic and epigenetic features of bilateral Wilms tumor predisposition in patients from the Children’s Oncology Group AREN18B5-Q**
-[Murphy AJ$^{\ast \dagger}$, [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Williams J, Shaw TI, Pinto EM, Dieseldorff-Jones K, Brzezinski J, Renfro LA, Tornwall B, Huff V, Hong AL, Mullen EA, Crompton B, Dome JS, Fernandez CV, Geller JI, Ehrlich PF, Mulder H, Oak N, Maciezsek J, Jablonowski C, Fleming AM, Pichavaram P, Morton CL, Easton J, Nichols KE, Clay MR, Santiago T, Zhang J, Yang J, Zambetti GP, Wang Z, Davidoff AM, Chen X $^{\dagger}$.]{style="font-weight: 300; color:gray;"} \
-[Nat Commun.](https://www.nature.com/articles/s41467-023-43730-0) 
-2023 Dec 18; 14, 8006.
-:::
-
-
-::::
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2023_HB/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [24°.]{style="font-size: 100%; font-weight:500; color:black;"} **Genome-wide mapping of cancer dependency genes and genetic modifiers of chemotherapy in high-risk hepatoblastoma**
-[Fang J$^{\ast}$, Singh S$^{\ast}$, [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Natarajan S$^{\ast}$, Sheppard H$^{\ast}$, Abu-Zaid A, Durbin AD, Lee HW, Wu Q, Steele J, Connelly JP, Jin H, Chen W, Fan Y, Pruett-Miller SM, Rehg JE, Koo SC, Santiago T, Emmons J, Cairo S, Wang R, Glazer ES, Murphy AJ, Chen T, Davidoff AM, Armengol C, Easton J, Chen X, Yang J.]{style="font-weight: 300; color:gray;"}\
-[Nat Commun.](https://www.ncbi.nlm.nih.gov/pubmed/37414763/)
-2023 Jul 6;14(1):4003. \
-
-:::{style="font-size: 93%;"}
-- [Spatial omics takes  oﬀ](https://www.stjude.org/research/progress/2023/spatial-omics-takes-off.html) -- St. Jude Progress \
-Our work serves as a key example of leveraging spatial transcriptomics to uncover the heterogeneity of hepatoblastoma tumors and to illuminate their responses to different therapeutic interventions.
-:::
-:::
-
-::::
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2022_HES1/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [23°.]{style="font-size: 100%; font-weight:500; color:black;"} **Identification and targeting of a HES1-YAP1-CDKN1C functional interaction in fusion-negative rhabdomyosarcoma**
-[Kovach AR, Oristian KM, Kirsch DG, Bentley RC, [Changde Cheng]{style="font-weight: 300; color:black;"}, Chen X, Chen PH, Chi JA, Linardic CM.]{style="font-weight: 300; color:gray;"}\
-[Mol Oncol.](https://www.ncbi.nlm.nih.gov/pubmed/36037042/) 
-2022 Oct;16(20):3587-3605. 
-:::
-
-::::
-
-
-:::
-
-
-* Research Themes:
-  * Wilms tumor genetics and epigenetics
-  * Hepatoblastoma genomics and drug response
-  * Pancreatic cancer tumorigeneiss and chemotherapy
-  * Leukemia treatment (menin inhibitor response)
-  * Therapy-related myeloid neoplasms
-  * Rhabdomyosarcoma biology
-
-
-
-
-### Computational Biology  and Single-Cell Analysis (since 2019)
-
-
-::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-#### Papers 19°, 26°
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2023_scRNAreview/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [26°.]{style="font-size: 100%; font-weight:500; color:black;"} **A review of single-cell rna-seq annotation, integration, and cell-cell communication**
-[[Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Chen W$^{\ast}$, Jin H$^{\ast}$, Chen X.]{style="font-weight: 300; color:gray;"} \
-[Cells. ](https://pubmed.ncbi.nlm.nih.gov/37566049/) 
-2023 Jul 30;12(15). Review.
-:::
-
-::::
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/featured/2019_LCA/featured.jpg)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [19°.]{style="font-size: 100%; font-weight:500; color:black;"} **Latent cellular analysis robustly reveals subtle diversity in large-scale single-cell RNA-seq data**
-[Changde Cheng]{style="font-weight: 300; color:black;"}[, Easton J, Rosencrance C, Li Y, Ju B, Williams J, Mulder HL, Pang Y, Chen W, Chen X.]{style="font-weight: 300; color:gray;"}\
-[Nucleic Acids Res.](https://www.ncbi.nlm.nih.gov/pubmed/31566233/)
- 2019 Dec 16;47(22):e143.\
- 
-:::{style="font-size: 93%;"}
-- [Benchmarking clustering algorithms on estimating the number of cell types from single-cell RNA-sequencing data](https://doi.org/10.1186/s13059-022-02622-0)  -- Researchers at the University of Sydney ranked our scLCA among the leading methods for accurate cell type number estimation in single-cell RNA sequencing analysis: "one of the top-performing methods on the number of cell type estimation ..."
-:::
-
-
-
-:::
-
-
-::::
-
-
-:::
-
-
-* Focus on computational methods for:
-  * Single-cell RNA sequencing analysis
-  * Cell annotation and integration
-  * Cell-cell communication analysis
-
-
-
-
-
-### Evolutionary Biology, Genetics, and Theory (since 2016)
-
-::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-#### Submission № 1
-
-
-:::: {.columns}
-
-::: {.column width="8%"}
-![](preprints/2017_SMBE/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-[№ 1.]{style="font-size: 100%; font-weight:500; color:black;"} **Sexually antagonistic selection and sex chromosome evolution in Stickleback**. \
-[Changde Cheng]{style="font-weight: 300; color:black;"}[,  Andrius J. Dagilis, Jason M. Sardell, Asano Ishikawa, Jun Kitano,  Matthew P. Josephson, Catherine L. Peichel, Mark Kirkpatrick.]{style="font-weight: 300; color:gray;"}\
-Submission to the 2017 Society for Molecular Biology & Evolution meeting at Austin, Texas, US.
-:::
-
-::::
-:::
-
-
-
-::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-#### Papers 11°, 16°, 17°, 20°-22°
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/featured/2021_agingGenes/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [22°.]{style="font-size: 100%; font-weight:500; color:black;"} **Molecular evolution and the decline of purifying selection with age**
-[Changde Cheng]{style="font-weight: 300; color:black;"}[, Kirkpatrick M.]{style="font-weight: 300; color:gray;"}\
-[Nat Commun.](https://www.ncbi.nlm.nih.gov/pubmed/33976227/)
- 2021 May 11;12(1):2657. 
-:::
-
-::::
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/featured/2021_pred_sd/featured.jpeg)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [21°.]{style="font-size: 100%; font-weight:500; color:black;"} **Predicting the evolution of sexual dimorphism in gene expression**
-[Houle D,]{style="font-weight: 300; color:gray;"} [Changde Cheng]{style="font-weight: 300; color:black;"}.\
-[Mol Biol Evol.](https://www.ncbi.nlm.nih.gov/pubmed/33512493/)
- 2021 May 4;38(5):1847-1859. 
-:::
-
-::::
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/featured/2020_scs/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [20°.]{style="font-size: 100%; font-weight:500; color:black;"} **Predicting multivariate responses of sexual dimorphism to direct and indirect selection**
-[Changde Cheng]{style="font-weight: 300; color:black;"}[, Houle D.]{style="font-weight: 300; color:gray;"}\
-[Am Nat.](https://www.ncbi.nlm.nih.gov/pubmed/32970462/)
- 2020 Oct;196(4):391-405. 
-:::
-
-::::
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/featured/2019_bigX/featured.jpeg)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [17°.]{style="font-size: 100%; font-weight:500; color:black;"} **Inversions are bigger on the X chromosome**
-[Changde Cheng]{style="font-weight: 300; color:black;"}[, Kirkpatrick M.]{style="font-weight: 300; color:gray;"}\
-[Mol Ecol.](https://www.ncbi.nlm.nih.gov/pubmed/30059177/)
- 2019 Mar;28(6):1238-1245.
-:::
-
-::::
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/featured/2016_SystemsGenetics/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [16°.]{style="font-size: 100%; font-weight:500; color:black;"} **Systems genetic analysis of inversion polymorphisms in the malaria mosquito Anopheles gambiae**
-[Changde Cheng]{style="font-weight: 300; color:black;"}[, Tan JC, Hahn MW, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
-[Proc Natl Acad Sci U S A.](https://www.ncbi.nlm.nih.gov/pubmed/29987007/)
- 2018 Jul 24;115(30):E7005-E7014.
-:::
-
-::::
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/featured/2016_twinPeaks/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [11°.]{style="font-size: 100%; font-weight:500; color:black;"} **Sex-Specific selection and sex-biased gene expression in humans and flies**
-[Changde Cheng]{style="font-weight: 300; color:black;"}[, Kirkpatrick M.]{style="font-weight: 300; color:gray;"}\
-[PLoS Genet.](https://www.ncbi.nlm.nih.gov/pubmed/27658217/)
- 2016 Sep;12(9):e1006170.
-:::
-
-::::
-
-:::
-
-
-* Research Themes:
-  * Molecular evolution and aging
-  * Sexual dimorphism
-  * Chromosomal inversions, local adaptation, and speciation
-  * Sex-specific selection
-
-
-
-
-
-### Ecological/Evolutionary Genomics and Infectious Disease (since 2009)
-
-::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-#### Papers 1°-10°, 12°
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2017_Aedes/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [12°.]{style="font-size: 100%; font-weight:500; color:black;"} **Extensive genetic differentiation between homomorphic sex chromosomes in the sosquito vector, Aedes aegypti**
-[Fontaine A, Filipovic I, Fansiri T, Hoffmann AA, [Changde Cheng]{style="font-weight: 300; color:black;"}, Kirkpatrick M, Rašic G, Lambrechts L.]{style="font-weight: 300; color:gray;"}\
-[Genome Biol Evol.](https://www.ncbi.nlm.nih.gov/pubmed/28945882/)
- 2017 Sep 1;9(9):2322-2335.
-:::
-
-::::
-
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2016_salty_water/featured.webp)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [10°.]{style="font-size: 100%; font-weight:500; color:black;"} **Transcriptomic differences between euryhaline and stenohaline malaria vector sibling species in response to salinity stress**
-[Uyhelji HA, [Changde Cheng]{style="font-weight: 300; color:black;"}, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
-[Mol Ecol.](https://www.ncbi.nlm.nih.gov/pubmed/26945667/)
- 2016 May;25(10):2210-25.
-:::
-
-::::
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/featured/2016_Ychr/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [9°.]{style="font-size: 100%; font-weight:500; color:black;"} **Radical remodeling of the Y chromosome in a recent radiation of malaria mosquitoes**
-[Hall AB$^{\ast}$,  Papathanos PA$^{\ast}$,  Sharma A$^{\ast}$,  [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$,  Akbari OS, Assour L, Bergman NH, Cagnetti A, Crisanti A, Dottorini T, Fiorentini E, Galizi R, Hnath J, Jiang X, Koren S, Nolan T, Radune D, Sharakhova MV, Steele A, Timoshevskiy VA, Windbichler N, Zhang S, Hahn MW, Phillippy AM, Emrich SJ, Sharakhov IV, Tu ZJ, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
-[Proc Natl Acad Sci U S A.](https://www.ncbi.nlm.nih.gov/pubmed/27035980/)
- 2016 Apr 12;113(15):E2114-23. 
-:::
-
-::::
-
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2015_QTL/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [8°.]{style="font-size: 100%; font-weight:500; color:black;"} **Genome-wide QTL mapping of saltwater tolerance in sibling species of Anopheles (malaria vector) mosquitoes**
-[Smith HA, White BJ, Kundert P, [Changde Cheng]{style="font-weight: 300; color:black;"}, Romero-Severson J, Andolfatto P, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
-[Heredity (Edinb).](https://www.ncbi.nlm.nih.gov/pubmed/25920668/)
- 2015 Nov;115(5):471-9. 
-:::
-
-::::
-
-
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2014_divergent/featured.jpeg)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [7°.]{style="font-size: 100%; font-weight:500; color:black;"} **Gene expression divergence between malaria vector sibling species Anopheles gambiae and An. coluzzii from rural and urban Yaoundé Cameroon**
-[Cassone BJ, Kamdem C, [Changde Cheng]{style="font-weight: 300; color:black;"}, Tan JC, Hahn MW, Costantini C, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
-[Mol Ecol.](https://www.ncbi.nlm.nih.gov/pubmed/24673723/)
- 2014 May;23(9):2242-59.
-:::
-
-::::
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2014_cuticle/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [6°.]{style="font-size: 100%; font-weight:500; color:black;"} **Cuticular differences associated with aridity acclimation in African malaria vectors carrying alternative arrangements of inversion 2La**
-[Reidenbach KR, [Changde Cheng]{style="font-weight: 300; color:black;"}, Liu F, Liu C, Besansky NJ, Syed Z.]{style="font-weight: 300; color:gray;"}\
-[Parasit Vectors.](https://www.ncbi.nlm.nih.gov/pubmed/24721548/)
- 2014 Apr 10;7:176. 
-:::
-
-::::
 
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/featured/2012_ecogenomics/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [5°.]{style="font-size: 100%; font-weight:500; color:black;"} **Ecological genomics of Anopheles gambiae along a latitudinal cline: a population-resequencing approach**
-[[Changde Cheng]{style="font-weight: 300; color:black;"}, White BJ, Kamdem C, Mockaitis K, Costantini C, Hahn MW, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
-[Genetics.](https://www.ncbi.nlm.nih.gov/pubmed/22209907/)
- 2012 Apr;190(4):1417-32.
-:::
-
-::::
-
-
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2011_thermal_inversion/featured.jpeg)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [4°.]{style="font-size: 100%; font-weight:500; color:black;"} **Divergent transcriptional response to thermal stress by Anopheles gambiae larvae carrying alternative arrangements of inversion 2La**
-[Cassone BJ, Molloy MJ, [Changde Cheng]{style="font-weight: 300; color:black;"}, Tan JC, Hahn MW, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
-[Mol Ecol.](https://www.ncbi.nlm.nih.gov/pubmed/21535279/)
- 2011 Jun;20(12):2567-80.
-:::
-
-::::
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2011_speciation/featured.jpg)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [3°.]{style="font-size: 100%; font-weight:500; color:black;"} **Adaptive divergence between incipient species of Anopheles gambiae increases resistance to Plasmodium**
-[White BJ, Lawniczak MK, [Changde Cheng]{style="font-weight: 300; color:black;"}, Coulibaly MB, Wilson MD, Sagnon N, Costantini C, Simard F, Christophides GK, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
-[Proc Natl Acad Sci U S A.](https://www.ncbi.nlm.nih.gov/pubmed/21173248/)
- 2011 Jan 4;108(1):244-9.
-:::
-
-::::
-
-
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/featured/2010_speciation/featured.png)
-:::
-
-::: {.column width="2%"}
 :::
-
-::: {.column width="90%"}
-##### [2°.]{style="font-size: 100%; font-weight:500; color:black;"} **Genetic association of physically unlinked islands of genomic divergence in incipient species of Anopheles gambiae**
-[White BJ, [Changde Cheng]{style="font-weight: 300; color:black;"}, Simard F, Costantini C, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
-[Mol Ecol.](https://www.ncbi.nlm.nih.gov/pubmed/20149091/)
- 2010 Mar;19(5):925-39. 
-:::
-
-::::
-
-
-
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2009_inversions/featured.jpeg)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [1°.]{style="font-size: 100%; font-weight:500; color:black;"} **The population genomics of trans-specific inversion polymorphisms in Anopheles gambiae**
-[White BJ, [Changde Cheng]{style="font-weight: 300; color:black;"}, Sangaré D, Lobo NF, Collins FH, Besansky NJ.]{style="font-weight: 300; color:gray;"}\
-[Genetics.](https://www.ncbi.nlm.nih.gov/pubmed/19581444/)
- 2009 Sep;183(1):275-88. 
-:::
-
-::::
-
-:::
-
-
-* Research Themes:
-  * African malaria mosquito *Anopheles gambiae* genetics
-  * Malaria vector studies
-  * Y chromosome evolution
-  * Chromosomal rearrangements
-  * Local adaptation and speciation
-  * Population genomics
-
-
-
-
-### Plant Biology (2019)
-
-::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-#### Paper 18°
-
-<!-- article -->
-:::: {.columns}
-
-::: {.column width="8%"}
-![](/publications/2019_photoperiod/featured.png)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-##### [18°.]{style="font-size: 100%; font-weight:500; color:black;"} **Complex interactions between day length and diurnal patterns of gene expression drive photoperiodic responses in a perennial C(4) grass**
-[Weng X, Lovell JT, Schwartz SL, [Changde Cheng]{style="font-weight: 300; color:black;"}, Haque T, Zhang L, Razzaque S, Juenger TE.]{style="font-weight: 300; color:gray;"}\
-[Plant Cell Environ.](https://www.ncbi.nlm.nih.gov/pubmed/30847928/)
- 2019 Jul;42(7):2165-2182. 
-:::
-
-::::
-
-:::
-
-
-Focus on gene expression patterns in C4 grass related to photoperiod response
-
-  * Diurnal transcriptional profiling
 
 
