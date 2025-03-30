@@ -1,10 +1,10 @@
 ---
 page-layout: article
 title-block-banner: false
+toc: true
+toc-title: "Papers"  
+toc-depth: 4
 ---
-
-
-## Papers
 
 
 #### 2025 🍄🍄

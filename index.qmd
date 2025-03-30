@@ -4,7 +4,7 @@ subtitle: "Decoding Cancer Biology Through Genomics and Computation"
 page-layout: article
 title-block-banner: false
 toc: true
-toc-location: body
+#toc-location: body
 toc-title: ""  
 # about:
 #   id: about
