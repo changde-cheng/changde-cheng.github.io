@@ -13,11 +13,39 @@ title-block-banner: false
 
 ## Changde Cheng
 
-He started his academic journey at [Peking University](https://en.wikipedia.org/wiki/Peking_University), one of China’s most prestigious universities.  He continued to pursue his education and training at  [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles), with Dr. Charles Taylor, a pioneering researcher exploring fundamental questions about language evolution and artificial life; and at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame), with Dr. [Nora Besansky](https://en.wikipedia.org/wiki/Nora_J._Besansky), on ecological genomics of adaptation and speciation.
+Assistant Professor
 
-During his postdoctoral fellowship at the [University of Texas at Austin](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin), he worked with Dr. [Mark Kirkpatrick](https://en.wikipedia.org/wiki/Mark_Kirkpatrick), in population genetics and theoretical biology, and Dr. [David Houle](https://www.bio.fsu.edu/faculty.php?faculty-id=houle), in quantitative genetics and the evolution of complex traits. After that, he worked as a senior/lead computational research scientist at [St. Jude Children's Research Hospital](https://en.wikipedia.org/wiki/St._Jude_Children%27s_Research_Hospital), a world-renowned institution at the forefront of pediatric cancer research and treatment, where he contributed to their mission of finding cures and saving children's lives.
+Faculty Member
 
-Currently, he serves as a faculty member and head of bioinformatics in the Stem Cell Program and the Institute for Cancer Outcomes and Survivorship at the Heersink School of Medicine, [University of Alabama at Birmingham](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine). His work integrates expertise in genetics, bioinformatics, and computational biology to advance understanding and treatment of cancer and other complex diseases.
+Stem Cell Biology Program, Division of Hematology and Oncology\
+Institute for Cancer Outcomes and Survivorship\
+Department of Biomedical Informatics and Data Science\
+O’Neal Comprehensive Cancer Center\
+Department of Medicine, Heersink School of Medicine\
+University of Alabama at Birmingham, USA\
+
+Wallace Tumor Institute 520A. \
+1824 6th Ave S Birmingham, Alabama 35233. \
+
+Email: ccheng [at] uabmc [dot] edu
+
+<!-- He started his academic journey at [Peking University](https://en.wikipedia.org/wiki/Peking_University), one of China’s most prestigious universities.  He continued to pursue his education and training at  [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles), with Dr. Charles Taylor, a pioneering researcher exploring fundamental questions about language evolution and artificial life; and at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame), with Dr. [Nora Besansky](https://en.wikipedia.org/wiki/Nora_J._Besansky), on ecological genomics of adaptation and speciation. -->
+
+<!-- During his postdoctoral fellowship at the [University of Texas at Austin](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin), he worked with Dr. [Mark Kirkpatrick](https://en.wikipedia.org/wiki/Mark_Kirkpatrick), in population genetics and theoretical biology, and Dr. [David Houle](https://www.bio.fsu.edu/faculty.php?faculty-id=houle), in quantitative genetics and the evolution of complex traits. After that, he worked as a senior/lead computational research scientist at [St. Jude Children's Research Hospital](https://en.wikipedia.org/wiki/St._Jude_Children%27s_Research_Hospital), a world-renowned institution at the forefront of pediatric cancer research and treatment, where he contributed to their mission of finding cures and saving children's lives. -->
+
+<!-- Currently, he serves as a faculty member and head of bioinformatics in the Stem Cell Program and the Institute for Cancer Outcomes and Survivorship at the Heersink School of Medicine, [University of Alabama at Birmingham](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine). His work integrates expertise in genetics, bioinformatics, and computational biology to advance understanding and treatment of cancer and other complex diseases. -->
+
+
+## Former Members
+
+### Bioinformatician:
+
+* Doug Welsch (Mar 2024 - Feb 2025)
+
+### Rotation Students:
+
+* Brunno Macedo (Fall 2024)
+
 
 <!-- ## Doug Welsch - Bioinformatician -->
 
