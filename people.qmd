@@ -38,13 +38,22 @@ Email: ccheng [at] uabmc [dot] edu
 
 ## Former Members
 
-### Bioinformatician:
 
-* Doug Welsch (Mar 2024 - Feb 2025)
+```{r}
+#| echo: false
+library(knitr)
 
-### Rotation Students:
+df <- data.frame(
+  Name = c("Doug Welsch", "Brunno Macedo"),
+  Role = c("Bioinformatician", "GBS Rotation Student"),
+  Time = c("03/2024-02/2025", "Fall 2024"),
+  School = c("Rice University", "Federal Univ. of Pernambuco, Brazil")
+)
 
-* Brunno Macedo (Fall 2024)
+kable(df, format = "html",
+      col.names = c("Name", "Role", "Time", "Prior Institution"),
+      table.attr = "class='table table-striped'")
+```
 
 
 <!-- ## Doug Welsch - Bioinformatician -->
