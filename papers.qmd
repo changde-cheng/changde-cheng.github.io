@@ -7,9 +7,30 @@ toc-depth: 4
 ---
 
 
-#### 2025 🍄🍄
+#### 2025 🍄🍄🍄
 
 ---
+
+<!-- article -->
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+
+:::
+
+::: {.column width="90%"}
+##### [34°.]{style="font-size: 100%; font-weight:500; color:black;"} **Alternative mRNA splicing in anthracycline-induced cardiomyopathy – a COG-ALTE03N1 report**. 
+[Purnima Singh $^{\ast}$, David K. Crossman $^{\ast}$, [Changde Cheng]{style="color:black;"}, Patrick J. Trainor, Noha Sharafeldin, Xuexia Wang, Liting Zhou, Lindsey Hageman, Saro H. Armenian, Frank M. Balis, Douglas S. Hawkins, Frank G. Keller, Melissa M. Hudson, Joseph P. Neglia, A. Kim Ritchey, Jill P. Ginsberg, Wendy Landier, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
+Cardio-Oncology, accepted.
+:::
+
+::::
+
 
 <!-- article -->
 
