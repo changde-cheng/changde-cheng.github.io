@@ -7,7 +7,7 @@ toc-depth: 4
 ---
 
 
-#### 2025 🍄🍄🍄🍄
+#### 2025 🍄🍄🍄🍄🍄
 
 ---
 
@@ -25,9 +25,10 @@ toc-depth: 4
 :::
 
 ::: {.column width="90%"}
-##### [35°.]{style="font-size: 100%; font-weight:500; color:black;"} **Acute myeloid leukemia microenvironment impairs neutrophil maturation and function through NFκB signaling**. 
+##### [36°.]{style="font-size: 100%; font-weight:500; color:black;"} **Acute myeloid leukemia microenvironment impairs neutrophil maturation and function through NFκB signaling**. 
 [Paran Goel, Sajesan Aryal, Alana M. Franceski, Valeriya Kuznetsova, Amanda Costa, Francesca Luca, Ashley N. Connelly, Daniel W. Phillips, Caroline C. Ennis, Brittany L. Crown, Sourajeet Karfa, Christina R Larson, Estelle Carminita, Virginia Camacho, Doug Welsch, [Changde Cheng]{style="color:black;"}, Asumi Yokota, Isidoro Cobo, Hideyo Hirai, Rui Lu , Ravi Bhatia , Pran K. Datta, P. Brent Ferrell , Robert S. Welner]{style="font-weight: 300;color:gray;"}\
-Blood, accepted.
+Blood
+, accepted.
 :::
 
 ::::
@@ -45,9 +46,10 @@ Blood, accepted.
 :::
 
 ::: {.column width="90%"}
-##### [34°.]{style="font-size: 100%; font-weight:500; color:black;"} **Alternative mRNA splicing in anthracycline-induced cardiomyopathy – a COG-ALTE03N1 report**. 
+##### [35°.]{style="font-size: 100%; font-weight:500; color:black;"} **Alternative mRNA splicing in anthracycline-induced cardiomyopathy – a COG-ALTE03N1 report**. 
 [Purnima Singh $^{\ast}$, David K. Crossman $^{\ast}$, [Changde Cheng]{style="color:black;"}, Patrick J. Trainor, Noha Sharafeldin, Xuexia Wang, Liting Zhou, Lindsey Hageman, Saro H. Armenian, Frank M. Balis, Douglas S. Hawkins, Frank G. Keller, Melissa M. Hudson, Joseph P. Neglia, A. Kim Ritchey, Jill P. Ginsberg, Wendy Landier, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
-Cardio-Oncology, accepted.
+[Cardio-Oncology](https://doi.org/10.1186/s40959-025-00345-2)
+11, 47 (2025)
 :::
 
 ::::
@@ -66,9 +68,30 @@ Cardio-Oncology, accepted.
 :::
 
 ::: {.column width="90%"}
-##### [33°.]{style="font-size: 100%; font-weight:500; color:black;"}  **Unraveling the clinical impact of differential DNA methylation in PDAC: A Systematic Review**. 
+##### [34°.]{style="font-size: 100%; font-weight:500; color:black;"}  **Unraveling the clinical impact of differential DNA methylation in PDAC: A Systematic Review**. 
 [Raj Roy,  Christopher Wu, Lauren Wheeler,  K. Kerrick Akinola,  Herbert Chen, J. Bart Rose,  [Changde Cheng]{style="color:black;"}, Smita Bhatia,  Andrea Gillis]{style="font-weight: 300;color:gray;"}\
-European Journal of Cancer, accepted.
+[European Journal of Cancer](https://doi.org/10.1016/j.ejca.2025.115384)
+(220) 115384.
+:::
+
+::::
+
+
+<!-- article -->
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+##### [33°.]{style="font-size: 100%; font-weight:500; color:black;"}  **No evidence for sex-differential transcriptomes driving genome-wide sex-differential natural selection**.
+[Matthew J Ming, [Changde Cheng]{style="color:black;"}, Mark Kirkpatrick, Arbel Harpak]{style="font-weight: 300;color:gray;"}\
+The American Journal of Human Genetics 
+112 (2), 254-260
 :::
 
 ::::
@@ -87,7 +110,8 @@ European Journal of Cancer, accepted.
 ::: {.column width="90%"}
 ##### [32°.]{style="font-size: 100%; font-weight:500; color:black;"}  **DNA damage response and repair genes and Anthracycline-induced cardiomyopathy in childhood cancer survivors: a report from the Children’s Oncology Group and the Childhood Cancer Survivor Study**. 
 [Xuexia Wang$^{\ast}$, Purnima Singh$^{\ast}$, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, [Changde Cheng]{style="color:black;"}, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
-Circulation: Genomic and Precision Medicine, accepted.
+[Circulation: Genomic and Precision Medicine](https://doi.org/10.1161/CIRCGEN.124.004813)
+18(2), e004813.
 :::
 
 ::::
