@@ -8,26 +8,26 @@ title-block-banner: false
 ## Working papers
 
 
-#### 2017-01-25 {#sec-w1}
+<!-- #### 2017-01-25 {#sec-w1} -->
 
 
 
-:::: {.columns}
+<!-- :::: {.columns} -->
 
-::: {.column width="8%"}
-![](preprints/2017_SMBE/featured.png)
-:::
+<!-- ::: {.column width="8%"} -->
+<!-- ![](preprints/2017_SMBE/featured.png) -->
+<!-- ::: -->
 
-::: {.column width="2%"}
-:::
+<!-- ::: {.column width="2%"} -->
+<!-- ::: -->
 
-::: {.column width="90%"}
-[№ 1.]{style="font-size: 100%; font-weight:500; color:black;"} **Sexually antagonistic selection and sex chromosome evolution in Stickleback**. \
-[Changde Cheng]{style="font-weight: 300; color:black;"}[,  Andrius J. Dagilis, Jason M. Sardell, Asano Ishikawa, Jun Kitano,  Matthew P. Josephson, Catherine L. Peichel, Mark Kirkpatrick.]{style="font-weight: 300; color:gray;"}\
-Submission to the 2017 Society for Molecular Biology & Evolution meeting at Austin, Texas, US.
-:::
+<!-- ::: {.column width="90%"} -->
+<!-- [№ 1.]{style="font-size: 100%; font-weight:500; color:black;"} **Sexually antagonistic selection and sex chromosome evolution in Stickleback**. \ -->
+<!-- [Changde Cheng]{style="font-weight: 300; color:black;"}[,  Andrius J. Dagilis, Jason M. Sardell, Asano Ishikawa, Jun Kitano,  Matthew P. Josephson, Catherine L. Peichel, Mark Kirkpatrick.]{style="font-weight: 300; color:gray;"}\ -->
+<!-- Submission to the 2017 Society for Molecular Biology & Evolution meeting at Austin, Texas, US. -->
+<!-- ::: -->
 
-::::
+<!-- :::: -->
 
 
 #### 2024-11-07 {#sec-w3}
@@ -120,25 +120,25 @@ Submitted.
 
 
 
-#### 2025-01-20 {#sec-w9}
+<!-- #### 2025-01-20 {#sec-w9} -->
 
 
-:::: {.columns}
+<!-- :::: {.columns} -->
 
-::: {.column width="8%"}
+<!-- ::: {.column width="8%"} -->
 
-:::
+<!-- ::: -->
 
-::: {.column width="2%"}
-:::
+<!-- ::: {.column width="2%"} -->
+<!-- ::: -->
 
-::: {.column width="90%"}
-[№ 8.]{style="font-size: 100%; font-weight:500; color:black;"} **Acute myeloid leukemia microenvironment impairs neutrophil maturation and function through NFκB signaling**. \
-[Paran Goel, Sajesan Aryal, Alana M. Franceski, Valeriya Kuznetsova, Amanda Costa, Francesca Luca, Ashley N. Connelly, Daniel W. Phillips, Caroline C. Ennis, Sourajeet Karfa, Brittany L. Crown, Estelle Carminita, Virginia Camacho, Gracie M. Jack, [Changde Cheng]{style="color:black;"}, Asumi Yokota, Rui Lu , Ravi Bhatia , Pran K. Datta, Kellie R. Machlus, P. Brent Ferrell , Hideyo Hirai and Robert S. Welner]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
+<!-- ::: {.column width="90%"} -->
+<!-- [№ 8.]{style="font-size: 100%; font-weight:500; color:black;"} **Acute myeloid leukemia microenvironment impairs neutrophil maturation and function through NFκB signaling**. \ -->
+<!-- [Paran Goel, Sajesan Aryal, Alana M. Franceski, Valeriya Kuznetsova, Amanda Costa, Francesca Luca, Ashley N. Connelly, Daniel W. Phillips, Caroline C. Ennis, Sourajeet Karfa, Brittany L. Crown, Estelle Carminita, Virginia Camacho, Gracie M. Jack, [Changde Cheng]{style="color:black;"}, Asumi Yokota, Rui Lu , Ravi Bhatia , Pran K. Datta, Kellie R. Machlus, P. Brent Ferrell , Hideyo Hirai and Robert S. Welner]{style="font-weight: 300;color:gray;"}\ -->
+<!-- Submitted. -->
+<!-- ::: -->
 
-::::
+<!-- :::: -->
 
 
 #### 2025-02-13 {#sec-w10}
