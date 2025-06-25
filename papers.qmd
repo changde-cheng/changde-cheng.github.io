@@ -26,7 +26,7 @@ toc-depth: 4
 
 ::: {.column width="90%"}
 ##### [36°.]{style="font-size: 100%; font-weight:500; color:black;"} **Acute myeloid leukemia microenvironment impairs neutrophil maturation and function through NFκB signaling**. 
-[Paran Goel, Sajesan Aryal, Alana M. Franceski, Valeriya Kuznetsova, Amanda Costa, Francesca Luca, Ashley N. Connelly, Daniel W. Phillips, Caroline C. Ennis, Brittany L. Crown, Sourajeet Karfa, Christina R Larson, Estelle Carminita, Virginia Camacho, Doug Welsch, [Changde Cheng]{style="color:black;"}, Asumi Yokota, Isidoro Cobo, Hideyo Hirai, Rui Lu , Ravi Bhatia , Pran K. Datta, P. Brent Ferrell , Robert S. Welner]{style="font-weight: 300;color:gray;"}\
+[Paran Goel, Sajesan Aryal, Alana M. Franceski, Valeriya Kuznetsova, Amanda Costa, Francesca Luca, Ashley N. Connelly, Daniel W. Phillips, Caroline C. Ennis, Brittany L. Crown, Sourajeet Karfa, Christina R Larson, Estelle Carminita, Virginia Camacho, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Asumi Yokota, Isidoro Cobo, Hideyo Hirai, Rui Lu , Ravi Bhatia , Pran K. Datta, P. Brent Ferrell , Robert S. Welner]{style="font-weight: 300;color:gray;"}\
 Blood
 , accepted.
 :::
@@ -860,5 +860,6 @@ First author(s)
 ${\dagger}$: 
 Corresponding author(s)
 
+[Lab member]{style="color:darkgreen;"}
 <!-- Dark color: -->
 <!-- Lab member(s) -->
