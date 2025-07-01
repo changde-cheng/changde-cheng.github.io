@@ -35,6 +35,9 @@ Email: ccheng [at] uabmc [dot] edu
 
 <!-- Currently, he serves as a faculty member and head of bioinformatics in the Stem Cell Program and the Institute for Cancer Outcomes and Survivorship at the Heersink School of Medicine, [University of Alabama at Birmingham](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine). His work integrates expertise in genetics, bioinformatics, and computational biology to advance understanding and treatment of cancer and other complex diseases. -->
 
+## Yassin Mreyoud - MSTP M.D PhD. Candidate
+
+Previously a bioinformatics Scientist at Washington University School of Medicine in St. Louis.
 
 ## Former Members
 
