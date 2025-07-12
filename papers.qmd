@@ -24,7 +24,7 @@ toc-depth: 4
 
 ::: {.column width="90%"}
 ##### [38°.]{style="font-size: 100%; font-weight:500; color:black;"}**Germline Pathogenic/ Likely Pathogenic Mutations and Subsequent Neoplasms among Childhood Cancer Survivors – A report from the Children’s Oncology Group ALTE03N1 Study**.
-[Liting Zhou , Purnima Singh , David K. Crossman , Joshua Richman , Mr Patrick J Trainor , [Changde Cheng]{style="color:black;"} , Xuexia Wang , Noha Sharafeldin , Lindsey Hageman , Maryam Sheikh , Melissa Richard , Danielle N. Friedman , Joseph Neglia , Zhaoming Wang , Melissa M Hudson , Saro H Armenian , Douglas Hawkins , Ravi Bhatia , Wendy Landier, Smita Bhatia]{style="font-weight: 300;color:gray;"}\
+[Liting Zhou , Purnima Singh , David K. Crossman , Joshua Richman , Patrick J Trainor , [Changde Cheng]{style="color:black;"} , Xuexia Wang , Noha Sharafeldin , Lindsey Hageman , Maryam Sheikh , Melissa Richard , Danielle N. Friedman , Joseph Neglia , Zhaoming Wang , Melissa M Hudson , Saro H Armenian , Douglas Hawkins , Ravi Bhatia , Wendy Landier, Smita Bhatia]{style="font-weight: 300;color:gray;"}\
 JCO
 , accepted.
 :::
