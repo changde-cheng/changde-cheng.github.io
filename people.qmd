@@ -44,6 +44,7 @@ Previously a bioinformatics Scientist at Washington University School of Medicin
 
 ```{r}
 #| echo: false
+#| warning: false
 library(knitr)
 
 df <- data.frame(
