@@ -162,7 +162,7 @@ Submitted.
 <!-- :::: -->
 
 
-#### 2025-03-10 {#sec-w11}
+#### 2025-03-10 {#sec-w10}
 
 
 :::: {.columns}
@@ -184,7 +184,7 @@ Submitted.
 
 
 
-#### 2025-05-20 {#sec-w12}
+#### 2025-05-20 {#sec-w11}
 
 
 :::: {.columns}
@@ -204,7 +204,7 @@ Submitted.
 
 ::::
 
-#### 2025-06-30 {#sec-w13}
+#### 2025-06-30 {#sec-w12}
 
 
 :::: {.columns}
@@ -219,6 +219,86 @@ Submitted.
 ::: {.column width="90%"}
 [№ 12.]{style="font-size: 100%; font-weight:500; color:black;"} **Reactive Astrocytes as Drivers of Glioblastoma Progression: The Modulatory Role of Glioma-Derived Extracellular Matrix**. \
 [Melika Razavi Hashemi, Dilani Patel, Reid Hale, Burt Nabors, James Markers, Chirstopher Willey,  [Changde Cheng]{style="color:black;"}, Andrea Comba.]{style="font-weight: 300;color:gray;"}\
+Submitted.
+:::
+
+::::
+
+#### 2025-07-08 {#sec-w13}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 13.]{style="font-size: 100%; font-weight:500; color:black;"} **Tyrosine kinase inhibition alters macrophage polarization in chronic myeloid leukemia to regulate leukemic stem cell potential**. \
+[ Tiffany Ricketts, Na Xie, Mason Harris, Ashley Rennhack, Aanya Kadakia, Andrew Paterson, [Changde Cheng$^{\dagger}$]{style="color:black;"}, Ravi Bhatia$^{\dagger}$]{style="font-weight: 300;color:gray;"}\
+Submitted.
+:::
+
+::::
+
+#### 2025-07-12 {#sec-w14}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 14.]{style="font-size: 100%; font-weight:500; color:black;"} **A Perturb-seq Map of a Differentiation Hub Reveals Synergistic Vulnerabilities in KMT2A-rearranged AML**. \
+[Sajesan Aryal, Brittany M. Curtiss, Xinyue Zhou, Rui Lu$^{\dagger}$, [Changde Cheng$^{\dagger}$]{style="color:black;"}.]{style="font-weight: 300;color:gray;"}\
+Submitted.
+:::
+
+::::
+
+#### 2025-07-19 {#sec-w15}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 15.]{style="font-size: 100%; font-weight:500; color:black;"} **Evolution of Clonal Hematopoiesis Following Autologous Transplantation for Lymphoma and Subsequent Therapy-related Myeloid Neoplasia**. \
+[ [Changde Cheng$^{\ast}$]{style="color:black;"},Rashi Kalra$^{\ast}$, Yanjun Chen, Alysia Bosworth, Joshua Richman, Na Xie, Chengcheng Yan, Christopher J Gibson, David K Crossman, Lindsey Hageman, Purnima Singh, Melissa A Richards, Benjamin L Ebert, Saro H Armenian, Stephen J Forman, Smita Bhatia$^{\dagger}$, Ravi Bhatia$^{\dagger}$]{style="font-weight: 300;color:gray;"}\
+Submitted.
+:::
+
+::::
+
+#### 2025-07-22 {#sec-w16}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 16.]{style="font-size: 100%; font-weight:500; color:black;"} **Human Inducible Pluripotent Stem Cell-Derived Cell Combination Target Vascular Repair in a Murine Model of Diabetic Retinopathy**. \
+[ Sergio Li Calzi, Dibyendu Chakraborty, Ping Hu, Ram Prasad, Yvonne Adu-Rutledge, Cristiano Vieira, Fadeela Sheini, Michael E. Boulton, Mervin C. Yoder, [Changde Cheng$^{\dagger}$]{style="color:black;"}, Maria B. Grant$^{\dagger}$]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
