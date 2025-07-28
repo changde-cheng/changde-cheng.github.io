@@ -238,7 +238,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 13.]{style="font-size: 100%; font-weight:500; color:black;"} **Tyrosine kinase inhibition alters macrophage polarization in chronic myeloid leukemia to regulate leukemic stem cell potential**. \
-[ Tiffany Ricketts, Na Xie, Mason Harris, Ashley Rennhack, Aanya Kadakia, Andrew Paterson, [Changde Cheng$^{\dagger}$]{style="color:black;"}, Ravi Bhatia$^{\dagger}$]{style="font-weight: 300;color:gray;"}\
+[ Tiffany Ricketts, Na Xie, Mason Harris, Ashley Rennhack, Aanya Kadakia, Andrew Paterson, [Changde Cheng]{style="color:black;"}, Ravi Bhatia]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
