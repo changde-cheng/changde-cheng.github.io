@@ -326,6 +326,28 @@ Submitted.
 
 ::::
 
+
+
+#### 2025-08-05 {#sec-w18}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 18.]{style="font-size: 100%; font-weight:500; color:black;"} **Multimodal Single Cell Analysis of Patient Bone Marrow Reveals Genetic Targets and Signaling Pathways Associated with Recurrent Chronic Myeloid Leukemia after Treatment Free Remission Attempt**. \
+[ Tyler Freeland, Na Xie, Soo-Hyun Kim, [Changde Cheng]{style="color:black;"}, Dong-wook Kim, Ravi Bhatia]{style="font-weight: 300;color:gray;"}\
+Submitted.
+:::
+
+::::
+
 ---
 
 ${\ast}$: 
