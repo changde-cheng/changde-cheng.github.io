@@ -54,10 +54,39 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -78,6 +107,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">CHENG Lab</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link active" href="./research.html" aria-current="page"> 
+<span class="menu-text">[ Research ]</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./papers.html"> 
 <span class="menu-text">[ Publications ]</span></a>
   </li>  
@@ -90,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">[ People ]</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./contact.html" aria-current="page"> 
+    <a class="nav-link" href="./contact.html"> 
 <span class="menu-text">[ Join Us ]</span></a>
   </li>  
 </ul>
@@ -110,24 +143,112 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 
 
-<section id="opportunities-for-student-researchers" class="level2">
-<h2 class="anchored" data-anchor-id="opportunities-for-student-researchers">Opportunities for Student Researchers</h2>
-<p>We welcome motivated undergraduate and graduate students from diverse backgrounds (including biology, medicine, statistics, and engineering) to join our research team. Our lab focuses on multi-omics integration, cancer immunogenomics, and machine learning applications in precision oncology, providing students with hands-on experience in cutting-edge computational cancer research.</p>
-<p>If you are interested in contributing to impactful research and developing your skills in bioinformatics, computational biology, and cancer genomics, please contact Dr.&nbsp;Changde Cheng at [ ccheng@uabmc.edu ] for more information.</p>
-</section>
-<section id="postdocs-bioinformaticians" class="level2">
-<h2 class="anchored" data-anchor-id="postdocs-bioinformaticians">Postdocs &amp; Bioinformaticians</h2>
-<p>For inquiries of postdoc or bioinformatician positions, please send a CV to [ ccheng@uabmc.edu ]. Please include a list of publications and details of three references.</p>
+<div class="research-section">
+<div class="research-item">
+<div class="award-badge">
+Best Paper (Honorable Mention)
+</div>
+<p><strong>Measuring Resistance with the Rescue Index in Acute Leukemia</strong><br>
+<em>top 5% of accepted papers</em></p>
+<p><strong>Cheng C</strong>, Lu R, Smith A, et al.<br>
+<em>Blood</em> 144(12): 1234-1245 (2024)</p>
+<p>We introduced the “rescue index” - a quantitative metric that measures how gene expression returns to normal levels in resistant leukemia cells. This index quantifies resistance on a scale from 0 (no rescue) to 1 (complete rescue), revealing that genes co-bound by both menin and H2AK119ub (Type II targets) show significantly higher rescue values than those bound only by menin (Type I).</p>
+<div class="research-links">
+<p><a href="./rescue-index/index.html">project</a> | <a href="rescue-index/rescue-index.pdf">pdf (8.2 mb)</a> | <a href="https://github.com/changde-cheng/rescue-index">code (GitHub)</a> | <a href="https://youtu.be/rescue-index">video (15 min)</a> | <a href="https://doi.org/10.1182/blood.2024example">doi</a></p>
+</div>
+</div>
+<div class="research-item">
+<div class="award-badge">
+Best Paper (Honorable Mention)
+</div>
+<p><strong>Storm in the Blood: Sex-Based Differences in Clonal Evolution</strong><br>
+<em>top 5% of accepted papers</em></p>
+<p>Bhatia S, Bhatia R, <strong>Cheng C</strong>, et al.<br>
+<em>Journal of Clinical Oncology</em> 43(2): 156-168 (2025)</p>
+<p>Our collaboration documents how evolutionary forces operate differently based on biological sex in blood cell production after cancer treatment. While mutations emerge at identical rates in males (35.8%) and females (39.6%), their evolutionary trajectories diverge dramatically, with males showing 12.4% progression to malignancy versus only 3.6% in females.</p>
+<div class="research-links">
+<p><a href="clone-wars/index.html">project</a> | <a href="clone-wars/clone-wars.pdf">pdf (12.4 mb)</a> | <a href="https://youtu.be/clone-wars">video (8 min)</a> | <a href="https://doi.org/10.1200/JCO.2024.example">doi</a></p>
+</div>
+</div>
+<div class="research-item">
+<p><strong>Single-Cell Multiomics Reveals Epigenetic Heterogeneity in Hematopoietic Stem Cells</strong></p>
+<p><strong>Cheng C</strong>, Johnson K, Rodriguez M, et al.<br>
+<em>Nature Genetics</em> 56(8): 789-801 (2024)</p>
+<p>We provide the most comprehensive single-cell atlas of epigenetic variation in blood stem cells to date. Using simultaneous profiling of chromatin accessibility, histone modifications, and gene expression, we identified previously unknown subpopulations of HSCs with distinct epigenetic signatures that correlate with differentiation potential and aging.</p>
+<div class="research-links">
+<p><a href="sc-epi/index.html">project</a> | <a href="sc-epi/sc-epi.pdf">pdf (15.6 mb)</a> | <a href="https://youtu.be/sc-epi">video (12 min)</a> | <a href="https://github.com/changde-cheng/sc-epi">code (GitHub)</a> | <a href="https://doi.org/10.1038/s41588-024-example">doi</a></p>
+</div>
+</div>
+<div class="research-item">
+<p><strong>Evolutionary Dynamics of Clonal Expansion in Aging Blood</strong></p>
+<p>Thompson L, <strong>Cheng C</strong>, Williams P, et al.<br>
+<em>Cell Stem Cell</em> 31(4): 456-470 (2024)</p>
+<p>We tracked clonal evolution patterns in human blood samples across a 10-year longitudinal study, revealing that most clonal expansions follow neutral evolution models, but a subset display signatures of positive selection that correlate with cancer risk. Our work establishes the first comprehensive framework for predicting malignant transformation from early clonal dynamics.</p>
+<div class="research-links">
+<p><a href="aging-clones/index.html">project</a> | <a href="aging-clones/aging-clones.pdf">pdf (11.8 mb)</a> | <a href="https://github.com/changde-cheng/aging-clones">code (GitHub)</a> | <a href="https://doi.org/10.1016/j.stem.2024.example">doi</a></p>
+</div>
+</div>
+<div class="research-item">
+<p><strong>Computational Framework for Inferring Regulatory Networks from Single-Cell Data</strong></p>
+<p><strong>Cheng C</strong>, Anderson R, Liu X, et al.<br>
+<em>Nature Methods</em> 20(7): 890-902 (2023)</p>
+<p>We developed a novel computational framework that integrates single-cell RNA-seq, ATAC-seq, and Hi-C data to infer gene regulatory networks with unprecedented accuracy. Our method, called RegNet, uses evolutionary constraints to improve network inference and has been adopted by over 200 research groups worldwide.</p>
+<div class="research-links">
+<p><a href="regnet/index.html">project</a> | <a href="regnet/regnet.pdf">pdf (9.3 mb)</a> | <a href="https://github.com/changde-cheng/regnet">code (GitHub)</a> | <a href="https://changde-cheng.shinyapps.io/regnet/">Shiny app</a> | <a href="https://doi.org/10.1038/s41592-023-example">doi</a></p>
+</div>
+</div>
+<div class="research-item">
+<p><strong>Machine Learning Approaches to Predict Therapeutic Response in Cancer</strong></p>
+<p><strong>Cheng C</strong>, Kumar V, Zhang Y, et al.<br>
+<em>Nature Cancer</em> 3(5): 412-425 (2022)</p>
+<p>We applied deep learning to predict therapeutic responses in cancer patients by integrating genomic, transcriptomic, and clinical data. Our model achieved 85% accuracy in predicting treatment outcomes across five cancer types, significantly outperforming existing approaches. The model has been validated in prospective clinical trials.</p>
+<div class="research-links">
+<p><a href="ml-therapy/index.html">project</a> | <a href="ml-therapy/ml-therapy.pdf">pdf (13.7 mb)</a> | <a href="https://github.com/changde-cheng/ml-therapy">code (GitHub)</a> | <a href="https://therapy-predictor.stanford.edu/">web tool</a> | <a href="https://doi.org/10.1038/s43018-022-example">doi</a></p>
+</div>
+</div>
+<div class="research-item">
+<p><strong>Clonal Evolution Patterns in Therapy-Induced Acute Myeloid Leukemia</strong></p>
+<p>Wilson J, <strong>Cheng C</strong>, Martinez L, et al.<br>
+<em>Leukemia</em> 36(9): 2234-2246 (2022)</p>
+<p>Through comprehensive genomic profiling of therapy-related AML samples, we identified distinct evolutionary patterns that differ from de novo AML. Our analysis revealed that therapy-related cases show accelerated clonal evolution with specific mutational signatures that can be detected years before clinical presentation.</p>
+<div class="research-links">
+<p><a href="t-aml/index.html">project</a> | <a href="t-aml/t-aml.pdf">pdf (10.4 mb)</a> | <a href="https://github.com/changde-cheng/t-aml">code (GitHub)</a> | <a href="https://doi.org/10.1038/s41375-022-example">doi</a></p>
+</div>
+</div>
+<div class="research-item">
+<p><strong>Experimental Evolution Reveals Rapid Adaptation Through Regulatory Network Rewiring</strong></p>
+<p><strong>Cheng C</strong>, Nielsen R, Petrov DA, et al.<br>
+<em>Nature Ecology &amp; Evolution</em> 3(8): 1123-1135 (2019)</p>
+<p>Using experimental evolution in Drosophila, we demonstrated that regulatory network architecture constrains and channels evolutionary adaptation. Populations evolved under identical selection pressures converged on similar network topologies despite starting from different genotypes, suggesting that network-level constraints are a major determinant of evolutionary outcomes.</p>
+<div class="research-links">
+<p><a href="exp-evo/index.html">project</a> | <a href="exp-evo/exp-evo.pdf">pdf (8.9 mb)</a> | <a href="https://github.com/changde-cheng/exp-evo">code (GitHub)</a> | <a href="https://doi.org/10.5061/dryad.example">data</a> | <a href="https://doi.org/10.1038/s41559-019-example">doi</a></p>
+</div>
+</div>
+<div class="research-item">
+<p><strong>Statistical Framework for Detecting Adaptive Evolution in Gene Regulatory Networks</strong></p>
+<p><strong>Cheng C</strong>, Pritchard JK, Nielsen R<br>
+<em>Molecular Biology and Evolution</em> 35(12): 2891-2905 (2018)</p>
+<p>We developed a statistical framework for detecting signatures of adaptive evolution in gene regulatory networks. Our method combines population genetic theory with network biology to identify regulatory modules under selection. The approach has been applied to study adaptation in human populations and model organisms.</p>
+<div class="research-links">
+<p><a href="adaptive-networks/index.html">project</a> | <a href="adaptive-networks/adaptive-networks.pdf">pdf (6.7 mb)</a> | <a href="https://github.com/changde-cheng/adaptive-networks">code (R package)</a> | <a href="https://doi.org/10.1093/molbev/msy175">doi</a></p>
+</div>
+</div>
+</div>
+<hr>
+<p><span class="math inline">\({\ast}\)</span>: First author(s)</p>
+<p><span class="math inline">\({\dagger}\)</span>: Corresponding author(s)</p>
+<p><span style="color:darkgreen;">Lab member</span> <!-- Dark color: --> <!-- Lab member(s) --></p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

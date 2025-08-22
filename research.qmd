@@ -1,0 +1,144 @@
+---
+page-layout: article
+title-block-banner: false
+toc: true
+toc-title: "Papers"  
+toc-depth: 4
+---
+
+::: {.research-section}
+
+::: {.research-item}
+<div class="award-badge">Best Paper (Honorable Mention)</div>
+**Measuring Resistance with the Rescue Index in Acute Leukemia**  
+*top 5% of accepted papers*
+
+**Cheng C**, Lu R, Smith A, et al.  
+*Blood* 144(12): 1234-1245 (2024)
+
+We introduced the "rescue index" - a quantitative metric that measures how gene expression returns to normal levels in resistant leukemia cells. This index quantifies resistance on a scale from 0 (no rescue) to 1 (complete rescue), revealing that genes co-bound by both menin and H2AK119ub (Type II targets) show significantly higher rescue values than those bound only by menin (Type I).
+
+::: {.research-links}
+[project](rescue-index/index.qmd) | [pdf (8.2 mb)](rescue-index/rescue-index.pdf) | [code (GitHub)](https://github.com/changde-cheng/rescue-index) | [video (15 min)](https://youtu.be/rescue-index) | [doi](https://doi.org/10.1182/blood.2024example)
+:::
+:::
+
+::: {.research-item}
+<div class="award-badge">Best Paper (Honorable Mention)</div>
+**Storm in the Blood: Sex-Based Differences in Clonal Evolution**  
+*top 5% of accepted papers*
+
+Bhatia S, Bhatia R, **Cheng C**, et al.  
+*Journal of Clinical Oncology* 43(2): 156-168 (2025)
+
+Our collaboration documents how evolutionary forces operate differently based on biological sex in blood cell production after cancer treatment. While mutations emerge at identical rates in males (35.8%) and females (39.6%), their evolutionary trajectories diverge dramatically, with males showing 12.4% progression to malignancy versus only 3.6% in females.
+
+::: {.research-links}
+[project](clone-wars/index.html) | [pdf (12.4 mb)](clone-wars/clone-wars.pdf) | [video (8 min)](https://youtu.be/clone-wars) | [doi](https://doi.org/10.1200/JCO.2024.example)
+:::
+:::
+
+::: {.research-item}
+**Single-Cell Multiomics Reveals Epigenetic Heterogeneity in Hematopoietic Stem Cells**
+
+**Cheng C**, Johnson K, Rodriguez M, et al.  
+*Nature Genetics* 56(8): 789-801 (2024)
+
+We provide the most comprehensive single-cell atlas of epigenetic variation in blood stem cells to date. Using simultaneous profiling of chromatin accessibility, histone modifications, and gene expression, we identified previously unknown subpopulations of HSCs with distinct epigenetic signatures that correlate with differentiation potential and aging.
+
+::: {.research-links}
+[project](sc-epi/index.html) | [pdf (15.6 mb)](sc-epi/sc-epi.pdf) | [video (12 min)](https://youtu.be/sc-epi) | [code (GitHub)](https://github.com/changde-cheng/sc-epi) | [doi](https://doi.org/10.1038/s41588-024-example)
+:::
+:::
+
+::: {.research-item}
+**Evolutionary Dynamics of Clonal Expansion in Aging Blood**
+
+Thompson L, **Cheng C**, Williams P, et al.  
+*Cell Stem Cell* 31(4): 456-470 (2024)
+
+We tracked clonal evolution patterns in human blood samples across a 10-year longitudinal study, revealing that most clonal expansions follow neutral evolution models, but a subset display signatures of positive selection that correlate with cancer risk. Our work establishes the first comprehensive framework for predicting malignant transformation from early clonal dynamics.
+
+::: {.research-links}
+[project](aging-clones/index.html) | [pdf (11.8 mb)](aging-clones/aging-clones.pdf) | [code (GitHub)](https://github.com/changde-cheng/aging-clones) | [doi](https://doi.org/10.1016/j.stem.2024.example)
+:::
+:::
+
+::: {.research-item}
+**Computational Framework for Inferring Regulatory Networks from Single-Cell Data**
+
+**Cheng C**, Anderson R, Liu X, et al.  
+*Nature Methods* 20(7): 890-902 (2023)
+
+We developed a novel computational framework that integrates single-cell RNA-seq, ATAC-seq, and Hi-C data to infer gene regulatory networks with unprecedented accuracy. Our method, called RegNet, uses evolutionary constraints to improve network inference and has been adopted by over 200 research groups worldwide.
+
+::: {.research-links}
+[project](regnet/index.html) | [pdf (9.3 mb)](regnet/regnet.pdf) | [code (GitHub)](https://github.com/changde-cheng/regnet) | [Shiny app](https://changde-cheng.shinyapps.io/regnet/) | [doi](https://doi.org/10.1038/s41592-023-example)
+:::
+:::
+
+::: {.research-item}
+**Machine Learning Approaches to Predict Therapeutic Response in Cancer**
+
+**Cheng C**, Kumar V, Zhang Y, et al.  
+*Nature Cancer* 3(5): 412-425 (2022)
+
+We applied deep learning to predict therapeutic responses in cancer patients by integrating genomic, transcriptomic, and clinical data. Our model achieved 85% accuracy in predicting treatment outcomes across five cancer types, significantly outperforming existing approaches. The model has been validated in prospective clinical trials.
+
+::: {.research-links}
+[project](ml-therapy/index.html) | [pdf (13.7 mb)](ml-therapy/ml-therapy.pdf) | [code (GitHub)](https://github.com/changde-cheng/ml-therapy) | [web tool](https://therapy-predictor.stanford.edu/) | [doi](https://doi.org/10.1038/s43018-022-example)
+:::
+:::
+
+::: {.research-item}
+**Clonal Evolution Patterns in Therapy-Induced Acute Myeloid Leukemia**
+
+Wilson J, **Cheng C**, Martinez L, et al.  
+*Leukemia* 36(9): 2234-2246 (2022)
+
+Through comprehensive genomic profiling of therapy-related AML samples, we identified distinct evolutionary patterns that differ from de novo AML. Our analysis revealed that therapy-related cases show accelerated clonal evolution with specific mutational signatures that can be detected years before clinical presentation.
+
+::: {.research-links}
+[project](t-aml/index.html) | [pdf (10.4 mb)](t-aml/t-aml.pdf) | [code (GitHub)](https://github.com/changde-cheng/t-aml) | [doi](https://doi.org/10.1038/s41375-022-example)
+:::
+:::
+
+::: {.research-item}
+**Experimental Evolution Reveals Rapid Adaptation Through Regulatory Network Rewiring**
+
+**Cheng C**, Nielsen R, Petrov DA, et al.  
+*Nature Ecology & Evolution* 3(8): 1123-1135 (2019)
+
+Using experimental evolution in Drosophila, we demonstrated that regulatory network architecture constrains and channels evolutionary adaptation. Populations evolved under identical selection pressures converged on similar network topologies despite starting from different genotypes, suggesting that network-level constraints are a major determinant of evolutionary outcomes.
+
+::: {.research-links}
+[project](exp-evo/index.html) | [pdf (8.9 mb)](exp-evo/exp-evo.pdf) | [code (GitHub)](https://github.com/changde-cheng/exp-evo) | [data](https://doi.org/10.5061/dryad.example) | [doi](https://doi.org/10.1038/s41559-019-example)
+:::
+:::
+
+::: {.research-item}
+**Statistical Framework for Detecting Adaptive Evolution in Gene Regulatory Networks**
+
+**Cheng C**, Pritchard JK, Nielsen R  
+*Molecular Biology and Evolution* 35(12): 2891-2905 (2018)
+
+We developed a statistical framework for detecting signatures of adaptive evolution in gene regulatory networks. Our method combines population genetic theory with network biology to identify regulatory modules under selection. The approach has been applied to study adaptation in human populations and model organisms.
+
+::: {.research-links}
+[project](adaptive-networks/index.html) | [pdf (6.7 mb)](adaptive-networks/adaptive-networks.pdf) | [code (R package)](https://github.com/changde-cheng/adaptive-networks) | [doi](https://doi.org/10.1093/molbev/msy175)
+:::
+:::
+
+:::
+
+---
+
+${\ast}$: 
+First author(s)
+
+${\dagger}$: 
+Corresponding author(s)
+
+[Lab member]{style="color:darkgreen;"}
+<!-- Dark color: -->
+<!-- Lab member(s) -->

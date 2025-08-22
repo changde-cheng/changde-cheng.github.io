@@ -28,23 +28,21 @@ website:
     left:
       # - text: "About"
       #   file: about.qmd
-      - text: "CHENG Lab"
-        file: index.qmd
-      #- text: "[ Research ]"
-      #  href: research.qmd
-      - text: "[ Publications ]"
+      # - text: "Posts"
+      #   file: posts.qmd
+      - text: "Publications"
         file: papers.qmd
       # - text: "Press"
       #   file: press.qmd
-      - text: "[ Working Papers ]"
+      - text: "Working Papers"
         file: working.qmd
-      - text: "[ People ]"
+      - text: "People"
         file: people.qmd
       # - text: "Key papers"
       #   file: featured.qmd
       # - text: "More Publications"
       #   file: publications.qmd
-      - text: "[ Join Us ]"
+      - text: "Join Us"
         file: contact.qmd
       # - text: "Projects"
       #   file: projects.qmd
@@ -54,10 +52,9 @@ format:
       - cosmo # safe
       # - journal # orange color
       #- cerulean
-      # - zephyr # good, it is blue, though
+      #- zephyr # good, it is blue, though
       # - minty # too weak
       - custom.scss
-      #- custom.scss.bk.scss
     # theme: cosmo #litera
     # css: styles.css
 

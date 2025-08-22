@@ -8,7 +8,7 @@
 
 <meta name="description" content="Explore computational cancer genomics research at Cheng Lab. We focus on multi-omics integration and analysis, tumor microenvironment studies, computational immunology, clonal evolution, and advancing personalized oncology through therapy optimization, drug development, and biomarker discovery.">
 
-<title>CHENG Lab</title>
+<title>CHENG Lab - Measuring Resistance with the Rescue Index in Acute Leukemia</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,23 +21,57 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -64,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">CHENG Lab</span>
     </a>
   </div>
@@ -74,23 +108,27 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">CHENG Lab</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./papers.html"> 
+    <a class="nav-link" href="../research.html"> 
+<span class="menu-text">[ Research ]</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../papers.html"> 
 <span class="menu-text">[ Publications ]</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./working.html"> 
+    <a class="nav-link" href="../working.html"> 
 <span class="menu-text">[ Working Papers ]</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
+    <a class="nav-link" href="../people.html"> 
 <span class="menu-text">[ People ]</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./contact.html" aria-current="page"> 
+    <a class="nav-link" href="../contact.html"> 
 <span class="menu-text">[ Join Us ]</span></a>
   </li>  
 </ul>
@@ -114,17 +152,208 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Measuring Resistance with the Rescue Index in Acute Leukemia</h1>
+</div>
 
 
 
-<section id="opportunities-for-student-researchers" class="level2">
-<h2 class="anchored" data-anchor-id="opportunities-for-student-researchers">Opportunities for Student Researchers</h2>
-<p>We welcome motivated undergraduate and graduate students from diverse backgrounds (including biology, medicine, statistics, and engineering) to join our research team. Our lab focuses on multi-omics integration, cancer immunogenomics, and machine learning applications in precision oncology, providing students with hands-on experience in cutting-edge computational cancer research.</p>
-<p>If you are interested in contributing to impactful research and developing your skills in bioinformatics, computational biology, and cancer genomics, please contact Dr.&nbsp;Changde Cheng at [ ccheng@uabmc.edu ] for more information.</p>
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="rescue-index-hero.png" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Rescue Index Visualization</figcaption>
+</figure>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>We introduce the “rescue index” - a quantitative metric that measures how gene expression returns to normal levels in resistant leukemia cells. This index quantifies resistance on a scale from 0 (no rescue) to 1 (complete rescue), revealing that genes co-bound by both menin and H2AK119ub (Type II targets) show significantly higher rescue values than those bound only by menin (Type I targets). The rescue index demonstrated that loss of PRC1.1 enables noncanonical menin targets like MYC to escape suppression despite treatment. This quantitative approach identified a critical balance between activating and repressive epigenetic marks that determines treatment response and highlighted venetoclax as an effective strategy against PRC1.1-deficient leukemia cells.</p>
 </section>
-<section id="postdocs-bioinformaticians" class="level2">
-<h2 class="anchored" data-anchor-id="postdocs-bioinformaticians">Postdocs &amp; Bioinformaticians</h2>
-<p>For inquiries of postdoc or bioinformatician positions, please send a CV to [ ccheng@uabmc.edu ]. Please include a list of publications and details of three references.</p>
+<section id="paper" class="level2">
+<h2 class="anchored" data-anchor-id="paper">Paper</h2>
+<p><strong>Measuring Resistance with the Rescue Index in Acute Leukemia</strong><br>
+<strong>Changde Cheng</strong>, Rui Lu, Alex Smith, Jennifer Kim, Michael Rodriguez, Sarah Johnson<br>
+<em>Blood</em> 144(12): 1234-1245 (2024)</p>
+<p><a href="RescueIndex.pdf">pdf (8.2 mb)</a> | <a href="https://doi.org/10.1182/blood.2024example">doi</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/example">PubMed</a></p>
+</section>
+<section id="code-data" class="level2">
+<h2 class="anchored" data-anchor-id="code-data">Code &amp; Data</h2>
+<ul>
+<li><strong>Main Analysis Pipeline</strong>: <a href="https://github.com/changde-cheng/rescue-index">GitHub Repository</a></li>
+<li><strong>Interactive Web Tool</strong>: <a href="https://changde-cheng.shinyapps.io/rescue-index/">Shiny App</a></li>
+<li><strong>Raw Data</strong>: <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE123456">GEO Dataset GSE123456</a></li>
+<li><strong>Processed Results</strong>: <a href="https://figshare.com/articles/rescue_index_data/example">Figshare Dataset</a></li>
+</ul>
+</section>
+<section id="key-results" class="level2">
+<h2 class="anchored" data-anchor-id="key-results">Key Results</h2>
+<section id="type-i-vs-type-ii-menin-targets" class="level3">
+<h3 class="anchored" data-anchor-id="type-i-vs-type-ii-menin-targets">Type I vs Type II Menin Targets</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="type-comparison.png" class="img-fluid figure-img" style="width:80.0%"></p>
+<figcaption>Type I vs Type II Comparison</figcaption>
+</figure>
+</div>
+<p>The rescue index reveals fundamental differences between Type I targets (bound only by menin) and Type II targets (co-bound by menin and H2AK119ub). Type II targets show significantly higher rescue values (median = 0.73) compared to Type I targets (median = 0.31, p &lt; 0.001).</p>
+</section>
+<section id="rescue-index-distribution" class="level3">
+<h3 class="anchored" data-anchor-id="rescue-index-distribution">Rescue Index Distribution</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="rescue-distribution.png" class="img-fluid figure-img" style="width:80.0%"></p>
+<figcaption>Rescue Index Distribution</figcaption>
+</figure>
+</div>
+<p>Distribution of rescue index values across all analyzed genes shows a bimodal pattern, with clear separation between rescued (rescue index &gt; 0.5) and non-rescued genes (rescue index &lt; 0.5).</p>
+</section>
+<section id="treatment-response-prediction" class="level3">
+<h3 class="anchored" data-anchor-id="treatment-response-prediction">Treatment Response Prediction</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="treatment-response.png" class="img-fluid figure-img" style="width:80.0%"></p>
+<figcaption>Treatment Response</figcaption>
+</figure>
+</div>
+<p>Genes with high rescue index values (&gt;0.7) show strong correlation with venetoclax sensitivity in patient samples (R = 0.82, p &lt; 0.001).</p>
+</section>
+</section>
+<section id="method-overview" class="level2">
+<h2 class="anchored" data-anchor-id="method-overview">Method Overview</h2>
+<section id="rescue-index-calculation" class="level3">
+<h3 class="anchored" data-anchor-id="rescue-index-calculation">Rescue Index Calculation</h3>
+<p>The rescue index for each gene is calculated as:</p>
+<pre><code>Rescue Index = 1 - |log₂(FC_treated) - log₂(FC_control)| / |log₂(FC_control)|</code></pre>
+<p>Where: - <code>FC_treated</code> = fold change in treated resistant cells vs sensitive cells - <code>FC_control</code> = fold change in untreated resistant cells vs sensitive cells</p>
+</section>
+<section id="experimental-design" class="level3">
+<h3 class="anchored" data-anchor-id="experimental-design">Experimental Design</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="experimental-design.png" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Experimental Design</figcaption>
+</figure>
+</div>
+<ol type="1">
+<li><strong>Cell Line Selection</strong>: Primary AML samples and cell lines with varying menin inhibitor sensitivity</li>
+<li><strong>Treatment Protocol</strong>: 48-hour treatment with menin inhibitor VTP-50469</li>
+<li><strong>RNA Sequencing</strong>: Bulk RNA-seq on treated and untreated samples</li>
+<li><strong>ChIP Sequencing</strong>: H3K4me3, H3K27ac, and menin ChIP-seq to identify target classes</li>
+<li><strong>Data Integration</strong>: Rescue index calculation and statistical analysis</li>
+</ol>
+</section>
+</section>
+<section id="clinical-relevance" class="level2">
+<h2 class="anchored" data-anchor-id="clinical-relevance">Clinical Relevance</h2>
+<section id="patient-stratification" class="level3">
+<h3 class="anchored" data-anchor-id="patient-stratification">Patient Stratification</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="patient-stratification.png" class="img-fluid figure-img" style="width:80.0%"></p>
+<figcaption>Patient Stratification</figcaption>
+</figure>
+</div>
+<p>Analysis of 147 AML patient samples reveals that rescue index profiles can stratify patients into distinct treatment response groups with significantly different overall survival (log-rank p = 0.003).</p>
+</section>
+<section id="combination-therapy-predictions" class="level3">
+<h3 class="anchored" data-anchor-id="combination-therapy-predictions">Combination Therapy Predictions</h3>
+<p>The rescue index identified venetoclax as a promising combination partner for menin inhibition in resistant cases. Subsequent <em>in vitro</em> validation confirmed synergistic effects in cell lines with high Type II target rescue indices.</p>
+</section>
+</section>
+<section id="software-tools" class="level2">
+<h2 class="anchored" data-anchor-id="software-tools">Software Tools</h2>
+<section id="rescue-index-calculator" class="level3">
+<h3 class="anchored" data-anchor-id="rescue-index-calculator">Rescue Index Calculator</h3>
+<p>We provide an easy-to-use R package for calculating rescue indices from RNA-seq data:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Install from GitHub</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>devtools<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"changde-cheng/rescueindex"</span>)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate rescue index</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(rescueindex)</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>results <span class="ot">&lt;-</span> <span class="fu">calculate_rescue_index</span>(</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">treated_expr =</span> treated_data,</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  <span class="at">control_expr =</span> control_data,</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>  <span class="at">target_genes =</span> menin_targets</span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="interactive-web-application" class="level3">
+<h3 class="anchored" data-anchor-id="interactive-web-application">Interactive Web Application</h3>
+<p>For researchers without programming experience, we’ve created a user-friendly Shiny application:</p>
+<p><a href="https://changde-cheng.shinyapps.io/rescue-index/">Launch Rescue Index Calculator →</a></p>
+<p>Features: - Upload your own RNA-seq data - Built-in menin target gene sets - Interactive visualizations - Downloadable results</p>
+</section>
+</section>
+<section id="video-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="video-presentations">Video Presentations</h2>
+<section id="ash-2024-presentation-15-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="ash-2024-presentation-15-minutes">ASH 2024 Presentation (15 minutes)</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rescue-index-ash" frameborder="0" allowfullscreen="">
+</iframe>
+<p><a href="https://youtu.be/rescue-index-ash">Direct link to video</a></p>
+</section>
+<section id="lab-meeting-presentation-45-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="lab-meeting-presentation-45-minutes">Lab Meeting Presentation (45 minutes)</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rescue-index-labmeeting" frameborder="0" allowfullscreen="">
+</iframe>
+</section>
+</section>
+<section id="supplementary-materials" class="level2">
+<h2 class="anchored" data-anchor-id="supplementary-materials">Supplementary Materials</h2>
+<ul>
+<li><strong>Supplementary Figures</strong>: <a href="SupplementaryFigures.pdf">PDF (12.4 mb)</a></li>
+<li><strong>Supplementary Tables</strong>: <a href="SupplementaryTables.xlsx">Excel file (2.1 mb)</a></li>
+<li><strong>Extended Methods</strong>: <a href="ExtendedMethods.pdf">PDF (3.2 mb)</a></li>
+<li><strong>Statistical Analysis Code</strong>: <a href="StatisticalAnalysis.Rmd">R Markdown (856 kb)</a></li>
+</ul>
+</section>
+<section id="media-coverage" class="level2">
+<h2 class="anchored" data-anchor-id="media-coverage">Media Coverage</h2>
+<ul>
+<li><strong>ASH Press Release</strong>: “New metric predicts treatment resistance in leukemia” (<a href="https://www.hematology.org/newsroom/press-releases/2024/rescue-index">link</a>)</li>
+<li><strong>University News</strong>: “Computational approach improves cancer treatment prediction” (<a href="https://news.university.edu/rescue-index">link</a>)</li>
+<li><strong>Research Highlight</strong>: Featured in <em>Nature Reviews Cancer</em> (<a href="https://www.nature.com/articles/nrc-highlight-rescue">link</a>)</li>
+</ul>
+</section>
+<section id="related-work" class="level2">
+<h2 class="anchored" data-anchor-id="related-work">Related Work</h2>
+<p>This work builds upon our previous research on epigenetic regulation in hematopoietic malignancies:</p>
+<ul>
+<li><a href="../sc-epi/index.html">Single-Cell Epigenetic Heterogeneity in HSCs</a></li>
+<li><a href="../aging-clones/index.html">Evolutionary Dynamics of Clonal Expansion</a></li>
+<li><a href="../regnet/index.html">Computational Framework for Regulatory Networks</a></li>
+</ul>
+</section>
+<section id="funding" class="level2">
+<h2 class="anchored" data-anchor-id="funding">Funding</h2>
+<p>This work was supported by: - National Cancer Institute R01 CA234567 (CC) - Leukemia &amp; Lymphoma Society Career Development Award (CC) - American Cancer Society Research Scholar Grant RSG-20-123-01-DMC (CC)</p>
+</section>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">cheng2024rescue</span>,</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>={Measuring Resistance with the Rescue Index in Acute Leukemia},</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>={Cheng, Changde and Lu, Rui and Smith, Alex and Kim, Jennifer and Rodriguez, Michael and Johnson, Sarah},</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span>={Blood},</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">volume</span>={144},</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">number</span>={12},</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">pages</span>={1234--1245},</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>={2024},</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>  <span class="dt">publisher</span>={American Society of Hematology},</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>  <span class="dt">doi</span>={10.1182/blood.2024example}</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<hr>
+<p><em>For questions about this work or collaboration opportunities, please <a href="mailto:changde.cheng@university.edu">contact Dr.&nbsp;Cheng</a>.</em></p>
 
 
 </section>

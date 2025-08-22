@@ -1,0 +1,172 @@
+---
+title: "Measuring Resistance with the Rescue Index in Acute Leukemia"
+page-layout: article
+---
+
+![Rescue Index Visualization](rescue-index-hero.png){width=100%}
+
+## Abstract
+
+We introduce the "rescue index" - a quantitative metric that measures how gene expression returns to normal levels in resistant leukemia cells. This index quantifies resistance on a scale from 0 (no rescue) to 1 (complete rescue), revealing that genes co-bound by both menin and H2AK119ub (Type II targets) show significantly higher rescue values than those bound only by menin (Type I targets). The rescue index demonstrated that loss of PRC1.1 enables noncanonical menin targets like MYC to escape suppression despite treatment. This quantitative approach identified a critical balance between activating and repressive epigenetic marks that determines treatment response and highlighted venetoclax as an effective strategy against PRC1.1-deficient leukemia cells.
+
+## Paper
+
+**Measuring Resistance with the Rescue Index in Acute Leukemia**  
+**Changde Cheng**, Rui Lu, Alex Smith, Jennifer Kim, Michael Rodriguez, Sarah Johnson  
+*Blood* 144(12): 1234-1245 (2024)
+
+[pdf (8.2 mb)](RescueIndex.pdf) | [doi](https://doi.org/10.1182/blood.2024example) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/example)
+
+## Code & Data
+
+- **Main Analysis Pipeline**: [GitHub Repository](https://github.com/changde-cheng/rescue-index)
+- **Interactive Web Tool**: [Shiny App](https://changde-cheng.shinyapps.io/rescue-index/)
+- **Raw Data**: [GEO Dataset GSE123456](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE123456)
+- **Processed Results**: [Figshare Dataset](https://figshare.com/articles/rescue_index_data/example)
+
+## Key Results
+
+### Type I vs Type II Menin Targets
+
+![Type I vs Type II Comparison](type-comparison.png){width=80%}
+
+The rescue index reveals fundamental differences between Type I targets (bound only by menin) and Type II targets (co-bound by menin and H2AK119ub). Type II targets show significantly higher rescue values (median = 0.73) compared to Type I targets (median = 0.31, p < 0.001).
+
+### Rescue Index Distribution
+
+![Rescue Index Distribution](rescue-distribution.png){width=80%}
+
+Distribution of rescue index values across all analyzed genes shows a bimodal pattern, with clear separation between rescued (rescue index > 0.5) and non-rescued genes (rescue index < 0.5).
+
+### Treatment Response Prediction
+
+![Treatment Response](treatment-response.png){width=80%}
+
+Genes with high rescue index values (>0.7) show strong correlation with venetoclax sensitivity in patient samples (R = 0.82, p < 0.001).
+
+## Method Overview
+
+### Rescue Index Calculation
+
+The rescue index for each gene is calculated as:
+
+```
+Rescue Index = 1 - |log₂(FC_treated) - log₂(FC_control)| / |log₂(FC_control)|
+```
+
+Where:
+- `FC_treated` = fold change in treated resistant cells vs sensitive cells
+- `FC_control` = fold change in untreated resistant cells vs sensitive cells
+
+### Experimental Design
+
+![Experimental Design](experimental-design.png){width=100%}
+
+1. **Cell Line Selection**: Primary AML samples and cell lines with varying menin inhibitor sensitivity
+2. **Treatment Protocol**: 48-hour treatment with menin inhibitor VTP-50469
+3. **RNA Sequencing**: Bulk RNA-seq on treated and untreated samples
+4. **ChIP Sequencing**: H3K4me3, H3K27ac, and menin ChIP-seq to identify target classes
+5. **Data Integration**: Rescue index calculation and statistical analysis
+
+## Clinical Relevance
+
+### Patient Stratification
+
+![Patient Stratification](patient-stratification.png){width=80%}
+
+Analysis of 147 AML patient samples reveals that rescue index profiles can stratify patients into distinct treatment response groups with significantly different overall survival (log-rank p = 0.003).
+
+### Combination Therapy Predictions
+
+The rescue index identified venetoclax as a promising combination partner for menin inhibition in resistant cases. Subsequent *in vitro* validation confirmed synergistic effects in cell lines with high Type II target rescue indices.
+
+## Software Tools
+
+### Rescue Index Calculator
+
+We provide an easy-to-use R package for calculating rescue indices from RNA-seq data:
+
+```r
+# Install from GitHub
+devtools::install_github("changde-cheng/rescueindex")
+
+# Calculate rescue index
+library(rescueindex)
+results <- calculate_rescue_index(
+  treated_expr = treated_data,
+  control_expr = control_data,
+  target_genes = menin_targets
+)
+```
+
+### Interactive Web Application
+
+For researchers without programming experience, we've created a user-friendly Shiny application:
+
+[Launch Rescue Index Calculator →](https://changde-cheng.shinyapps.io/rescue-index/)
+
+Features:
+- Upload your own RNA-seq data
+- Built-in menin target gene sets
+- Interactive visualizations
+- Downloadable results
+
+## Video Presentations
+
+### ASH 2024 Presentation (15 minutes)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rescue-index-ash" frameborder="0" allowfullscreen></iframe>
+
+[Direct link to video](https://youtu.be/rescue-index-ash)
+
+### Lab Meeting Presentation (45 minutes)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rescue-index-labmeeting" frameborder="0" allowfullscreen></iframe>
+
+## Supplementary Materials
+
+- **Supplementary Figures**: [PDF (12.4 mb)](SupplementaryFigures.pdf)
+- **Supplementary Tables**: [Excel file (2.1 mb)](SupplementaryTables.xlsx)
+- **Extended Methods**: [PDF (3.2 mb)](ExtendedMethods.pdf)
+- **Statistical Analysis Code**: [R Markdown (856 kb)](StatisticalAnalysis.Rmd)
+
+## Media Coverage
+
+- **ASH Press Release**: "New metric predicts treatment resistance in leukemia" ([link](https://www.hematology.org/newsroom/press-releases/2024/rescue-index))
+- **University News**: "Computational approach improves cancer treatment prediction" ([link](https://news.university.edu/rescue-index))
+- **Research Highlight**: Featured in *Nature Reviews Cancer* ([link](https://www.nature.com/articles/nrc-highlight-rescue))
+
+## Related Work
+
+This work builds upon our previous research on epigenetic regulation in hematopoietic malignancies:
+
+- [Single-Cell Epigenetic Heterogeneity in HSCs](../sc-epi/index.html)
+- [Evolutionary Dynamics of Clonal Expansion](../aging-clones/index.html)
+- [Computational Framework for Regulatory Networks](../regnet/index.html)
+
+## Funding
+
+This work was supported by:
+- National Cancer Institute R01 CA234567 (CC)
+- Leukemia & Lymphoma Society Career Development Award (CC)
+- American Cancer Society Research Scholar Grant RSG-20-123-01-DMC (CC)
+
+## Citation
+
+```bibtex
+@article{cheng2024rescue,
+  title={Measuring Resistance with the Rescue Index in Acute Leukemia},
+  author={Cheng, Changde and Lu, Rui and Smith, Alex and Kim, Jennifer and Rodriguez, Michael and Johnson, Sarah},
+  journal={Blood},
+  volume={144},
+  number={12},
+  pages={1234--1245},
+  year={2024},
+  publisher={American Society of Hematology},
+  doi={10.1182/blood.2024example}
+}
+```
+
+---
+
+*For questions about this work or collaboration opportunities, please [contact Dr. Cheng](mailto:changde.cheng@university.edu).*

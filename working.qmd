@@ -3,9 +3,7 @@ page-layout: article
 title-block-banner: false
 ---
 
-
-
-## Working papers
+<!-- ## Working papers -->
 
 
 #### 2017-01-25 {#sec-w1}
