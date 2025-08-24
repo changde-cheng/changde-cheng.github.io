@@ -3,7 +3,7 @@
 subtitle: "   "
 page-layout: article
 title-block-banner: false
-toc: false
+toc: true
 toc-title: ""  
 toc-depth: 3
 # about:
@@ -19,15 +19,17 @@ toc-depth: 3
 
 *Dr. Changde Cheng*
 
-Assistant Professor | Stem Cell Biology Program & Institute for Cancer Outcomes and Survivorship \
+Assistant Professor \
+Stem Cell Biology | Cancer Outcomes and Survivorship | Biomedical Informatics and Data Science \
 University of Alabama at Birmingham
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray; color: seagreen;"}
-# About me
+# Research Profile
+Before joining UAB, I developed methods for single-cell genomics in cancer research at the Computational Biology Department at St. Jude Children's Research Hospital.\
 During my postdoc, I worked with Mark Kirkpatrick and David Houle, studying sexual antagonistic selection, the evolution of sexual differentiation, and aging. \
 Prior to that, I completed my Ph.D. at the University of Notre Dame, under the guidance of Nora Besansky, where I researched speciation, chromosomal evolution, ecological genomics, and evolutionary genomics. \
-Before pursuing my Ph.D., I worked with Charles Taylor at UCLA on evolutionary genetics, even though I was more interested in artificial life. \
-I earned my B.S. degree in cell biology and genetics from Peking University.
+Before pursuing my Ph.D., I worked with Charles Taylor at UCLA on evolutionary genetics, though my interests were drawn toward artificial life research. \
+<!-- I earned my B.S. degree in cell biology and genetics from Peking University. -->
 :::
 
 ---
@@ -36,7 +38,7 @@ I earned my B.S. degree in cell biology and genetics from Peking University.
 
 ---
 
-#### Therapy Design and Engineering 
+## Therapy Design and Engineering 
 
 <!-- ::: {.callout-note collapse="false" appearance="minimal" style="background-color: #FF69B4; border-color: gray; color: white;"} -->
 We design and engineer combination therapies by mapping epistasis, inferring causal control, and optimizing interventions with mechanism-informed AI, translating molecular and cellular insights into therapeutic strategies.
@@ -46,6 +48,59 @@ We design and engineer combination therapies by mapping epistasis, inferring cau
 # Research Highlights
 [Broken Brakes and Epigenetic Rescue](publications/2024_menin/index.qmd)
 :::
+
+---
+
+## Sex Differences and Disease
+
+Males and females share almost the same genome, yet they often differ in appearance, physiology, and disease risk. I study why those differences arise and how they matter for health, tracing how sex-biased selection and sexual antagonism shape genomic architecture over evolutionary timescales and yield consequences in contemporary medicine.
+
+My work focuses on four linked themes. First, I ask which forces leave the deeper imprint on genomes and traits: sexually concordant selection, which pushes both sexes in the same direction, or sexually discordant selection, which benefits one sex while harming the other. 
+
+::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
+# References
+[ \[Predicting evolution of sexual dimorphism\] ](https://www.ncbi.nlm.nih.gov/pubmed/32970462/) \
+[ \[Predicting sex-biased expression\] ](https://www.ncbi.nlm.nih.gov/pubmed/33512493/)  \
+[ \[A model on evolution of sex-biased expression\] ](https://www.ncbi.nlm.nih.gov/pubmed/27658217/) 
+:::
+
+Second, I investigate why sex chromosomes become focal points of conflict, testing whether chromosomal inversions (stretches of DNA flipped end-to-end) act as recombination suppressors that preserve advantageous, sex-specific allele combinations. 
+
+::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
+# References
+[ \[Bigger X\] ](https://www.ncbi.nlm.nih.gov/pubmed/30059177/) \
+<!-- [ \[Evolution of sex chromosomes in Stickleback\] ]() -->
+:::
+
+Third, I examine how environmental plasticity modulates sex-biased gene expression and shifts the intersexual correlation of expression, allowing organisms to navigate the tug-of-war between male-optimal and female-optimal states. 
+
+::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
+# References
+[ \[Environmental plasticity shapes sex-bias\] ](https://www.ncbi.nlm.nih.gov/pubmed/29036352/) \
+<!-- [ \[Evolution of sex chromosomes in Stickleback\] ]() -->
+:::
+
+
+Finally, I study how aging alters these dynamics as purifying selection weakens, potentially amplifying sex differences in late-onset disease, including cancer.
+
+These ideas motivate my current analyses of clonal evolution in hematopoietic stem cells after cancer therapy. Many patients develop clonal hematopoiesis, in which mutations arise and a subset of stem-cell clones expands. In our cohort, clonal hematopoiesis occurs in 37.2% of patients, with similar incidence in males (35.8%) and females (39.6%), and recurrently involves the same genes in both sexes, including DNMT3A, PPM1D, TET2, and TP53. The subsequent trajectories diverge: in males, mutated clones expand more often and progress to therapy-related blood cancers in 12.4% of cases, whereas progression in females is 3.6%. 
+
+::: {.text-center}
+**Mutations persist, expand, or disappear during disease progression,  associated with specific chromosomal abnormalities across biological groups.**
+:::
+
+![](publications/2024_sextmn/featured.png)
+
+These patterns suggest that selection on clones is sex-conditioned. Comparable genetic starting points can yield different outcomes because the surrounding biology—hormonal milieu, immune surveillance, stromal niches, and epigenetic states—reshapes fitness landscapes in sex-specific ways. My model aims to identify which components shift a clone from benign passenger to malignant driver, and how those components change with age.
+
+::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
+# Reference
+[Sex differences in risk for therapy-related myeloid neoplasms](https://doi.org/10.1200/JCO-24-01487)
+<!-- (publications/2024_sextmn/index.qmd) -->
+:::
+
+Sexual dimorphism/antagonism is not a theoretical curiosity confined to sex chromosomes but a living force that shapes disease. By connecting evolutionary principles to measurable cellular mechanisms, we seek to improve risk prediction, refine surveillance, and design therapies that remain effective within the sex-specific and age-dependent constraints imposed by evolution.
+
 
 ---
 

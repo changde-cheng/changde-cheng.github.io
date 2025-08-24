@@ -20,15 +20,27 @@ title-block-banner: false
 
 ## The Research Champions
 
-**Venkata Krishna Chaithanya Manam - PhD**
+### Dr. Venkata Krishna Chaithanya Manam
 
-Dr. Manam earned his Ph.D. in Electrical and Computer Engineering from Purdue University and previously served as an AI & NLP Research Scientist at Reveal AI.
+[Superpower]{style="font-weight: 500; color:seagreen;"}:  Bridging artificial intelligence and biological discovery through advanced NLP and machine learning architectures
+
+[Origin Story]{style="font-weight: 500; color:seagreen;"}: Dr. Manam earned his Ph.D. in Electrical and Computer Engineering from Purdue University and previously served as an AI & NLP Research Scientist at Reveal AI.
+
+[Current Quest]{style="font-weight: 500; color:seagreen;"}: Engineering sophisticated data integration strategies that combine multi-modal biological datasets with AI-driven insights. Working to unlock hidden patterns in genomic data that traditional methods miss.
+
+[Hero Tools]{style="font-weight: 500; color:seagreen;"}: Python/R ecosystems, natural language processing pipelines.
 
 ---
 
-**Yassin Mreyoud - MSTP M.D PhD. Candidate**
+### Yassin Mreyoud
 
-Previously a bioinformatics Scientist at Washington University School of Medicine in St. Louis.
+[Superpower]{style="font-weight: 500; color:seagreen;"}: Transforming chaotic multi-omics data into crystal-clear biological insights.
+
+[Origin Story]{style="font-weight: 500; color:seagreen;"}: Previously a bioinformatics Scientist at Washington University School of Medicine in St. Louis. Now a MSTP MD/PhD student at UAB.
+
+[Current Quest]{style="font-weight: 500; color:seagreen;"}: Unraveling the mysteries of immuno-dysregulation by mapping cellular conversations and identifying the communication breakdowns that lead to disease. Bridging the gap between computational discovery and clinical application.
+
+[Hero Tools]{style="font-weight: 500; color:seagreen;"}:  Multi-omics integration platforms, cell-cell communication algorithms, single-cell analysis pipelines.
 
 ---
 
@@ -43,11 +55,12 @@ df <- data.frame(
   Name = c("Doug Welsch", "Brunno Macedo"),
   Role = c("Bioinformatician", "GBS Rotation Student"),
   Time = c("03/2024-02/2025", "Fall 2024"),
-  School = c("Rice University", "Federal Univ. of Pernambuco, Brazil")
+  School = c("Rice University", "Federal Univ. of Pernambuco, Brazil"),
+  Lastknown = c("","Matlawska Lab at UAB")
 )
 
 kable(df, format = "html",
-      col.names = c("Name", "Role", "Time", "Prior Institution"),
+      col.names = c("Name", "Role", "Time", "Prior Institution", "Next Stop"),
       table.attr = "class='table table-striped'")
 ```
 
