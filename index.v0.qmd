@@ -1,0 +1,160 @@
+---
+title: ""
+subtitle: "From Evolutionary Genetics to Cell Genomics in Cancer and Immunity"
+page-layout: article
+title-block-banner: false
+toc: true
+#toc-location: body
+toc-title: ""  
+# about:
+#   id: about
+#   template: jolla
+#   image: logo.png
+embed-resources: true
+---
+
+<!-- Question and biology systems -->
+The Cheng Lab studies how gene regulation, immune signaling, and epigenetic states dynamically evolve in the contexts of aging, critical illness, and cancer. 
+
+<!-- Approach -->
+We integrate single-cell multi-omics, perturbation profiling, and interpretable computational modeling to uncover the regulatory programs and signaling networks that drive cellular adaptation and therapeutic response.
+
+<!-- Significance -->
+Grounded in our foundational expertise in evolutionary genetics and computational biology, our research aims to build actionable, mechanistic models that link cellular dynamics to disease initiation, progression, and treatment outcomes.
+
+
+::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
+## Contact
+
+:::: {style="font-size: 100%; color:green;"}
+Changde Cheng\
+
+Stem Cell Biology Program\
+Division of Hematology and Oncology\
+Institute for Cancer Outcomes and Survivorship\
+Department of Biomedical Informatics and Data Science\
+O’Neal Comprehensive Cancer Center\
+Department of Medicine, Heersink School of Medicine\
+University of Alabama at Birmingham, USA\
+
+Wallace Tumor Institute 520A. \
+1824 6th Ave S Birmingham, Alabama 35233. \
+
+Email: ccheng [at] uabmc [dot] edu
+::::
+
+:::
+
+---
+
+# Current Projects{#research}
+
+<!-- Our lab integrates genomics, computational biology, and cancer research to explore the molecular mechanisms of cancer progression and therapeutic resistance. We employ advanced single-cell and spatial genomic approaches to dissect tumor complexity through single-cell transcriptomics, spatial genomics, and multi-modal analyses integrating genomic, epigenomic, and proteomic data.  -->
+Our current research investigates **epigenetic regulation of gene expression and clonal dynamics in hematopoietic stem cells**, with a particular focus on understanding how epigenetic modifications drive cellular differentiation and potential malignant transformation.
+
+---
+
+# Measure of Rescue: Resistance to Remedy Accounted
+
+In our recent *Blood* publication (with friends, led by Dr. Rui Lu, at UAB), we introduced the "rescue index" - a metric that measures how gene expression returns to normal levels in resistant leukemia cells. 
+
+::: {.text-center}
+**Type I and Type II menin targets**
+:::
+
+![](publications/2024_menin/featured_1.png){fig-alt="Barplot of Rescue Index" fig-width=85% fig-align="center"}
+
+This index quantifies resistance on a scale from 0 (no rescue) to 1 (complete rescue), revealing that genes co-bound by both menin and H2AK119ub (Type II targets) show significantly higher rescue values than those bound only by menin (Type I). The rescue index demonstrated that loss of PRC1.1 enables noncanonical menin targets like MYC to escape suppression despite treatment. 
+
+::: {.text-center}
+**Rescue Index**
+:::
+
+![](publications/2024_menin/featured_2.png){fig-alt="Plot showing Type I and Type II menin targets" fig-width=85% fig-align="center"}
+
+This quantitative approach identified a critical balance between activating and repressive epigenetic marks that determines treatment response and highlighted venetoclax as an effective strategy against PRC1.1-deficient leukemia cells.
+
+::: {.text-center}
+**Rescue index comparison between Type I and Type II menin targets through RNAseq analysis**
+:::
+
+![](publications/2024_menin/featured.png){fig-alt="Plot showing higher rescue index values in Type II menin targets" fig-width=85% fig-align="center"}
+
+
+::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
+
+## Read the paper:
+
+**Epigenetic regulation of non-canonical menin targets modulates menin inhibitor response in acute myeloid leukemia** \
+[Xinyue Zhou, Lixia Zhang, Sajesan Aryal, Virginia Veasey, Amanda Tajik, Cecilia Restelli, Steven Moreira, Pengcheng Zhang, Yanfeng Zhang, Kristin Hope, Yang Zhou, [Changde Cheng]{style="font-weight: 300; color:black;"}, Ravi Bhatia, and Rui Lu.]{style="font-weight: 300; color:gray;"} \
+[Blood](https://doi.org/10.1182/blood.2023023644) 
+2024 Nov 7; 144 (19): 2018–2032. \
+
+Also read this commentary on our work \
+
+:::{style="font-size: 93%;"}
+- [Broken brakes: PRC loss foils menin inhibition ](https://doi.org/10.1182/blood.2024026297)  -- Commentary in Blood
+:::
+
+:::
+
+[Back to Top](#)
+
+---
+
+# Storm in the Blood: Clone Wars
+
+One main focus is on the complex dynamics of clonal evolution in hematopoietic stem cells, exploring how genetic and epigenetic mechanisms shape cellular lineage development and contribute to disease progression.
+
+Our recent collaboration (led by Drs. Smita Bhatia nd Ravi Bhatia) in the *Journal of Clinical Oncology* documents how evolutionary forces operate differently based on biological sex. In blood cell production after cancer treatment, mutations emerge in 37.2% of patients. These mutations appear at nearly identical rates in males (35.8%) and females (39.6%), affecting the same genes including *DNMT3A*, *PPM1D*, *TET2*, and *TP53*.
+
+::: {.text-center}
+**Study Design for CH Detection and Sex-Based Therapy-Related Myeloid Neoplasms Incidence**
+:::
+
+![](publications/2024_sextmn/tmn2024fig.png)
+
+The temporal trajectories of clones diverge dramatically. In males, mutated clones expand and evolve, leading to therapy-related blood cancers in 12.4% of cases. In females, similar mutations rarely achieve dominance, with only 3.6% progressing to malignancy. 
+
+::: {.text-center}
+**Mutations persist, expand, or disappear during disease progression,  associated with specific chromosomal abnormalities across biological groups.**
+:::
+
+![](publications/2024_sextmn/featured.png)
+
+This suggests differential selection:  mutants or clones face distinct evolutionary pressures in male versus female physiological environments, creating different fitness landscapes despite identical genetic starting points. Biological context shapes evolutionary outcomes in cancer development. 
+
+::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
+## Read the paper:
+
+**Sex-based differences in risk for therapy-related myeloid neoplasms** \
+[Melissa A Richard$^{\ast}$, Chengcheng Yan$^{\ast}$, Yanjun Chen, Christopher J Gibson, Rashi Kalra, Alysia Bosworth, David K Crossman, Purnima Singh, Lindsey Hageman, Jianbo He, Saro H Armenian, Julie Vose, Daniel J Weisdorf, Benjamin L Ebert, Yutaka Yasui,  [Changde Cheng]{style="font-weight: 300; color:black;"}, Stephen J Forman , Smita Bhatia$^{\dagger}$, Ravi Bhatia$^{\dagger}$]{style="font-weight: 300; color:gray;"} \
+[Journal of Clinical Oncology](https://doi.org/10.1200/JCO-24-01487)
+2024 Nov 1; Vol. 42, No 31. \
+
+Also read this editorials on our work \
+
+:::{style="font-size: 93%;"}
+- [Battle of the sexes in the clonal world](https://doi.org/10.1200/JCO-24-01758)  -- Editorials in JCO
+:::
+
+:::
+
+[Back to Top](#)
+<!-- # Monocytes' Tale of Life After Cardiac Arrest -->
+
+<!-- In the critical window following cardiac arrest, a subtle yet profound cellular narrative emerges from the complexity of the immune response. Our single-cell transcriptomics investigation reveals Nectin-2+ monocytes as unexpected prognosticators of neurological recovery, demonstrating a remarkable molecular signature detectable within six hours of resuscitation. These are sophisticated biological messengers encoding critical information about neurological resilience through distinctive immune checkpoint molecule expression. -->
+
+<!-- ![](/publications/2023_CA/med_fig2.png){fig-width=85% fig-align="center"} -->
+
+<!-- At the interface of clinical observation and molecular immunology, we uncovered an inflammatory signature characterized by a specific monocyte subpopulation. The Nectin-2 expression correlates significantly with 30-day neurological outcomes, suggesting these cells function as dynamic biomarkers that translate complex inflammatory signals into predictive insights. Our findings illuminate how molecular interactions can encode survival narratives, transforming our understanding of cellular communication in critical medical contexts. -->
+
+
+<!-- ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray;"} -->
+<!-- ## Read the paper: -->
+
+<!-- **Single-cell transcriptomics reveal a hyperacute cytokine and immune checkpoint axis after cardiac arrest in patients with poor neurological outcome** \ -->
+<!-- [Tamura T$^{\ast}$, [Changde Cheng]{style="font-weight: 300; color:black;"} $^{\ast}$, Chen W, Merriam LT, Athar H, Kim YH, Manandhar R, Amir Sheikh MD, Pinilla-Vera M, Varon J, Hou PC, Lawler PR, Oldham WM, Seethala RR, Tesfaigzi Y, Weissman AJ, Baron RM, Ichinose F, Berg KM, Bohula EA, Morrow DA, Chen X, Kim EY.]{style="font-weight: 300; color:gray;"}\ -->
+<!-- [Med.](https://www.ncbi.nlm.nih.gov/pubmed/37257452/) -->
+<!--  2023 Jul 14;4(7):432-456.e6.  -->
+<!-- ::: -->

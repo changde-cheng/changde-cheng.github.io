@@ -11,23 +11,6 @@ page-layout: article
 title-block-banner: false
 ---
 
-## Changde Cheng
-
-Assistant Professor
-
-Faculty Member
-
-Stem Cell Biology Program, Division of Hematology and Oncology\
-Institute for Cancer Outcomes and Survivorship\
-Department of Biomedical Informatics and Data Science\
-O’Neal Comprehensive Cancer Center\
-Department of Medicine, Heersink School of Medicine\
-University of Alabama at Birmingham, USA\
-
-Wallace Tumor Institute 520A. \
-1824 6th Ave S Birmingham, Alabama 35233. \
-
-Email: ccheng [at] uabmc [dot] edu
 
 <!-- He started his academic journey at [Peking University](https://en.wikipedia.org/wiki/Peking_University), one of China’s most prestigious universities.  He continued to pursue his education and training at  [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles), with Dr. Charles Taylor, a pioneering researcher exploring fundamental questions about language evolution and artificial life; and at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame), with Dr. [Nora Besansky](https://en.wikipedia.org/wiki/Nora_J._Besansky), on ecological genomics of adaptation and speciation. -->
 
@@ -35,16 +18,21 @@ Email: ccheng [at] uabmc [dot] edu
 
 <!-- Currently, he serves as a faculty member and head of bioinformatics in the Stem Cell Program and the Institute for Cancer Outcomes and Survivorship at the Heersink School of Medicine, [University of Alabama at Birmingham](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine). His work integrates expertise in genetics, bioinformatics, and computational biology to advance understanding and treatment of cancer and other complex diseases. -->
 
-## Venkata Krishna Chaithanya Manam - PhD
+## The Research Champions
+
+**Venkata Krishna Chaithanya Manam - PhD**
 
 Dr. Manam earned his Ph.D. in Electrical and Computer Engineering from Purdue University and previously served as an AI & NLP Research Scientist at Reveal AI.
 
-## Yassin Mreyoud - MSTP M.D PhD. Candidate
+---
+
+**Yassin Mreyoud - MSTP M.D PhD. Candidate**
 
 Previously a bioinformatics Scientist at Washington University School of Medicine in St. Louis.
 
-## Former Members
+---
 
+## Alumni Heroes Hall of Fame
 
 ```{r}
 #| echo: false

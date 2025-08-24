@@ -223,5 +223,14 @@
   },
   "index_draft.qmd": {
     "index_draft.html": "b1119ebf"
+  },
+  "publications/2024_menin/index.qmd": {
+    "index.html": "728f9d83"
+  },
+  "index.v0.qmd": {
+    "index.v0.html": "cabbdf5b"
+  },
+  "publications/2024_menin/index_template.qmd": {
+    "index_template.html": "4b263f7b"
   }
 }

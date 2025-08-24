@@ -38,14 +38,14 @@ website:
       #   file: press.qmd
       - text: "[ Working Papers ]"
         file: working.qmd
-      - text: "[ People ]"
+      - text: "[ Lab Heroes ]"
         file: people.qmd
       # - text: "Key papers"
       #   file: featured.qmd
       # - text: "More Publications"
       #   file: publications.qmd
-      - text: "[ Join Us ]"
-        file: contact.qmd
+      #- text: "[ Join Us ]"
+      #  file: contact.qmd
       # - text: "Projects"
       #   file: projects.qmd
 format:

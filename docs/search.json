@@ -86,9 +86,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Current Projects",
+    "title": "CHENG Lab",
     "section": "",
-    "text": "The Cheng Lab studies how gene regulation, immune signaling, and epigenetic states dynamically evolve in the contexts of aging, critical illness, and cancer.\n\nWe integrate single-cell multi-omics, perturbation profiling, and interpretable computational modeling to uncover the regulatory programs and signaling networks that drive cellular adaptation and therapeutic response.\n\nGrounded in our foundational expertise in evolutionary genetics and computational biology, our research aims to build actionable, mechanistic models that link cellular dynamics to disease initiation, progression, and treatment outcomes.\n\n\n\n\n\n\nContact\n\n\n\n\n\n\nChangde Cheng\n\nStem Cell Biology Program\nDivision of Hematology and Oncology\nInstitute for Cancer Outcomes and Survivorship\nDepartment of Biomedical Informatics and Data Science\nO’Neal Comprehensive Cancer Center\nDepartment of Medicine, Heersink School of Medicine\nUniversity of Alabama at Birmingham, USA\n\nWallace Tumor Institute 520A.\n1824 6th Ave S Birmingham, Alabama 35233.\n\nEmail: ccheng [at] uabmc [dot] edu\n\n\n\n\n\n\nCurrent Projects\n\nOur current research investigates epigenetic regulation of gene expression and clonal dynamics in hematopoietic stem cells, with a particular focus on understanding how epigenetic modifications drive cellular differentiation and potential malignant transformation.\n\n\n\nMeasure of Rescue: Resistance to Remedy Accounted\nIn our recent Blood publication (with friends, led by Dr. Rui Lu, at UAB), we introduced the “rescue index” - a metric that measures how gene expression returns to normal levels in resistant leukemia cells.\n\nType I and Type II menin targets\n\n\n\n\n\n\nThis index quantifies resistance on a scale from 0 (no rescue) to 1 (complete rescue), revealing that genes co-bound by both menin and H2AK119ub (Type II targets) show significantly higher rescue values than those bound only by menin (Type I). The rescue index demonstrated that loss of PRC1.1 enables noncanonical menin targets like MYC to escape suppression despite treatment.\n\nRescue Index\n\n\n\n\n\n\nThis quantitative approach identified a critical balance between activating and repressive epigenetic marks that determines treatment response and highlighted venetoclax as an effective strategy against PRC1.1-deficient leukemia cells.\n\nRescue index comparison between Type I and Type II menin targets through RNAseq analysis\n\n\n\n\n\n\n\n\n\n\n\n\nRead the paper:\n\n\n\n\n\nEpigenetic regulation of non-canonical menin targets modulates menin inhibitor response in acute myeloid leukemia\nXinyue Zhou, Lixia Zhang, Sajesan Aryal, Virginia Veasey, Amanda Tajik, Cecilia Restelli, Steven Moreira, Pengcheng Zhang, Yanfeng Zhang, Kristin Hope, Yang Zhou, Changde Cheng, Ravi Bhatia, and Rui Lu.\nBlood 2024 Nov 7; 144 (19): 2018–2032.\n\nAlso read this commentary on our work\n\n\n\nBroken brakes: PRC loss foils menin inhibition – Commentary in Blood\n\n\n\n\n\nBack to Top\n\n\n\nStorm in the Blood: Clone Wars\nOne main focus is on the complex dynamics of clonal evolution in hematopoietic stem cells, exploring how genetic and epigenetic mechanisms shape cellular lineage development and contribute to disease progression.\nOur recent collaboration (led by Drs. Smita Bhatia nd Ravi Bhatia) in the Journal of Clinical Oncology documents how evolutionary forces operate differently based on biological sex. In blood cell production after cancer treatment, mutations emerge in 37.2% of patients. These mutations appear at nearly identical rates in males (35.8%) and females (39.6%), affecting the same genes including DNMT3A, PPM1D, TET2, and TP53.\n\nStudy Design for CH Detection and Sex-Based Therapy-Related Myeloid Neoplasms Incidence\n\n\nThe temporal trajectories of clones diverge dramatically. In males, mutated clones expand and evolve, leading to therapy-related blood cancers in 12.4% of cases. In females, similar mutations rarely achieve dominance, with only 3.6% progressing to malignancy.\n\nMutations persist, expand, or disappear during disease progression, associated with specific chromosomal abnormalities across biological groups.\n\n\nThis suggests differential selection: mutants or clones face distinct evolutionary pressures in male versus female physiological environments, creating different fitness landscapes despite identical genetic starting points. Biological context shapes evolutionary outcomes in cancer development.\n\n\n\n\n\n\nRead the paper:\n\n\n\n\n\nSex-based differences in risk for therapy-related myeloid neoplasms\nMelissa A Richard\\(^{\\ast}\\), Chengcheng Yan\\(^{\\ast}\\), Yanjun Chen, Christopher J Gibson, Rashi Kalra, Alysia Bosworth, David K Crossman, Purnima Singh, Lindsey Hageman, Jianbo He, Saro H Armenian, Julie Vose, Daniel J Weisdorf, Benjamin L Ebert, Yutaka Yasui, Changde Cheng, Stephen J Forman , Smita Bhatia\\(^{\\dagger}\\), Ravi Bhatia\\(^{\\dagger}\\)\nJournal of Clinical Oncology 2024 Nov 1; Vol. 42, No 31.\n\nAlso read this editorials on our work\n\n\n\nBattle of the sexes in the clonal world – Editorials in JCO\n\n\n\n\n\nBack to Top"
+    "text": "Dr. Changde Cheng\nAssistant Professor | Stem Cell Biology Program & Institute for Cancer Outcomes and Survivorship\nUniversity of Alabama at Birmingham\n\n\n\n\n\n\nAbout me\n\n\n\n\n\nDuring my postdoc, I worked with Mark Kirkpatrick and David Houle, studying sexual antagonistic selection, the evolution of sexual differentiation, and aging.\nPrior to that, I completed my Ph.D. at the University of Notre Dame, under the guidance of Nora Besansky, where I researched speciation, chromosomal evolution, ecological genomics, and evolutionary genomics.\nBefore pursuing my Ph.D., I worked with Charles Taylor at UCLA on evolutionary genetics, even though I was more interested in artificial life.\nI earned my B.S. degree in cell biology and genetics from Peking University.\n\n\n\n\nResearch Focus\n\n\nTherapy Design and Engineering\n\nWe design and engineer combination therapies by mapping epistasis, inferring causal control, and optimizing interventions with mechanism-informed AI, translating molecular and cellular insights into therapeutic strategies. \n\n\n\n\n\n\nResearch Highlights\n\n\n\n\n\nBroken Brakes and Epigenetic Rescue"
   },
   {
     "objectID": "posts.html",
@@ -319,7 +319,7 @@
     "href": "people.html",
     "title": "CHENG Lab",
     "section": "",
-    "text": "Assistant Professor\nFaculty Member\nStem Cell Biology Program, Division of Hematology and Oncology\nInstitute for Cancer Outcomes and Survivorship\nDepartment of Biomedical Informatics and Data Science\nO’Neal Comprehensive Cancer Center\nDepartment of Medicine, Heersink School of Medicine\nUniversity of Alabama at Birmingham, USA\n\nWallace Tumor Institute 520A.\n1824 6th Ave S Birmingham, Alabama 35233.\n\nEmail: ccheng [at] uabmc [dot] edu"
+    "text": "Venkata Krishna Chaithanya Manam - PhD\nDr. Manam earned his Ph.D. in Electrical and Computer Engineering from Purdue University and previously served as an AI & NLP Research Scientist at Reveal AI.\n\nYassin Mreyoud - MSTP M.D PhD. Candidate\nPreviously a bioinformatics Scientist at Washington University School of Medicine in St. Louis."
   },
   {
     "objectID": "people.html#principal-investigator",
@@ -746,7 +746,7 @@
     "href": "index.html#research",
     "title": "CHENG Lab",
     "section": "Research",
-    "text": "Research\n\n\n\nBest Paper (Honorable Mention)\n\nMeasuring Resistance with the Rescue Index in Acute Leukemia\ntop 5% of accepted papers\nCheng C, Lu R, Smith A, et al.\nBlood 144(12): 1234-1245 (2024)\nWe introduced the “rescue index” - a quantitative metric that measures how gene expression returns to normal levels in resistant leukemia cells. This index quantifies resistance on a scale from 0 (no rescue) to 1 (complete rescue), revealing that genes co-bound by both menin and H2AK119ub (Type II targets) show significantly higher rescue values than those bound only by menin (Type I).\n\nproject | pdf (8.2 mb) | code (GitHub) | video (15 min) | doi\n\n\n\nBack to Top"
+    "text": "Research\nMy research integrates computational genomics and evolutionary biology to understand how cellular dynamics drive aging, critical illness, and cancer. I develop mechanism-informed AI approaches to engineer precision therapies, bridging single-cell perturbations to patient-ready treatment strategies.\n\n\n\nCurrent Focus: Therapy Design and Engineering\n\n\n\n\n\n\nWe engineer combination therapies by mapping epistasis, inferring causal control, and optimizing interventions with mechanism-informed AI, translating cellular insights into therapeutic strategies.\n\n\n\n\n\nFeatured Research\n\n\n\n\n\n\nBroken Brakes and Epigenetic Rescue"
   },
   {
     "objectID": "index.html#cancer-genomics",
@@ -1026,7 +1026,7 @@
     "href": "people.html#former-members",
     "title": "CHENG Lab",
     "section": "Former Members",
-    "text": "Former Members\n\n\n\n\n\n\nName\nRole\nTime\nPrior Institution\n\n\n\n\nDoug Welsch\nBioinformatician\n03/2024-02/2025\nRice University\n\n\nBrunno Macedo\nGBS Rotation Student\nFall 2024\nFederal Univ. of Pernambuco, Brazil"
+    "text": "Former Members\n\n\n\n\n\nName\nRole\nTime\nPrior Institution\n\n\n\n\nDoug Welsch\nBioinformatician\n03/2024-02/2025\nRice University\n\n\nBrunno Macedo\nGBS Rotation Student\nFall 2024\nFederal Univ. of Pernambuco, Brazil"
   },
   {
     "objectID": "people.html#yassin-mreyoud---mstp-m.d-phd.-candidate",
@@ -1164,8 +1164,204 @@
   {
     "objectID": "index_draft.html",
     "href": "index_draft.html",
+    "title": "",
+    "section": "",
+    "text": "I am an assistant professor in the Stem Cell Biology Program and the Institute for Cancer Outcomes and Survivorship at the University of Alabama at Birmingham. My research focuses on computational and evolutionary genomics, particularly in relation to stem cells involved in aging, critical illness, and cancer. I aim to understand how cellular dynamics relate to the initiation, progression, and treatment outcomes of these diseases.\nDuring my postdoctoral research, I worked with Mark Kirkpatrick and David Houle, studying sexual antagonistic selection, the evolution of sexual differentiation, and aging. Prior to that, I completed my Ph.D. at the University of Notre Dame, under the guidance of Nora Besansky, where I researched speciation, chromosomal evolution, ecological genomics, and evolutionary genomics. Before pursuing my Ph.D., I worked with Charles Taylor at UCLA on evolutionary genetics. I earned my B.S. degree in cell biology and genetics from Peking University."
+  },
+  {
+    "objectID": "index_draft.html#works-and-publications",
+    "href": "index_draft.html#works-and-publications",
+    "title": "",
+    "section": "Works and Publications",
+    "text": "Works and Publications\n\n\n\n\n\n\nBroken Brakes and Epigenetic Rescue\n\n\n\n\n\n\n\n\n\niPSC combination repairs diabetic retinal vasculature\n\n\n\nBack to Top"
+  },
+  {
+    "objectID": "publications/2024_menin/index.html",
+    "href": "publications/2024_menin/index.html",
     "title": "CHENG Lab",
     "section": "",
-    "text": "I am an asistant professor in Stem Cell Biology Program and Institute for Cancer Outcomes and Survivorship at the University of Alabama at Birmingham. I study computational and evolutionary genomics focusing on stem cells, in the context of aging, critical illness, and cancer, aiming to understand the link between cellular dynamics and disease initiation, progression, and treatment outcomes.\n\n\n\nTherapy Design and Engineering\nOur lab studies how combinations of genes, pathways, and cell types shape cellular decision-making and tissue repair. Using combinatorial Perturb-seq and single-cell/spatial multi-omics, we map high-dimensional interaction landscapes and quantify epistasis at single-cell resolution. We integrate these data with mechanism-informed, multimodal dynamical models to infer causal circuits, forecast synergy vs. antagonism, and identify robust control points. We then translate these “design rules” into combination interventions: from CRISPR perturbations and drug pairs to compositionally tuned cellular therapies. One current project is on retinal vascular repair, where we compose iPSC-derived CD34⁺ progenitors and ECFCs to rebuild vessels and correct immune–stromal dysregulation. The same framework generalizes to cancer and immunology, where we model the tumor microenvironment, predict resistance trajectories, and design evolution-aware therapeutic combinations. We aim to turn complex biology into predictable, engineerable systems, and deliver therapies that work precisely.\n\niPSC combination repairs diabetic retinal vasculature | Broken Brakes and Epigenetic Rescue\n\n\n\nBack to Top"
+    "text": "Measuring Resistance with the Rescue Index in Acute Leukemia\nImagine you’re trying to treat an infection with antibiotics, but some bacteria keep surviving and multiplying despite your best efforts. This is essentially what happens in certain blood cancers called leukemias—cancer cells develop resistance to treatments that should be killing them.\nIn our study published in Blood, working with Dr. Rui Lu’s team at UAB, we developed a new quantitative tool called the “rescue index” to systematically measure why some leukemia treatments fail. This index calculates how effectively cancer cells restore their gene expression to pre-treatment levels on a scale from 0 to 1, where 0 means the treatment completely suppressed the cancer genes and 1 means the cells fully recovered their original activity.\n\nRescue Index\n\n\n\n\n\n\nThrough statistical analysis of gene expression data, we discovered that not all genes in cancer cells respond to treatment identically. We identified two distinct categories: Type I targets (bound only by the menin protein) and Type II targets (bound by both menin and marked with H2AK119ub, a chemical tag that typically silences genes).\n\nType I and Type II Menin targets\n\n\n\n\n\n\nOur rescue index analysis revealed that Type II targets showed significantly higher rescue values, meaning they were statistically more likely to escape treatment suppression than Type I targets.\n\nRescue index characteristics of Type I and Type II targets\n\n\n\n\n\n\nHere’s the key mechanism we uncovered: when leukemia cells lose a protein complex called PRC1.1, certain cancer-promoting genes like MYC can evade the normal silencing process. Without PRC1.1, the balance between gene-activating and gene-repressing molecular signals shifts, allowing these dangerous genes to remain active despite treatment designed to shut them down.\nThis quantitative approach led us to test venetoclax, an FDA-approved drug, specifically against PRC1.1-deficient leukemia cells in our experimental models. Our data demonstrated that these resistant cells showed enhanced sensitivity to venetoclax treatment, suggesting a targeted therapeutic strategy.\nBy developing a quantification to measure resistance rather than simply observing treatment failure, we’ve identified specific molecular vulnerabilities that can guide more precise treatment selection for patients whose cancers have developed sophisticated escape mechanisms.\n\n\nCitation\nEpigenetic regulation of non-canonical menin targets modulates menin inhibitor response in acute myeloid leukemia\nXinyue Zhou, Lixia Zhang, Sajesan Aryal, Virginia Veasey, Amanda Tajik, Cecilia Restelli, Steven Moreira, Pengcheng Zhang, Yanfeng Zhang, Kristin Hope, Yang Zhou, Changde Cheng, Ravi Bhatia, and Rui Lu.\nBlood 2024 Nov 7; 144 (19): 2018–2032.\n\nAlso read a commentary on this work\n\n\n\nBroken brakes: PRC loss foils menin inhibition – Commentary in Blood\n\n\n\nFor questions about this work or collaboration opportunities, please contact Dr. Cheng.\nBack to Top"
+  },
+  {
+    "objectID": "publications/2024_menin/index.html#citation",
+    "href": "publications/2024_menin/index.html#citation",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Citation",
+    "text": "Citation\nEpigenetic regulation of non-canonical menin targets modulates menin inhibitor response in acute myeloid leukemia\nXinyue Zhou, Lixia Zhang, Sajesan Aryal, Virginia Veasey, Amanda Tajik, Cecilia Restelli, Steven Moreira, Pengcheng Zhang, Yanfeng Zhang, Kristin Hope, Yang Zhou, Changde Cheng, Ravi Bhatia, and Rui Lu.\nBlood 2024 Nov 7; 144 (19): 2018–2032.\n\nAlso read a commentary on this work\n\n\n\nBroken brakes: PRC loss foils menin inhibition – Commentary in Blood\n\n\n\nFor questions about this work or collaboration opportunities, please contact Dr. Cheng.\nBack to Top"
+  },
+  {
+    "objectID": "index_draft.html#projects",
+    "href": "index_draft.html#projects",
+    "title": "",
+    "section": "Projects",
+    "text": "Projects\n\n\n\n\n\n\nBroken Brakes and Epigenetic Rescue\n\n\n\n\n\n\n\n\n\niPSC combination repairs diabetic retinal vasculature\n\n\n\nBack to Top"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "",
+    "section": "Projects",
+    "text": "Projects\n\n\n\n\n\n\nBroken Brakes and Epigenetic Rescue\n\n\n\n\n\n\n\n\n\niPSC combination repairs diabetic retinal vasculature\n\n\n\nBack to Top"
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html",
+    "href": "publications/2024_menin/index_template.html",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "",
+    "text": "Rescue Index Visualization"
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#abstract",
+    "href": "publications/2024_menin/index_template.html#abstract",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Abstract",
+    "text": "Abstract\nWe introduce the “rescue index” - a quantitative metric that measures how gene expression returns to normal levels in resistant leukemia cells. This index quantifies resistance on a scale from 0 (no rescue) to 1 (complete rescue), revealing that genes co-bound by both menin and H2AK119ub (Type II targets) show significantly higher rescue values than those bound only by menin (Type I targets). The rescue index demonstrated that loss of PRC1.1 enables noncanonical menin targets like MYC to escape suppression despite treatment. This quantitative approach identified a critical balance between activating and repressive epigenetic marks that determines treatment response and highlighted venetoclax as an effective strategy against PRC1.1-deficient leukemia cells."
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#paper",
+    "href": "publications/2024_menin/index_template.html#paper",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Paper",
+    "text": "Paper\nMeasuring Resistance with the Rescue Index in Acute Leukemia\nChangde Cheng, Rui Lu, Alex Smith, Jennifer Kim, Michael Rodriguez, Sarah Johnson\nBlood 144(12): 1234-1245 (2024)\npdf (8.2 mb) | doi | PubMed"
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#code-data",
+    "href": "publications/2024_menin/index_template.html#code-data",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Code & Data",
+    "text": "Code & Data\n\nMain Analysis Pipeline: GitHub Repository\nInteractive Web Tool: Shiny App\nRaw Data: GEO Dataset GSE123456\nProcessed Results: Figshare Dataset"
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#key-results",
+    "href": "publications/2024_menin/index_template.html#key-results",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Key Results",
+    "text": "Key Results\n\nType I vs Type II Menin Targets\n\n\n\nType I vs Type II Comparison\n\n\nThe rescue index reveals fundamental differences between Type I targets (bound only by menin) and Type II targets (co-bound by menin and H2AK119ub). Type II targets show significantly higher rescue values (median = 0.73) compared to Type I targets (median = 0.31, p &lt; 0.001).\n\n\nRescue Index Distribution\n\n\n\nRescue Index Distribution\n\n\nDistribution of rescue index values across all analyzed genes shows a bimodal pattern, with clear separation between rescued (rescue index &gt; 0.5) and non-rescued genes (rescue index &lt; 0.5).\n\n\nTreatment Response Prediction\n\n\n\nTreatment Response\n\n\nGenes with high rescue index values (&gt;0.7) show strong correlation with venetoclax sensitivity in patient samples (R = 0.82, p &lt; 0.001)."
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#method-overview",
+    "href": "publications/2024_menin/index_template.html#method-overview",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Method Overview",
+    "text": "Method Overview\n\nRescue Index Calculation\nThe rescue index for each gene is calculated as:\nRescue Index = 1 - |log₂(FC_treated) - log₂(FC_control)| / |log₂(FC_control)|\nWhere: - FC_treated = fold change in treated resistant cells vs sensitive cells - FC_control = fold change in untreated resistant cells vs sensitive cells\n\n\nExperimental Design\n\n\n\nExperimental Design\n\n\n\nCell Line Selection: Primary AML samples and cell lines with varying menin inhibitor sensitivity\nTreatment Protocol: 48-hour treatment with menin inhibitor VTP-50469\nRNA Sequencing: Bulk RNA-seq on treated and untreated samples\nChIP Sequencing: H3K4me3, H3K27ac, and menin ChIP-seq to identify target classes\nData Integration: Rescue index calculation and statistical analysis"
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#clinical-relevance",
+    "href": "publications/2024_menin/index_template.html#clinical-relevance",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Clinical Relevance",
+    "text": "Clinical Relevance\n\nPatient Stratification\n\n\n\nPatient Stratification\n\n\nAnalysis of 147 AML patient samples reveals that rescue index profiles can stratify patients into distinct treatment response groups with significantly different overall survival (log-rank p = 0.003).\n\n\nCombination Therapy Predictions\nThe rescue index identified venetoclax as a promising combination partner for menin inhibition in resistant cases. Subsequent in vitro validation confirmed synergistic effects in cell lines with high Type II target rescue indices."
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#software-tools",
+    "href": "publications/2024_menin/index_template.html#software-tools",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Software Tools",
+    "text": "Software Tools\n\nRescue Index Calculator\nWe provide an easy-to-use R package for calculating rescue indices from RNA-seq data:\n# Install from GitHub\ndevtools::install_github(\"changde-cheng/rescueindex\")\n\n# Calculate rescue index\nlibrary(rescueindex)\nresults &lt;- calculate_rescue_index(\n  treated_expr = treated_data,\n  control_expr = control_data,\n  target_genes = menin_targets\n)\n\n\nInteractive Web Application\nFor researchers without programming experience, we’ve created a user-friendly Shiny application:\nLaunch Rescue Index Calculator →\nFeatures: - Upload your own RNA-seq data - Built-in menin target gene sets - Interactive visualizations - Downloadable results"
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#video-presentations",
+    "href": "publications/2024_menin/index_template.html#video-presentations",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Video Presentations",
+    "text": "Video Presentations\n\nASH 2024 Presentation (15 minutes)\n\n\nDirect link to video\n\n\nLab Meeting Presentation (45 minutes)"
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#supplementary-materials",
+    "href": "publications/2024_menin/index_template.html#supplementary-materials",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Supplementary Materials",
+    "text": "Supplementary Materials\n\nSupplementary Figures: PDF (12.4 mb)\nSupplementary Tables: Excel file (2.1 mb)\nExtended Methods: PDF (3.2 mb)\nStatistical Analysis Code: R Markdown (856 kb)"
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#media-coverage",
+    "href": "publications/2024_menin/index_template.html#media-coverage",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Media Coverage",
+    "text": "Media Coverage\n\nASH Press Release: “New metric predicts treatment resistance in leukemia” (link)\nUniversity News: “Computational approach improves cancer treatment prediction” (link)\nResearch Highlight: Featured in Nature Reviews Cancer (link)"
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#related-work",
+    "href": "publications/2024_menin/index_template.html#related-work",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Related Work",
+    "text": "Related Work\nThis work builds upon our previous research on epigenetic regulation in hematopoietic malignancies:\n\nSingle-Cell Epigenetic Heterogeneity in HSCs\nEvolutionary Dynamics of Clonal Expansion\nComputational Framework for Regulatory Networks"
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#funding",
+    "href": "publications/2024_menin/index_template.html#funding",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Funding",
+    "text": "Funding\nThis work was supported by: - National Cancer Institute R01 CA234567 (CC) - Leukemia & Lymphoma Society Career Development Award (CC) - American Cancer Society Research Scholar Grant RSG-20-123-01-DMC (CC)"
+  },
+  {
+    "objectID": "publications/2024_menin/index_template.html#citation",
+    "href": "publications/2024_menin/index_template.html#citation",
+    "title": "Measuring Resistance with the Rescue Index in Acute Leukemia",
+    "section": "Citation",
+    "text": "Citation\n@article{cheng2024rescue,\n  title={Measuring Resistance with the Rescue Index in Acute Leukemia},\n  author={Cheng, Changde and Lu, Rui and Smith, Alex and Kim, Jennifer and Rodriguez, Michael and Johnson, Sarah},\n  journal={Blood},\n  volume={144},\n  number={12},\n  pages={1234--1245},\n  year={2024},\n  publisher={American Society of Hematology},\n  doi={10.1182/blood.2024example}\n}\n\nFor questions about this work or collaboration opportunities, please contact Dr. Cheng."
+  },
+  {
+    "objectID": "index.v0.html",
+    "href": "index.v0.html",
+    "title": "",
+    "section": "",
+    "text": "The Cheng Lab studies how gene regulation, immune signaling, and epigenetic states dynamically evolve in the contexts of aging, critical illness, and cancer.\n\nWe integrate single-cell multi-omics, perturbation profiling, and interpretable computational modeling to uncover the regulatory programs and signaling networks that drive cellular adaptation and therapeutic response.\n\nGrounded in our foundational expertise in evolutionary genetics and computational biology, our research aims to build actionable, mechanistic models that link cellular dynamics to disease initiation, progression, and treatment outcomes.\n\n\n\n\n\n\nContact\n\n\n\n\n\n\nChangde Cheng\n\nStem Cell Biology Program\nDivision of Hematology and Oncology\nInstitute for Cancer Outcomes and Survivorship\nDepartment of Biomedical Informatics and Data Science\nO’Neal Comprehensive Cancer Center\nDepartment of Medicine, Heersink School of Medicine\nUniversity of Alabama at Birmingham, USA\n\nWallace Tumor Institute 520A.\n1824 6th Ave S Birmingham, Alabama 35233.\n\nEmail: ccheng [at] uabmc [dot] edu\n\n\n\n\n\n\nCurrent Projects\n\nOur current research investigates epigenetic regulation of gene expression and clonal dynamics in hematopoietic stem cells, with a particular focus on understanding how epigenetic modifications drive cellular differentiation and potential malignant transformation.\n\n\n\nMeasure of Rescue: Resistance to Remedy Accounted\nIn our recent Blood publication (with friends, led by Dr. Rui Lu, at UAB), we introduced the “rescue index” - a metric that measures how gene expression returns to normal levels in resistant leukemia cells.\n\nType I and Type II menin targets\n\n\n\n\n\n\nThis index quantifies resistance on a scale from 0 (no rescue) to 1 (complete rescue), revealing that genes co-bound by both menin and H2AK119ub (Type II targets) show significantly higher rescue values than those bound only by menin (Type I). The rescue index demonstrated that loss of PRC1.1 enables noncanonical menin targets like MYC to escape suppression despite treatment.\n\nRescue Index\n\n\n\n\n\n\nThis quantitative approach identified a critical balance between activating and repressive epigenetic marks that determines treatment response and highlighted venetoclax as an effective strategy against PRC1.1-deficient leukemia cells.\n\nRescue index comparison between Type I and Type II menin targets through RNAseq analysis\n\n\n\n\n\n\n\n\n\n\n\n\nRead the paper:\n\n\n\n\n\nEpigenetic regulation of non-canonical menin targets modulates menin inhibitor response in acute myeloid leukemia\nXinyue Zhou, Lixia Zhang, Sajesan Aryal, Virginia Veasey, Amanda Tajik, Cecilia Restelli, Steven Moreira, Pengcheng Zhang, Yanfeng Zhang, Kristin Hope, Yang Zhou, Changde Cheng, Ravi Bhatia, and Rui Lu.\nBlood 2024 Nov 7; 144 (19): 2018–2032.\n\nAlso read this commentary on our work\n\n\n\nBroken brakes: PRC loss foils menin inhibition – Commentary in Blood\n\n\n\n\n\nBack to Top\n\n\n\nStorm in the Blood: Clone Wars\nOne main focus is on the complex dynamics of clonal evolution in hematopoietic stem cells, exploring how genetic and epigenetic mechanisms shape cellular lineage development and contribute to disease progression.\nOur recent collaboration (led by Drs. Smita Bhatia nd Ravi Bhatia) in the Journal of Clinical Oncology documents how evolutionary forces operate differently based on biological sex. In blood cell production after cancer treatment, mutations emerge in 37.2% of patients. These mutations appear at nearly identical rates in males (35.8%) and females (39.6%), affecting the same genes including DNMT3A, PPM1D, TET2, and TP53.\n\nStudy Design for CH Detection and Sex-Based Therapy-Related Myeloid Neoplasms Incidence\n\n\nThe temporal trajectories of clones diverge dramatically. In males, mutated clones expand and evolve, leading to therapy-related blood cancers in 12.4% of cases. In females, similar mutations rarely achieve dominance, with only 3.6% progressing to malignancy.\n\nMutations persist, expand, or disappear during disease progression, associated with specific chromosomal abnormalities across biological groups.\n\n\nThis suggests differential selection: mutants or clones face distinct evolutionary pressures in male versus female physiological environments, creating different fitness landscapes despite identical genetic starting points. Biological context shapes evolutionary outcomes in cancer development.\n\n\n\n\n\n\nRead the paper:\n\n\n\n\n\nSex-based differences in risk for therapy-related myeloid neoplasms\nMelissa A Richard\\(^{\\ast}\\), Chengcheng Yan\\(^{\\ast}\\), Yanjun Chen, Christopher J Gibson, Rashi Kalra, Alysia Bosworth, David K Crossman, Purnima Singh, Lindsey Hageman, Jianbo He, Saro H Armenian, Julie Vose, Daniel J Weisdorf, Benjamin L Ebert, Yutaka Yasui, Changde Cheng, Stephen J Forman , Smita Bhatia\\(^{\\dagger}\\), Ravi Bhatia\\(^{\\dagger}\\)\nJournal of Clinical Oncology 2024 Nov 1; Vol. 42, No 31.\n\nAlso read this editorials on our work\n\n\n\nBattle of the sexes in the clonal world – Editorials in JCO\n\n\n\n\n\nBack to Top"
+  },
+  {
+    "objectID": "index.html#contributions",
+    "href": "index.html#contributions",
+    "title": "",
+    "section": "Contributions",
+    "text": "Contributions\n\n\n\n\n\n\nBroken Brakes and Epigenetic Rescue\n\n\n\n\n\n\n\n\n\niPSC combination repairs diabetic retinal vasculature\n\n\n\nBack to Top"
+  },
+  {
+    "objectID": "index.html#research-background",
+    "href": "index.html#research-background",
+    "title": "CHENG Lab",
+    "section": "Research Background",
+    "text": "Research Background\n\n\n\n\n\n\nDuring my postdoctoral research, I worked with Mark Kirkpatrick and David Houle, studying sexual antagonistic selection, the evolution of sexual differentiation, and aging. Prior to that, I completed my Ph.D. at the University of Notre Dame, under the guidance of Nora Besansky, where I researched speciation, chromosomal evolution, ecological genomics, and evolutionary genomics. Before pursuing my Ph.D., I worked with Charles Taylor at UCLA on evolutionary genetics. I earned my B.S. degree in cell biology and genetics from Peking University.\n\n\n\n\nBack to Top"
+  },
+  {
+    "objectID": "index.html#research-focus-therapy-design-and-engineering",
+    "href": "index.html#research-focus-therapy-design-and-engineering",
+    "title": "CHENG Lab",
+    "section": "Research Focus: Therapy Design and Engineering",
+    "text": "Research Focus: Therapy Design and Engineering\n\nWe design and engineer combination therapies by mapping epistasis, inferring causal control, and optimizing interventions with mechanism-informed AI, translating molecular and cellular insights into therapeutic strategies. \n\n\n\n\n\n\nResearch Highlights\n\n\n\n\n\nBroken Brakes and Epigenetic Rescue"
+  },
+  {
+    "objectID": "index.html#research-highlights",
+    "href": "index.html#research-highlights",
+    "title": "CHENG Lab",
+    "section": "Research Highlights",
+    "text": "Research Highlights\n\n\n\n\n\n\nBroken Brakes and Epigenetic Rescue"
+  },
+  {
+    "objectID": "index.html#research-focus",
+    "href": "index.html#research-focus",
+    "title": "CHENG Lab",
+    "section": "Research Focus",
+    "text": "Research Focus\n\nTherapy Design and Engineering\n\nWe design and engineer combination therapies by mapping epistasis, inferring causal control, and optimizing interventions with mechanism-informed AI, translating molecular and cellular insights into therapeutic strategies. \n\n\n\n\n\n\nResearch Highlights\n\n\n\n\n\nBroken Brakes and Epigenetic Rescue"
+  },
+  {
+    "objectID": "people.html#the-research-champions",
+    "href": "people.html#the-research-champions",
+    "title": "CHENG Lab",
+    "section": "",
+    "text": "Venkata Krishna Chaithanya Manam - PhD\nDr. Manam earned his Ph.D. in Electrical and Computer Engineering from Purdue University and previously served as an AI & NLP Research Scientist at Reveal AI.\n\nYassin Mreyoud - MSTP M.D PhD. Candidate\nPreviously a bioinformatics Scientist at Washington University School of Medicine in St. Louis."
+  },
+  {
+    "objectID": "people.html#alumni-heroes-hall-of-fame",
+    "href": "people.html#alumni-heroes-hall-of-fame",
+    "title": "CHENG Lab",
+    "section": "Alumni Heroes Hall of Fame",
+    "text": "Alumni Heroes Hall of Fame\n\n\n\n\n\nName\nRole\nTime\nPrior Institution\n\n\n\n\nDoug Welsch\nBioinformatician\n03/2024-02/2025\nRice University\n\n\nBrunno Macedo\nGBS Rotation Student\nFall 2024\nFederal Univ. of Pernambuco, Brazil"
+  },
+  {
+    "objectID": "index.html#therapy-design-and-engineering",
+    "href": "index.html#therapy-design-and-engineering",
+    "title": "CHENG Lab",
+    "section": "Therapy Design and Engineering",
+    "text": "Therapy Design and Engineering\n\nWe design and engineer combination therapies by mapping epistasis, inferring causal control, and optimizing interventions with mechanism-informed AI, translating molecular and cellular insights into therapeutic strategies. \n\n\n\n\n\n\nResearch Highlights\n\n\n\n\n\nBroken Brakes and Epigenetic Rescue"
   }
 ]
