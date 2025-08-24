@@ -56,8 +56,8 @@ format:
       #- cerulean
       # - zephyr # good, it is blue, though
       # - minty # too weak
-      - custom.scss
-      #- custom.scss.bk.scss
+      #- custom.scss
+      - custom.scss.bk.scss
     # theme: cosmo #litera
     # css: styles.css
 

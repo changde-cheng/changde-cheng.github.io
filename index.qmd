@@ -25,9 +25,13 @@ University of Alabama at Birmingham
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray; color: seagreen;"}
 # Research Profile
+
 Before joining UAB, I developed methods for single-cell genomics in cancer research at the Computational Biology Department at St. Jude Children's Research Hospital.\
+
 During my postdoc, I worked with Mark Kirkpatrick and David Houle, studying sexual antagonistic selection, the evolution of sexual differentiation, and aging. \
+
 Prior to that, I completed my Ph.D. at the University of Notre Dame, under the guidance of Nora Besansky, where I researched speciation, chromosomal evolution, ecological genomics, and evolutionary genomics. \
+
 Before pursuing my Ph.D., I worked with Charles Taylor at UCLA on evolutionary genetics, though my interests were drawn toward artificial life research. \
 <!-- I earned my B.S. degree in cell biology and genetics from Peking University. -->
 :::
