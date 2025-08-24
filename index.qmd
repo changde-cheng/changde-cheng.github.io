@@ -46,7 +46,7 @@ We design and engineer combination therapies by mapping epistasis, inferring cau
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
 # Research Highlights
-[Broken Brakes and Epigenetic Rescue](publications/2024_menin/index.qmd)
+[ \[Broken Brakes and Epigenetic Rescue\] ](publications/2024_menin/index.qmd)
 :::
 
 ---
@@ -94,8 +94,8 @@ These ideas motivate my current analyses of clonal evolution in hematopoietic st
 These patterns suggest that selection on clones is sex-conditioned. Comparable genetic starting points can yield different outcomes because the surrounding biology—hormonal milieu, immune surveillance, stromal niches, and epigenetic states—reshapes fitness landscapes in sex-specific ways. My model aims to identify which components shift a clone from benign passenger to malignant driver, and how those components change with age.
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-# Reference
-[Sex differences in risk for therapy-related myeloid neoplasms](https://doi.org/10.1200/JCO-24-01487)
+# References
+[ \[Sex differences in risk for therapy-related myeloid neoplasms\] ](https://doi.org/10.1200/JCO-24-01487)
 <!-- (publications/2024_sextmn/index.qmd) -->
 :::
 
