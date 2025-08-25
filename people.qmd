@@ -47,7 +47,7 @@ toc-depth: 4
 
 ---
 
-## Alumni Heroes Hall of Fame
+## Alumni 
 
 ```{r}
 #| echo: false
@@ -56,14 +56,14 @@ library(knitr)
 
 df <- data.frame(
   Name = c("Doug Welsch", "Brunno Macedo"),
-  Role = c("Bioinformatician", "GBS Rotation Student"),
+  Role = c("Bioinformatician", "Rotation Student"),
   Time = c("03/2024-02/2025", "Fall 2024"),
   School = c("Rice University", "Federal Univ. of Pernambuco, Brazil"),
   Lastknown = c("","Matlawska Lab at UAB")
 )
 
 kable(df, format = "html",
-      col.names = c("Name", "Role", "Time", "Prior Institution", "Next Stop"),
+      col.names = c("Name", "Role", "Time", "Prior Institution", "Moving Forward"),
       table.attr = "class='table table-striped'")
 ```
 

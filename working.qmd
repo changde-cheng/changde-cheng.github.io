@@ -111,7 +111,7 @@ Submitted.
 
 ---
 
-### 2025 (-9)
+### 2025 (-10)
 
 ---
 
@@ -261,7 +261,7 @@ Submitted.
 
 ::::
 
-#### 2025-07-12 {#sec-w14}
+#### 2025-07-11 {#sec-w14}
 
 
 :::: {.columns}
@@ -274,14 +274,34 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-[№ 14.]{style="font-size: 100%; font-weight:500; color:black;"} **A Perturb-seq Map of a Differentiation Hub Reveals Synergistic Vulnerabilities in KMT2A-rearranged AML**. \
+[№ 14.]{style="font-size: 100%; font-weight:500; color:black;"} **Validation of Adversity-Linked Genes in Pancreatic Neuroendocrine Tumors**. \
+[Mourad Bendjennat, Rachael Guenter, Brendon Herring, Elquis Castillo II, Stuart Phipps, Theo Hines, Doug Welsch, [Changde Cheng$^{\dagger}$]{style="color:black;"}, Dai Chen, Isra Elhussin, Upender Manne, Herbert Chen, Clayton Yates, Smita Bhatia, J Bart Rose, Andrea Gillis .]{style="font-weight: 300;color:gray;"}\
+Submitted.
+:::
+
+::::
+
+#### 2025-07-12 {#sec-w15}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 15.]{style="font-size: 100%; font-weight:500; color:black;"} **A Perturb-seq Map of a Differentiation Hub Reveals Synergistic Vulnerabilities in KMT2A-rearranged AML**. \
 [Sajesan Aryal, Brittany M. Curtiss, Xinyue Zhou, Rui Lu$^{\dagger}$, [Changde Cheng$^{\dagger}$]{style="color:black;"}.]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
 ::::
 
-#### 2025-07-19 {#sec-w15}
+#### 2025-07-19 {#sec-w16}
 
 
 :::: {.columns}
@@ -294,14 +314,14 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-[№ 15.]{style="font-size: 100%; font-weight:500; color:black;"} **Evolution of Clonal Hematopoiesis Following Autologous Transplantation for Lymphoma and Subsequent Therapy-related Myeloid Neoplasia**. \
+[№ 16.]{style="font-size: 100%; font-weight:500; color:black;"} **Evolution of Clonal Hematopoiesis Following Autologous Transplantation for Lymphoma and Subsequent Therapy-related Myeloid Neoplasia**. \
 [ [Changde Cheng$^{\ast}$]{style="color:black;"},Rashi Kalra$^{\ast}$, Yanjun Chen, Alysia Bosworth, Joshua Richman, Na Xie, Chengcheng Yan, Christopher J Gibson, David K Crossman, Lindsey Hageman, Purnima Singh, Melissa A Richards, Benjamin L Ebert, Saro H Armenian, Stephen J Forman, Smita Bhatia$^{\dagger}$, Ravi Bhatia$^{\dagger}$]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
 ::::
 
-#### 2025-07-22 {#sec-w16}
+#### 2025-07-22 {#sec-w17}
 
 
 :::: {.columns}
@@ -314,7 +334,7 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-[№ 16.]{style="font-size: 100%; font-weight:500; color:black;"} **Human Inducible Pluripotent Stem Cell-Derived Cell Combination Target Vascular Repair in a Murine Model of Diabetic Retinopathy**. \
+[№ 17.]{style="font-size: 100%; font-weight:500; color:black;"} **Human Inducible Pluripotent Stem Cell-Derived Cell Combination Target Vascular Repair in a Murine Model of Diabetic Retinopathy**. \
 [ Sergio Li Calzi, Dibyendu Chakraborty, Ping Hu, Ram Prasad, Yvonne Adu-Rutledge, Cristiano Vieira, Fadeela Sheini, Michael E. Boulton, Mervin C. Yoder, [Changde Cheng$^{\dagger}$]{style="color:black;"}, Maria B. Grant$^{\dagger}$]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
@@ -323,7 +343,7 @@ Submitted.
 
 
 
-#### 2025-08-04 {#sec-w17}
+#### 2025-08-04 {#sec-w18}
 
 
 :::: {.columns}
@@ -336,7 +356,7 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-[№ 17.]{style="font-size: 100%; font-weight:500; color:black;"} **Sepsis-like Phenotype In Out-of-hospital Cardiac Arrest Is Linked To CD14+ Monocyte Subtypes**. \
+[№ 18.]{style="font-size: 100%; font-weight:500; color:black;"} **Sepsis-like Phenotype In Out-of-hospital Cardiac Arrest Is Linked To CD14+ Monocyte Subtypes**. \
 [ Ana Villasenor-Altamirano, Jiani Chen, Hee Su Sohn, Kohei Yamada, Jai Menon, [Changde Cheng]{style="color:black;"},  Louis T. Merriam, Edy Y. Kim]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
@@ -345,7 +365,7 @@ Submitted.
 
 
 
-#### 2025-08-05 {#sec-w18}
+#### 2025-08-05 {#sec-w19}
 
 
 :::: {.columns}
@@ -358,7 +378,7 @@ Submitted.
 :::
 
 ::: {.column width="90%"}
-[№ 18.]{style="font-size: 100%; font-weight:500; color:black;"} **Multimodal Single Cell Analysis of Patient Bone Marrow Reveals Genetic Targets and Signaling Pathways Associated with Recurrent Chronic Myeloid Leukemia after Treatment Free Remission Attempt**. \
+[№ 19.]{style="font-size: 100%; font-weight:500; color:black;"} **Multimodal Single Cell Analysis of Patient Bone Marrow Reveals Genetic Targets and Signaling Pathways Associated with Recurrent Chronic Myeloid Leukemia after Treatment Free Remission Attempt**. \
 [ Tyler Freeland, Na Xie, Soo-Hyun Kim, [Changde Cheng]{style="color:black;"}, Dong-wook Kim, Ravi Bhatia]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
