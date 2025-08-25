@@ -1,10 +1,17 @@
 ---
 page-layout: article
 title-block-banner: false
+toc: true
+toc-title: "Manuscripts"  
+toc-depth: 4
 ---
 
 <!-- ## Working papers -->
+---
 
+### 2017 (-1)
+
+---
 
 #### 2017-01-25 {#sec-w1}
 
@@ -29,6 +36,11 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 
 ::::
 
+---
+
+### 2024 (-3)
+
+---
 
 #### 2024-11-07 {#sec-w3}
 
@@ -97,6 +109,11 @@ Submitted.
 
 ::::
 
+---
+
+### 2025 (-9)
+
+---
 
 <!-- #### 2025-01-15 {#sec-w8} -->
 

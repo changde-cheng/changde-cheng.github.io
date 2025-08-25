@@ -9,6 +9,9 @@
 #   filter-ui: false
 page-layout: article
 title-block-banner: false
+toc: true
+toc-title: "Heroes"  
+toc-depth: 4
 ---
 
 
@@ -20,15 +23,15 @@ title-block-banner: false
 
 ## The Research Champions
 
-### Dr. Venkata Krishna Chaithanya Manam
+### Dr.  Venkata Krishna Chaithanya Manam
 
-[Superpower]{style="font-weight: 500; color:seagreen;"}:  Bridging artificial intelligence and biological discovery through advanced NLP and machine learning architectures
+[Superpower]{style="font-weight: 500; color:seagreen;"}:  Bridging artificial intelligence and biological discovery through advanced NLP, LLMs, and machine learning architectures.
 
-[Origin Story]{style="font-weight: 500; color:seagreen;"}: Dr. Manam earned his Ph.D. in Electrical and Computer Engineering from Purdue University and previously served as an AI & NLP Research Scientist at Reveal AI.
+[Origin Story]{style="font-weight: 500; color:seagreen;"}: Dr. Manam earned his Ph.D. in Electrical and Computer Engineering from Purdue University, where his research focused on developing NLP methods to detect and resolve ambiguities in crowdsourcing tasks, thereby improving clarity and the quality of results with minimal effort from requesters. He previously served as an AI & NLP Research Scientist at Reveal AI, where he built systems that transformed unstructured data into actionable insights using LLMs and advanced AI techniques.
 
 [Current Quest]{style="font-weight: 500; color:seagreen;"}: Engineering sophisticated data integration strategies that combine multi-modal biological datasets with AI-driven insights. Working to unlock hidden patterns in genomic data that traditional methods miss.
 
-[Hero Tools]{style="font-weight: 500; color:seagreen;"}: Python/R ecosystems, natural language processing pipelines.
+[Hero Tools]{style="font-weight: 500; color:seagreen;"}: Python/R ecosystems, LLMs, and natural language processing pipelines, and advanced AI frameworks.
 
 ---
 
