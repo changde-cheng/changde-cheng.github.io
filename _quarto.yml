@@ -28,7 +28,7 @@ website:
     left:
       # - text: "About"
       #   file: about.qmd
-      - text: "CHENG Lab"
+      - text: "[ Research ]"
         file: index.qmd
       #- text: "[ Research ]"
       #  href: research.qmd

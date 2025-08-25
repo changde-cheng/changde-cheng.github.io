@@ -21,7 +21,8 @@ title-block-banner: false
 
 ::: {.column width="90%"}
 [№ 1.]{style="font-size: 100%; font-weight:500; color:black;"} **Sexually antagonistic selection and sex chromosome evolution in Stickleback**. \
-I developed and implemented the ABC computational framework with custom C++ optimization for parameter estimation and model selection, [before I discovered how deeply I had been misled by my colleagues in the lab, and how much they wanted to see me be removed.]{style="font-weight: 200; color:white;"} \
+I developed and implemented the ABC computational framework with custom C++ optimization for parameter estimation and model selection, \
+<!-- [before I discovered how deeply I had been misled by my colleagues in the lab, and how much they wanted to see me be removed.]{style="font-weight: 200; color:white;"} \ -->
 [Changde Cheng]{style="font-weight: 300; color:black;"}[,  Andrius J. Dagilis, Jason M. Sardell, Asano Ishikawa, Jun Kitano,  Matthew P. Josephson, Catherine L. Peichel, Mark Kirkpatrick.]{style="font-weight: 200; color:gray;"}\
 Submission to the 2017 Society for Molecular Biology & Evolution meeting at Austin, Texas, US. 
 :::
