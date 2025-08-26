@@ -7,7 +7,7 @@ toc-depth: 4
 ---
 
 
-#### 2025 🍄🍄🍄🍄🍄🍄🍄
+#### 2025 🍄🍄🍄🍄🍄🍄🍄🍄
 
 ---
 
@@ -23,7 +23,30 @@ toc-depth: 4
 :::
 
 ::: {.column width="90%"}
-##### [38°.]{style="font-size: 100%; font-weight:500; color:black;"}**Germline Pathogenic/ Likely Pathogenic Mutations and Subsequent Neoplasms among Childhood Cancer Survivors – A report from the Children’s Oncology Group ALTE03N1 Study**.
+##### [39°.]{style="font-size: 100%; font-weight:500; color:black;"}**Targeting diabetic retinopathy with human iPSC-derived vascular reparative cells in a type 2 diabetes model**.
+[Sergio Li Calzi, Dibyendu Chakraborty, Ping Hu, Ram Prasad, Yvonne
+Adu-Rutledge, Cristiano Vieira, Fadeela Sheini, Michael E. Boulton, Mervin C.
+Yoder,  [Changde Cheng$^{\ddagger}$]{style="color:black;"}, Maria B. Grant$^{\ddagger}$ ]{style="font-weight: 300;color:gray;"}\
+Cells
+, accepted.
+:::
+
+::::
+
+
+<!-- article -->
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+##### [38°.]{style="font-size: 100%; font-weight:500; color:black;"}**Germline pathogenic/ likely pathogenic mutations and subsequent neoplasms among childhood cancer survivors – a report from the Children’s Oncology Group ALTE03N1 study**.
 [Liting Zhou , Purnima Singh , David K. Crossman , Joshua Richman , Patrick J Trainor , [Changde Cheng]{style="color:black;"} , Xuexia Wang , Noha Sharafeldin , Lindsey Hageman , Maryam Sheikh , Melissa Richard , Danielle N. Friedman , Joseph Neglia , Zhaoming Wang , Melissa M Hudson , Saro H Armenian , Douglas Hawkins , Ravi Bhatia , Wendy Landier, Smita Bhatia]{style="font-weight: 300;color:gray;"}\
 JCO
 , accepted.
@@ -893,10 +916,13 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 ---
 
 ${\ast}$: 
-First author(s)
+First authors
 
 ${\dagger}$: 
 Corresponding author(s)
+
+${\ddagger}$: 
+Senior authors
 
 [Lab member]{style="color:darkgreen;"}
 <!-- Dark color: -->

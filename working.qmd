@@ -111,7 +111,7 @@ Submitted.
 
 ---
 
-### 2025 (-10)
+### 2025 (-9)
 
 ---
 
@@ -321,27 +321,6 @@ Submitted.
 
 ::::
 
-#### 2025-07-22 {#sec-w17}
-
-
-:::: {.columns}
-
-::: {.column width="8%"}
-
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-[№ 17.]{style="font-size: 100%; font-weight:500; color:black;"} **Human Inducible Pluripotent Stem Cell-Derived Cell Combination Target Vascular Repair in a Murine Model of Diabetic Retinopathy**. \
-[ Sergio Li Calzi, Dibyendu Chakraborty, Ping Hu, Ram Prasad, Yvonne Adu-Rutledge, Cristiano Vieira, Fadeela Sheini, Michael E. Boulton, Mervin C. Yoder, [Changde Cheng$^{\dagger}$]{style="color:black;"}, Maria B. Grant$^{\dagger}$]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
-
-::::
-
-
 
 #### 2025-08-04 {#sec-w18}
 
@@ -388,10 +367,13 @@ Submitted.
 ---
 
 ${\ast}$: 
-First author(s)
+First authors
 
 ${\dagger}$: 
 Corresponding author(s)
+
+${\ddagger}$: 
+Senior authors
 
 [Lab member]{style="color:darkgreen;"}
 
