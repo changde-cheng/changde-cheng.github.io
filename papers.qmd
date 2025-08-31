@@ -7,7 +7,7 @@ toc-depth: 4
 ---
 
 
-#### 2025 🍄🍄🍄🍄🍄🍄🍄🍄🍄
+#### 2025 (+1,+8)
 
 ---
 
@@ -203,7 +203,7 @@ The American Journal of Human Genetics
 
 ---
 
-#### 2024 🍄🍄🍄🍄
+#### 2024 (+1,+3)
 
 ---
 
@@ -303,7 +303,7 @@ The American Journal of Human Genetics
 
 ---
 
-#### 2023 🍄🍄🍄🍄
+#### 2023 (+4,)
 
 ---
 
@@ -390,7 +390,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2022 🍄
+#### 2022 (,+1)
 
 ---
 
@@ -416,7 +416,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2021 🍄🍄
+#### 2021 (+1,+1)
 
 ---
 
@@ -459,7 +459,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2020 🍄
+#### 2020 (+1,)
 
 ---
 
@@ -486,7 +486,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2019 🍄🍄🍄
+#### 2019 (+2,+1)
 
 ---
 
@@ -558,7 +558,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2018 🍄🍄🍄
+#### 2018 (+1,+2)
 
 ---
 
@@ -625,7 +625,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2017 🍄🍄
+#### 2017 (+1,+1)
 
 ---
 
@@ -672,7 +672,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2016 🍄🍄🍄
+#### 2016 (+2,+1)
 
 ---
 
@@ -738,7 +738,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2015 🍄
+#### 2015 (,+1)
 
 ---
 
@@ -764,7 +764,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2014 🍄🍄
+#### 2014 (,+2)
 
 ---
 
@@ -810,11 +810,11 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2013 🐸
+#### 2013 (🐸)
 
 ---
 
-#### 2012 🍄
+#### 2012 (+1,)
 
 ---
 
@@ -839,7 +839,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2011 🍄🍄
+#### 2011 (,+2)
 
 ---
 
@@ -884,7 +884,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2010 🍄
+#### 2010 (,+1)
 
 ---
 
@@ -910,7 +910,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-#### 2009 🍄
+#### 2009 (,+1)
 
 ---
 
