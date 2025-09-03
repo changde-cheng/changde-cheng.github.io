@@ -111,7 +111,7 @@ Submitted.
 
 ---
 
-### 2025 (-9)
+### 2025 (-8)
 
 ---
 
@@ -179,25 +179,25 @@ Submitted.
 <!-- :::: -->
 
 
-#### 2025-03-10 {#sec-w10}
+<!-- #### 2025-03-10 {#sec-w10} -->
 
 
-:::: {.columns}
+<!-- :::: {.columns} -->
 
-::: {.column width="8%"}
+<!-- ::: {.column width="8%"} -->
 
-:::
+<!-- ::: -->
 
-::: {.column width="2%"}
-:::
+<!-- ::: {.column width="2%"} -->
+<!-- ::: -->
 
-::: {.column width="90%"}
-[№ 10.]{style="font-size: 100%; font-weight:500; color:black;"} **Marrow Minded: Characterizing Differences between Calvarium and Femur Bone Marrow Microenvironment in Diabetes**. \
-[Ashley Rennhack, Micheli Sielski, Bright Asare-Bediako, , Emory Johnson, Fadeela Sheini, Sergio Li Calzi, [Changde Cheng]{style="color:black;"}, Maria B. Grant.]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
+<!-- ::: {.column width="90%"} -->
+<!-- [№ 10.]{style="font-size: 100%; font-weight:500; color:black;"} **Marrow Minded: Characterizing Differences between Calvarium and Femur Bone Marrow Microenvironment in Diabetes**. \ -->
+<!-- [Ashley Rennhack, Micheli Sielski, Bright Asare-Bediako, , Emory Johnson, Fadeela Sheini, Sergio Li Calzi, [Changde Cheng]{style="color:black;"}, Maria B. Grant.]{style="font-weight: 300;color:gray;"}\ -->
+<!-- Submitted. -->
+<!-- ::: -->
 
-::::
+<!-- :::: -->
 
 
 
