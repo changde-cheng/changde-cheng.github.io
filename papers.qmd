@@ -7,7 +7,7 @@ toc-depth: 4
 ---
 
 
-#### 2025 ( ,+8,+1)
+#### 2025 ( ,+8)
 
 ---
 
@@ -24,7 +24,7 @@ toc-depth: 4
 :::
 
 ::: {.column width="90%"}
-##### [40°.]{style="font-size: 100%; font-weight:500; color:black;"}**Randomized trial of activated vitamin D for acute kidney injury prevention in critically ill patients**.
+##### [39°.]{style="font-size: 100%; font-weight:500; color:black;"}**Randomized trial of activated vitamin D for acute kidney injury prevention in critically ill patients**.
 [David E. Leaf, Tushar Shenoy,  Kevin Zinchuk,  Shruti Gupta, Julie-Alexia Dias,  Daniel Sanchez-Almanzar,  [Changde Cheng]{style="color:black;"}, Tomoyoshi Tamura,  Edy Y. Kim, Sushrut S. Waikar ]{style="font-weight: 300;color:gray;"}\
 JCI Insight
 , accepted.
@@ -33,27 +33,27 @@ JCI Insight
 ::::
 
 
-<!-- article -->
+<!-- <!-- article --> -->
 
-:::: {.columns}
+<!-- :::: {.columns} -->
 
-::: {.column width="8%"}
+<!-- ::: {.column width="8%"} -->
 
-:::
+<!-- ::: -->
 
-::: {.column width="2%"}
-:::
+<!-- ::: {.column width="2%"} -->
+<!-- ::: -->
 
-::: {.column width="90%"}
-##### [39°.]{style="font-size: 100%; font-weight:500; color:black;"}**Targeting diabetic retinopathy with human iPSC-derived vascular reparative cells in a type 2 diabetes model**.
-[Sergio Li Calzi, Dibyendu Chakraborty, Ping Hu, Ram Prasad, Yvonne
-Adu-Rutledge, Cristiano Vieira, Fadeela Sheini, Michael E. Boulton, Mervin C.
-Yoder,  [Changde Cheng$^{\ddagger}$]{style="color:black;"}, Maria B. Grant$^{\ddagger}$ ]{style="font-weight: 300;color:gray;"}\
-Cells
-, accepted.
-:::
+<!-- ::: {.column width="90%"} -->
+<!-- ##### [39°.]{style="font-size: 100%; font-weight:500; color:black;"}**Targeting diabetic retinopathy with human iPSC-derived vascular reparative cells in a type 2 diabetes model**. -->
+<!-- [Sergio Li Calzi, Dibyendu Chakraborty, Ping Hu, Ram Prasad, Yvonne -->
+<!-- Adu-Rutledge, Cristiano Vieira, Fadeela Sheini, Michael E. Boulton, Mervin C. -->
+<!-- Yoder,  [Changde Cheng$^{\ddagger}$]{style="color:black;"}, Maria B. Grant$^{\ddagger}$ ]{style="font-weight: 300;color:gray;"}\ -->
+<!-- Cells -->
+<!-- , accepted. -->
+<!-- ::: -->
 
-::::
+<!-- :::: -->
 
 
 <!-- article -->
