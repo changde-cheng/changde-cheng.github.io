@@ -7,9 +7,31 @@ toc-depth: 4
 ---
 
 
-#### 2025 ( ,+8)
+#### 2025 ( ,+9)
 
 ---
+
+
+
+<!-- article -->
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+##### [40°.]{style="font-size: 100%; font-weight:500; color:black;"}**Paricalcitol and hydroxychloroquine modulates extracellular matrix and enhance chemotherapy efficacy in pancreatic cance**.
+[Dhana Sekhar Reddy Bandi, Sujith Sarvesh, Jeremy Foote, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Mehmet Akce, Ganji Purnachandra Nagaraju, Bassel F. El-Raye.]{style="font-weight: 300;color:gray;"}\
+Cancer Gene Therapy
+, accepted.
+:::
+
+::::
 
 
 <!-- article -->
@@ -32,18 +54,11 @@ JCI Insight
 
 ::::
 
-
-<!-- <!-- article --> -->
-
 <!-- :::: {.columns} -->
-
 <!-- ::: {.column width="8%"} -->
-
 <!-- ::: -->
-
 <!-- ::: {.column width="2%"} -->
 <!-- ::: -->
-
 <!-- ::: {.column width="90%"} -->
 <!-- ##### [39°.]{style="font-size: 100%; font-weight:500; color:black;"}**Targeting diabetic retinopathy with human iPSC-derived vascular reparative cells in a type 2 diabetes model**. -->
 <!-- [Sergio Li Calzi, Dibyendu Chakraborty, Ping Hu, Ram Prasad, Yvonne -->
@@ -52,9 +67,7 @@ JCI Insight
 <!-- Cells -->
 <!-- , accepted. -->
 <!-- ::: -->
-
 <!-- :::: -->
-
 
 <!-- article -->
 
