@@ -7,10 +7,9 @@ toc-depth: 4
 ---
 
 
-#### 2025 ( ,+9)
+#### 2025 ( ,+10)
 
 ---
-
 
 
 <!-- article -->
@@ -25,7 +24,27 @@ toc-depth: 4
 :::
 
 ::: {.column width="90%"}
-##### [40°.]{style="font-size: 100%; font-weight:500; color:black;"}**Paricalcitol and hydroxychloroquine modulates extracellular matrix and enhance chemotherapy efficacy in pancreatic cance**.
+##### [41°.]{style="font-size: 100%; font-weight:500; color:black;"}**Evolvability: Progress and Key Questions**.
+[C. Pélabon, C.$^{\dagger}$, G. A. Agudelo-Cantero, Y.G. Araya-Ajoy, G.H. Bolstad, [C. Cheng]{style="color:black;"}, F. Galis, F. Guillaume, T. Haaland, B. Hallgrimsson, T. Hansen, A. Holstad, D. Houle, G. Hunt, I. Isaksen, L. Milocco, N. Mubalegh, L. Nuño de la Rosa, Steven Orzack, A. Porto, Jane ReidJ.L. Sztepanacz, E.A.B. Undheim, C. Villegas, K.L. Voje, C. Walling, J. Wright]{style="font-weight: 300;color:gray;"}\
+BioScience
+, accepted.
+:::
+
+::::
+
+<!-- article -->
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+##### [40°.]{style="font-size: 100%; font-weight:500; color:black;"}**Paricalcitol and hydroxychloroquine modulates extracellular matrix and enhance chemotherapy efficacy in pancreatic cancer**.
 [Dhana Sekhar Reddy Bandi, Sujith Sarvesh, Jeremy Foote, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Mehmet Akce, Ganji Purnachandra Nagaraju, Bassel F. El-Raye.]{style="font-weight: 300;color:gray;"}\
 Cancer Gene Therapy
 , accepted.
