@@ -24,7 +24,7 @@ Stem Cell Biology | Cancer Outcomes and Survivorship | Biomedical Informatics an
 University of Alabama at Birmingham
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray; color: seagreen;"}
-# Research Profile
+# My Profile
 
 Before joining UAB, I developed methods for single-cell genomics in cancer research at the Computational Biology Department at St. Jude Children's Research Hospital.\
 
@@ -54,7 +54,7 @@ We design and engineer combination therapies by mapping epistasis, inferring cau
 
 ---
 
-## Sex Differences and Disease
+## Evolution, Genetics, and Disease
 
 Males and females share almost the same genome, yet they often differ in appearance, physiology, and disease risk. I study why those differences arise and how they matter for health, tracing how sex-biased selection and sexual antagonism shape genomic architecture over evolutionary timescales and yield consequences in contemporary medicine.
 
@@ -85,6 +85,13 @@ Third, I examine how environmental plasticity modulates sex-biased gene expressi
 
 
 Finally, I study how aging alters these dynamics as purifying selection weakens, potentially amplifying sex differences in late-onset disease, including cancer.
+
+My work on aging and molecular evolution, with Mark Kirkpatrick, demonstrated that the efficacy of purifying selection declines with age. By analyzing patterns of genetic variation across age-related expression profiles, we showed that deleterious mutations expressed later in life are less effectively removed by natural selection, providing a genomic explanation for the evolutionary basis of aging.
+
+::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
+# References
+[ \[Aging and molecular eovlution\] ](https://pmc.ncbi.nlm.nih.gov/articles/PMC8113359/) \
+:::
 
 These ideas motivate my current analyses of clonal evolution in hematopoietic stem cells after cancer therapy. Many patients develop clonal hematopoiesis, in which mutations arise and a subset of stem-cell clones expands. In our cohort, clonal hematopoiesis occurs in 37.2% of patients, with similar incidence in males (35.8%) and females (39.6%), and recurrently involves the same genes in both sexes, including DNMT3A, PPM1D, TET2, and TP53. The subsequent trajectories diverge: in males, mutated clones expand more often and progress to therapy-related blood cancers in 12.4% of cases, whereas progression in females is 3.6%. 
 
