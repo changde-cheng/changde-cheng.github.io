@@ -35,17 +35,7 @@ toc-depth: 4
 
 ---
 
-### Yassin Mreyoud
 
-[Superpower]{style="font-weight: 500; color:seagreen;"}: Transforming chaotic multi-omics data into crystal-clear biological insights.
-
-[Origin Story]{style="font-weight: 500; color:seagreen;"}: Previously a bioinformatics Scientist at Washington University School of Medicine in St. Louis. Now a MSTP MD/PhD student at UAB.
-
-[Current Quest]{style="font-weight: 500; color:seagreen;"}: Unraveling the mysteries of immuno-dysregulation by mapping cellular conversations and identifying the communication breakdowns that lead to disease. Bridging the gap between computational discovery and clinical application.
-
-[Hero Tools]{style="font-weight: 500; color:seagreen;"}:  Multi-omics integration platforms, cell-cell communication algorithms, single-cell analysis pipelines.
-
----
 
 ## Alumni 
 
@@ -55,11 +45,11 @@ toc-depth: 4
 library(knitr)
 
 df <- data.frame(
-  Name = c("Doug Welsch", "Brunno Macedo"),
-  Role = c("Bioinformatician", "Rotation Student"),
-  Time = c("03/2024-02/2025", "Fall 2024"),
-  School = c("Rice University", "Federal Univ. of Pernambuco, Brazil"),
-  Lastknown = c("","Matlawska Lab at UAB")
+  Name = c("Yassin Mreyoud","Doug Welsch", "Brunno Macedo"),
+  Role = c("Rotation MSTP MD/PhD","Bioinformatician", "Rotation Student"),
+  Time = c( "Summer 2025","03/2024-02/2025", "Fall 2024"),
+  School = c("WashU Medicine","Rice University", "UFPE, Brazil"),
+  Lastknown = c("","","MatlawskaLab@UAB")
 )
 
 kable(df, format = "html",
@@ -67,6 +57,18 @@ kable(df, format = "html",
       table.attr = "class='table table-striped'")
 ```
 
+
+<!-- ### Yassin Mreyoud -->
+
+<!-- [Superpower]{style="font-weight: 500; color:seagreen;"}: Transforming chaotic multi-omics data into crystal-clear biological insights. -->
+
+<!-- [Origin Story]{style="font-weight: 500; color:seagreen;"}: Previously a bioinformatics Scientist at Washington University School of Medicine in St. Louis. Now a MSTP MD/PhD student at UAB. -->
+
+<!-- [Current Quest]{style="font-weight: 500; color:seagreen;"}: Unraveling the mysteries of immuno-dysregulation by mapping cellular conversations and identifying the communication breakdowns that lead to disease. Bridging the gap between computational discovery and clinical application. -->
+
+<!-- [Hero Tools]{style="font-weight: 500; color:seagreen;"}:  Multi-omics integration platforms, cell-cell communication algorithms, single-cell analysis pipelines. -->
+
+<!-- --- -->
 
 <!-- ## Doug Welsch - Bioinformatician -->
 

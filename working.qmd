@@ -253,7 +253,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 14.]{style="font-size: 100%; font-weight:500; color:black;"} **Validation of Adversity-Linked Genes in Pancreatic Neuroendocrine Tumors**. \
-[Mourad Bendjennat, Rachael Guenter, Brendon Herring, Elquis Castillo II, Stuart Phipps, Theo Hines, Doug Welsch, [Changde Cheng$^{\dagger}$]{style="color:black;"}, Dai Chen, Isra Elhussin, Upender Manne, Herbert Chen, Clayton Yates, Smita Bhatia, J Bart Rose, Andrea Gillis .]{style="font-weight: 300;color:gray;"}\
+[Mourad Bendjennat, Rachael Guenter, Brendon Herring, Elquis Castillo II, Stuart Phipps, Theo Hines, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Dai Chen, Isra Elhussin, Upender Manne, Herbert Chen, Clayton Yates, Smita Bhatia, J Bart Rose, Andrea Gillis .]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
@@ -344,6 +344,8 @@ Submitted.
 
 ---
 
+[Lab Heroes]{style="color:darkgreen;"}
+
 ${\ast}$: 
 First authors
 
@@ -353,5 +355,5 @@ Corresponding author(s)
 ${\ddagger}$: 
 Senior authors
 
-[Lab member]{style="color:darkgreen;"}
+
 

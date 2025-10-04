@@ -26,7 +26,7 @@ toc-depth: 4
 ::: {.column width="90%"}
 ##### [41°.]{style="font-size: 100%; font-weight:500; color:black;"}**Evolvability: Progress and Key Questions**.
 [C. Pélabon, C.$^{\dagger}$, G. A. Agudelo-Cantero, Y.G. Araya-Ajoy, G.H. Bolstad, [C. Cheng]{style="color:black;"}, F. Galis, F. Guillaume, T. Haaland, B. Hallgrimsson, T. Hansen, A. Holstad, D. Houle, G. Hunt, I. Isaksen, L. Milocco, N. Mubalegh, L. Nuño de la Rosa, Steven Orzack, A. Porto, Jane ReidJ.L. Sztepanacz, E.A.B. Undheim, C. Villegas, K.L. Voje, C. Walling, J. Wright]{style="font-weight: 300;color:gray;"}\
-[BioScience]((https://doi.org/10.1093/biosci/biaf111)
+[BioScience](https://doi.org/10.1093/biosci/biaf111)
 , .
 :::
 
@@ -188,7 +188,13 @@ toc-depth: 4
 [Raj Roy,  Christopher Wu, Lauren Wheeler,  K. Kerrick Akinola,  Herbert Chen, J. Bart Rose,  [Changde Cheng]{style="color:black;"}, Smita Bhatia,  Andrea Gillis]{style="font-weight: 300;color:gray;"}\
 [European Journal of Cancer](https://doi.org/10.1016/j.ejca.2025.115384)
 (220) 115384.
+
+:::{style="font-size: 93%;"}
+- Presented at inaugural Lister Hill Library Systematic Review Showcase, UAB (invited)
 :::
+:::
+
+
 
 ::::
 
@@ -970,6 +976,8 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
+[Lab Heroes]{style="color:darkgreen;"}
+
 ${\ast}$: 
 First authors
 
@@ -979,6 +987,6 @@ Corresponding author(s)
 ${\ddagger}$: 
 Senior authors
 
-[Lab member]{style="color:darkgreen;"}
+
 <!-- Dark color: -->
 <!-- Lab member(s) -->
