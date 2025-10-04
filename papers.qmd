@@ -26,8 +26,8 @@ toc-depth: 4
 ::: {.column width="90%"}
 ##### [41°.]{style="font-size: 100%; font-weight:500; color:black;"}**Evolvability: Progress and Key Questions**.
 [C. Pélabon, C.$^{\dagger}$, G. A. Agudelo-Cantero, Y.G. Araya-Ajoy, G.H. Bolstad, [C. Cheng]{style="color:black;"}, F. Galis, F. Guillaume, T. Haaland, B. Hallgrimsson, T. Hansen, A. Holstad, D. Houle, G. Hunt, I. Isaksen, L. Milocco, N. Mubalegh, L. Nuño de la Rosa, Steven Orzack, A. Porto, Jane ReidJ.L. Sztepanacz, E.A.B. Undheim, C. Villegas, K.L. Voje, C. Walling, J. Wright]{style="font-weight: 300;color:gray;"}\
-BioScience
-, accepted.
+[BioScience]((https://doi.org/10.1093/biosci/biaf111)
+, .
 :::
 
 ::::
@@ -46,8 +46,8 @@ BioScience
 ::: {.column width="90%"}
 ##### [40°.]{style="font-size: 100%; font-weight:500; color:black;"}**Paricalcitol and hydroxychloroquine modulates extracellular matrix and enhance chemotherapy efficacy in pancreatic cancer**.
 [Dhana Sekhar Reddy Bandi, Sujith Sarvesh, Jeremy Foote, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Mehmet Akce, Ganji Purnachandra Nagaraju, Bassel F. El-Raye.]{style="font-weight: 300;color:gray;"}\
-Cancer Gene Therapy
-, accepted.
+[Cancer Gene Therapy](https://doi.org/10.1038/s41417-025-00967-9)
+ 1-11.
 :::
 
 ::::
@@ -67,8 +67,8 @@ Cancer Gene Therapy
 ::: {.column width="90%"}
 ##### [39°.]{style="font-size: 100%; font-weight:500; color:black;"}**Randomized trial of activated vitamin D for acute kidney injury prevention in critically ill patients**.
 [David E. Leaf, Tushar Shenoy,  Kevin Zinchuk,  Shruti Gupta, Julie-Alexia Dias,  Daniel Sanchez-Almanzar,  [Changde Cheng]{style="color:black;"}, Tomoyoshi Tamura,  Edy Y. Kim, Sushrut S. Waikar ]{style="font-weight: 300;color:gray;"}\
-JCI Insight
-, accepted.
+[JCI Insight](https://doi.org/10.1172/jci.insight.193523)
+, .
 :::
 
 ::::
@@ -102,8 +102,8 @@ JCI Insight
 ::: {.column width="90%"}
 ##### [38°.]{style="font-size: 100%; font-weight:500; color:black;"}**Germline pathogenic/ likely pathogenic mutations and subsequent neoplasms among childhood cancer survivors – a report from the Children’s Oncology Group ALTE03N1 study**.
 [Liting Zhou , Purnima Singh , David K. Crossman , Joshua Richman , Patrick J Trainor , [Changde Cheng]{style="color:black;"} , Xuexia Wang , Noha Sharafeldin , Lindsey Hageman , Maryam Sheikh , Melissa Richard , Danielle N. Friedman , Joseph Neglia , Zhaoming Wang , Melissa M Hudson , Saro H Armenian , Douglas Hawkins , Ravi Bhatia , Wendy Landier, Smita Bhatia]{style="font-weight: 300;color:gray;"}\
-JCO
-, accepted.
+[JCO](https://doi.org/10.1200/JCO-25-00542)
+ 43 (27), 3011-3020
 :::
 
 ::::
@@ -122,7 +122,8 @@ JCO
 ::: {.column width="90%"}
 ##### [37°.]{style="font-size: 100%; font-weight:500; color:black;"} **Clonal hematopoiesis and subsequent venous thromboembolism among survivors of autologous transplantation for lymphoma**. 
 [Radhika Gangaraju; Yanjun Chen; Lindsey Hageman; Alysia Bosworth; Elizabeth Ross; Liton Francisco; Purnima Singh; Melissa Richard; Chengcheng Yan; Rashi Kalra; [Changde Cheng]{style="color:black;"}; Saro Armenian; Stephen Forman; Ravi Bhatia; Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
-JNCI: Journal of the National Cancer Institute.
+[JNCI: Journal of the National Cancer Institute.](https://doi.org/10.1093/jnci/djaf164)
+ Jul 2.
 :::
 
 ::::
@@ -142,8 +143,8 @@ JNCI: Journal of the National Cancer Institute.
 ::: {.column width="90%"}
 ##### [36°.]{style="font-size: 100%; font-weight:500; color:black;"} **Acute myeloid leukemia microenvironment impairs neutrophil maturation and function through NFκB signaling**. 
 [Paran Goel, Sajesan Aryal, Alana M. Franceski, Valeriya Kuznetsova, Amanda Costa, Francesca Luca, Ashley N. Connelly, Daniel W. Phillips, Caroline C. Ennis, Brittany L. Crown, Sourajeet Karfa, Christina R Larson, Estelle Carminita, Virginia Camacho, [Doug Welsch]{style="color:darkgreen;"}, [Changde Cheng]{style="color:black;"}, Asumi Yokota, Isidoro Cobo, Hideyo Hirai, Rui Lu , Ravi Bhatia , Pran K. Datta, P. Brent Ferrell , Robert S. Welner]{style="font-weight: 300;color:gray;"}\
-Blood
-, accepted.
+[Blood](https://doi.org/10.1182/blood.2024028199)
+ 146(14):1707-1721.
 :::
 
 ::::
