@@ -46,10 +46,10 @@ library(knitr)
 
 df <- data.frame(
   Name = c("Yassin Mreyoud","Doug Welsch", "Brunno Macedo"),
-  Role = c("Rotation MSTP MD/PhD","Bioinformatician", "Rotation Student"),
-  Time = c( "Summer 2025","03/2024-02/2025", "Fall 2024"),
-  School = c("WashU Medicine","Rice University", "UFPE, Brazil"),
-  Lastknown = c("","","MatlawskaLab@UAB")
+  Role = c("MSTP rotation","Bioinformatician", "GBS rotation"),
+  Time = c( "2025 Summer","2024/03-2025/02", "2024 Fall"),
+  School = c("WashU | Medicine","Rice | Computer Science", "UFPE, Brazil"),
+  Lastknown = c("","","UAB | Medicine")
 )
 
 kable(df, format = "html",
