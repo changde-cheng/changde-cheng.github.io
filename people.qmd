@@ -47,9 +47,9 @@ library(knitr)
 df <- data.frame(
   Name = c("Yassin Mreyoud","Doug Welsch", "Brunno Macedo"),
   Role = c("MSTP rotation","Bioinformatician", "GBS rotation"),
-  Time = c( "2025 Summer","2024/03-2025/02", "2024 Fall"),
+  Time = c( "2025 Summer","2024-2025", "2024 Fall"),
   School = c("WashU | Medicine","Rice | Computer Science", "UFPE, Brazil"),
-  Lastknown = c("","","UAB | Medicine")
+  Lastknown = c("UAB | Medicine","","UAB | Medicine")
 )
 
 kable(df, format = "html",
