@@ -56,9 +56,9 @@ We design and engineer combination therapies by mapping epistasis, inferring cau
 
 ## Evolution, Genetics, and Disease
 
-Males and females share almost the same genome, yet they often differ in appearance, physiology, and disease risk. I study why those differences arise and how they matter for health, tracing how sex-biased selection and sexual antagonism shape genomic architecture over evolutionary timescales and yield consequences in contemporary medicine.
+Males and females share nearly identical genomes, yet they differ in how they look, function, and respond to disease. I often wonder why those differences exist and how they shape health, how the push and pull of sex-biased selection over deep time leaves marks that echo in modern medicine.
 
-My work focuses on four linked themes. First, I ask which forces leave the deeper imprint on genomes and traits: sexually concordant selection, which pushes both sexes in the same direction, or sexually discordant selection, which benefits one sex while harming the other. 
+How do sexually concordant and discordant forms of selection interact to mold genomes and traits? Concordant selection moves both sexes in the same direction, while discordant selection favors one at the expense of the other, creating evolutionary tension that leaves a lasting signature on the genome.
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
 # References
@@ -67,7 +67,7 @@ My work focuses on four linked themes. First, I ask which forces leave the deepe
 [ \[A model on evolution of sex-biased expression\] ](https://www.ncbi.nlm.nih.gov/pubmed/27658217/) 
 :::
 
-Second, I investigate why sex chromosomes become focal points of conflict, testing whether chromosomal inversions (stretches of DNA flipped end-to-end) act as recombination suppressors that preserve advantageous, sex-specific allele combinations. 
+Sex chromosomes often become focal points of this conflict. One question is whether chromosomal inversions act as recombination suppressors that preserve advantageous, sex-specific allele combinations and amplify differences between the sexes. 
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
 # References
@@ -75,7 +75,7 @@ Second, I investigate why sex chromosomes become focal points of conflict, testi
 <!-- [ \[Evolution of sex chromosomes in Stickleback\] ]() -->
 :::
 
-Third, I examine how environmental plasticity modulates sex-biased gene expression and shifts the intersexual correlation of expression, allowing organisms to navigate the tug-of-war between male-optimal and female-optimal states. 
+How flexible are these differences between the sexes?  I’m fascinated by how environmental plasticity reshapes sex-biased gene expression and shifts the correlation between male and female expression, allowing organisms to navigate the tug-of-war between male-optimal and female-optimal states.
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
 # References
@@ -84,9 +84,7 @@ Third, I examine how environmental plasticity modulates sex-biased gene expressi
 :::
 
 
-Finally, I study how aging alters these dynamics as purifying selection weakens, potentially amplifying sex differences in late-onset disease, including cancer.
-
-My work on aging and molecular evolution, with Mark Kirkpatrick, demonstrated that the efficacy of purifying selection declines with age. By analyzing patterns of genetic variation across age-related expression profiles, we showed that deleterious mutations expressed later in life are less effectively removed by natural selection, providing a genomic explanation for the evolutionary basis of aging.
+How does aging reshape evolution’s balance of forces? As purifying selection weakens, late-acting mutations, and sex differences in disease, grow more visible. With Mark Kirkpatrick, I examined how the force of natural selection changes over the lifespan and how this affects the molecular evolution of genes. We found that mutations expressed late in life are less efficiently removed, with shorter genomic lifespans, consistent with theoretical predictions about how aging evolves through the weakening of selection.
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
 # References
@@ -114,5 +112,26 @@ Sexual dimorphism/antagonism is not a theoretical curiosity confined to sex chro
 
 ---
 
+## Adaptation, Speciation, and Infectious Disease
+
+My early work centered on a classical question: how do chromosomal inversions shape adaptation and divergence? This inquiry soon led to a more applied one—how do these same inversions influence disease transmission in malaria mosquitoes? In pursuing these questions, I challenged the prevailing “speciation island” model, showing instead that genomic divergence arises primarily from regions of suppressed recombination.
+
+Using Anopheles gambiae as a model, I found that inversion 2La tracks Africa’s aridity gradient and forms a **suspension-bridge** pattern of differentiation, confirming that inversions capture locally adapted alleles by suppressing recombination.
+
+![](featured/2012_ecogenomics/Figure2.png)
+
+
+Laboratory and transcriptomic analyses further revealed that inversions shape multiple traits—fecundity, longevity, behavior, and stress tolerance—through interactions with environment and sex. In Anopheles, such structural variation links ecological adaptation with the evolution of vectorial capacity, showing how genomic architecture organizes both ecological and epidemiological diversity.
+
+In *Genetic association of physically unlinked islands of genomic divergence*, I re-examined the “speciation island” hypothesis. The near absence of gene flow between incipient species suggests that highly diverged pericentromeric regions, marked by low variation and recombination, may be incidental rather than instrumental to speciation—an insight that reframed how genomic divergence and population structure are interpreted in the early stages of species formation.
+
+These findings connect population genetic theory with ecological and epidemiological dynamics. In malaria mosquitoes, inversions not only stabilize local adaptation but also modulate vectorial capacity, illustrating how genomic architecture organizes both ecological and disease-related diversity.
+
+::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
+# References
+[ \[Ecological genomics along aridity cline\] ](https://doi.org/10.1534/genetics.111.137794) \
+[ \[Genomics of inversions\] ](https://doi.org/10.1073/pnas.1806760115) \
+[ \[Islands of genomic divergence in speciation\] ](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04531.x)
+:::
 <!-- [Back to Top](#) -->
 
