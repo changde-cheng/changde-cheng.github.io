@@ -44,7 +44,12 @@ Before pursuing my Ph.D., I worked with Charles Taylor at UCLA on evolutionary g
 ## Therapy Design and Engineering 
 
 <!-- ::: {.callout-note collapse="false" appearance="minimal" style="background-color: #FF69B4; border-color: gray; color: white;"} -->
-We design and engineer combination therapies by mapping epistasis, inferring causal control, and optimizing interventions with mechanism-informed AI, translating molecular and cellular insights into therapeutic strategies.
+We design and engineer combination therapies by mapping epistasis, inferring causal control, and using mechanism-informed computational methods to translate molecular logic into therapy. Yet one question keeps returning: how is control itself written into the language of cells? How do ligand–receptor dynamics give rise to coordination and integration?
+
+::: {style="text-align: center;"}
+![](preprints/2024_talk/dose.png){width=60% style="max-width: 600px;"}
+:::
+
 <!-- ::: -->
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
