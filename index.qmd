@@ -58,19 +58,33 @@ We design and engineer combination therapies by mapping epistasis, inferring cau
 
 Males and females share nearly identical genomes, yet they differ in how they look, function, and respond to disease. I often wonder why those differences exist and how they shape health, how the push and pull of sex-biased selection over deep time leaves marks that echo in modern medicine.
 
-How do sexually concordant and discordant forms of selection interact to mold genomes and traits? Concordant selection moves both sexes in the same direction, while discordant selection favors one at the expense of the other, creating evolutionary tension that leaves a lasting signature on the genome.
+How do sexually concordant and discordant forms of selection interact to mold genomes and traits? Concordant selection moves both sexes in the same direction, while discordant selection favors one at the expense of the other, creating evolutionary tension that leaves a lasting signature on the genome:
+
+::: {style="text-align: center;"}
+![](featured/2020_scs/featured.png){width=50% style="max-width: 400px;"}
+:::
+
+<!-- ![](featured/2020_scs/featured.png){width=50%} -->
+
+Does sexually discordant selection drive the evolution of sexual dimorphism more strongly than sexually concordant selection?  David Houle and I have suggested that many cases of sexual dimorphism may in fact arise from concordant selection, rather than from conflict between the sexes.  Yet much remains to be explored: how concordant and discordant forces interact, and under what conditions one predominates over the other, remain fascinating questions.
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-# References
+# Read more
 [ \[Predicting evolution of sexual dimorphism\] ](https://www.ncbi.nlm.nih.gov/pubmed/32970462/) \
 [ \[Predicting sex-biased expression\] ](https://www.ncbi.nlm.nih.gov/pubmed/33512493/)  \
 [ \[A model on evolution of sex-biased expression\] ](https://www.ncbi.nlm.nih.gov/pubmed/27658217/) 
 :::
 
-Sex chromosomes often become focal points of this conflict. One question is whether chromosomal inversions act as recombination suppressors that preserve advantageous, sex-specific allele combinations and amplify differences between the sexes. 
+Sex chromosomes have long been regarded as the natural focal points of sexual conflict, where the interests of males and females diverge most sharply:
+
+::: {style="text-align: center;"}
+![](preprints/2017_SMBE/featured.png){width=70% style="max-width: 500px;"}
+:::
+
+One question is whether chromosomal inversions act as recombination suppressors that preserve advantageous, sex-specific allele combinations and amplify differences between the sexes. 
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-# References
+# Read more
 [ \[Bigger X\] ](https://www.ncbi.nlm.nih.gov/pubmed/30059177/) \
 <!-- [ \[Evolution of sex chromosomes in Stickleback\] ]() -->
 :::
@@ -78,7 +92,7 @@ Sex chromosomes often become focal points of this conflict. One question is whet
 How flexible are these differences between the sexes?  I’m fascinated by how environmental plasticity reshapes sex-biased gene expression and shifts the correlation between male and female expression, allowing organisms to navigate the tug-of-war between male-optimal and female-optimal states.
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-# References
+# Read more
 [ \[Environmental plasticity shapes sex-bias\] ](https://www.ncbi.nlm.nih.gov/pubmed/29036352/) \
 <!-- [ \[Evolution of sex chromosomes in Stickleback\] ]() -->
 :::
@@ -87,7 +101,7 @@ How flexible are these differences between the sexes?  I’m fascinated by how e
 How does aging reshape evolution’s balance of forces? As purifying selection weakens, late-acting mutations, and sex differences in disease, grow more visible. With Mark Kirkpatrick, I examined how the force of natural selection changes over the lifespan and how this affects the molecular evolution of genes. We found that mutations expressed late in life are less efficiently removed, with shorter genomic lifespans, consistent with theoretical predictions about how aging evolves through the weakening of selection.
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-# References
+# Read more
 [ \[Aging and molecular eovlution\] ](https://pmc.ncbi.nlm.nih.gov/articles/PMC8113359/) \
 :::
 
@@ -102,12 +116,12 @@ These ideas motivate my current analyses of clonal evolution in hematopoietic st
 These patterns suggest that selection on clones is sex-conditioned. Comparable genetic starting points can yield different outcomes because the surrounding biology, hormonal milieu, immune surveillance, stromal niches, and epigenetic states, reshapes fitness landscapes in sex-specific ways. My model aims to identify which components shift a clone from benign passenger to malignant driver, and how those components change with age.
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-# References
+# Research highlight
 [ \[Sex differences in risk for therapy-related myeloid neoplasms\] ](https://doi.org/10.1200/JCO-24-01487)
 <!-- (publications/2024_sextmn/index.qmd) -->
 :::
 
-Sexual dimorphism/antagonism is not a theoretical curiosity confined to sex chromosomes but a living force that shapes disease. By connecting evolutionary principles to measurable cellular mechanisms, we seek to improve risk prediction, refine surveillance, and design therapies that remain effective within the sex-specific and age-dependent constraints imposed by evolution.
+Sexual discordance is not a theoretical curiosity confined to sex chromosomes but a living force that shapes disease. By connecting evolutionary principles to measurable cellular mechanisms, we seek to improve risk prediction, refine surveillance, and design therapies that remain effective within the sex-specific and age-dependent constraints imposed by evolution.
 
 
 ---
@@ -118,8 +132,9 @@ My early work centered on a classical question: how do chromosomal inversions sh
 
 Using Anopheles gambiae as a model, I found that inversion 2La tracks Africa’s aridity gradient and forms a **suspension-bridge** pattern of differentiation, confirming that inversions capture locally adapted alleles by suppressing recombination.
 
+::: {style="text-align: center;"}
 ![](featured/2012_ecogenomics/Figure2.png)
-
+:::
 
 Laboratory and transcriptomic analyses further revealed that inversions shape multiple traits, including fecundity, longevity, behavior, and stress tolerance, through interactions with environment and sex. In Anopheles, such structural variation links ecological adaptation with the evolution of vectorial capacity, showing how genomic architecture organizes both ecological and epidemiological diversity.
 
@@ -128,7 +143,7 @@ In *Genetic association of physically unlinked islands of genomic divergence*, I
 These findings connect population genetic theory with ecological and epidemiological dynamics. In malaria mosquitoes, inversions not only stabilize local adaptation but also modulate vectorial capacity, illustrating how genomic architecture organizes both ecological and disease-related diversity.
 
 ::: {.callout-note collapse="false" appearance="minimal" style="background-color: honeydew; border-color: gray;"}
-# References
+# Read more
 [ \[Ecological genomics along aridity cline\] ](https://doi.org/10.1534/genetics.111.137794) \
 [ \[Genomics of inversions\] ](https://doi.org/10.1073/pnas.1806760115) \
 [ \[Islands of genomic divergence in speciation\] ](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2010.04531.x)
