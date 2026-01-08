@@ -344,6 +344,33 @@ Submitted.
 
 ---
 
+### 2026 (-1)
+
+---
+
+#### 2026-01-06 {#sec-w20}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 20.]{style="font-size: 100%; font-weight:500; color:black;"} **AML Maturation State Correlates with NK Cell Perturbation for Predicted Relapse**. \
+[ Paran Goel, V.K. Chaithanya Manam, Amanda Costa, Valeriya Kuznetsova, Gracie M. Jack, Joshua Knapp, Brittany M. Curtiss, Doug Welsch, Ashley N. Connelly, Meghana Madabhushi, Caroline C. Ennis, Alana M. Franceski, Francesca Luca, Daniel W. Phillips, Ravi Bhatia, Lorena Lobo de Figueiredo-Pontes, Rui Lu, Stanley C. Lee, P. Brent Ferrell, Manuel R. Espinoza-Gutarra, [Changde Cheng$^{\dagger}$]{style="color:black;"} and  Robert S. Welner$^{\dagger}$ ]{style="font-weight: 300;color:gray;"}\
+Submitted.
+:::
+
+::::
+
+
+---
+
 [Lab Heroes]{style="color:darkgreen;"}
 
 ${\ast}$: 
