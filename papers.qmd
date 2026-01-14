@@ -68,7 +68,7 @@ toc-depth: 4
 ##### [39°.]{style="font-size: 100%; font-weight:500; color:black;"}**Randomized trial of activated vitamin D for acute kidney injury prevention in critically ill patients**.
 [David E. Leaf, Tushar Shenoy,  Kevin Zinchuk,  Shruti Gupta, Julie-Alexia Dias,  Daniel Sanchez-Almanzar,  [Changde Cheng]{style="color:black;"}, Tomoyoshi Tamura,  Edy Y. Kim, Sushrut S. Waikar ]{style="font-weight: 300;color:gray;"}\
 [JCI Insight](https://doi.org/10.1172/jci.insight.193523)
-, .
+ 10(20):e193523.
 :::
 
 ::::

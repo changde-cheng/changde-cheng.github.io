@@ -344,7 +344,7 @@ Submitted.
 
 ---
 
-### 2026 (-1)
+### 2026 (-2)
 
 ---
 
@@ -362,7 +362,30 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 20.]{style="font-size: 100%; font-weight:500; color:black;"} **AML Maturation State Correlates with NK Cell Perturbation for Predicted Relapse**. \
-[ Paran Goel, V.K. Chaithanya Manam, Amanda Costa, Valeriya Kuznetsova, Gracie M. Jack, Joshua Knapp, Brittany M. Curtiss, Doug Welsch, Ashley N. Connelly, Meghana Madabhushi, Caroline C. Ennis, Alana M. Franceski, Francesca Luca, Daniel W. Phillips, Ravi Bhatia, Lorena Lobo de Figueiredo-Pontes, Rui Lu, Stanley C. Lee, P. Brent Ferrell, Manuel R. Espinoza-Gutarra, [Changde Cheng$^{\dagger}$]{style="color:black;"} and  Robert S. Welner$^{\dagger}$ ]{style="font-weight: 300;color:gray;"}\
+[ Paran Goel, [V.K. Chaithanya Manam]{style="color:darkgreen;"}, Amanda Costa, Valeriya Kuznetsova, Gracie M. Jack, Joshua Knapp, Brittany M. Curtiss, [Doug Welsch]{style="color:darkgreen;"}, Ashley N. Connelly, Meghana Madabhushi, Caroline C. Ennis, Alana M. Franceski, Francesca Luca, Daniel W. Phillips, Ravi Bhatia, Lorena Lobo de Figueiredo-Pontes, Rui Lu, Stanley C. Lee, P. Brent Ferrell, Manuel R. Espinoza-Gutarra, [Changde Cheng$^{\dagger}$]{style="color:black;"} and  Robert S. Welner$^{\dagger}$ ]{style="font-weight: 300;color:gray;"}\
+Submitted.
+:::
+
+::::
+
+
+---
+
+#### 2026-01-14 {#sec-w21}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 21.]{style="font-size: 100%; font-weight:500; color:black;"} **Structure and function of adhesion GPCRs ADGRB1, B2 and B3 in physiology and disease**. \
+[ Virgínea de Araújo Farias, Rashed Rezwan Parag, Kiyotaka Saitoh, Jesse Stillwell, Alex Torrelli-Diljohn, Maryam Ahmadian Elmi, [Changde Cheng]{style="color:black;"} and  Erwin G. Van Meir ]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
