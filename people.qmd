@@ -45,15 +45,15 @@ toc-depth: 4
 library(knitr)
 
 df <- data.frame(
-  Name = c("Yassin Mreyoud","Doug Welsch", "Brunno Macedo"),
-  Role = c("MSTP rotation","Bioinformatician", "GBS rotation"),
-  Time = c( "2025 Summer","2024-2025", "2024 Fall"),
-  School = c("WashU | Medicine","Rice | Computer Science", "UFPE, Brazil"),
-  Lastknown = c("UAB | Medicine","","UAB | Medicine")
+  Name = c("Zihao Zhang","Yassin Mreyoud","Doug Welsch", "Brunno Macedo"),
+  Role = c("Machine learning","Single-cell genomics","Bioinformatics", "CML genomics"),
+  Time = c( "2025 Fall","2025 Summer","2024-2025", "2024 Fall"),
+  School = c("Chinese Academy of Sciences | Nutrition","WashU | Medicine","Rice | Computer Science", "UFPE, Brazil"),
+  Lastknown = c("UAB","UAB | Medicine","","UAB | Medicine")
 )
 
 kable(df, format = "html",
-      col.names = c("Name", "Role", "Time", "Prior Institution", "Moving Forward"),
+      col.names = c("Name", "Project", "Time", "Prior Institution", "Moving Forward"),
       table.attr = "class='table table-striped'")
 ```
 
