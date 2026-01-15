@@ -21,9 +21,13 @@ toc-depth: 4
 
 <!-- Currently, he serves as a faculty member and head of bioinformatics in the Stem Cell Program and the Institute for Cancer Outcomes and Survivorship at the Heersink School of Medicine, [University of Alabama at Birmingham](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine). His work integrates expertise in genetics, bioinformatics, and computational biology to advance understanding and treatment of cancer and other complex diseases. -->
 
+Meet the lab ~ a team of computational biologists, data scientists, and researchers advancing cancer genomics and precision medicine.
+
 ## The Research Champions
 
 ### Dr.  Venkata Krishna Chaithanya Manam
+
+Currently a postdoc in the lab.
 
 [Superpower]{style="font-weight: 500; color:seagreen;"}:  Bridging artificial intelligence and biological discovery through advanced NLP, LLMs, and machine learning architectures.
 
@@ -33,9 +37,16 @@ toc-depth: 4
 
 [Hero Tools]{style="font-weight: 500; color:seagreen;"}: Python/R ecosystems, LLMs, and natural language processing pipelines, and advanced AI frameworks.
 
----
 
+### Fadeela Sheini, OD
 
+[Superpower]{style="font-weight: 500; color:seagreen;"}:  Integrating retinal biology and translational medicine using vascular disease models with high resolution imaging, bioinformatics, molecular profiling, and inflammation biology.
+
+[Origin Story]{style="font-weight: 500; color:seagreen;"}: Fadeela Sheini is a Vision Science PhD student at the University of Alabama at Birmingham (UAB), co-mentored with Dr Maria Grant.  Her scientific path has been shaped by a drive to connect rigorous mechanistic research with real world clinical impact.  Her work and training span experimental design and quantitative analysis, with experience applying imaging and molecular approaches to understand how retinal tissues respond to metabolic and ischemic stress.
+
+[Current Quest]{style="font-weight: 500; color:seagreen;"}: Uncovering how lipid metabolism and nuclear receptor signaling reprogram inflammatory pathways and neurovascular integrity in retinal disease, particularly, diabetic retinopathy and retinopathy of prematurity while identifying therapeutic strategies that preserve vascular stability and protect retinal function.
+
+[Hero Tools]{style="font-weight: 500; color:seagreen;"}: Mouse models of retinal vascular disease, Immunohistochemistry and Confocal microscopy, OCT and ERG based phenotyping, R ecosystems, Biostatistics
 
 ## Alumni 
 
@@ -46,14 +57,13 @@ library(knitr)
 
 df <- data.frame(
   Name = c("Zihao Zhang","Yassin Mreyoud","Doug Welsch", "Brunno Macedo"),
-  Role = c("Machine learning","Single-cell genomics","Bioinformatics", "CML genomics"),
-  Time = c( "2025 Fall","2025 Summer","2024-2025", "2024 Fall"),
+  Role = c("Machine learning, 2025 Fall","Single-cell genomics, 2025 Summer","Bioinformatics, 2024-25", "CML genomics, 2024 Fall"),
   School = c("Chinese Academy of Sciences | Nutrition","WashU | Medicine","Rice | Computer Science", "UFPE, Brazil"),
   Lastknown = c("UAB","UAB | Medicine","","UAB | Medicine")
 )
 
 kable(df, format = "html",
-      col.names = c("Name", "Project", "Time", "Prior Institution", "Moving Forward"),
+      col.names = c("Name", "Project", "From", "Next Chapter"),
       table.attr = "class='table table-striped'")
 ```
 
