@@ -1007,7 +1007,7 @@ ${\ast}$:
 First authors
 
 ${\dagger}$: 
-Corresponding author(s)
+Corresponding authors
 
 ${\ddagger}$: 
 Senior authors

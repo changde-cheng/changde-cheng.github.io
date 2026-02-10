@@ -6,6 +6,8 @@ toc-title: "Manuscripts"
 toc-depth: 4
 ---
 
+
+
 <!-- ## Working papers -->
 ---
 
@@ -391,19 +393,15 @@ Submitted.
 
 ::::
 
-
 ---
 
-[Lab Heroes]{style="color:darkgreen;"}
+[Lab Heroes]{style="color:darkgreen;"} 
 
-${\ast}$: 
-First authors
+${\ast}$: First authors  
 
-${\dagger}$: 
-Corresponding author(s)
+${\dagger}$: Corresponding authors
 
-${\ddagger}$: 
-Senior authors
+${\ddagger}$: Senior authors
 
 
 
