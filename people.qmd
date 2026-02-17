@@ -59,7 +59,7 @@ df <- data.frame(
   Name = c("Zihao Zhang","Yassin Mreyoud","Doug Welsch", "Brunno Macedo"),
   Role = c("Machine learning, 2025 Fall","Single-cell genomics, 2025 Summer","Bioinformatics, 2024-25", "CML genomics, 2024 Fall"),
   School = c("Chinese Academy of Sciences | Nutrition","WashU | Medicine","Rice | Computer Science", "UFPE, Brazil"),
-  Lastknown = c("UAB","UAB | Medicine","","UAB | Medicine")
+  Lastknown = c("UAB","UAB | Medicine","Oklahoma Medical Research Foundation | Donczew Lab","UAB | Matlawska Lab")
 )
 
 kable(df, format = "html",
