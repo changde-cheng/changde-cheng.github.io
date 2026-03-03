@@ -346,7 +346,7 @@ Submitted.
 
 ---
 
-### 2026 (-2)
+### 2026 (-3)
 
 ---
 
@@ -388,6 +388,29 @@ Submitted.
 ::: {.column width="90%"}
 [№ 21.]{style="font-size: 100%; font-weight:500; color:black;"} **Structure and function of adhesion GPCRs ADGRB1, B2 and B3 in physiology and disease**. \
 [ Virgínea de Araújo Farias, Rashed Rezwan Parag, Kiyotaka Saitoh, Jesse Stillwell, Alex Torrelli-Diljohn, Maryam Ahmadian Elmi, [Changde Cheng]{style="color:black;"} and  Erwin G. Van Meir ]{style="font-weight: 300;color:gray;"}\
+Submitted.
+:::
+
+::::
+
+
+---
+
+#### 2026-02-28 {#sec-w22}
+
+
+:::: {.columns}
+
+::: {.column width="8%"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="90%"}
+[№ 22.]{style="font-size: 100%; font-weight:500; color:black;"} **Clonal hematopoiesis disrupts iNKT homeostasis through distinct lipid antigens and inflammation**. \
+[ Francesca Luca, Alana Franceski, Paran Goel, Valeriya Kuznetsova, Brittany Crown, Daniel Phillips, Caroline Ennis, Ashley Connelly, Amanda Costa, Sajesan Aryal, Molly Boettiger, [Changde Cheng]{style="color:black;"} , Rui Lu, P. Brent Ferrell, Shouxiong Huang, Angelo D'Alessandro, and Robert Welner ]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
