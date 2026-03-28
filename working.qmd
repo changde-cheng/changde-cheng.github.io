@@ -91,7 +91,7 @@ Submitted.
 
 ---
 
-### 2025 (-7)
+### 2025 (-6)
 
 ---
 
@@ -261,25 +261,25 @@ Submitted.
 
 ::::
 
-#### 2025-07-12 {#sec-w15}
+<!-- #### 2025-07-12 {#sec-w15} -->
 
 
-:::: {.columns}
+<!-- :::: {.columns} -->
 
-::: {.column width="8%"}
+<!-- ::: {.column width="8%"} -->
 
-:::
+<!-- ::: -->
 
-::: {.column width="2%"}
-:::
+<!-- ::: {.column width="2%"} -->
+<!-- ::: -->
 
-::: {.column width="90%"}
-[№ 15.]{style="font-size: 100%; font-weight:500; color:black;"} **A Perturb-seq Map of a Differentiation Hub Reveals Synergistic Vulnerabilities in KMT2A-rearranged AML**. \
-[Sajesan Aryal, Brittany M. Curtiss, Xinyue Zhou, Rui Lu$^{\dagger}$, [Changde Cheng$^{\dagger}$]{style="color:black;"}.]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
+<!-- ::: {.column width="90%"} -->
+<!-- [№ 15.]{style="font-size: 100%; font-weight:500; color:black;"} **A Perturb-seq Map of a Differentiation Hub Reveals Synergistic Vulnerabilities in KMT2A-rearranged AML**. \ -->
+<!-- [Sajesan Aryal, Brittany M. Curtiss, Xinyue Zhou, Rui Lu$^{\dagger}$, [Changde Cheng$^{\dagger}$]{style="color:black;"}.]{style="font-weight: 300;color:gray;"}\ -->
+<!-- Submitted. -->
+<!-- ::: -->
 
-::::
+<!-- :::: -->
 
 #### 2025-07-19 {#sec-w16}
 
