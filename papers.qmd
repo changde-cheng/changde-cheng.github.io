@@ -24,7 +24,7 @@ toc-depth: 4
 :::
 
 ::: {.column width="90%"}
-##### [43°.]{style="font-size: 100%; font-weight:500; color:black;"} **A Perturb-seq Map of a Differentiation Hub Reveals Synergistic Vulnerabilities in KMT2A-rearranged AML**. \
+##### [43°.]{style="font-size: 100%; font-weight:500; color:black;"} **A Perturb-seq Map of a Differentiation Hub Reveals Synergistic Vulnerabilities in KMT2A-rearranged AML**.
 [Sajesan Aryal, Brittany M. Curtiss, Xinyue Zhou, Rui Lu$^{\dagger}$, [Changde Cheng$^{\dagger}$]{style="color:black;"}.]{style="font-weight: 300;color:gray;"}\
 [Leukemia](), in press.
 :::
