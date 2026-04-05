@@ -44,7 +44,7 @@ toc-depth: 4
 ::: {.column width="90%"}
 ##### [42°.]{style="font-size: 100%; font-weight:500; color:black;"} **Developmental rprogramming underlies chemotherapy resistance in favorable-histology Wilms tumor**.
 [Andrew M. Fleming; Carolyn M. Jablonowski; Hongjian Jin; Surbhi Sona; Ha Won Lee; Karissa M. Dieseldorff Jones; [Changde Cheng]{style="color:black;"}; Beisi Xu; Christopher L. Morton; Mary A. Woolard; Prahalathan Pichavaram; Daniel B. Gehle; Sivaraman Natarajan; Kiran Kodali; Vishwajeeth Pagala; Anthony A. High; Yogesh Kumar; Ti-Cheng Chang; John Easton; Scott R. Olsen; Geoffrey Neale; Emilia M. Pinto; Jerold E. Rehg; Teresa Santiago; Rani E. George; Xiaotu Ma; Gerard P. Zambetti; Andrew M. Davidoff; Taosheng Chen; Gang Wu; Xiang Chen; Jun Yang; Andrew Jackson Murphy]{style="font-weight: 300;color:gray;"}\
-[Cell Reports](), in press.
+[Cell Reports](https://doi.org/10.1016/j.celrep.2026.117063), Mar 17.
 :::
 
 ::::
@@ -69,8 +69,7 @@ toc-depth: 4
 ::: {.column width="90%"}
 ##### [41°.]{style="font-size: 100%; font-weight:500; color:black;"}**Evolvability: Progress and Key Questions**.
 [C. Pélabon, C.$^{\dagger}$, G. A. Agudelo-Cantero, Y.G. Araya-Ajoy, G.H. Bolstad, [C. Cheng]{style="color:black;"}, F. Galis, F. Guillaume, T. Haaland, B. Hallgrimsson, T. Hansen, A. Holstad, D. Houle, G. Hunt, I. Isaksen, L. Milocco, N. Mubalegh, L. Nuño de la Rosa, Steven Orzack, A. Porto, Jane ReidJ.L. Sztepanacz, E.A.B. Undheim, C. Villegas, K.L. Voje, C. Walling, J. Wright]{style="font-weight: 300;color:gray;"}\
-[BioScience](https://doi.org/10.1093/biosci/biaf111)
-, .
+[BioScience](https://doi.org/10.1093/biosci/biaf111), 75 (12), 1042–1057.
 :::
 
 ::::

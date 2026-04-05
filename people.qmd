@@ -27,26 +27,16 @@ Meet the lab ~ a team of computational biologists, data scientists, and research
 
 ### Dr.  Venkata Krishna Chaithanya Manam
 
-Currently a postdoc in the lab.
+Dr. Manam earned his Ph.D. in Electrical and Computer Engineering from [Purdue University](https://en.wikipedia.org/wiki/Purdue_University), where he focused on NLP methods to detect and resolve ambiguities in crowdsourcing tasks, improving clarity and the quality of results with minimal effort from requesters (including publications in [*IEEE Robotics and Automation Letters*]{.underline} and conferences.)  He was an AI & NLP Research Scientist at Reveal AI before joining the lab.
 
-[Superpower]{style="font-weight: 500; color:seagreen;"}:  Bridging artificial intelligence and biological discovery through advanced NLP, LLMs, and machine learning architectures.
-
-[Origin Story]{style="font-weight: 500; color:seagreen;"}: Dr. Manam earned his Ph.D. in Electrical and Computer Engineering from Purdue University, where his research focused on developing NLP methods to detect and resolve ambiguities in crowdsourcing tasks, thereby improving clarity and the quality of results with minimal effort from requesters. He previously served as an AI & NLP Research Scientist at Reveal AI, where he built systems that transformed unstructured data into actionable insights using LLMs and advanced AI techniques.
-
-[Current Quest]{style="font-weight: 500; color:seagreen;"}: Engineering sophisticated data integration strategies that combine multi-modal biological datasets with AI-driven insights. Working to unlock hidden patterns in genomic data that traditional methods miss.
-
-[Hero Tools]{style="font-weight: 500; color:seagreen;"}: Python/R ecosystems, LLMs, and natural language processing pipelines, and advanced AI frameworks.
-
+He currently works on multi-modal datasets to discover hidden patterns in cancer research.
 
 ### Fadeela Sheini, OD
 
-[Superpower]{style="font-weight: 500; color:seagreen;"}:  Integrating retinal biology and translational medicine using vascular disease models with high resolution imaging, bioinformatics, molecular profiling, and inflammation biology.
+Fadeela Sheini is a Vision Science PhD student at the University of Alabama at Birmingham (UAB), co-mentored with Dr Maria Grant.  She aims to connect mechanistic research with real world clinical impact.  Her work and training span experimental design and quantitative analysis, to understand how retinal tissues respond to metabolic and ischemic stress.
 
-[Origin Story]{style="font-weight: 500; color:seagreen;"}: Fadeela Sheini is a Vision Science PhD student at the University of Alabama at Birmingham (UAB), co-mentored with Dr Maria Grant.  Her scientific path has been shaped by a drive to connect rigorous mechanistic research with real world clinical impact.  Her work and training span experimental design and quantitative analysis, with experience applying imaging and molecular approaches to understand how retinal tissues respond to metabolic and ischemic stress.
+She is working on lipid metabolism and inflammation in diabetic retinopathy and retinopathy of prematurity, to identify therapeutic strategies that preserve vascular stability and protect retinal function.
 
-[Current Quest]{style="font-weight: 500; color:seagreen;"}: Uncovering how lipid metabolism and nuclear receptor signaling reprogram inflammatory pathways and neurovascular integrity in retinal disease, particularly, diabetic retinopathy and retinopathy of prematurity while identifying therapeutic strategies that preserve vascular stability and protect retinal function.
-
-[Hero Tools]{style="font-weight: 500; color:seagreen;"}: Mouse models of retinal vascular disease, Immunohistochemistry and Confocal microscopy, OCT and ERG based phenotyping, R ecosystems, Biostatistics
 
 ## Alumni 
 
@@ -68,23 +58,19 @@ kable(df, format = "html",
 ```
 
 
-<!-- ### Yassin Mreyoud -->
+### Yassin Mreyoud - MD/PhD candidate
 
-<!-- [Superpower]{style="font-weight: 500; color:seagreen;"}: Transforming chaotic multi-omics data into crystal-clear biological insights. -->
-
-<!-- [Origin Story]{style="font-weight: 500; color:seagreen;"}: Previously a bioinformatics Scientist at Washington University School of Medicine in St. Louis. Now a MSTP MD/PhD student at UAB. -->
-
-<!-- [Current Quest]{style="font-weight: 500; color:seagreen;"}: Unraveling the mysteries of immuno-dysregulation by mapping cellular conversations and identifying the communication breakdowns that lead to disease. Bridging the gap between computational discovery and clinical application. -->
-
-<!-- [Hero Tools]{style="font-weight: 500; color:seagreen;"}:  Multi-omics integration platforms, cell-cell communication algorithms, single-cell analysis pipelines. -->
+He was a bioinformatics Scientist at [Washington University School of Medicine in St. Louis](https://en.wikipedia.org/wiki/Washington_University_School_of_Medicine), with multiple publications including one in [*BMC bioinformatics*]{.underline}. Now a MSTP MD/PhD student at UAB.  He is interested in immuno-dysregulation and cellular communication breakdowns that lead to disease.  His work covers multi-omics integration platforms, cell-cell communication algorithms, single-cell analysis pipelines.
 
 <!-- --- -->
 
-<!-- ## Doug Welsch - Bioinformatician -->
+### Doug Welsch - Bioinformatician
 
-<!-- He earned a Bachelor of Science degree in Computer Science from [William Marsh Rice University](https://en.wikipedia.org/wiki/Rice_University), a leading research university in the United States. During his college years, he also pursued a minor in Biochemistry and Cell Biology. As a student researcher at Rice, he worked in Dr. M. Neal [Waxham's lab](https://sites.google.com/uth.edu/waxham-lab/home) at The University of Texas Health Science Center at Houston, focusing on image analysis of synthetic lipid vesicles under cryo-EM, and co-authored a publication in [*Biophysical Reports*]{.underline}. He also worked in Dr. [Hongjie Li's Lab](https://www.bcm.edu/people-search/hongjie-li-66406) at Baylor College of Medicine under the supervision of Dr. Tzu-Chiao Lu on single-cell data analysis and published a co-authored paper in [*Science*]{.underline}. -->
+He earned a Bachelor of Science degree in Computer Science from [William Marsh Rice University](https://en.wikipedia.org/wiki/Rice_University), a leading research university in the United States. During his college years, he also pursued a minor in Biochemistry and Cell Biology. As a student researcher at Rice, he worked in Dr. M. Neal [Waxham's lab](https://sites.google.com/uth.edu/waxham-lab/home) at The University of Texas Health Science Center at Houston, focusing on image analysis of synthetic lipid vesicles under cryo-EM, and co-authored a publication in [*Biophysical Reports*]{.underline}. He also worked in Dr. [Hongjie Li's Lab](https://www.bcm.edu/people-search/hongjie-li-66406) at Baylor College of Medicine under the supervision of Dr. Tzu-Chiao Lu on single-cell data analysis and published a co-authored paper in [*Science*]{.underline}. 
 
-<!-- ## Brunno Macedo - PhD student -->
+He published multiple papers including [*Blood*]{.underline}, [*Cancer Gene Therapy*]{.underline}, and more with us.
 
-<!-- He received a Bachelor's degree in Biomedical Sciences from the [Federal University of Pernambuco in Brazil](https://en.wikipedia.org/wiki/Federal_University_of_Pernambuco), where he gained experience in clinical and laboratory hematology while working as a teacher's assistant for both undergraduate and professional specialization courses for two years. He recently completed a Master of Sciences degree from the [University of São Paulo](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo) at Ribeirão Preto Medical School (Internal Medicine Graduate Program). During his Master's program, he conducted research in [Dr. Fabiola Traina's lab](https://rio.fmrp.usp.br/fabiolatraina/), which focuses on molecular alterations and signaling pathways in myeloid neoplasms. Currently, Brunno is a PhD student at the University of Alabama at Birmingham. -->
+### Brunno Macedo - PhD student
+
+He received a Bachelor's degree in Biomedical Sciences from the [Federal University of Pernambuco in Brazil](https://en.wikipedia.org/wiki/Federal_University_of_Pernambuco), where he gained experience in clinical and laboratory hematology while working as a teacher's assistant for both undergraduate and professional specialization courses for two years. He recently completed a Master of Sciences degree from the [University of São Paulo](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo) at Ribeirão Preto Medical School (Internal Medicine Graduate Program). During his Master's program, he conducted research in [Dr. Fabiola Traina's lab](https://rio.fmrp.usp.br/fabiolatraina/), which focuses on molecular alterations and signaling pathways in myeloid neoplasms. Currently, Brunno is a PhD student at the University of Alabama at Birmingham.
 
