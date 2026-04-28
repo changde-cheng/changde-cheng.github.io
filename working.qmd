@@ -41,7 +41,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 
 ---
 
-### 2024 (-2)
+### 2024 (-1)
 
 ---
 
@@ -69,25 +69,25 @@ Submitted.
 
 
 
-#### 2024-12-08 {#sec-w6}
+<!-- #### 2024-12-08 {#sec-w6} -->
 
 
-:::: {.columns}
+<!-- :::: {.columns} -->
 
-::: {.column width="8%"}
-![](preprints/2024_gmm/featured.png)
-:::
+<!-- ::: {.column width="8%"} -->
+<!-- ![](preprints/2024_gmm/featured.png) -->
+<!-- ::: -->
 
-::: {.column width="2%"}
-:::
+<!-- ::: {.column width="2%"} -->
+<!-- ::: -->
 
-::: {.column width="90%"}
-[№ 5.]{style="font-size: 100%; font-weight:500; color:black;"} **Antibody deficiency accelerates tumorigenesis in genetically engineered mouse models of pancreatic cancer**. \
-[Foote JB $^{\dagger}$, Sarvesh S, Al Diﬀalha S, Crossman DK, [Changde Cheng]{style="color:black;"}, Kim M, Rose BJ, Klug CA.]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
+<!-- ::: {.column width="90%"} -->
+<!-- [№ 5.]{style="font-size: 100%; font-weight:500; color:black;"} **Antibody deficiency accelerates tumorigenesis in genetically engineered mouse models of pancreatic cancer**. \ -->
+<!-- [Foote JB $^{\dagger}$, Sarvesh S, Al Diﬀalha S, Crossman DK, [Changde Cheng]{style="color:black;"}, Kim M, Rose BJ, Klug CA.]{style="font-weight: 300;color:gray;"}\ -->
+<!-- Submitted. -->
+<!-- ::: -->
 
-::::
+<!-- :::: -->
 
 ---
 
