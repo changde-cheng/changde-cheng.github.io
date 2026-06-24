@@ -21,11 +21,17 @@ toc-depth: 4
 
 <!-- Currently, he serves as a faculty member and head of bioinformatics in the Stem Cell Program and the Institute for Cancer Outcomes and Survivorship at the Heersink School of Medicine, [University of Alabama at Birmingham](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine). His work integrates expertise in genetics, bioinformatics, and computational biology to advance understanding and treatment of cancer and other complex diseases. -->
 
+The lab works on cancer genomics and single-cell biology with computational methods.
+
 ## The Research Champions
+
+### Dr. Venkata Krishna Chaithanya Manam
+
+Dr. Manam earned his Ph.D. in Electrical and Computer Engineering from [Purdue University](https://en.wikipedia.org/wiki/Purdue_University). His doctoral work used natural language processing to detect and resolve ambiguities in crowdsourcing task instructions, with publications in [*IEEE Robotics and Automation Letters*]{.underline} and at the HCOMP and WWW conferences. He was an AI and NLP Research Scientist at Reveal AI before joining the lab. He works on machine-learning methods for single-cell perturbation data.
 
 ### Fadeela Sheini, OD
 
-Fadeela Sheini is a Vision Science PhD student at UAB, co-mentored with Dr. Maria Grant. Her work covers experimental design and quantitative analysis of retinal tissue responses to metabolic and ischemic stress. She is investigating lipid metabolism and inflammation in diabetic retinopathy and retinopathy of prematurity, to identify strategies that preserve vascular stability and protect retinal function.
+Fadeela Sheini is a Vision Science PhD student at UAB, co-mentored with Dr. Maria Grant. Her work covers experimental design and quantitative analysis of retinal tissue responses to metabolic and ischemic stress. She studies lipid metabolism and inflammation in diabetic retinopathy and retinopathy of prematurity, to identify strategies that preserve vascular stability and protect retinal function.
 
 
 ## Alumni 
