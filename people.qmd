@@ -21,21 +21,11 @@ toc-depth: 4
 
 <!-- Currently, he serves as a faculty member and head of bioinformatics in the Stem Cell Program and the Institute for Cancer Outcomes and Survivorship at the Heersink School of Medicine, [University of Alabama at Birmingham](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine). His work integrates expertise in genetics, bioinformatics, and computational biology to advance understanding and treatment of cancer and other complex diseases. -->
 
-Meet the lab ~ a team of computational biologists, data scientists, and researchers advancing cancer genomics and precision medicine.
-
 ## The Research Champions
-
-### Dr.  Venkata Krishna Chaithanya Manam
-
-Dr. Manam earned his Ph.D. in Electrical and Computer Engineering from [Purdue University](https://en.wikipedia.org/wiki/Purdue_University), where he focused on NLP methods to detect and resolve ambiguities in crowdsourcing tasks, improving clarity and the quality of results with minimal effort from requesters (including publications in [*IEEE Robotics and Automation Letters*]{.underline} and conferences.)  He was an AI & NLP Research Scientist at Reveal AI before joining the lab.
-
-He currently works on multi-modal datasets to discover hidden patterns in cancer research.
 
 ### Fadeela Sheini, OD
 
-Fadeela Sheini is a Vision Science PhD student at the University of Alabama at Birmingham (UAB), co-mentored with Dr Maria Grant.  She aims to connect mechanistic research with real world clinical impact.  Her work and training span experimental design and quantitative analysis, to understand how retinal tissues respond to metabolic and ischemic stress.
-
-She is working on lipid metabolism and inflammation in diabetic retinopathy and retinopathy of prematurity, to identify therapeutic strategies that preserve vascular stability and protect retinal function.
+Fadeela Sheini is a Vision Science PhD student at UAB, co-mentored with Dr. Maria Grant. Her work covers experimental design and quantitative analysis of retinal tissue responses to metabolic and ischemic stress. She is investigating lipid metabolism and inflammation in diabetic retinopathy and retinopathy of prematurity, to identify strategies that preserve vascular stability and protect retinal function.
 
 
 ## Alumni 
