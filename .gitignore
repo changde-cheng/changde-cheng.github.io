@@ -6,3 +6,5 @@ Thumbs.db
 /_site/
 /_*.local
 .positai
+
+**/*.quarto_ipynb
