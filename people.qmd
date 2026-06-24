@@ -10,28 +10,28 @@
 page-layout: article
 title-block-banner: false
 toc: true
-toc-title: "Heroes"  
+toc-title: "Members"
 toc-depth: 4
 ---
 
 
-<!-- He started his academic journey at [Peking University](https://en.wikipedia.org/wiki/Peking_University), one of China’s most prestigious universities.  He continued to pursue his education and training at  [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles), with Dr. Charles Taylor, a pioneering researcher exploring fundamental questions about language evolution and artificial life; and at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame), with Dr. [Nora Besansky](https://en.wikipedia.org/wiki/Nora_J._Besansky), on ecological genomics of adaptation and speciation. -->
+<!-- He studied at [Peking University](https://en.wikipedia.org/wiki/Peking_University), then trained at [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles) with Dr. Charles Taylor on language evolution and artificial life, and at the [University of Notre Dame](https://en.wikipedia.org/wiki/University_of_Notre_Dame) with Dr. [Nora Besansky](https://en.wikipedia.org/wiki/Nora_J._Besansky) on ecological genomics of adaptation and speciation. -->
 
-<!-- During his postdoctoral fellowship at the [University of Texas at Austin](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin), he worked with Dr. [Mark Kirkpatrick](https://en.wikipedia.org/wiki/Mark_Kirkpatrick), in population genetics and theoretical biology, and Dr. [David Houle](https://www.bio.fsu.edu/faculty.php?faculty-id=houle), in quantitative genetics and the evolution of complex traits. After that, he worked as a senior/lead computational research scientist at [St. Jude Children's Research Hospital](https://en.wikipedia.org/wiki/St._Jude_Children%27s_Research_Hospital), a world-renowned institution at the forefront of pediatric cancer research and treatment, where he contributed to their mission of finding cures and saving children's lives. -->
+<!-- As a postdoctoral fellow at the [University of Texas at Austin](https://en.wikipedia.org/wiki/University_of_Texas_at_Austin), he worked with Dr. [Mark Kirkpatrick](https://en.wikipedia.org/wiki/Mark_Kirkpatrick) on population genetics and theoretical biology, and with Dr. [David Houle](https://www.bio.fsu.edu/faculty.php?faculty-id=houle) on quantitative genetics. He then worked as a senior computational research scientist at [St. Jude Children's Research Hospital](https://en.wikipedia.org/wiki/St._Jude_Children%27s_Research_Hospital) on pediatric cancer genomics. -->
 
-<!-- Currently, he serves as a faculty member and head of bioinformatics in the Stem Cell Program and the Institute for Cancer Outcomes and Survivorship at the Heersink School of Medicine, [University of Alabama at Birmingham](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine). His work integrates expertise in genetics, bioinformatics, and computational biology to advance understanding and treatment of cancer and other complex diseases. -->
+<!-- He is a faculty member and head of bioinformatics in the Stem Cell Program and the Institute for Cancer Outcomes and Survivorship at the Heersink School of Medicine, [University of Alabama at Birmingham](https://en.wikipedia.org/wiki/University_of_Alabama_at_Birmingham_School_of_Medicine). His work applies genetics, bioinformatics, and computational biology to cancer and other complex diseases. -->
 
 The lab works on cancer genomics and single-cell biology with computational methods.
 
-## The Research Champions
+## Current Members
 
-### Dr. Venkata Krishna Chaithanya Manam
+### Dr. Venkata Krishna Chaithanya Manam - Postdoctoral Fellow
 
 Dr. Manam earned his Ph.D. in Electrical and Computer Engineering from [Purdue University](https://en.wikipedia.org/wiki/Purdue_University). His doctoral work used natural language processing to detect and resolve ambiguities in crowdsourcing task instructions, with publications in [*IEEE Robotics and Automation Letters*]{.underline} and at the HCOMP and WWW conferences. He was an AI and NLP Research Scientist at Reveal AI before joining the lab. He works on machine-learning methods for single-cell perturbation data.
 
-### Fadeela Sheini, OD
+### Fadeela Sheini - Vision Science PhD Student
 
-Fadeela Sheini is a Vision Science PhD student at UAB, co-mentored with Dr. Maria Grant. Her work covers experimental design and quantitative analysis of retinal tissue responses to metabolic and ischemic stress. She studies lipid metabolism and inflammation in diabetic retinopathy and retinopathy of prematurity, to identify strategies that preserve vascular stability and protect retinal function.
+Fadeela Sheini, OD, is a Vision Science PhD student at UAB, co-mentored with Dr. Maria Grant. Her work covers experimental design and quantitative analysis of retinal tissue responses to metabolic and ischemic stress. She studies lipid metabolism and inflammation in diabetic retinopathy and retinopathy of prematurity, to identify strategies that preserve vascular stability and protect retinal function.
 
 
 ## Alumni 
@@ -49,24 +49,24 @@ df <- data.frame(
 )
 
 kable(df, format = "html",
-      col.names = c("Name", "Project", "From", "Next Chapter"),
+      col.names = c("Name", "Project", "From", "Current Position"),
       table.attr = "class='table table-striped'")
 ```
 
 
-### Yassin Mreyoud - MD/PhD candidate
+### Yassin Mreyoud - MD/PhD Candidate
 
-He was a bioinformatics Scientist at [Washington University School of Medicine in St. Louis](https://en.wikipedia.org/wiki/Washington_University_School_of_Medicine), with multiple publications including one in [*BMC bioinformatics*]{.underline}. Now a MSTP MD/PhD student at UAB.  He is interested in immuno-dysregulation and cellular communication breakdowns that lead to disease.  His work covers multi-omics integration platforms, cell-cell communication algorithms, single-cell analysis pipelines.
+He was a bioinformatics scientist at [Washington University School of Medicine in St. Louis](https://en.wikipedia.org/wiki/Washington_University_School_of_Medicine), with several publications including one in [*BMC Bioinformatics*]{.underline}. He is now an MSTP MD/PhD student at UAB. His work covers immune dysregulation and cell-cell communication in disease, spanning multi-omics integration, communication-inference algorithms, and single-cell analysis pipelines.
 
 <!-- --- -->
 
 ### Doug Welsch - Bioinformatician
 
-He earned a Bachelor of Science degree in Computer Science from [William Marsh Rice University](https://en.wikipedia.org/wiki/Rice_University), a leading research university in the United States. During his college years, he also pursued a minor in Biochemistry and Cell Biology. As a student researcher at Rice, he worked in Dr. M. Neal [Waxham's lab](https://sites.google.com/uth.edu/waxham-lab/home) at The University of Texas Health Science Center at Houston, focusing on image analysis of synthetic lipid vesicles under cryo-EM, and co-authored a publication in [*Biophysical Reports*]{.underline}. He also worked in Dr. [Hongjie Li's Lab](https://www.bcm.edu/people-search/hongjie-li-66406) at Baylor College of Medicine under the supervision of Dr. Tzu-Chiao Lu on single-cell data analysis and published a co-authored paper in [*Science*]{.underline}. 
+He earned a Bachelor of Science in Computer Science from [Rice University](https://en.wikipedia.org/wiki/Rice_University), with a minor in Biochemistry and Cell Biology. As a student researcher at Rice, he worked in Dr. M. Neal [Waxham's lab](https://sites.google.com/uth.edu/waxham-lab/home) at the University of Texas Health Science Center at Houston on cryo-EM image analysis of synthetic lipid vesicles, and co-authored a paper in [*Biophysical Reports*]{.underline}. He then worked in Dr. [Hongjie Li's lab](https://www.bcm.edu/people-search/hongjie-li-66406) at Baylor College of Medicine, with Dr. Tzu-Chiao Lu, on single-cell data analysis, and co-authored a paper in [*Science*]{.underline}.
 
-He published multiple papers including [*Blood*]{.underline}, [*Cancer Gene Therapy*]{.underline}, and more with us.
+With the lab, he co-authored papers in [*Blood*]{.underline} and [*Cancer Gene Therapy*]{.underline}, among others.
 
-### Brunno Macedo - PhD student
+### Brunno Macedo - PhD Student
 
-He received a Bachelor's degree in Biomedical Sciences from the [Federal University of Pernambuco in Brazil](https://en.wikipedia.org/wiki/Federal_University_of_Pernambuco), where he gained experience in clinical and laboratory hematology while working as a teacher's assistant for both undergraduate and professional specialization courses for two years. He recently completed a Master of Sciences degree from the [University of São Paulo](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo) at Ribeirão Preto Medical School (Internal Medicine Graduate Program). During his Master's program, he conducted research in [Dr. Fabiola Traina's lab](https://rio.fmrp.usp.br/fabiolatraina/), which focuses on molecular alterations and signaling pathways in myeloid neoplasms. Currently, Brunno is a PhD student at the University of Alabama at Birmingham.
+He earned a Bachelor's degree in Biomedical Sciences from the [Federal University of Pernambuco](https://en.wikipedia.org/wiki/Federal_University_of_Pernambuco), Brazil, where he worked in clinical and laboratory hematology and served two years as a teaching assistant for undergraduate and specialization courses. He then completed a Master of Science at the [University of São Paulo](https://en.wikipedia.org/wiki/University_of_S%C3%A3o_Paulo), Ribeirão Preto Medical School, in the Internal Medicine Graduate Program. For his Master's he worked in [Dr. Fabiola Traina's lab](https://rio.fmrp.usp.br/fabiolatraina/) on molecular alterations and signaling pathways in myeloid neoplasms. He is now a PhD student at the University of Alabama at Birmingham.
 
