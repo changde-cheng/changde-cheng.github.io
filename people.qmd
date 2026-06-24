@@ -64,7 +64,7 @@ He was a bioinformatics scientist at [Washington University School of Medicine i
 
 He earned a Bachelor of Science in Computer Science from [Rice University](https://en.wikipedia.org/wiki/Rice_University), with a minor in Biochemistry and Cell Biology. As a student researcher at Rice, he worked in Dr. M. Neal [Waxham's lab](https://sites.google.com/uth.edu/waxham-lab/home) at the University of Texas Health Science Center at Houston on cryo-EM image analysis of synthetic lipid vesicles, and co-authored a paper in [*Biophysical Reports*]{.underline}. He then worked in Dr. [Hongjie Li's lab](https://www.bcm.edu/people-search/hongjie-li-66406) at Baylor College of Medicine, with Dr. Tzu-Chiao Lu, on single-cell data analysis, and co-authored a paper in [*Science*]{.underline}.
 
-With the lab, he co-authored papers in [*Blood*](https://doi.org/10.1182/blood.2024028199) and [*Cancer Gene Therapy*](https://doi.org/10.1038/s41417-025-00967-9), among others.
+With the lab, he co-authored papers in [*Blood*](https://pubmed.ncbi.nlm.nih.gov/40663784/) and [*Cancer Gene Therapy*](https://pubmed.ncbi.nlm.nih.gov/41015572/), among others.
 
 ### Brunno Macedo - PhD Student
 
