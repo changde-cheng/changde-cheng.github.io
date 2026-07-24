@@ -28,11 +28,11 @@ University of Alabama at Birmingham
 
 Before joining UAB, I developed methods for single-cell genomics in cancer research at the Computational Biology Department at St. Jude Children's Research Hospital.\
 
-During my postdoc, I worked with Mark Kirkpatrick and David Houle, studying sexual antagonistic selection, the evolution of sexual differentiation, and aging. \
+During my postdoc, I worked with Mark Kirkpatrick and David Houle, studying sexual antagonistic selection, the evolution of sexual differentiation, and aging, while exploring many of biology's most fascinating questions. \
 
-Prior to that, I completed my Ph.D. at the University of Notre Dame, under the guidance of Nora Besansky, where I researched speciation, chromosomal evolution, ecological genomics, and evolutionary genomics. \
+I completed my Ph.D. at the University of Notre Dame, guided by Nora Besansky, where I researched speciation, chromosomal evolution, ecological genomics, and evolutionary genomics. \
 
-Before pursuing my Ph.D., I worked with Charles Taylor at UCLA on evolutionary genetics, though my interests were drawn toward artificial life research. I earned my B.S. degree in cell biology and genetics from Peking University. 
+I studied cell biology and genetics at Peking University and later worked with Charles Taylor at UCLA on evolutionary genetics, though my interests were drawn toward Chuck's research in artificial life. 
 :::
 
 ---
@@ -135,7 +135,7 @@ Sexual discordance is not a theoretical curiosity confined to sex chromosomes bu
 
 My early work centered on a classical question: how do chromosomal inversions shape adaptation and divergence? This inquiry soon led to a more applied one: how do these same inversions influence disease transmission in malaria mosquitoes? In pursuing these questions, I challenged the prevailing “speciation island” model, showing instead that genomic divergence arises primarily from regions of suppressed recombination.
 
-Using Anopheles gambiae as a model, I found that inversion 2La tracks Africa’s aridity gradient and forms a **suspension-bridge** pattern of differentiation, confirming that inversions capture locally adapted alleles by suppressing recombination.
+Using Anopheles gambiae as a model, I found that inversion 2La tracks Africa’s aridity gradient and forms a suspension-bridge pattern of differentiation, confirming that inversions capture locally adapted alleles by suppressing recombination.
 
 ::: {style="text-align: center;"}
 ![](featured/2012_ecogenomics/Figure2.png)

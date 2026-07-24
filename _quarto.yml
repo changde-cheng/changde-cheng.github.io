@@ -38,7 +38,7 @@ website:
       #   file: press.qmd
       - text: "[ Working Papers ]"
         file: working.qmd
-      - text: "[ Lab Heroes ]"
+      - text: "[ Our Researchers ]"
         file: people.qmd
       # - text: "Key papers"
       #   file: featured.qmd
