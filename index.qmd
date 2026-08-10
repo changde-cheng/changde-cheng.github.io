@@ -20,7 +20,7 @@ toc-depth: 3
 *Dr. Changde Cheng*
 
 Assistant Professor \
-Stem Cell Biology | Cancer Outcomes and Survivorship | Biomedical Informatics and Data Science \
+Medicine | Biomedical Informatics and Data Science \
 University of Alabama at Birmingham
 
 ::: {.callout-note collapse="true" appearance="minimal" style="background-color: honeydew; border-color: gray; color: seagreen;"}

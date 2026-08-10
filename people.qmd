@@ -27,7 +27,7 @@ The lab develops computational methods to understand cancer, single-cell biology
 
 ### Dr. Venkata Krishna Chaithanya Manam - Postdoctoral Fellow
 
-Dr. Manam earned his Ph.D. in Electrical and Computer Engineering from [Purdue University](https://en.wikipedia.org/wiki/Purdue_University). His doctoral work used natural language processing to detect and resolve ambiguities in crowdsourcing task instructions, with publications in [*IEEE Robotics and Automation Letters*]{.underline} and at the HCOMP and WWW conferences. He was an AI and NLP Research Scientist at Reveal AI before joining the lab. He works on machine-learning methods for single-cell perturbation data.
+Dr. Manam earned his Ph.D. in Electrical and Computer Engineering from [Purdue University](https://en.wikipedia.org/wiki/Purdue_University). His doctoral work used natural language processing to detect and resolve ambiguities in crowdsourcing task instructions, with publications in [*IEEE Robotics and Automation Letters*]{.underline} and at the HCOMP and WWW conferences. He was an AI Research Engineer at Reveal AI before joining the lab. He works on genomics data analysis.
 
 ### Fadeela Sheini - Vision Science PhD Student
 

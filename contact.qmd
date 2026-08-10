@@ -11,8 +11,6 @@ page-layout: article
 title-block-banner: false
 ---
 
-
-
 ## Opportunities for Student Researchers 
 
 We welcome motivated undergraduate and graduate students from diverse backgrounds (including biology, medicine, statistics, and engineering) to join our research team. Our lab focuses on multi-omics integration, cancer immunogenomics, and machine learning applications in precision oncology, providing students with hands-on experience in cutting-edge computational cancer research.
