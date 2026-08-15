@@ -5,6 +5,16 @@ project:
     - "*.qmd"
     - "*.Rmd"
     - "*.md"
+  # Self-hosted KaTeX (see katex/README.md) -- copied into docs/ on every render.
+  # Listed file-by-file rather than katex/** so the published surface stays exactly the
+  # three things the browser asks for, and the README stays out of docs/.
+  resources:
+    - "katex/katex.min.js"
+    - "katex/katex.min.css"
+    - "katex/fonts/*.woff2"
+  # Belt-and-braces: fails the build if any third-party script survives into docs/.
+  post-render:
+    - scripts/check_external_scripts.sh
   preview:
 #    port: 1234
     browser: true
@@ -60,6 +70,12 @@ format:
       - custom.scss.bk.scss
     # theme: cosmo #litera
     # css: styles.css
+    # Math is rendered by the KaTeX vendored in katex/ -- NOT by the default MathJax,
+    # which Quarto 1.3 pairs with a <script src="polyfill.io"> tag.  That domain was
+    # taken over and served malware in June 2024.  See katex/README.md.
+    html-math-method:
+      method: katex
+      url: /katex/
 
 
 description-meta: "Explore computational cancer genomics research at Cheng Lab. We focus on multi-omics integration and analysis, tumor microenvironment studies, computational immunology, clonal evolution, and advancing personalized oncology through therapy optimization, drug development, and biomarker discovery."

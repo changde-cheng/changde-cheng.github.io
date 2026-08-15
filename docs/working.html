@@ -53,8 +53,22 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="./katex/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <link rel="stylesheet" href="./katex/katex.min.css">
 
 </head>
 
@@ -177,7 +191,7 @@ Submission to the 2017 Society for Molecular Biology &amp; Evolution meeting at 
 
 </div><div class="column" style="width:90%;">
 <p><span style="font-size: 100%; font-weight:500; color:black;">№ 2.</span> <strong>Transcriptome alteration in pancreatic neuroendocrine tumors among those living with adverse SDOH</strong>.<br>
-<span style="font-weight: 300;color:gray;">Andrea Gillis<span class="math inline">\(^{\ast}\)</span>, K. Kerrick Akinola<span class="math inline">\(^{\ast}\)</span>, Brendon Herring, Isra Elhussin, Elquis Castillo, Stuart Phipps, Vinodh Srinivasasainagendra, Weisheng Chen, Rachael Guenter, Tiwari Hemant, Dai Chen, Upender Manne, Herbert Chen, Clayton Yates, J Bart Rose, <span style="font-weight: 400; color:darkgreen;">Changde Cheng</span>, Smita Bhatia.</span><br>
+<span style="font-weight: 300;color:gray;">Andrea Gillis<span class="math inline">^{\ast}</span>, K. Kerrick Akinola<span class="math inline">^{\ast}</span>, Brendon Herring, Isra Elhussin, Elquis Castillo, Stuart Phipps, Vinodh Srinivasasainagendra, Weisheng Chen, Rachael Guenter, Tiwari Hemant, Dai Chen, Upender Manne, Herbert Chen, Clayton Yates, J Bart Rose, <span style="font-weight: 400; color:darkgreen;">Changde Cheng</span>, Smita Bhatia.</span><br>
 Submitted.</p>
 </div>
 </div>
@@ -323,7 +337,7 @@ Submitted.</p>
 
 </div><div class="column" style="width:90%;">
 <p><span style="font-size: 100%; font-weight:500; color:black;">№ 16.</span> <strong>Evolution of Clonal Hematopoiesis Following Autologous Transplantation for Lymphoma and Subsequent Therapy-related Myeloid Neoplasia</strong>.<br>
-<span style="font-weight: 300;color:gray;"><span style="font-weight: 400; color:darkgreen;">Changde Cheng<span class="math inline">\(^{\ast}\)</span></span>,Rashi Kalra<span class="math inline">\(^{\ast}\)</span>, Yanjun Chen, Alysia Bosworth, Joshua Richman, Na Xie, Chengcheng Yan, Christopher J Gibson, David K Crossman, Lindsey Hageman, Purnima Singh, Melissa A Richards, Benjamin L Ebert, Saro H Armenian, Stephen J Forman, Smita Bhatia<span class="math inline">\(^{\dagger}\)</span>, Ravi Bhatia<span class="math inline">\(^{\dagger}\)</span></span><br>
+<span style="font-weight: 300;color:gray;"><span style="font-weight: 400; color:darkgreen;">Changde Cheng<span class="math inline">^{\ast}</span></span>,Rashi Kalra<span class="math inline">^{\ast}</span>, Yanjun Chen, Alysia Bosworth, Joshua Richman, Na Xie, Chengcheng Yan, Christopher J Gibson, David K Crossman, Lindsey Hageman, Purnima Singh, Melissa A Richards, Benjamin L Ebert, Saro H Armenian, Stephen J Forman, Smita Bhatia<span class="math inline">^{\dagger}</span>, Ravi Bhatia<span class="math inline">^{\dagger}</span></span><br>
 Submitted.</p>
 </div>
 </div>
@@ -370,7 +384,7 @@ Submitted.</p>
 
 </div><div class="column" style="width:90%;">
 <p><span style="font-size: 100%; font-weight:500; color:black;">№ 20.</span> <strong>AML Maturation State Correlates with NK Cell Perturbation for Predicted Relapse</strong>.<br>
-<span style="font-weight: 300;color:gray;">Paran Goel, <span style="font-weight: 400; color:darkgreen;">V.K. Chaithanya Manam</span>, Amanda Costa, Valeriya Kuznetsova, Gracie M. Jack, Joshua Knapp, Brittany M. Curtiss, <span style="font-weight: 400; color:darkgreen;">Doug Welsch</span>, Ashley N. Connelly, Meghana Madabhushi, Caroline C. Ennis, Alana M. Franceski, Francesca Luca, Daniel W. Phillips, Ravi Bhatia, Lorena Lobo de Figueiredo-Pontes, Rui Lu, Stanley C. Lee, P. Brent Ferrell, Manuel R. Espinoza-Gutarra, <span style="font-weight: 400; color:darkgreen;">Changde Cheng<span class="math inline">\(^{\dagger}\)</span></span> and Robert S. Welner<span class="math inline">\(^{\dagger}\)</span></span><br>
+<span style="font-weight: 300;color:gray;">Paran Goel, <span style="font-weight: 400; color:darkgreen;">V.K. Chaithanya Manam</span>, Amanda Costa, Valeriya Kuznetsova, Gracie M. Jack, Joshua Knapp, Brittany M. Curtiss, <span style="font-weight: 400; color:darkgreen;">Doug Welsch</span>, Ashley N. Connelly, Meghana Madabhushi, Caroline C. Ennis, Alana M. Franceski, Francesca Luca, Daniel W. Phillips, Ravi Bhatia, Lorena Lobo de Figueiredo-Pontes, Rui Lu, Stanley C. Lee, P. Brent Ferrell, Manuel R. Espinoza-Gutarra, <span style="font-weight: 400; color:darkgreen;">Changde Cheng<span class="math inline">^{\dagger}</span></span> and Robert S. Welner<span class="math inline">^{\dagger}</span></span><br>
 Submitted.</p>
 </div>
 </div>
@@ -421,9 +435,9 @@ Submitted.</p>
 </div>
 <hr>
 <p><span style="font-weight: 400; color:darkgreen;">Our Researchers</span></p>
-<p><span class="math inline">\({\ast}\)</span>: First authors</p>
-<p><span class="math inline">\({\dagger}\)</span>: Corresponding authors</p>
-<p><span class="math inline">\({\ddagger}\)</span>: Senior authors</p>
+<p><span class="math inline">{\ast}</span>: First authors</p>
+<p><span class="math inline">{\dagger}</span>: Corresponding authors</p>
+<p><span class="math inline">{\ddagger}</span>: Senior authors</p>
 
 
 </section>

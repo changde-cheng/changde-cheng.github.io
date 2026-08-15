@@ -53,8 +53,22 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="./katex/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <link rel="stylesheet" href="./katex/katex.min.css">
 
 </head>
 
@@ -150,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
 </div><div class="column" style="width:90%;">
 <section id="antibody-deficiency-accelerates-tumorigenesis-in-genetically-engineered-mouse-models-of-pancreatic-cancer." class="level5">
 <h5 class="anchored" data-anchor-id="antibody-deficiency-accelerates-tumorigenesis-in-genetically-engineered-mouse-models-of-pancreatic-cancer."><span style="font-size: 100%; font-weight:500; color:black;">44°.</span> <strong>Antibody deficiency accelerates tumorigenesis in genetically engineered mouse models of pancreatic cancer</strong>.</h5>
-<p><span style="font-weight: 300;color:gray;">Foote JB <span class="math inline">\(^{\dagger}\)</span>, Sarvesh S, Al Diﬀalha S, Crossman DK, <span style="color:black;">Changde Cheng</span>, Kim M, Hardy C, Carstens J, Kojima K, Rose BJ, Klug CA<span class="math inline">\(^{\dagger}\)</span>.</span><br>
+<p><span style="font-weight: 300;color:gray;">Foote JB <span class="math inline">^{\dagger}</span>, Sarvesh S, Al Diﬀalha S, Crossman DK, <span style="color:black;">Changde Cheng</span>, Kim M, Hardy C, Carstens J, Kojima K, Rose BJ, Klug CA<span class="math inline">^{\dagger}</span>.</span><br>
 <a href="">JCI Insight</a>, accepted.</p>
 </section>
 </div>
@@ -164,7 +178,7 @@ ul.task-list li input[type="checkbox"] {
 </div><div class="column" style="width:90%;">
 <section id="a-perturb-seq-mpa-of-a-differentiation-hub-reveals-synergistic-vulnerabilities-in-kmt2a-rearranged-aml." class="level5">
 <h5 class="anchored" data-anchor-id="a-perturb-seq-mpa-of-a-differentiation-hub-reveals-synergistic-vulnerabilities-in-kmt2a-rearranged-aml."><span style="font-size: 100%; font-weight:500; color:black;">43°.</span><strong>A Perturb-seq mpa of a differentiation hub reveals synergistic vulnerabilities in KMT2A-rearranged AML</strong>.</h5>
-<p><span style="font-weight: 300;color:gray;">Sajesan Aryal, Brittany M. Curtiss, Xinyue Zhou, Rui Lu<span class="math inline">\(^{\dagger}\)</span>, <span style="color:black;">Changde Cheng<span class="math inline">\(^{\dagger}\)</span></span>.</span><br>
+<p><span style="font-weight: 300;color:gray;">Sajesan Aryal, Brittany M. Curtiss, Xinyue Zhou, Rui Lu<span class="math inline">^{\dagger}</span>, <span style="color:black;">Changde Cheng<span class="math inline">^{\dagger}</span></span>.</span><br>
 <a href="">Leukemia</a>, in press.</p>
 </section>
 </div>
@@ -196,7 +210,7 @@ ul.task-list li input[type="checkbox"] {
 </div><div class="column" style="width:90%;">
 <section id="evolvability-progress-and-key-questions." class="level5">
 <h5 class="anchored" data-anchor-id="evolvability-progress-and-key-questions."><span style="font-size: 100%; font-weight:500; color:black;">41°.</span><strong>Evolvability: Progress and Key Questions</strong>.</h5>
-<p><span style="font-weight: 300;color:gray;">C. Pélabon, C.<span class="math inline">\(^{\dagger}\)</span>, G. A. Agudelo-Cantero, Y.G. Araya-Ajoy, G.H. Bolstad, <span style="color:black;">C. Cheng</span>, F. Galis, F. Guillaume, T. Haaland, B. Hallgrimsson, T. Hansen, A. Holstad, D. Houle, G. Hunt, I. Isaksen, L. Milocco, N. Mubalegh, L. Nuño de la Rosa, Steven Orzack, A. Porto, Jane ReidJ.L. Sztepanacz, E.A.B. Undheim, C. Villegas, K.L. Voje, C. Walling, J. Wright</span><br>
+<p><span style="font-weight: 300;color:gray;">C. Pélabon, C.<span class="math inline">^{\dagger}</span>, G. A. Agudelo-Cantero, Y.G. Araya-Ajoy, G.H. Bolstad, <span style="color:black;">C. Cheng</span>, F. Galis, F. Guillaume, T. Haaland, B. Hallgrimsson, T. Hansen, A. Holstad, D. Houle, G. Hunt, I. Isaksen, L. Milocco, N. Mubalegh, L. Nuño de la Rosa, Steven Orzack, A. Porto, Jane ReidJ.L. Sztepanacz, E.A.B. Undheim, C. Villegas, K.L. Voje, C. Walling, J. Wright</span><br>
 <a href="https://doi.org/10.1093/biosci/biaf111">BioScience</a>, 75 (12), 1042–1057.</p>
 </section>
 </div>
@@ -294,7 +308,7 @@ ul.task-list li input[type="checkbox"] {
 </div><div class="column" style="width:90%;">
 <section id="alternative-mrna-splicing-in-anthracycline-induced-cardiomyopathy-a-cog-alte03n1-report." class="level5">
 <h5 class="anchored" data-anchor-id="alternative-mrna-splicing-in-anthracycline-induced-cardiomyopathy-a-cog-alte03n1-report."><span style="font-size: 100%; font-weight:500; color:black;">35°.</span> <strong>Alternative mRNA splicing in anthracycline-induced cardiomyopathy – a COG-ALTE03N1 report</strong>.</h5>
-<p><span style="font-weight: 300;color:gray;">Purnima Singh <span class="math inline">\(^{\ast}\)</span>, David K. Crossman <span class="math inline">\(^{\ast}\)</span>, <span style="color:black;">Changde Cheng</span>, Patrick J. Trainor, Noha Sharafeldin, Xuexia Wang, Liting Zhou, Lindsey Hageman, Saro H. Armenian, Frank M. Balis, Douglas S. Hawkins, Frank G. Keller, Melissa M. Hudson, Joseph P. Neglia, A. Kim Ritchey, Jill P. Ginsberg, Wendy Landier, Smita Bhatia.</span><br>
+<p><span style="font-weight: 300;color:gray;">Purnima Singh <span class="math inline">^{\ast}</span>, David K. Crossman <span class="math inline">^{\ast}</span>, <span style="color:black;">Changde Cheng</span>, Patrick J. Trainor, Noha Sharafeldin, Xuexia Wang, Liting Zhou, Lindsey Hageman, Saro H. Armenian, Frank M. Balis, Douglas S. Hawkins, Frank G. Keller, Melissa M. Hudson, Joseph P. Neglia, A. Kim Ritchey, Jill P. Ginsberg, Wendy Landier, Smita Bhatia.</span><br>
 <a href="https://doi.org/10.1186/s40959-025-00345-2">Cardio-Oncology</a> 11, 47 (2025)</p>
 </section>
 </div>
@@ -341,7 +355,7 @@ The American Journal of Human Genetics 112 (2), 254-260</p>
 </div><div class="column" style="width:90%;">
 <section id="dna-damage-response-and-repair-genes-and-anthracycline-induced-cardiomyopathy-in-childhood-cancer-survivors-a-report-from-the-childrens-oncology-group-and-the-childhood-cancer-survivor-study." class="level5">
 <h5 class="anchored" data-anchor-id="dna-damage-response-and-repair-genes-and-anthracycline-induced-cardiomyopathy-in-childhood-cancer-survivors-a-report-from-the-childrens-oncology-group-and-the-childhood-cancer-survivor-study."><span style="font-size: 100%; font-weight:500; color:black;">32°.</span> <strong>DNA damage response and repair genes and Anthracycline-induced cardiomyopathy in childhood cancer survivors: a report from the Children’s Oncology Group and the Childhood Cancer Survivor Study</strong>.</h5>
-<p><span style="font-weight: 300;color:gray;">Xuexia Wang<span class="math inline">\(^{\ast}\)</span>, Purnima Singh<span class="math inline">\(^{\ast}\)</span>, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, <span style="color:black;">Changde Cheng</span>, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.</span><br>
+<p><span style="font-weight: 300;color:gray;">Xuexia Wang<span class="math inline">^{\ast}</span>, Purnima Singh<span class="math inline">^{\ast}</span>, Romina Cejas, Liting Zhou, Noha Sharafeldin, Patrick Trainor, Wendy Landier, <span style="color:black;">Changde Cheng</span>, Lindsey Hageman, Fan Wang, Yadav Sapkota, Yutaka Yasui, Melissa Hudson, Eric Chow, Saro Armenian, Joseph Neglia, Douglas Hawkins, Jill Ginsberg, Paul Burridge, Gregory Armstrong, and Smita Bhatia.</span><br>
 <a href="https://doi.org/10.1161/CIRCGEN.124.004813">Circulation: Genomic and Precision Medicine</a> 18(2), e004813.</p>
 </section>
 </div>
@@ -360,7 +374,7 @@ The American Journal of Human Genetics 112 (2), 254-260</p>
 </div><div class="column" style="width:90%;">
 <section id="innate-t-cells-regulate-early-inflammation-and-neurological-outcomes-after-cardiac-arrest-and-resuscitation" class="level5">
 <h5 class="anchored" data-anchor-id="innate-t-cells-regulate-early-inflammation-and-neurological-outcomes-after-cardiac-arrest-and-resuscitation"><span style="font-size: 100%; font-weight:500; color:black;">31°.</span> <strong>Innate T cells regulate early inflammation and neurological outcomes after cardiac arrest and resuscitation</strong></h5>
-<p><span style="font-weight: 300; color:gray;">Tomoyoshi Tamura<span class="math inline">\(^{\ast}\)</span>, <span style="font-weight: 300; color:black;">Changde Cheng</span> <span class="math inline">\(^{\ast}\)</span>, Ana Villaseñor-Altamirano<span class="math inline">\(^{\ast}\)</span>, Kei Hayashida, Kohei Ikeda<span class="math inline">\(^{\ast}\)</span>, Kohei Yamada<span class="math inline">\(^{\ast}\)</span>, Jaivardhan A Menon, Louis T. Merriam, Jack Varon, Jiyoung Choi, Aidan M. Cullen, Jingyu Guo, Benjamin A. Olenchock, Mayra A. Pinilla-Vera, Reshmi Manandhar, Muhammad Dawood Amir Sheikh, Peter C. Hou, Patrick R. Lawler, William M. Oldham, Raghu R. Seethala, Immunology of Cardiac Arrest Network (I-CAN), Rebecca M. Baron, Erin A. Bohula, David A. Morrow, Alexandra Weissman, Michael B. Brenner, Xiang Chen <span class="math inline">\(^{\dagger}\)</span>, Fumito Ichinose <span class="math inline">\(^{\dagger}\)</span>, Edy Y. Kim <span class="math inline">\(^{\dagger}\)</span> .</span><br>
+<p><span style="font-weight: 300; color:gray;">Tomoyoshi Tamura<span class="math inline">^{\ast}</span>, <span style="font-weight: 300; color:black;">Changde Cheng</span> <span class="math inline">^{\ast}</span>, Ana Villaseñor-Altamirano<span class="math inline">^{\ast}</span>, Kei Hayashida, Kohei Ikeda<span class="math inline">^{\ast}</span>, Kohei Yamada<span class="math inline">^{\ast}</span>, Jaivardhan A Menon, Louis T. Merriam, Jack Varon, Jiyoung Choi, Aidan M. Cullen, Jingyu Guo, Benjamin A. Olenchock, Mayra A. Pinilla-Vera, Reshmi Manandhar, Muhammad Dawood Amir Sheikh, Peter C. Hou, Patrick R. Lawler, William M. Oldham, Raghu R. Seethala, Immunology of Cardiac Arrest Network (I-CAN), Rebecca M. Baron, Erin A. Bohula, David A. Morrow, Alexandra Weissman, Michael B. Brenner, Xiang Chen <span class="math inline">^{\dagger}</span>, Fumito Ichinose <span class="math inline">^{\dagger}</span>, Edy Y. Kim <span class="math inline">^{\dagger}</span> .</span><br>
 <a href="https://www.science.org/doi/10.1126/scitranslmed.adq5796">Science Translational Medicine</a> 2024 Dec 4; (16) 776.<br>
 </p>
 <div style="font-size: 93%;">
@@ -400,7 +414,7 @@ The American Journal of Human Genetics 112 (2), 254-260</p>
 </div><div class="column" style="width:90%;">
 <section id="sex-based-differences-in-risk-for-therapy-related-myeloid-neoplasms" class="level5">
 <h5 class="anchored" data-anchor-id="sex-based-differences-in-risk-for-therapy-related-myeloid-neoplasms"><span style="font-size: 100%; font-weight:500; color:black;">29°.</span> <strong>Sex-based differences in risk for therapy-related myeloid neoplasms</strong></h5>
-<p><span style="font-weight: 300; color:gray;">Melissa A Richard<span class="math inline">\(^{\ast}\)</span>, Chengcheng Yan<span class="math inline">\(^{\ast}\)</span>, Yanjun Chen, Christopher J Gibson, Rashi Kalra, Alysia Bosworth, David K Crossman, Purnima Singh, Lindsey Hageman, Jianbo He, Saro H Armenian, Julie Vose, Daniel J Weisdorf, Benjamin L Ebert, Yutaka Yasui, <span style="font-weight: 300; color:black;">Changde Cheng</span>, Stephen J Forman , Smita Bhatia<span class="math inline">\(^{\dagger}\)</span>, Ravi Bhatia<span class="math inline">\(^{\dagger}\)</span></span><br>
+<p><span style="font-weight: 300; color:gray;">Melissa A Richard<span class="math inline">^{\ast}</span>, Chengcheng Yan<span class="math inline">^{\ast}</span>, Yanjun Chen, Christopher J Gibson, Rashi Kalra, Alysia Bosworth, David K Crossman, Purnima Singh, Lindsey Hageman, Jianbo He, Saro H Armenian, Julie Vose, Daniel J Weisdorf, Benjamin L Ebert, Yutaka Yasui, <span style="font-weight: 300; color:black;">Changde Cheng</span>, Stephen J Forman , Smita Bhatia<span class="math inline">^{\dagger}</span>, Ravi Bhatia<span class="math inline">^{\dagger}</span></span><br>
 <a href="https://doi.org/10.1200/JCO-24-01487">Journal of Clinical Oncology</a> 2024 Nov 1; Vol. 42, No 31.<br>
 </p>
 <div style="font-size: 93%;">
@@ -420,7 +434,7 @@ The American Journal of Human Genetics 112 (2), 254-260</p>
 </div><div class="column" style="width:90%;">
 <section id="protocol-for-immunophenotyping-out-of-hospital-cardiac-arrest-patients" class="level5">
 <h5 class="anchored" data-anchor-id="protocol-for-immunophenotyping-out-of-hospital-cardiac-arrest-patients"><span style="font-size: 100%; font-weight:500; color:black;">28°.</span> <strong>Protocol for immunophenotyping out-of-hospital cardiac arrest patients</strong></h5>
-<p><span style="font-weight: 300; color:gray;">Yamada K<span class="math inline">\(^{\dagger}\)</span>, Menon JA, Kim Y, <span style="font-weight: 300; color:black;">Changde Cheng</span>, Chen W, Shih JA, Villasenor-Altamirano AB, Chen X, Immunology of Cardiac Arrest Network (I-CAN), Tamura T, Merriam LT, Kim EY<span class="math inline">\(^{\dagger}\)</span>, Weissman AJ<span class="math inline">\(^{\dagger}\)</span>.</span><br>
+<p><span style="font-weight: 300; color:gray;">Yamada K<span class="math inline">^{\dagger}</span>, Menon JA, Kim Y, <span style="font-weight: 300; color:black;">Changde Cheng</span>, Chen W, Shih JA, Villasenor-Altamirano AB, Chen X, Immunology of Cardiac Arrest Network (I-CAN), Tamura T, Merriam LT, Kim EY<span class="math inline">^{\dagger}</span>, Weissman AJ<span class="math inline">^{\dagger}</span>.</span><br>
 <a href="https://www.sciencedirect.com/science/article/pii/S266616672400039X">STAR Protocols</a> 2024 Mar 15; 5 (1), 102874.</p>
 </section>
 </div>
@@ -439,7 +453,7 @@ The American Journal of Human Genetics 112 (2), 254-260</p>
 </div><div class="column" style="width:90%;">
 <section id="genetic-and-epigenetic-features-of-bilateral-wilms-tumor-predisposition-in-patients-from-the-childrens-oncology-group-aren18b5-q" class="level5">
 <h5 class="anchored" data-anchor-id="genetic-and-epigenetic-features-of-bilateral-wilms-tumor-predisposition-in-patients-from-the-childrens-oncology-group-aren18b5-q"><span style="font-size: 100%; font-weight:500; color:black;">27°.</span> <strong>Genetic and epigenetic features of bilateral Wilms tumor predisposition in patients from the Children’s Oncology Group AREN18B5-Q</strong></h5>
-<p><span style="font-weight: 300; color:gray;">Murphy AJ<span class="math inline">\(^{\ast \dagger}\)</span>, <span style="font-weight: 300; color:black;">Changde Cheng</span> <span class="math inline">\(^{\ast}\)</span>, Williams J, Shaw TI, Pinto EM, Dieseldorff-Jones K, Brzezinski J, Renfro LA, Tornwall B, Huff V, Hong AL, Mullen EA, Crompton B, Dome JS, Fernandez CV, Geller JI, Ehrlich PF, Mulder H, Oak N, Maciezsek J, Jablonowski C, Fleming AM, Pichavaram P, Morton CL, Easton J, Nichols KE, Clay MR, Santiago T, Zhang J, Yang J, Zambetti GP, Wang Z, Davidoff AM, Chen X <span class="math inline">\(^{\dagger}\)</span>.</span><br>
+<p><span style="font-weight: 300; color:gray;">Murphy AJ<span class="math inline">^{\ast \dagger}</span>, <span style="font-weight: 300; color:black;">Changde Cheng</span> <span class="math inline">^{\ast}</span>, Williams J, Shaw TI, Pinto EM, Dieseldorff-Jones K, Brzezinski J, Renfro LA, Tornwall B, Huff V, Hong AL, Mullen EA, Crompton B, Dome JS, Fernandez CV, Geller JI, Ehrlich PF, Mulder H, Oak N, Maciezsek J, Jablonowski C, Fleming AM, Pichavaram P, Morton CL, Easton J, Nichols KE, Clay MR, Santiago T, Zhang J, Yang J, Zambetti GP, Wang Z, Davidoff AM, Chen X <span class="math inline">^{\dagger}</span>.</span><br>
 <a href="https://www.nature.com/articles/s41467-023-43730-0">Nat Commun.</a> 2023 Dec 18; 14, 8006.</p>
 </section>
 </div>
@@ -453,7 +467,7 @@ The American Journal of Human Genetics 112 (2), 254-260</p>
 </div><div class="column" style="width:90%;">
 <section id="a-review-of-single-cell-rna-seq-annotation-integration-and-cell-cell-communication" class="level5">
 <h5 class="anchored" data-anchor-id="a-review-of-single-cell-rna-seq-annotation-integration-and-cell-cell-communication"><span style="font-size: 100%; font-weight:500; color:black;">26°.</span> <strong>A review of single-cell rna-seq annotation, integration, and cell-cell communication</strong></h5>
-<p><span style="font-weight: 300; color:gray;"><span style="font-weight: 300; color:black;">Changde Cheng</span> <span class="math inline">\(^{\ast}\)</span>, Chen W<span class="math inline">\(^{\ast}\)</span>, Jin H<span class="math inline">\(^{\ast}\)</span>, Chen X.</span><br>
+<p><span style="font-weight: 300; color:gray;"><span style="font-weight: 300; color:black;">Changde Cheng</span> <span class="math inline">^{\ast}</span>, Chen W<span class="math inline">^{\ast}</span>, Jin H<span class="math inline">^{\ast}</span>, Chen X.</span><br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/37566049/">Cells.</a> 2023 Jul 30;12(15). Review.</p>
 </section>
 </div>
@@ -467,7 +481,7 @@ The American Journal of Human Genetics 112 (2), 254-260</p>
 </div><div class="column" style="width:90%;">
 <section id="single-cell-transcriptomics-reveal-a-hyperacute-cytokine-and-immune-checkpoint-axis-after-cardiac-arrest-in-patients-with-poor-neurological-outcome" class="level5">
 <h5 class="anchored" data-anchor-id="single-cell-transcriptomics-reveal-a-hyperacute-cytokine-and-immune-checkpoint-axis-after-cardiac-arrest-in-patients-with-poor-neurological-outcome"><span style="font-size: 100%; font-weight:500; color:black;">25°.</span> <strong>Single-cell transcriptomics reveal a hyperacute cytokine and immune checkpoint axis after cardiac arrest in patients with poor neurological outcome</strong></h5>
-<p><span style="font-weight: 300; color:gray;">Tamura T<span class="math inline">\(^{\ast}\)</span>, <span style="font-weight: 300; color:black;">Changde Cheng</span> <span class="math inline">\(^{\ast}\)</span>, Chen W, Merriam LT, Athar H, Kim YH, Manandhar R, Amir Sheikh MD, Pinilla-Vera M, Varon J, Hou PC, Lawler PR, Oldham WM, Seethala RR, Tesfaigzi Y, Weissman AJ, Baron RM, Ichinose F, Berg KM, Bohula EA, Morrow DA, Chen X, Kim EY.</span><br>
+<p><span style="font-weight: 300; color:gray;">Tamura T<span class="math inline">^{\ast}</span>, <span style="font-weight: 300; color:black;">Changde Cheng</span> <span class="math inline">^{\ast}</span>, Chen W, Merriam LT, Athar H, Kim YH, Manandhar R, Amir Sheikh MD, Pinilla-Vera M, Varon J, Hou PC, Lawler PR, Oldham WM, Seethala RR, Tesfaigzi Y, Weissman AJ, Baron RM, Ichinose F, Berg KM, Bohula EA, Morrow DA, Chen X, Kim EY.</span><br>
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/37257452/">Med.</a> 2023 Jul 14;4(7):432-456.e6.</p>
 </section>
 </div>
@@ -481,7 +495,7 @@ The American Journal of Human Genetics 112 (2), 254-260</p>
 </div><div class="column" style="width:90%;">
 <section id="genome-wide-mapping-of-cancer-dependency-genes-and-genetic-modifiers-of-chemotherapy-in-high-risk-hepatoblastoma" class="level5">
 <h5 class="anchored" data-anchor-id="genome-wide-mapping-of-cancer-dependency-genes-and-genetic-modifiers-of-chemotherapy-in-high-risk-hepatoblastoma"><span style="font-size: 100%; font-weight:500; color:black;">24°.</span> <strong>Genome-wide mapping of cancer dependency genes and genetic modifiers of chemotherapy in high-risk hepatoblastoma</strong></h5>
-<p><span style="font-weight: 300; color:gray;">Fang J<span class="math inline">\(^{\ast}\)</span>, Singh S<span class="math inline">\(^{\ast}\)</span>, <span style="font-weight: 300; color:black;">Changde Cheng</span> <span class="math inline">\(^{\ast}\)</span>, Natarajan S<span class="math inline">\(^{\ast}\)</span>, Sheppard H<span class="math inline">\(^{\ast}\)</span>, Abu-Zaid A, Durbin AD, Lee HW, Wu Q, Steele J, Connelly JP, Jin H, Chen W, Fan Y, Pruett-Miller SM, Rehg JE, Koo SC, Santiago T, Emmons J, Cairo S, Wang R, Glazer ES, Murphy AJ, Chen T, Davidoff AM, Armengol C, Easton J, Chen X, Yang J.</span><br>
+<p><span style="font-weight: 300; color:gray;">Fang J<span class="math inline">^{\ast}</span>, Singh S<span class="math inline">^{\ast}</span>, <span style="font-weight: 300; color:black;">Changde Cheng</span> <span class="math inline">^{\ast}</span>, Natarajan S<span class="math inline">^{\ast}</span>, Sheppard H<span class="math inline">^{\ast}</span>, Abu-Zaid A, Durbin AD, Lee HW, Wu Q, Steele J, Connelly JP, Jin H, Chen W, Fan Y, Pruett-Miller SM, Rehg JE, Koo SC, Santiago T, Emmons J, Cairo S, Wang R, Glazer ES, Murphy AJ, Chen T, Davidoff AM, Armengol C, Easton J, Chen X, Yang J.</span><br>
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/37414763/">Nat Commun.</a> 2023 Jul 6;14(1):4003.<br>
 </p>
 <div style="font-size: 93%;">
@@ -739,7 +753,7 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 </div><div class="column" style="width:90%;">
 <section id="radical-remodeling-of-the-y-chromosome-in-a-recent-radiation-of-malaria-mosquitoes" class="level5">
 <h5 class="anchored" data-anchor-id="radical-remodeling-of-the-y-chromosome-in-a-recent-radiation-of-malaria-mosquitoes"><span style="font-size: 100%; font-weight:500; color:black;">9°.</span> <strong>Radical remodeling of the Y chromosome in a recent radiation of malaria mosquitoes</strong></h5>
-<p><span style="font-weight: 300; color:gray;">Hall AB<span class="math inline">\(^{\ast}\)</span>, Papathanos PA<span class="math inline">\(^{\ast}\)</span>, Sharma A<span class="math inline">\(^{\ast}\)</span>, <span style="font-weight: 300; color:black;">Changde Cheng</span> <span class="math inline">\(^{\ast}\)</span>, Akbari OS, Assour L, Bergman NH, Cagnetti A, Crisanti A, Dottorini T, Fiorentini E, Galizi R, Hnath J, Jiang X, Koren S, Nolan T, Radune D, Sharakhova MV, Steele A, Timoshevskiy VA, Windbichler N, Zhang S, Hahn MW, Phillippy AM, Emrich SJ, Sharakhov IV, Tu ZJ, Besansky NJ.</span><br>
+<p><span style="font-weight: 300; color:gray;">Hall AB<span class="math inline">^{\ast}</span>, Papathanos PA<span class="math inline">^{\ast}</span>, Sharma A<span class="math inline">^{\ast}</span>, <span style="font-weight: 300; color:black;">Changde Cheng</span> <span class="math inline">^{\ast}</span>, Akbari OS, Assour L, Bergman NH, Cagnetti A, Crisanti A, Dottorini T, Fiorentini E, Galizi R, Hnath J, Jiang X, Koren S, Nolan T, Radune D, Sharakhova MV, Steele A, Timoshevskiy VA, Windbichler N, Zhang S, Hahn MW, Phillippy AM, Emrich SJ, Sharakhov IV, Tu ZJ, Besansky NJ.</span><br>
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/27035980/">Proc Natl Acad Sci U S A.</a> 2016 Apr 12;113(15):E2114-23.</p>
 </section>
 </div>
@@ -892,9 +906,9 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 </div>
 <hr>
 <p><span style="color:darkgreen;">Lab Heroes</span></p>
-<p><span class="math inline">\({\ast}\)</span>: First authors</p>
-<p><span class="math inline">\({\dagger}\)</span>: Corresponding authors</p>
-<p><span class="math inline">\({\ddagger}\)</span>: Senior authors</p>
+<p><span class="math inline">{\ast}</span>: First authors</p>
+<p><span class="math inline">{\dagger}</span>: Corresponding authors</p>
+<p><span class="math inline">{\ddagger}</span>: Senior authors</p>
 <!-- Dark color: -->
 <!-- Lab member(s) -->
 
