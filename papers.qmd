@@ -25,7 +25,7 @@ toc-depth: 4
 ::: {.column width="90%"}
 ##### [44°.]{style="font-size: 100%; font-weight:500; color:black;"} **Antibody deficiency accelerates tumorigenesis in genetically engineered mouse models of pancreatic cancer**.
 [Foote JB $^{\dagger}$, Sarvesh S, Al Diﬀalha S, Crossman DK, [Changde Cheng]{style="color:black;"}, Kim M, Hardy C, Carstens J, Kojima K, Rose BJ, Klug CA$^{\dagger}$.]{style="font-weight: 300;color:gray;"}\
-[JCI Insight](), accepted.
+[JCI Insight](https://doi.org/10.1172/jci.insight.198489), May 11.
 :::
 
 ::::
@@ -44,7 +44,7 @@ toc-depth: 4
 ::: {.column width="90%"}
 ##### [43°.]{style="font-size: 100%; font-weight:500; color:black;"}**A Perturb-seq mpa of a differentiation hub reveals synergistic vulnerabilities in KMT2A-rearranged AML**.
 [Sajesan Aryal, Brittany M. Curtiss, Xinyue Zhou, Rui Lu$^{\dagger}$, [Changde Cheng$^{\dagger}$]{style="color:black;"}.]{style="font-weight: 300;color:gray;"}\
-[Leukemia](), in press.
+[Leukemia](https://doi.org/10.1038/s41375-026-02917-2), 40, 996–1008 (2026).
 :::
 
 ::::
