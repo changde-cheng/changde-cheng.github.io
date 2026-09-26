@@ -33,7 +33,7 @@ toc-depth: 4
  <!-- -- Was here, gave my all, took a memory, let it go\ -->
 <!-- I developed and implemented the ABC computational framework with custom C++ optimization for parameter estimation and model selection, -->
 <!-- [before I discovered how deeply I had been misled by my colleagues in the lab, and how much they wanted to see me be removed.]{style="font-weight: 200; color:white;"} \ -->
-[Changde Cheng]{style="font-weight: 400; color:darkgreen;"}[,  Andrius J. Dagilis, Jason M. Sardell, Asano Ishikawa, Jun Kitano,  Matthew P. Josephson, Catherine L. Peichel, Mark Kirkpatrick.]{style="font-weight: 200; color:gray;"}\
+[Changde Cheng]{style="font-weight: 300; color:black;"}[,  Andrius J. Dagilis, Jason M. Sardell, Asano Ishikawa, Jun Kitano,  Matthew P. Josephson, Catherine L. Peichel, Mark Kirkpatrick.]{style="font-weight: 200; color:gray;"}\
 Submission to the 2017 Society for Molecular Biology & Evolution meeting at Austin, Texas, US. 
 :::
 
@@ -61,7 +61,7 @@ Submission to the 2017 Society for Molecular Biology & Evolution meeting at Aust
 
 ::: {.column width="90%"}
 [№ 2.]{style="font-size: 100%; font-weight:500; color:black;"} **Transcriptome alteration in pancreatic neuroendocrine tumors among those living with adverse SDOH**. \
-[Andrea Gillis$^{\ast}$, K. Kerrick Akinola$^{\ast}$, Brendon Herring, Isra Elhussin, Elquis Castillo, Stuart Phipps, Vinodh Srinivasasainagendra, Weisheng Chen, Rachael Guenter, Tiwari Hemant, Dai Chen, Upender Manne, Herbert Chen, Clayton Yates, J Bart Rose, [Changde Cheng]{style="font-weight: 400; color:darkgreen;"}, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
+[Andrea Gillis$^{\ast}$, K. Kerrick Akinola$^{\ast}$, Brendon Herring, Isra Elhussin, Elquis Castillo, Stuart Phipps, Vinodh Srinivasasainagendra, Weisheng Chen, Rachael Guenter, Tiwari Hemant, Dai Chen, Upender Manne, Herbert Chen, Clayton Yates, J Bart Rose, [Changde Cheng]{style="font-weight: 300; color:black;"}, Smita Bhatia.]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
@@ -83,7 +83,7 @@ Submitted.
 
 <!-- ::: {.column width="90%"} -->
 <!-- [№ 5.]{style="font-size: 100%; font-weight:500; color:black;"} **Antibody deficiency accelerates tumorigenesis in genetically engineered mouse models of pancreatic cancer**. \ -->
-<!-- [Foote JB $^{\dagger}$, Sarvesh S, Al Diﬀalha S, Crossman DK, [Changde Cheng]{style="font-weight: 400; color:darkgreen;"}, Kim M, Rose BJ, Klug CA.]{style="font-weight: 300;color:gray;"}\ -->
+<!-- [Foote JB $^{\dagger}$, Sarvesh S, Al Diﬀalha S, Crossman DK, [Changde Cheng]{style="font-weight: 300; color:black;"}, Kim M, Rose BJ, Klug CA.]{style="font-weight: 300;color:gray;"}\ -->
 <!-- Submitted. -->
 <!-- ::: -->
 
@@ -109,7 +109,7 @@ Submitted.
 
 <!-- ::: {.column width="90%"} -->
 <!-- [№ 7.]{style="font-size: 100%; font-weight:500; color:black;"} **Germline Pathogenic/ Likely Pathogenic Mutations and Subsequent Neoplasms among Childhood Cancer Survivors – A report from the Children’s Oncology Group ALTE03N1 Study**. \ -->
-<!-- [Liting Zhou , Purnima Singh , David K. Crossman , Joshua Richman , Mr Patrick J Trainor , [Changde Cheng]{style="font-weight: 400; color:darkgreen;"} , Xuexia Wang , Noha Sharafeldin , Lindsey Hageman , Maryam Sheikh , Melissa Richard , Danielle N. Friedman , Joseph Neglia , Zhaoming Wang , Melissa M Hudson , Saro H Armenian , Douglas Hawkins , Ravi Bhatia , Wendy Landier, Smita Bhatia]{style="font-weight: 300;color:gray;"}\ -->
+<!-- [Liting Zhou , Purnima Singh , David K. Crossman , Joshua Richman , Mr Patrick J Trainor , [Changde Cheng]{style="font-weight: 300; color:black;"} , Xuexia Wang , Noha Sharafeldin , Lindsey Hageman , Maryam Sheikh , Melissa Richard , Danielle N. Friedman , Joseph Neglia , Zhaoming Wang , Melissa M Hudson , Saro H Armenian , Douglas Hawkins , Ravi Bhatia , Wendy Landier, Smita Bhatia]{style="font-weight: 300;color:gray;"}\ -->
 <!-- Submitted. -->
 <!-- ::: -->
 
@@ -131,7 +131,7 @@ Submitted.
 
 <!-- ::: {.column width="90%"} -->
 <!-- [№ 8.]{style="font-size: 100%; font-weight:500; color:black;"} **Acute myeloid leukemia microenvironment impairs neutrophil maturation and function through NFκB signaling**. \ -->
-<!-- [Paran Goel, Sajesan Aryal, Alana M. Franceski, Valeriya Kuznetsova, Amanda Costa, Francesca Luca, Ashley N. Connelly, Daniel W. Phillips, Caroline C. Ennis, Sourajeet Karfa, Brittany L. Crown, Estelle Carminita, Virginia Camacho, Gracie M. Jack, [Changde Cheng]{style="font-weight: 400; color:darkgreen;"}, Asumi Yokota, Rui Lu , Ravi Bhatia , Pran K. Datta, Kellie R. Machlus, P. Brent Ferrell , Hideyo Hirai and Robert S. Welner]{style="font-weight: 300;color:gray;"}\ -->
+<!-- [Paran Goel, Sajesan Aryal, Alana M. Franceski, Valeriya Kuznetsova, Amanda Costa, Francesca Luca, Ashley N. Connelly, Daniel W. Phillips, Caroline C. Ennis, Sourajeet Karfa, Brittany L. Crown, Estelle Carminita, Virginia Camacho, Gracie M. Jack, [Changde Cheng]{style="font-weight: 300; color:black;"}, Asumi Yokota, Rui Lu , Ravi Bhatia , Pran K. Datta, Kellie R. Machlus, P. Brent Ferrell , Hideyo Hirai and Robert S. Welner]{style="font-weight: 300;color:gray;"}\ -->
 <!-- Submitted. -->
 <!-- ::: -->
 
@@ -152,7 +152,7 @@ Submitted.
 
 <!-- ::: {.column width="90%"} -->
 <!-- [№ 9.]{style="font-size: 100%; font-weight:500; color:black;"} **Clonal hematopoiesis and subsequent venous thromboembolism among survivors of autologous transplantation for lymphoma**. \ -->
-<!-- [Radhika Gangaraju; Yanjun Chen; Lindsey Hageman; Alysia Bosworth; Elizabeth Ross; Liton Francisco; Purnima Singh; Melissa Richard; Chengcheng Yan; Rashi Kalra; [Changde Cheng]{style="font-weight: 400; color:darkgreen;"}; Saro Armenian; Stephen Forman; Ravi Bhatia; Smita Bhatia.]{style="font-weight: 300;color:gray;"}\ -->
+<!-- [Radhika Gangaraju; Yanjun Chen; Lindsey Hageman; Alysia Bosworth; Elizabeth Ross; Liton Francisco; Purnima Singh; Melissa Richard; Chengcheng Yan; Rashi Kalra; [Changde Cheng]{style="font-weight: 300; color:black;"}; Saro Armenian; Stephen Forman; Ravi Bhatia; Smita Bhatia.]{style="font-weight: 300;color:gray;"}\ -->
 <!-- Submitted. -->
 <!-- ::: -->
 
@@ -173,7 +173,7 @@ Submitted.
 
 <!-- ::: {.column width="90%"} -->
 <!-- [№ 10.]{style="font-size: 100%; font-weight:500; color:black;"} **Marrow Minded: Characterizing Differences between Calvarium and Femur Bone Marrow Microenvironment in Diabetes**. \ -->
-<!-- [Ashley Rennhack, Micheli Sielski, Bright Asare-Bediako, , Emory Johnson, Fadeela Sheini, Sergio Li Calzi, [Changde Cheng]{style="font-weight: 400; color:darkgreen;"}, Maria B. Grant.]{style="font-weight: 300;color:gray;"}\ -->
+<!-- [Ashley Rennhack, Micheli Sielski, Bright Asare-Bediako, , Emory Johnson, Fadeela Sheini, Sergio Li Calzi, [Changde Cheng]{style="font-weight: 300; color:black;"}, Maria B. Grant.]{style="font-weight: 300;color:gray;"}\ -->
 <!-- Submitted. -->
 <!-- ::: -->
 
@@ -195,7 +195,7 @@ Submitted.
 
 <!-- ::: {.column width="90%"} -->
 <!-- [№ 11.]{style="font-size: 100%; font-weight:500; color:black;"} **Induction of a Renal Developmental Cell State is Associated with Chemotherapy Resistance in Favorable-Histology Wilms Tumor**. \ -->
-<!-- [Andrew M. Fleming; Carolyn M. Jablonowski; Hongjian Jin; Surbhi Sona; Ha Won Lee; Karissa M. Dieseldorff Jones; [Changde Cheng]{style="font-weight: 400; color:darkgreen;"}; Beisi Xu; Christopher L. Morton; Mary A. Woolard; Prahalathan Pichavaram; Daniel B. Gehle; Sivaraman Natarajan; Kiran Kodali; Vishwajeeth Pagala; Anthony A. High; Yogesh Kumar; Ti-Cheng Chang; John Easton; Scott R. Olsen; Geoffrey Neale; Emilia M. Pinto; Jerold E. Rehg; Teresa Santiago; Rani E. George; Xiaotu Ma; Gerard P. Zambetti; Andrew M. Davidoff; Taosheng Chen; Gang Wu; Xiang Chen; Jun Yang; Andrew Jackson Murphy]{style="font-weight: 300;color:gray;"}\ -->
+<!-- [Andrew M. Fleming; Carolyn M. Jablonowski; Hongjian Jin; Surbhi Sona; Ha Won Lee; Karissa M. Dieseldorff Jones; [Changde Cheng]{style="font-weight: 300; color:black;"}; Beisi Xu; Christopher L. Morton; Mary A. Woolard; Prahalathan Pichavaram; Daniel B. Gehle; Sivaraman Natarajan; Kiran Kodali; Vishwajeeth Pagala; Anthony A. High; Yogesh Kumar; Ti-Cheng Chang; John Easton; Scott R. Olsen; Geoffrey Neale; Emilia M. Pinto; Jerold E. Rehg; Teresa Santiago; Rani E. George; Xiaotu Ma; Gerard P. Zambetti; Andrew M. Davidoff; Taosheng Chen; Gang Wu; Xiang Chen; Jun Yang; Andrew Jackson Murphy]{style="font-weight: 300;color:gray;"}\ -->
 <!-- Submitted. -->
 <!-- ::: -->
 
@@ -215,7 +215,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 12.]{style="font-size: 100%; font-weight:500; color:black;"} **Reactive Astrocytes as Drivers of Glioblastoma Progression: The Modulatory Role of Glioma-Derived Extracellular Matrix**. \
-[Melika Razavi Hashemi, Dilani Patel, Reid Hale, Burt Nabors, James Markers, Chirstopher Willey,  [Changde Cheng]{style="font-weight: 400; color:darkgreen;"}, Andrea Comba.]{style="font-weight: 300;color:gray;"}\
+[Melika Razavi Hashemi, Dilani Patel, Reid Hale, Burt Nabors, James Markers, Chirstopher Willey,  [Changde Cheng]{style="font-weight: 300; color:black;"}, Andrea Comba.]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
@@ -235,7 +235,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 13.]{style="font-size: 100%; font-weight:500; color:black;"} **Tyrosine kinase inhibition alters macrophage polarization in chronic myeloid leukemia to regulate leukemic stem cell potential**. \
-[ Tiffany Ricketts, Na Xie, Mason Harris, Ashley Rennhack, Aanya Kadakia, Andrew Paterson, [Changde Cheng]{style="font-weight: 400; color:darkgreen;"}, Ravi Bhatia]{style="font-weight: 300;color:gray;"}\
+[ Tiffany Ricketts, Na Xie, Mason Harris, Ashley Rennhack, Aanya Kadakia, Andrew Paterson, [Changde Cheng]{style="font-weight: 300; color:black;"}, Ravi Bhatia]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
@@ -255,7 +255,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 14.]{style="font-size: 100%; font-weight:500; color:black;"} **Validation of Adversity-Linked Genes in Pancreatic Neuroendocrine Tumors**. \
-[Mourad Bendjennat, Rachael Guenter, Brendon Herring, Elquis Castillo II, Stuart Phipps, Theo Hines, [Doug Welsch]{style="font-weight: 400; color:darkgreen;"}, [Changde Cheng]{style="font-weight: 400; color:darkgreen;"}, Dai Chen, Isra Elhussin, Upender Manne, Herbert Chen, Clayton Yates, Smita Bhatia, J Bart Rose, Andrea Gillis .]{style="font-weight: 300;color:gray;"}\
+[Mourad Bendjennat, Rachael Guenter, Brendon Herring, Elquis Castillo II, Stuart Phipps, Theo Hines, [Doug Welsch]{style="font-weight: 300; color:darkgreen;"}, [Changde Cheng]{style="font-weight: 300; color:black;"}, Dai Chen, Isra Elhussin, Upender Manne, Herbert Chen, Clayton Yates, Smita Bhatia, J Bart Rose, Andrea Gillis .]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
@@ -295,7 +295,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 16.]{style="font-size: 100%; font-weight:500; color:black;"} **Evolution of Clonal Hematopoiesis Following Autologous Transplantation for Lymphoma and Subsequent Therapy-related Myeloid Neoplasia**. \
-[ [Changde Cheng$^{\ast}$]{style="font-weight: 400; color:darkgreen;"},Rashi Kalra$^{\ast}$, Yanjun Chen, Alysia Bosworth, Joshua Richman, Na Xie, Chengcheng Yan, Christopher J Gibson, David K Crossman, Lindsey Hageman, Purnima Singh, Melissa A Richards, Benjamin L Ebert, Saro H Armenian, Stephen J Forman, Smita Bhatia$^{\dagger}$, Ravi Bhatia$^{\dagger}$]{style="font-weight: 300;color:gray;"}\
+[ [Changde Cheng$^{\ast}$]{style="font-weight: 300; color:black;"},Rashi Kalra$^{\ast}$, Yanjun Chen, Alysia Bosworth, Joshua Richman, Na Xie, Chengcheng Yan, Christopher J Gibson, David K Crossman, Lindsey Hageman, Purnima Singh, Melissa A Richards, Benjamin L Ebert, Saro H Armenian, Stephen J Forman, Smita Bhatia$^{\dagger}$, Ravi Bhatia$^{\dagger}$]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
@@ -316,7 +316,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 18.]{style="font-size: 100%; font-weight:500; color:black;"} **Sepsis-like Phenotype In Out-of-hospital Cardiac Arrest Is Linked To CD14+ Monocyte Subtypes**. \
-[ Ana Villasenor-Altamirano, Jiani Chen, Hee Su Sohn, Kohei Yamada, Jai Menon, [Changde Cheng]{style="font-weight: 400; color:darkgreen;"},  Louis T. Merriam, Edy Y. Kim]{style="font-weight: 300;color:gray;"}\
+[ Ana Villasenor-Altamirano, Jiani Chen, Hee Su Sohn, Kohei Yamada, Jai Menon, [Changde Cheng]{style="font-weight: 300; color:black;"},  Louis T. Merriam, Edy Y. Kim]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
@@ -338,7 +338,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 19.]{style="font-size: 100%; font-weight:500; color:black;"} **Multimodal Single Cell Analysis of Patient Bone Marrow Reveals Genetic Targets and Signaling Pathways Associated with Recurrent Chronic Myeloid Leukemia after Treatment Free Remission Attempt**. \
-[ Tyler Freeland, Na Xie, Soo-Hyun Kim, [Changde Cheng]{style="font-weight: 400; color:darkgreen;"}, Dong-wook Kim, Ravi Bhatia]{style="font-weight: 300;color:gray;"}\
+[ Tyler Freeland, Na Xie, Soo-Hyun Kim, [Changde Cheng]{style="font-weight: 300; color:black;"}, Dong-wook Kim, Ravi Bhatia]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
@@ -346,32 +346,10 @@ Submitted.
 
 ---
 
-### 2026 (-4)
+### 2026 (-3)
 
 ---
 
-#### 2026-01-06 {#sec-w20}
-
-
-:::: {.columns}
-
-::: {.column width="8%"}
-
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="90%"}
-[№ 20.]{style="font-size: 100%; font-weight:500; color:black;"} **AML Maturation State Correlates with NK Cell Perturbation for Predicted Relapse**. \
-[ Paran Goel, [V.K. Chaithanya Manam]{style="font-weight: 400; color:darkgreen;"}, Amanda Costa, Valeriya Kuznetsova, Gracie M. Jack, Joshua Knapp, Brittany M. Curtiss, [Doug Welsch]{style="font-weight: 400; color:darkgreen;"}, Ashley N. Connelly, Meghana Madabhushi, Caroline C. Ennis, Alana M. Franceski, Francesca Luca, Daniel W. Phillips, Ravi Bhatia, Lorena Lobo de Figueiredo-Pontes, Rui Lu, Stanley C. Lee, P. Brent Ferrell, Manuel R. Espinoza-Gutarra, [Changde Cheng$^{\dagger}$]{style="font-weight: 400; color:darkgreen;"} and  Robert S. Welner$^{\dagger}$ ]{style="font-weight: 300;color:gray;"}\
-Submitted.
-:::
-
-::::
-
-
----
 
 #### 2026-01-14 {#sec-w21}
 
@@ -387,7 +365,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 21.]{style="font-size: 100%; font-weight:500; color:black;"} **Structure and function of adhesion GPCRs ADGRB1, B2 and B3 in physiology and disease**. \
-[ Virgínea de Araújo Farias, Rashed Rezwan Parag, Kiyotaka Saitoh, Jesse Stillwell, Alex Torrelli-Diljohn, Maryam Ahmadian Elmi, [Changde Cheng]{style="font-weight: 400; color:darkgreen;"} and  Erwin G. Van Meir ]{style="font-weight: 300;color:gray;"}\
+[ Virgínea de Araújo Farias, Rashed Rezwan Parag, Kiyotaka Saitoh, Jesse Stillwell, Alex Torrelli-Diljohn, Maryam Ahmadian Elmi, [Changde Cheng]{style="font-weight: 300; color:black;"} and  Erwin G. Van Meir ]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
@@ -410,7 +388,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 22.]{style="font-size: 100%; font-weight:500; color:black;"} **Clonal hematopoiesis disrupts iNKT homeostasis through distinct lipid antigens and inflammation**. \
-[ Francesca Luca, Alana Franceski, Paran Goel, Valeriya Kuznetsova, Brittany Crown, Daniel Phillips, Caroline Ennis, Ashley Connelly, Amanda Costa, Sajesan Aryal, Molly Boettiger, [Changde Cheng]{style="font-weight: 400; color:darkgreen;"} , Rui Lu, P. Brent Ferrell, Shouxiong Huang, Angelo D'Alessandro, and Robert Welner ]{style="font-weight: 300;color:gray;"}\
+[ Francesca Luca, Alana Franceski, Paran Goel, Valeriya Kuznetsova, Brittany Crown, Daniel Phillips, Caroline Ennis, Ashley Connelly, Amanda Costa, Sajesan Aryal, Molly Boettiger, [Changde Cheng]{style="font-weight: 300; color:black;"} , Rui Lu, P. Brent Ferrell, Shouxiong Huang, Angelo D'Alessandro, and Robert Welner ]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
@@ -433,7 +411,7 @@ Submitted.
 
 ::: {.column width="90%"}
 [№ 23.]{style="font-size: 100%; font-weight:500; color:black;"} **Recombination on “non-recombining” sex chromosomes: empirical insights from the blackspotted stickleback**. \
-[ Zuyao Liu, Karolina Wąchała, Stephan Peischl, [Changde Cheng]{style="font-weight: 400; color:darkgreen;"}, Mark Kirkpatrick, Catherine L. Peichel, Daniel L. Jeffries ]{style="font-weight: 300;color:gray;"}\
+[ Zuyao Liu, Karolina Wąchała, Stephan Peischl, [Changde Cheng]{style="font-weight: 300; color:black;"}, Mark Kirkpatrick, Catherine L. Peichel, Daniel L. Jeffries ]{style="font-weight: 300;color:gray;"}\
 Submitted.
 :::
 
@@ -441,7 +419,7 @@ Submitted.
 
 ---
 
-[Our Researchers]{style="font-weight: 400; color:darkgreen;"} 
+[Our Researchers]{style="font-weight: 300; color:darkgreen;"} 
 
 ${\ast}$: First authors  
 
