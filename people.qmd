@@ -40,19 +40,19 @@ library(knitr)
 
 df <- data.frame(
   Name = c("Venkata Krishna Chaithanya Manam", "Zihao Zhang","Yassin Mreyoud","Doug Welsch", "Brunno Macedo"),
-  Role = c("Bioinformatics, 2025-26", "Machine learning, 2025 Fall","Single-cell genomics, 2025 Summer","Bioinformatics, 2024-25", "CML genomics, 2024 Fall"),
-  School = c("Reveal AI","Chinese Academy of Sciences | Nutrition","WashU | Medicine","Rice | Computer Science", "UFPE, Brazil"),
+  Role = c("Bioinformatics, 2025-26", "Machine learning, 2025","Single-cell analysis, 2025","Bioinformatics, 2024-25", "Cancer genomic analysis, 2024"),
+  School = c("Reveal AI - Purdue","Chinese Academy of Sciences | Nutrition","WashU | Medicine","Rice | Computer Science", "UFPE, Brazil"),
   Lastknown = c(" ","UAB","UAB | Medicine","Oklahoma Medical Research Foundation | Donczew Lab","UAB | Matlawska Lab")
 )
 
 kable(df, format = "html",
-      col.names = c("Name", "Project", "From", "Current Position"),
+      col.names = c("Name", "Project", "From","Current Position"),
       table.attr = "class='table table-striped'")
 ```
 
 ### Venkata Krishna Chaithanya Manam - Postdoctoral Fellow
 
-Dr. Manam got his Ph.D. in Electrical and Computer Engineering from [Purdue University](https://en.wikipedia.org/wiki/Purdue_University). His doctoral work used natural language processing to detect and resolve ambiguities in crowdsourcing task instructions, with publications in journals including [*IEEE Robotics and Automation Letters*]{.underline}. He was an AI Research Engineer at Reveal AI before joining the lab. He worked on genomics data analysis.
+He did his Ph.D. in Electrical and Computer Engineering from [Purdue University](https://en.wikipedia.org/wiki/Purdue_University). His doctoral work used natural language processing to detect and resolve ambiguities in crowdsourcing task instructions, with publications in journals including [*IEEE Robotics and Automation Letters*]{.underline}. He was an Research Engineer at *Reveal AI* before joining the lab. He worked on bioinformatics.
 
 ### Yassin Mreyoud - MD/PhD Candidate
 

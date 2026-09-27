@@ -7,7 +7,6 @@ toc-depth: 4
 ---
 
 
-
 #### 2026 ( , +2, +2)
 
 <!-- article -->
@@ -26,7 +25,7 @@ toc-depth: 4
 ::: {.column width="90%"}
 ##### [45°.]{style="font-size: 100%; font-weight:500; color:black;"} **AML Maturation State Correlates with NK Cell Perturbation for Predicted Relapse**.
 [ Paran Goel, [V.K. Chaithanya Manam]{style="color:darkgreen;"}, Amanda Costa, Valeriya Kuznetsova, Gracie M. Jack, Joshua Knapp, Brittany M. Curtiss, [Doug Welsch]{style="color:darkgreen;"}, Ashley N. Connelly, Meghana Madabhushi, Caroline C. Ennis, Alana M. Franceski, Francesca Luca, Daniel W. Phillips, Ravi Bhatia, Lorena Lobo de Figueiredo-Pontes, Rui Lu, Stanley C. Lee, P. Brent Ferrell, Manuel R. Espinoza-Gutarra, [Changde Cheng$^{\dagger}$]{style="font-weight: 300; color:black;"} and  Robert S. Welner$^{\dagger}$ ]{style="font-weight: 300;color:gray;"}\
-JCI, accepted.
+**Journal of Clinical Investigation**, accepted.
 :::
 
 ::::
@@ -181,7 +180,7 @@ JCI, accepted.
 ::: {.column width="90%"}
 ##### [38°.]{style="font-size: 100%; font-weight:500; color:black;"}**Germline pathogenic/ likely pathogenic mutations and subsequent neoplasms among childhood cancer survivors – a report from the Children’s Oncology Group ALTE03N1 study**.
 [Liting Zhou , Purnima Singh , David K. Crossman , Joshua Richman , Patrick J Trainor , [Changde Cheng]{style="font-weight: 300; color:black;"} , Xuexia Wang , Noha Sharafeldin , Lindsey Hageman , Maryam Sheikh , Melissa Richard , Danielle N. Friedman , Joseph Neglia , Zhaoming Wang , Melissa M Hudson , Saro H Armenian , Douglas Hawkins , Ravi Bhatia , Wendy Landier, Smita Bhatia]{style="font-weight: 300;color:gray;"}\
-[JCO](https://doi.org/10.1200/JCO-25-00542)
+[Journal of Clinical Oncology](https://doi.org/10.1200/JCO-25-00542)
  43 (27), 3011-3020
 :::
 
@@ -1055,16 +1054,13 @@ Our work serves as a key example of leveraging spatial transcriptomics to uncove
 
 ---
 
-[Lab Heroes]{style="color:darkgreen;"}
+[Olive]{style="color:darkgreen;"}: Lab member
 
 ${\ast}$: 
-First authors
+First author
 
-${\dagger}$: 
-Corresponding authors
-
-${\ddagger}$: 
-Senior authors
+${\dagger}/{\ddagger}$: 
+Corresponding/Senior author
 
 
 <!-- Dark color: -->
