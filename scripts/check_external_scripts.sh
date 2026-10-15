@@ -32,7 +32,9 @@ fi
 # Pattern 2 is not cosmetic.  Quarto's lazy MathJax loader builds the CDN URL in JS, so a
 # tag-shaped check alone reports a clean PASS on a page that still fetches a remote script.
 # Everything this site needs is served from site_libs/ or katex/, so there should be none.
-findings=$(grep -rnoIE '<(script|link)[^>]+(src|href)="https?://[^"]+"|\.src[[:space:]]*=[[:space:]]*"https?://[^"]+"' \
+#   3. a runtime stylesheet   link.href = "https://...css"   (Quarto's KaTeX loader does this;
+#      added 2026-10-15 -- only asset URLs, since `a.href = ...` is also how a script sets a link)
+findings=$(grep -rnoIE '<(script|link)[^>]+(src|href)="https?://[^"]+"|\.src[[:space:]]*=[[:space:]]*"https?://[^"]+"|\.href[[:space:]]*=[[:space:]]*"https?://[^"]+\.(css|js)"' \
              "$OUT_DIR" --include='*.html' 2>/dev/null || true)
 
 if [ -n "$findings" ]; then

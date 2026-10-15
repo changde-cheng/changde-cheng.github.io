@@ -1,0 +1,8 @@
+<!--
+  Content-Security-Policy (2026-10-15).  The browser refuses any resource from a host not listed
+  here, however the page was written to request it -- a <script src>, a runtime `link.href = ...`,
+  a CSS @import.  This is what stops a re-injected CDN script tag (the 2024 polyfill incident) from running, even
+  if a render writes one back.  Allowed third parties: Google Fonts (cosmo theme's Source Sans Pro)
+  and YouTube embeds.  Self-hosting the font would let the two Google entries go.
+-->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data:; media-src 'self'; connect-src 'self'; frame-src https://www.youtube.com https://www.youtube-nocookie.com; object-src 'none'; base-uri 'self'; form-action 'none'">
